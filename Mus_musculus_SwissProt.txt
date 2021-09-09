@@ -1,0 +1,722 @@
+#Query Peptide	Rank	Protein AC	Protein ID	Protein Name	Length	Organism	Matched Range(s)	Proteomic Databases	IEDB
+VEGFNC	1	P02468	LAMC1_MOUSE [sp]	Laminin subunit gamma-1 precursor	1607	Mus musculus (Mouse) [10090]	467-472	PeptideAtlas, Pride	12463, 191241, 501418
+SLLIVN	1	Q5DTM8	BRE1A_MOUSE [sp]	E3 ubiquitin-protein ligase BRE1A	973	Mus musculus (Mouse) [10090]	89-94	PeptideAtlas, Pride	
+SLLIVN	2	Q5DTM8-2	BRE1A_MOUSE [sp]	E3 ubiquitin-protein ligase BRE1A	823	Mus musculus (Mouse) [10090]	89-94		
+TRFQTL	1	O70157	TOP3A_MOUSE [sp]	DNA topoisomerase 3-alpha	1003	Mus musculus (Mouse) [10090]	219-224	PeptideAtlas, Pride	833595
+TRFQTL	2	Q80U19	DAAM2_MOUSE [sp]	Disheveled-associated activator of morphogenesis 2	1115	Mus musculus (Mouse) [10090]	251-256	PeptideAtlas, Pride	547740
+TRFQTL	3	Q80U19-2	DAAM2_MOUSE [sp]	Disheveled-associated activator of morphogenesis 2	524	Mus musculus (Mouse) [10090]	251-256		
+TRFQTL	4	Q8BPM0	DAAM1_MOUSE [sp]	Disheveled-associated activator of morphogenesis 1	1077	Mus musculus (Mouse) [10090]	255-260	PeptideAtlas, Pride	143750, 238865, 434801, 1070738
+TRFQTL	5	Q8BPM0-2	DAAM1_MOUSE [sp]	Disheveled-associated activator of morphogenesis 1	1068	Mus musculus (Mouse) [10090]	255-260		
+TRFQTL	6	Q8BPM0-3	DAAM1_MOUSE [sp]	Disheveled-associated activator of morphogenesis 1	659	Mus musculus (Mouse) [10090]	255-260		
+EIDRLN	1	Q70FJ1	AKAP9_MOUSE [sp]	A-kinase anchor protein 9	3797	Mus musculus (Mouse) [10090]	2253-2258	PeptideAtlas, Pride	985049, 1069227
+EIDRLN	2	Q70FJ1-2	AKAP9_MOUSE [sp]	A-kinase anchor protein 9	3779	Mus musculus (Mouse) [10090]	2235-2240		
+EIDRLN	3	Q70FJ1-3	AKAP9_MOUSE [sp]	A-kinase anchor protein 9	3778	Mus musculus (Mouse) [10090]	2253-2258		
+EIDRLN	4	Q9EQU5	SET_MOUSE [sp]	Protein SET	289	Mus musculus (Mouse) [10090]	53-58	PeptideAtlas, Pride	191548, 1071000, 1071001
+EIDRLN	5	Q9EQU5-2	SET_MOUSE [sp]	Protein SET	277	Mus musculus (Mouse) [10090]	41-46		
+EIDRLN	6	Q9EQU5-3	SET_MOUSE [sp]	Protein SET	146	Mus musculus (Mouse) [10090]	53-58		
+KVEAEV	1	Q3UXZ9	KDM5A_MOUSE [sp]	Lysine-specific demethylase 5A	1690	Mus musculus (Mouse) [10090]	191-196	PeptideAtlas, Pride	1071603
+GIAVEQ	1	P51791	CLCN3_MOUSE [sp]	H(+)/Cl(-) exchange transporter 3	818	Mus musculus (Mouse) [10090]	542-547	PeptideAtlas, Pride	499877, 499878, 499879
+GIAVEQ	2	P51791-2	CLCN3_MOUSE [sp]	H(+)/Cl(-) exchange transporter 3	760	Mus musculus (Mouse) [10090]	484-489		
+GIAVEQ	3	P51791-3	CLCN3_MOUSE [sp]	H(+)/Cl(-) exchange transporter 3	866	Mus musculus (Mouse) [10090]	542-547		
+GIAVEQ	4	P51791-4	CLCN3_MOUSE [sp]	H(+)/Cl(-) exchange transporter 3	791	Mus musculus (Mouse) [10090]	515-520		
+GIAVEQ	5	P51791-5	CLCN3_MOUSE [sp]	H(+)/Cl(-) exchange transporter 3	808	Mus musculus (Mouse) [10090]	484-489		
+ALLAGT	1	Q3UW21	COLL2_MOUSE [sp]	Colipase-like protein 2 precursor	102	Mus musculus (Mouse) [10090]	12-17	Pride	
+ALLAGT	2	Q5HZI9	S2551_MOUSE [sp]	Mitochondrial nicotinamide adenine dinucleotide transporter SLC25A51	298	Mus musculus (Mouse) [10090]	126-131	PeptideAtlas, Pride	
+ALLAGT	3	Q9QY81	PO210_MOUSE [sp]	Nuclear pore membrane glycoprotein 210 precursor	1886	Mus musculus (Mouse) [10090]	1816-1821	PeptideAtlas, Pride	125838, 125965, 126836, 836227
+LTVLPP	1	Q01730	RSU1_MOUSE [sp]	Ras suppressor protein 1	277	Mus musculus (Mouse) [10090]	192-197	PeptideAtlas, Pride	832849, 832850, 1074195
+LTVLPP	2	Q76LL6	FHOD3_MOUSE [sp]	FH1/FH2 domain-containing protein 3	1578	Mus musculus (Mouse) [10090]	1129-1134	Pride	191646, 750183, 752481, 916390
+LTVLPP	3	Q76LL6-2	FHOD3_MOUSE [sp]	FH1/FH2 domain-containing protein 3	1427	Mus musculus (Mouse) [10090]	978-983		
+LTVLPP	4	Q76LL6-3	FHOD3_MOUSE [sp]	FH1/FH2 domain-containing protein 3	1413	Mus musculus (Mouse) [10090]	964-969		
+LTVLPP	5	Q76LL6-4	FHOD3_MOUSE [sp]	FH1/FH2 domain-containing protein 3	1546	Mus musculus (Mouse) [10090]	1097-1102		
+LTVLPP	6	Q9D2K4	IQCH_MOUSE [sp]	IQ domain-containing protein H	1071	Mus musculus (Mouse) [10090]	180-185	Pride	1070315
+LTVLPP	7	Q9D2K4-2	IQCH_MOUSE [sp]	IQ domain-containing protein H	837	Mus musculus (Mouse) [10090]	180-185		
+AALQIP	1	E9PVD3	PCD16_MOUSE [sp]	Protocadherin-16 precursor	3291	Mus musculus (Mouse) [10090]	142-147	PeptideAtlas, Pride	922608
+AALQIP	2	Q8CE22	DMTF1_MOUSE [sp]	Cyclin-D-binding Myb-like transcription factor 1	761	Mus musculus (Mouse) [10090]	459-464	Pride	
+VLLPLV	1	A2AGL3	RYR3_MOUSE [sp]	Ryanodine receptor 3	4863	Mus musculus (Mouse) [10090]	2860-2865	PeptideAtlas, Pride	748536
+VLLPLV	2	A2AGL3-2	RYR3_MOUSE [sp]	Ryanodine receptor 3	4834	Mus musculus (Mouse) [10090]	2860-2865		
+VLLPLV	3	D6MZJ6	NSMA5_MOUSE [sp]	Sphingomyelin phosphodiesterase 5	483	Mus musculus (Mouse) [10090]	80-85	Pride	
+VLLPLV	4	P25118	TNR1A_MOUSE [sp]	Tumor necrosis factor receptor superfamily member 1A precursor	454	Mus musculus (Mouse) [10090]	213-218	PeptideAtlas, Pride	16034, 984479, 1072426
+VLLPLV	5	Q7TN58	TMC8_MOUSE [sp]	Transmembrane channel-like protein 8	722	Mus musculus (Mouse) [10090]	135-140	Pride	
+VLLPLV	6	Q7TN58-2	TMC8_MOUSE [sp]	Transmembrane channel-like protein 8	723	Mus musculus (Mouse) [10090]	135-140		
+VLLPLV	7	Q9CTG6	AT132_MOUSE [sp]	Polyamine-transporting ATPase 13A2	1169	Mus musculus (Mouse) [10090]	530-535	Pride	238358
+VLLPLV	8	Q9QZZ6	DERM_MOUSE [sp]	Dermatopontin precursor	201	Mus musculus (Mouse) [10090]	8-13	Pride	
+VLLPLV	9	Q9WTR2	M3K6_MOUSE [sp]	Mitogen-activated protein kinase kinase kinase 6	1291	Mus musculus (Mouse) [10090]	338-343	Pride	832869, 1071800
+YNYLYR	1	Q8R092	CA043_MOUSE [sp]	Protein C1orf43 homolog	253	Mus musculus (Mouse) [10090]	98-103	Pride	
+YNYLYR	2	Q8R092-1	CA043_MOUSE [sp]	Protein C1orf43 homolog	199	Mus musculus (Mouse) [10090]	98-103		
+YNYLYR	3	Q8R092-2	CA043_MOUSE [sp]	Protein C1orf43 homolog	189	Mus musculus (Mouse) [10090]	98-103		
+VFLVLL	1	Q8VIF2	PRS42_MOUSE [sp]	Serine protease 42 precursor	335	Mus musculus (Mouse) [10090]	324-329	Pride	
+SFIEDL	1	Q7TSF0	DSG1C_MOUSE [sp]	Desmoglein-1-gamma precursor	911	Mus musculus (Mouse) [10090]	707-712	PeptideAtlas, Pride	
+QDVVNQ	1	Q9DAN6	GTSF1_MOUSE [sp]	Gametocyte-specific factor 1	167	Mus musculus (Mouse) [10090]	79-84	Pride	
+AQYTSA	1	P70368	SEBOX_MOUSE [sp]	Homeobox protein SEBOX	190	Mus musculus (Mouse) [10090]	118-123	Pride	138988
+AGTITS	1	Q3UYC0	PPM1H_MOUSE [sp]	Protein phosphatase 1H	513	Mus musculus (Mouse) [10090]	107-112	PeptideAtlas, Pride	750586, 834697, 917336, 917337
+AGTITS	2	Q3UYC0-2	PPM1H_MOUSE [sp]	Protein phosphatase 1H	469	Mus musculus (Mouse) [10090]	107-112		
+AARDLI	1	Q80YW5	BSPRY_MOUSE [sp]	B box and SPRY domain-containing protein	473	Mus musculus (Mouse) [10090]	153-158	Pride	
+AARDLI	2	Q80YW5-2	BSPRY_MOUSE [sp]	B box and SPRY domain-containing protein	486	Mus musculus (Mouse) [10090]	153-158		
+FRSSVL	1	O35403	ST3A1_MOUSE [sp]	Amine sulfotransferase	293	Mus musculus (Mouse) [10090]	193-198	Pride	
+NLLLQY	1	Q09163	DLK1_MOUSE [sp]	Protein delta homolog 1 precursor	385	Mus musculus (Mouse) [10090]	350-355	Pride	
+NLLLQY	2	Q09163-2	DLK1_MOUSE [sp]	Protein delta homolog 1 precursor	334	Mus musculus (Mouse) [10090]	299-304		
+NLLLQY	3	Q09163-3	DLK1_MOUSE [sp]	Protein delta homolog 1 precursor	312	Mus musculus (Mouse) [10090]	277-282		
+NLLLQY	4	Q09163-4	DLK1_MOUSE [sp]	Protein delta homolog 1 precursor	310	Mus musculus (Mouse) [10090]	275-280		
+NLLLQY	5	Q09163-5	DLK1_MOUSE [sp]	Protein delta homolog 1 precursor	292	Mus musculus (Mouse) [10090]	257-262		
+NLLLQY	6	Q09163-6	DLK1_MOUSE [sp]	Protein delta homolog 1 precursor	290	Mus musculus (Mouse) [10090]	255-260		
+LQTYVT	1	Q3TDD9	PPR21_MOUSE [sp]	Protein phosphatase 1 regulatory subunit 21	780	Mus musculus (Mouse) [10090]	398-403	PeptideAtlas, Pride	243138, 1071972
+IQKEID	1	P27786	CP17A_MOUSE [sp]	Steroid 17-alpha-hydroxylase/17,20 lyase	507	Mus musculus (Mouse) [10090]	327-332	PeptideAtlas, Pride	
+GTKRFD	1	O88685	PRS6A_MOUSE [sp]	26S proteasome regulatory subunit 6A	442	Mus musculus (Mouse) [10090]	295-300	PeptideAtlas, Pride	531298, 1069013
+DGKAHF	1	P00687	AMY1_MOUSE [sp]	Alpha-amylase 1 precursor	511	Mus musculus (Mouse) [10090]	487-492	PeptideAtlas, Pride	758748, 759359, 760079, 760152, 760811, 760845, 760855, 761261, 762514, 763049, 763269, 763364, 763473, 764856, 765110, 765657, 765809, 766314, 766545, 766558, 766712
+DGKAHF	2	P00688	AMYP_MOUSE [sp]	Pancreatic alpha-amylase precursor	508	Mus musculus (Mouse) [10090]	484-489	PeptideAtlas, Pride	758808, 760147, 764137, 764864, 765895, 766049, 834395
+PAICHD	1	B9EJR8	DAAF5_MOUSE [sp]	Dynein axonemal assembly factor 5	853	Mus musculus (Mouse) [10090]	360-365	PeptideAtlas, Pride	1068975, 1071954
+VDFCGK	1	Q3UGP9	LRC58_MOUSE [sp]	Leucine-rich repeat-containing protein 58	366	Mus musculus (Mouse) [10090]	311-316	PeptideAtlas, Pride	
+FLGVYY	1	D3YVE8	S35G2_MOUSE [sp]	Solute carrier family 35 member G2	412	Mus musculus (Mouse) [10090]	332-337	Pride	
+FLGVYY	2	Q5GH62	XKR9_MOUSE [sp]	XK-related protein 9	373	Mus musculus (Mouse) [10090]	335-340	Pride	916764
+NKKFLP	1	O08859	TSG6_MOUSE [sp]	Tumor necrosis factor-inducible gene 6 protein precursor	275	Mus musculus (Mouse) [10090]	264-269	Pride	451493
+EAEVQI	1	Q61789	LAMA3_MOUSE [sp]	Laminin subunit alpha-3 precursor	3330	Mus musculus (Mouse) [10090]	2464-2469	PeptideAtlas, Pride	833522, 834367, 834689, 834911, 985252
+EAEVQI	2	Q61789-2	LAMA3_MOUSE [sp]	Laminin subunit alpha-3 precursor	1724	Mus musculus (Mouse) [10090]	858-863		
+GTNTSN	1	Q61214	DYR1A_MOUSE [sp]	Dual specificity tyrosine-phosphorylation-regulated kinase 1A	763	Mus musculus (Mouse) [10090]	486-491	Pride	
+QTLEIL	1	A2AJ76	HMCN2_MOUSE [sp]	Hemicentin-2 precursor	5100	Mus musculus (Mouse) [10090]	3120-3125	PeptideAtlas, Pride	833155
+QTLEIL	2	D3Z6H8	DCAM2_MOUSE [sp]	S-adenosylmethionine decarboxylase proenzyme 2 precursor	334	Mus musculus (Mouse) [10090]	175-180	PeptideAtlas, Pride	
+QTLEIL	3	P0DMN7	DCAM1_MOUSE [sp]	S-adenosylmethionine decarboxylase proenzyme 1 precursor	334	Mus musculus (Mouse) [10090]	175-180		
+QTLEIL	4	P61759	PFD3_MOUSE [sp]	Prefoldin subunit 3	196	Mus musculus (Mouse) [10090]	82-87	Pride	835535
+SLSSTA	1	A2AUY4	BAZ2B_MOUSE [sp]	Bromodomain adjacent to zinc finger domain protein 2B	2123	Mus musculus (Mouse) [10090]	40-45	PeptideAtlas, Pride	754177
+SLSSTA	2	A2AUY4-2	BAZ2B_MOUSE [sp]	Bromodomain adjacent to zinc finger domain protein 2B	2158	Mus musculus (Mouse) [10090]	40-45		
+SLSSTA	3	P0C5E4	PTPRQ_MOUSE [sp]	Phosphatidylinositol phosphatase PTPRQ precursor	2300	Mus musculus (Mouse) [10090]	1064-1069	PeptideAtlas, Pride	832291, 833254, 916517, 1070467
+SLSSTA	4	P97927	LAMA4_MOUSE [sp]	Laminin subunit alpha-4 precursor	1816	Mus musculus (Mouse) [10090]	946-951	PeptideAtlas, Pride	451509, 451528, 462626, 748431, 1071795
+SLSSTA	5	Q9R100	CAD17_MOUSE [sp]	Cadherin-17 precursor	827	Mus musculus (Mouse) [10090]	645-650	Pride	29063, 499052, 499414, 499415, 499416, 500767, 501883, 501884, 503119, 533898, 533996, 735956, 736587, 736709, 736710, 736811, 736812, 736928, 736991, 736992, 737001, 737477, 737491, 737492, 737837, 737975, 737976, 832792, 835314, 836540, 1007838
+PGDSSS	1	Q7TN98	CPEB4_MOUSE [sp]	Cytoplasmic polyadenylation element-binding protein 4	729	Mus musculus (Mouse) [10090]	119-124	Pride	548093, 548439
+PGDSSS	2	Q7TN98-2	CPEB4_MOUSE [sp]	Cytoplasmic polyadenylation element-binding protein 4	721	Mus musculus (Mouse) [10090]	119-124		
+PGDSSS	3	Q7TN98-3	CPEB4_MOUSE [sp]	Cytoplasmic polyadenylation element-binding protein 4	711	Mus musculus (Mouse) [10090]	119-124		
+PGDSSS	4	Q7TN98-4	CPEB4_MOUSE [sp]	Cytoplasmic polyadenylation element-binding protein 4	703	Mus musculus (Mouse) [10090]	119-124		
+PGDSSS	5	Q7TN98-5	CPEB4_MOUSE [sp]	Cytoplasmic polyadenylation element-binding protein 4	704	Mus musculus (Mouse) [10090]	119-124		
+PGDSSS	6	Q8VBT1	TXLNB_MOUSE [sp]	Beta-taxilin	685	Mus musculus (Mouse) [10090]	17-22	PeptideAtlas, Pride	
+PGDSSS	7	Q9JJK5	HERP1_MOUSE [sp]	Homocysteine-responsive endoplasmic reticulum-resident ubiquitin-like domain member 1 protein	391	Mus musculus (Mouse) [10090]	117-122	Pride	834173
+DSFKEE	1	Q3U269	TSTD2_MOUSE [sp]	Thiosulfate sulfurtransferase/rhodanese-like domain-containing protein 2	495	Mus musculus (Mouse) [10090]	472-477	Pride	192126
+VNIQKE	1	Q0VG62	RBIS_MOUSE [sp]	Ribosomal biogenesis factor	97	Mus musculus (Mouse) [10090]	55-60	Pride	
+VNIQKE	2	Q0VG62-1	RBIS_MOUSE [sp]	Ribosomal biogenesis factor	139	Mus musculus (Mouse) [10090]	97-102		
+HTSPDV	1	Q03717	KCNB1_MOUSE [sp]	Potassium voltage-gated channel subfamily B member 1	857	Mus musculus (Mouse) [10090]	835-840	PeptideAtlas, Pride	835441
+LEPLVD	1	Q99MT2	MSH4_MOUSE [sp]	MutS protein homolog 4	958	Mus musculus (Mouse) [10090]	378-383	Pride	1069548
+LEPLVD	2	Q9DBZ1-2	IKIP_MOUSE [sp]	Inhibitor of nuclear factor kappa-B kinase-interacting protein	345	Mus musculus (Mouse) [10090]	291-296		
+GLTVLP	1	Q76LL6	FHOD3_MOUSE [sp]	FH1/FH2 domain-containing protein 3	1578	Mus musculus (Mouse) [10090]	1128-1133	Pride	191646, 750183, 752481, 916390
+GLTVLP	2	Q76LL6-2	FHOD3_MOUSE [sp]	FH1/FH2 domain-containing protein 3	1427	Mus musculus (Mouse) [10090]	977-982		
+GLTVLP	3	Q76LL6-3	FHOD3_MOUSE [sp]	FH1/FH2 domain-containing protein 3	1413	Mus musculus (Mouse) [10090]	963-968		
+GLTVLP	4	Q76LL6-4	FHOD3_MOUSE [sp]	FH1/FH2 domain-containing protein 3	1546	Mus musculus (Mouse) [10090]	1096-1101		
+DSEPVL	1	O09126	SEM4D_MOUSE [sp]	Semaphorin-4D precursor	861	Mus musculus (Mouse) [10090]	469-474	PeptideAtlas, Pride	499405, 499406, 499407, 500200, 500201, 500223, 500224, 500623, 500624, 500625, 501806, 501852, 501853, 501854, 502944, 503769, 503770, 533708, 533709, 534155, 737027, 737695, 1042279, 1073962
+DSEPVL	2	Q8K4K2	TRIB3_MOUSE [sp]	Tribbles homolog 3	354	Mus musculus (Mouse) [10090]	263-268	Pride	
+DSEPVL	3	Q8VD75	HIP1_MOUSE [sp]	Huntingtin-interacting protein 1	1029	Mus musculus (Mouse) [10090]	322-327	PeptideAtlas, Pride	
+ASALGK	1	G5E8F4	FPGT_MOUSE [sp]	Fucose-1-phosphate guanylyltransferase	590	Mus musculus (Mouse) [10090]	116-121	Pride	917716
+KVTLAD	1	Q3TNL8	IPRI_MOUSE [sp]	Inositol 1,4,5-trisphosphate receptor-interacting protein precursor	555	Mus musculus (Mouse) [10090]	243-248	PeptideAtlas, Pride	
+KVTLAD	2	Q3TNL8-2	IPRI_MOUSE [sp]	Inositol 1,4,5-trisphosphate receptor-interacting protein precursor	548	Mus musculus (Mouse) [10090]	236-241		
+KVTLAD	3	Q80YR5	SAFB2_MOUSE [sp]	Scaffold attachment factor B2	991	Mus musculus (Mouse) [10090]	194-199	PeptideAtlas, Pride	60428, 497710, 498635, 502584, 502585, 503157, 503158, 922150
+TGRLQS	1	O88665	BRD7_MOUSE [sp]	Bromodomain-containing protein 7	651	Mus musculus (Mouse) [10090]	375-380	PeptideAtlas, Pride	
+TGRLQS	2	Q80TN7	NAV3_MOUSE [sp]	Neuron navigator 3	2359	Mus musculus (Mouse) [10090]	1613-1618	Pride	1068870
+PDVDLG	1	Q8K442	ABC8A_MOUSE [sp]	ABC-type organic anion transporter ABCA8A	1620	Mus musculus (Mouse) [10090]	60-65	Pride	
+PVLKGV	1	Q61327	SC6A3_MOUSE [sp]	Sodium-dependent dopamine transporter	619	Mus musculus (Mouse) [10090]	136-141	Pride	
+TSNQVA	1	P37913	DNLI1_MOUSE [sp]	DNA ligase 1	916	Mus musculus (Mouse) [10090]	887-892	PeptideAtlas, Pride	1070780, 1070851
+NFSQIL	1	Q8BQ48-2	CE295_MOUSE [sp]	Centrosomal protein of 295 kDa	2388	Mus musculus (Mouse) [10090]	2383-2388		
+LNESLI	1	Q8CAF4	NHSL1_MOUSE [sp]	NHS-like protein 1	1587	Mus musculus (Mouse) [10090]	690-695	PeptideAtlas, Pride	
+LNESLI	2	Q8CAF4-3	NHSL1_MOUSE [sp]	NHS-like protein 1	1583	Mus musculus (Mouse) [10090]	686-691		
+ISVTTE	1	Q8VFB9	OL183_MOUSE [sp]	Olfactory receptor 183	309	Mus musculus (Mouse) [10090]	106-111	Pride	
+NDILSR	1	Q99MA9	NKX61_MOUSE [sp]	Homeobox protein Nkx-6.1	365	Mus musculus (Mouse) [10090]	99-104	Pride	
+DPSKPS	1	Q9DB85	RRP8_MOUSE [sp]	Ribosomal RNA-processing protein 8	457	Mus musculus (Mouse) [10090]	167-172	PeptideAtlas, Pride	1073373
+ESIVRF	1	Q9D541	CCDC7_MOUSE [sp]	Coiled-coil domain-containing protein 7	371	Mus musculus (Mouse) [10090]	58-63	Pride	
+SNLLLQ	1	P20934	EVI2A_MOUSE [sp]	Protein EVI2A precursor	223	Mus musculus (Mouse) [10090]	197-202	PeptideAtlas, Pride	435927, 502415, 502416, 736817, 736818, 736819, 736820, 737178, 737340, 737341, 737649
+SNLLLQ	2	Q61817	CREB3_MOUSE [sp]	Cyclic AMP-responsive element-binding protein 3	404	Mus musculus (Mouse) [10090]	373-378	Pride	1071054
+SNLLLQ	3	Q61817-2	CREB3_MOUSE [sp]	Cyclic AMP-responsive element-binding protein 3	379	Mus musculus (Mouse) [10090]	348-353		
+SNLLLQ	4	Q6ZPY2	SMG5_MOUSE [sp]	Protein SMG5	1017	Mus musculus (Mouse) [10090]	589-594	PeptideAtlas, Pride	749232, 751481, 833817
+SNLLLQ	5	Q6ZPY2-2	SMG5_MOUSE [sp]	Protein SMG5	702	Mus musculus (Mouse) [10090]	589-594		
+KVFRSS	1	Q69ZK7	F214A_MOUSE [sp]	Protein FAM214A	1075	Mus musculus (Mouse) [10090]	519-524	PeptideAtlas, Pride	922602
+KVFRSS	2	Q69ZK7-2	F214A_MOUSE [sp]	Protein FAM214A	1082	Mus musculus (Mouse) [10090]	526-531		
+KVFRSS	3	Q8CIW6	S26A6_MOUSE [sp]	Solute carrier family 26 member 6	758	Mus musculus (Mouse) [10090]	542-547	PeptideAtlas, Pride	
+KVFRSS	4	Q8CIW6-2	S26A6_MOUSE [sp]	Solute carrier family 26 member 6	735	Mus musculus (Mouse) [10090]	519-524		
+KVFRSS	5	Q8CIW6-3	S26A6_MOUSE [sp]	Solute carrier family 26 member 6	726	Mus musculus (Mouse) [10090]	519-524		
+TESNKK	1	Q61768	KINH_MOUSE [sp]	Kinesin-1 heavy chain	963	Mus musculus (Mouse) [10090]	616-621	PeptideAtlas, Pride	
+IEDLLF	1	Q8CDV6	CCD63_MOUSE [sp]	Coiled-coil domain-containing protein 63	558	Mus musculus (Mouse) [10090]	179-184	Pride	
+IEDLLF	2	Q8CDV6-2	CCD63_MOUSE [sp]	Coiled-coil domain-containing protein 63	487	Mus musculus (Mouse) [10090]	108-113		
+LSSTAS	1	A2AUY4	BAZ2B_MOUSE [sp]	Bromodomain adjacent to zinc finger domain protein 2B	2123	Mus musculus (Mouse) [10090]	41-46	PeptideAtlas, Pride	754177
+LSSTAS	2	A2AUY4-2	BAZ2B_MOUSE [sp]	Bromodomain adjacent to zinc finger domain protein 2B	2158	Mus musculus (Mouse) [10090]	41-46		
+LSSTAS	3	P46660	AINX_MOUSE [sp]	Alpha-internexin	501	Mus musculus (Mouse) [10090]	432-437	PeptideAtlas, Pride	191395
+SFKEEL	1	Q8C006	TRI35_MOUSE [sp]	E3 ubiquitin-protein ligase TRIM35	501	Mus musculus (Mouse) [10090]	14-19	PeptideAtlas, Pride	1072859
+SFKEEL	2	Q8C006-2	TRI35_MOUSE [sp]	E3 ubiquitin-protein ligase TRIM35	182	Mus musculus (Mouse) [10090]	14-19		
+GWIFGT	1	Q810W6	CXCR1_MOUSE [sp]	C-X-C chemokine receptor type 1	351	Mus musculus (Mouse) [10090]	107-112	Pride	
+SQILPD	1	P23611	IRF8_MOUSE [sp]	Interferon regulatory factor 8	424	Mus musculus (Mouse) [10090]	171-176	PeptideAtlas, Pride	
+SQILPD	2	Q9D5K4	S1PBP_MOUSE [sp]	S100P-binding protein	396	Mus musculus (Mouse) [10090]	77-82	PeptideAtlas, Pride	
+SQILPD	3	Q9D5K4-2	S1PBP_MOUSE [sp]	S100P-binding protein	371	Mus musculus (Mouse) [10090]	77-82		
+SQILPD	4	Q9D5K4-3	S1PBP_MOUSE [sp]	S100P-binding protein	318	Mus musculus (Mouse) [10090]	77-82		
+SQILPD	5	Q9D5K4-5	S1PBP_MOUSE [sp]	S100P-binding protein	212	Mus musculus (Mouse) [10090]	77-82		
+EELDKY	1	P05784	K1C18_MOUSE [sp]	Keratin, type I cytoskeletal 18	423	Mus musculus (Mouse) [10090]	258-263	PeptideAtlas, Pride	746156, 751047
+RVVVLS	1	E9QAM5	HELZ2_MOUSE [sp]	Helicase with zinc finger domain 2	2947	Mus musculus (Mouse) [10090]	1114-1119	Pride	548556, 548564, 737115
+RVVVLS	2	P24063	ITAL_MOUSE [sp]	Integrin alpha-L precursor	1163	Mus musculus (Mouse) [10090]	604-609	Pride	27780, 31316, 498620, 498621, 498622, 498623, 499863, 500242, 500243, 501052, 501053, 501054, 501146, 501147, 502351, 502352, 502670, 530718, 530719, 530851, 530852, 530853, 530854, 531787, 531788, 532008, 534261, 737854
+VLPPLL	1	P97438	KCNK2_MOUSE [sp]	Potassium channel subfamily K member 2	426	Mus musculus (Mouse) [10090]	395-400	Pride	
+VLPPLL	2	P97438-2	KCNK2_MOUSE [sp]	Potassium channel subfamily K member 2	411	Mus musculus (Mouse) [10090]	380-385		
+VLPPLL	3	Q60612	AA1R_MOUSE [sp]	Adenosine receptor A1	326	Mus musculus (Mouse) [10090]	189-194	Pride	
+VLPPLL	4	Q60614	AA2BR_MOUSE [sp]	Adenosine receptor A2b	332	Mus musculus (Mouse) [10090]	191-196	Pride	1072432
+VLPPLL	5	Q8VI51	SORC3_MOUSE [sp]	VPS10 domain-containing receptor SorCS3 precursor	1219	Mus musculus (Mouse) [10090]	55-60	Pride	
+NASVVN	1	Q00651	ITA4_MOUSE [sp]	Integrin alpha-4 precursor	1039	Mus musculus (Mouse) [10090]	86-91	PeptideAtlas, Pride	68620, 1052468
+AATKMS	1	Q05920	PYC_MOUSE [sp]	Pyruvate carboxylase, mitochondrial precursor	1178	Mus musculus (Mouse) [10090]	439-444	PeptideAtlas, Pride	832143, 832602, 833407, 834114, 835456, 835611
+GFSALE	1	Q8BVM2	ANTRL_MOUSE [sp]	Anthrax toxin receptor-like precursor	641	Mus musculus (Mouse) [10090]	236-241	Pride	
+DLPQGF	1	A2AVA0	SVEP1_MOUSE [sp]	Sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1 precursor	3567	Mus musculus (Mouse) [10090]	2951-2956	Pride	832911
+GSNVFQ	1	B2RXC1	TPC11_MOUSE [sp]	Trafficking protein particle complex subunit 11	1133	Mus musculus (Mouse) [10090]	573-578	PeptideAtlas, Pride	139378, 191128, 242395, 422162, 548182, 567906
+EVRQIA	1	Q8BRH4	KMT2C_MOUSE [sp]	Histone-lysine N-methyltransferase 2C	4903	Mus musculus (Mouse) [10090]	4523-4528	Pride	1069309, 1069854, 1069996
+EVRQIA	2	Q8BRH4-2	KMT2C_MOUSE [sp]	Histone-lysine N-methyltransferase 2C	3463	Mus musculus (Mouse) [10090]	3087-3092		
+HADQLT	1	Q99NH0	ANR17_MOUSE [sp]	Ankyrin repeat domain-containing protein 17	2603	Mus musculus (Mouse) [10090]	835-840	PeptideAtlas, Pride	
+HADQLT	2	Q99NH0-3	ANR17_MOUSE [sp]	Ankyrin repeat domain-containing protein 17	1599	Mus musculus (Mouse) [10090]	835-840		
+SSVLND	1	B1AZI6	THOC2_MOUSE [sp]	THO complex subunit 2	1594	Mus musculus (Mouse) [10090]	67-72	PeptideAtlas, Pride	191893, 985245, 1070919, 1074147
+VSGTNG	1	Q3U6N9	CH033_MOUSE [sp]	UPF0488 protein C8orf33 homolog	222	Mus musculus (Mouse) [10090]	74-79	PeptideAtlas, Pride	
+VSGTNG	2	Q3U6N9-2	CH033_MOUSE [sp]	UPF0488 protein C8orf33 homolog	159	Mus musculus (Mouse) [10090]	12-17		
+VSGTNG	3	Q3U6N9-3	CH033_MOUSE [sp]	UPF0488 protein C8orf33 homolog	160	Mus musculus (Mouse) [10090]	12-17		
+SALLAG	1	Q3UH53	SDK1_MOUSE [sp]	Protein sidekick-1 precursor	2193	Mus musculus (Mouse) [10090]	1319-1324	PeptideAtlas, Pride	451534, 736291, 916515
+SALLAG	2	Q3UH53-2	SDK1_MOUSE [sp]	Protein sidekick-1 precursor	1933	Mus musculus (Mouse) [10090]	1059-1064		
+SALLAG	3	Q9JLC4	SORC1_MOUSE [sp]	VPS10 domain-containing receptor SorCS1 precursor	1167	Mus musculus (Mouse) [10090]	15-20	Pride	
+SALLAG	4	Q9JLC4-2	SORC1_MOUSE [sp]	VPS10 domain-containing receptor SorCS1 precursor	1147	Mus musculus (Mouse) [10090]	15-20		
+SALLAG	5	Q9JLC4-3	SORC1_MOUSE [sp]	VPS10 domain-containing receptor SorCS1 precursor	1178	Mus musculus (Mouse) [10090]	15-20		
+SALLAG	6	Q9JLC4-4	SORC1_MOUSE [sp]	VPS10 domain-containing receptor SorCS1 precursor	1178	Mus musculus (Mouse) [10090]	15-20		
+IAARDL	1	Q9QY23	PKP3_MOUSE [sp]	Plakophilin-3	797	Mus musculus (Mouse) [10090]	734-739	PeptideAtlas, Pride	
+IAARDL	2	Q9QY23-2	PKP3_MOUSE [sp]	Plakophilin-3	822	Mus musculus (Mouse) [10090]	759-764		
+EVAKNL	1	Q9DBT4	ENTP4_MOUSE [sp]	Ectonucleoside triphosphate diphosphohydrolase 4	613	Mus musculus (Mouse) [10090]	296-301	Pride	
+EVAKNL	2	Q9DBT4-2	ENTP4_MOUSE [sp]	Ectonucleoside triphosphate diphosphohydrolase 4	605	Mus musculus (Mouse) [10090]	288-293		
+STASAL	1	P62301	RS13_MOUSE [sp]	40S ribosomal protein S13	151	Mus musculus (Mouse) [10090]	144-149	PeptideAtlas, Pride	531949, 533942, 534390
+STASAL	2	Q7M756	PRS54_MOUSE [sp]	Inactive serine protease 54 precursor	383	Mus musculus (Mouse) [10090]	70-75	Pride	
+STASAL	3	Q7TMY8	HUWE1_MOUSE [sp]	E3 ubiquitin-protein ligase HUWE1	4377	Mus musculus (Mouse) [10090]	1100-1105	PeptideAtlas, Pride	238129, 833661, 916179
+STASAL	4	Q7TMY8-2	HUWE1_MOUSE [sp]	E3 ubiquitin-protein ligase HUWE1	3364	Mus musculus (Mouse) [10090]	1100-1105		
+STASAL	5	Q7TMY8-3	HUWE1_MOUSE [sp]	E3 ubiquitin-protein ligase HUWE1	4362	Mus musculus (Mouse) [10090]	1100-1105		
+STASAL	6	Q7TMY8-4	HUWE1_MOUSE [sp]	E3 ubiquitin-protein ligase HUWE1	3832	Mus musculus (Mouse) [10090]	1100-1105		
+STASAL	7	Q8R526	PK1L1_MOUSE [sp]	Polycystic kidney disease protein 1-like 1	2615	Mus musculus (Mouse) [10090]	381-386	Pride	243641
+SSVLHS	1	Q69ZL1	FGD6_MOUSE [sp]	FYVE, RhoGEF and PH domain-containing protein 6	1399	Mus musculus (Mouse) [10090]	1274-1279	PeptideAtlas, Pride	192177
+SSVLHS	2	Q69ZL1-2	FGD6_MOUSE [sp]	FYVE, RhoGEF and PH domain-containing protein 6	465	Mus musculus (Mouse) [10090]	340-345		
+SPRRAR	1	B1AWL2	ZN462_MOUSE [sp]	Zinc finger protein 462	2495	Mus musculus (Mouse) [10090]	171-176	PeptideAtlas, Pride	914652
+SPRRAR	2	Q80WY3	NANO1_MOUSE [sp]	Nanos homolog 1	267	Mus musculus (Mouse) [10090]	10-15	Pride	
+PAYTNS	1	D3KU66	ASMT_MOUSE [sp]	Acetylserotonin O-methyltransferase	387	Mus musculus (Mouse) [10090]	88-93	Pride	
+KRSFIE	1	Q0VGY8	TANC1_MOUSE [sp]	Protein TANC1	1856	Mus musculus (Mouse) [10090]	1848-1853	PeptideAtlas, Pride	750235, 1072014
+RKSNLK	1	Q8BXG3	IFT57_MOUSE [sp]	Intraflagellar transport protein 57 homolog	429	Mus musculus (Mouse) [10090]	62-67	Pride	
+ARSVAS	1	Q7TQ40	ZIC5_MOUSE [sp]	Zinc finger protein ZIC 5	622	Mus musculus (Mouse) [10090]	99-104	Pride	
+ARSVAS	2	Q99K24	S39A3_MOUSE [sp]	Zinc transporter ZIP3	317	Mus musculus (Mouse) [10090]	256-261	Pride	
+LSRLDK	1	Q61146	OCLN_MOUSE [sp]	Occludin	521	Mus musculus (Mouse) [10090]	456-461	Pride	747903
+LSRLDK	2	Q80YV4-2	PANK4_MOUSE [sp]	4'-phosphopantetheine phosphatase	773	Mus musculus (Mouse) [10090]	702-707		
+PDDFTG	1	Q8BLN6	UNC80_MOUSE [sp]	Protein unc-80 homolog	3261	Mus musculus (Mouse) [10090]	3206-3211	Pride	1070775
+GLTGTG	1	Q8CIF4	BTD_MOUSE [sp]	Biotinidase precursor	520	Mus musculus (Mouse) [10090]	320-325	PeptideAtlas, Pride	503242
+LADAGF	1	Q8K2A6	LIPM_MOUSE [sp]	Lipase member M precursor	422	Mus musculus (Mouse) [10090]	120-125	Pride	
+LADAGF	2	Q9Z0M5	LICH_MOUSE [sp]	Lysosomal acid lipase/cholesteryl ester hydrolase precursor	397	Mus musculus (Mouse) [10090]	106-111	Pride	498276, 499035, 503329, 503330, 503331, 736954, 834227, 1070098
+MTKTSV	1	Q3UMB9	WASC4_MOUSE [sp]	WASH complex subunit 4	1173	Mus musculus (Mouse) [10090]	468-473	PeptideAtlas, Pride	835023, 836031
+SGINAS	1	Q9DA19	CIR1_MOUSE [sp]	Corepressor interacting with RBPJ 1	450	Mus musculus (Mouse) [10090]	149-154	PeptideAtlas, Pride	
+LPPAYT	1	A6H6Q4	CS071_MOUSE [sp]	Uncharacterized protein C19orf71 homolog	206	Mus musculus (Mouse) [10090]	105-110	Pride	
+DAVDCA	1	Q9D0M5	DYL2_MOUSE [sp]	Dynein light chain 2, cytoplasmic	89	Mus musculus (Mouse) [10090]	20-25	PeptideAtlas, Pride	
+FSALEP	1	Q9EQP6	ARRC_MOUSE [sp]	Arrestin-C	381	Mus musculus (Mouse) [10090]	170-175	PeptideAtlas, Pride	
+IDRLNE	1	Q70FJ1	AKAP9_MOUSE [sp]	A-kinase anchor protein 9	3797	Mus musculus (Mouse) [10090]	2254-2259	PeptideAtlas, Pride	985049, 1069227
+IDRLNE	2	Q70FJ1-2	AKAP9_MOUSE [sp]	A-kinase anchor protein 9	3779	Mus musculus (Mouse) [10090]	2236-2241		
+IDRLNE	3	Q70FJ1-3	AKAP9_MOUSE [sp]	A-kinase anchor protein 9	3778	Mus musculus (Mouse) [10090]	2254-2259		
+IDRLNE	4	Q9EQU5	SET_MOUSE [sp]	Protein SET	289	Mus musculus (Mouse) [10090]	54-59	PeptideAtlas, Pride	191548, 1071000, 1071001
+IDRLNE	5	Q9EQU5-2	SET_MOUSE [sp]	Protein SET	277	Mus musculus (Mouse) [10090]	42-47		
+IDRLNE	6	Q9EQU5-3	SET_MOUSE [sp]	Protein SET	146	Mus musculus (Mouse) [10090]	54-59		
+LPPLLT	1	E9PVD3	PCD16_MOUSE [sp]	Protocadherin-16 precursor	3291	Mus musculus (Mouse) [10090]	1721-1726	PeptideAtlas, Pride	922608
+LPPLLT	2	Q9CWU0	TDR12_MOUSE [sp]	Putative ATP-dependent RNA helicase TDRD12	1215	Mus musculus (Mouse) [10090]	463-468	Pride	195698, 1070913, 1074016
+NSASFS	1	Q80TE4	SI1L2_MOUSE [sp]	Signal-induced proliferation-associated 1-like protein 2	1722	Mus musculus (Mouse) [10090]	431-436	Pride	
+NSASFS	2	Q80TE4-2	SI1L2_MOUSE [sp]	Signal-induced proliferation-associated 1-like protein 2	1703	Mus musculus (Mouse) [10090]	431-436		
+NSASFS	3	Q8CH77	NAV1_MOUSE [sp]	Neuron navigator 1	1875	Mus musculus (Mouse) [10090]	853-858	PeptideAtlas, Pride	59850, 548231, 737184, 1072418
+NSASFS	4	Q8CH77-2	NAV1_MOUSE [sp]	Neuron navigator 1	1815	Mus musculus (Mouse) [10090]	853-858		
+NSASFS	5	Q8CH77-3	NAV1_MOUSE [sp]	Neuron navigator 1	1222	Mus musculus (Mouse) [10090]	853-858		
+NSASFS	6	Q8CH77-4	NAV1_MOUSE [sp]	Neuron navigator 1	827	Mus musculus (Mouse) [10090]	459-464		
+FLMDLE	1	Q8VII3	CST14_MOUSE [sp]	Cystatin-14 precursor	130	Mus musculus (Mouse) [10090]	73-78	Pride	
+SKRSFI	1	P56475	GBRR1_MOUSE [sp]	Gamma-aminobutyric acid receptor subunit rho-1 precursor	480	Mus musculus (Mouse) [10090]	164-169	Pride	
+SKRSFI	2	P56476	GBRR2_MOUSE [sp]	Gamma-aminobutyric acid receptor subunit rho-2 precursor	465	Mus musculus (Mouse) [10090]	143-148	Pride	1068876
+SKRSFI	3	P56476-2	GBRR2_MOUSE [sp]	Gamma-aminobutyric acid receptor subunit rho-2 precursor	490	Mus musculus (Mouse) [10090]	168-173		
+LLALHR	1	Q62463	V1AR_MOUSE [sp]	Vasopressin V1a receptor	423	Mus musculus (Mouse) [10090]	73-78	Pride	
+LLALHR	2	Q6V4S5	SDK2_MOUSE [sp]	Protein sidekick-2 precursor	2176	Mus musculus (Mouse) [10090]	13-18	PeptideAtlas, Pride	1071104
+LLALHR	3	Q6V4S5-3	SDK2_MOUSE [sp]	Protein sidekick-2 precursor	542	Mus musculus (Mouse) [10090]	13-18		
+LLALHR	4	Q8CIP5	DISP2_MOUSE [sp]	Protein dispatched homolog 2	1345	Mus musculus (Mouse) [10090]	624-629	PeptideAtlas, Pride	834990, 835585, 836335
+LTTRTQ	1	Q9D9V7	DEN6B_MOUSE [sp]	Protein DENND6B	585	Mus musculus (Mouse) [10090]	319-324	PeptideAtlas, Pride	833149
+TAGAAA	1	P43275	H11_MOUSE [sp]	Histone H1.1	213	Mus musculus (Mouse) [10090]	138-143	PeptideAtlas, Pride	242861, 500266, 500267, 501286, 501287, 502461, 502462, 502463, 503040, 503041, 503214, 833691, 917533, 943420, 1069037, 1069038
+TAGAAA	2	Q5STT6	FA71B_MOUSE [sp]	Protein FAM71B	665	Mus musculus (Mouse) [10090]	262-267, 269-274, 294-299, 301-306	Pride	238148
+TAGAAA	3	Q64191	ASPG_MOUSE [sp]	N(4)-(beta-N-acetylglucosaminyl)-L-asparaginase precursor	346	Mus musculus (Mouse) [10090]	250-255	PeptideAtlas, Pride	
+TAGAAA	4	Q8CDU6	HECD2_MOUSE [sp]	Probable E3 ubiquitin-protein ligase HECTD2	774	Mus musculus (Mouse) [10090]	39-44	Pride	
+TAGAAA	5	Q9Z0Y2	PA21B_MOUSE [sp]	Phospholipase A2 precursor	146	Mus musculus (Mouse) [10090]	11-16	Pride	832569
+CALDPL	1	Q8R3I3	COG6_MOUSE [sp]	Conserved oligomeric Golgi complex subunit 6	657	Mus musculus (Mouse) [10090]	476-481	PeptideAtlas, Pride	1069599, 1069803, 1073249
+IYKTPP	1	Q8CGN4	BCOR_MOUSE [sp]	BCL-6 corepressor	1759	Mus musculus (Mouse) [10090]	148-153	PeptideAtlas, Pride	751903, 832149, 834161, 1069629, 1069655, 1072632
+IYKTPP	2	Q8CGN4-2	BCOR_MOUSE [sp]	BCL-6 corepressor	1741	Mus musculus (Mouse) [10090]	148-153		
+IYKTPP	3	Q8CGN4-3	BCOR_MOUSE [sp]	BCL-6 corepressor	1725	Mus musculus (Mouse) [10090]	148-153		
+IYKTPP	4	Q8CGN4-4	BCOR_MOUSE [sp]	BCL-6 corepressor	1707	Mus musculus (Mouse) [10090]	148-153		
+QNAQAL	1	Q6NZM9	HDAC4_MOUSE [sp]	Histone deacetylase 4	1076	Mus musculus (Mouse) [10090]	470-475	PeptideAtlas, Pride	832492, 1073349
+QNAQAL	2	Q6NZM9-2	HDAC4_MOUSE [sp]	Histone deacetylase 4	910	Mus musculus (Mouse) [10090]	299-304		
+LNEVAK	1	Q99PJ2	TRIM8_MOUSE [sp]	E3 ubiquitin-protein ligase TRIM8	551	Mus musculus (Mouse) [10090]	334-339	Pride	
+LNEVAK	2	Q9Z0X1	AIFM1_MOUSE [sp]	Apoptosis-inducing factor 1, mitochondrial precursor	612	Mus musculus (Mouse) [10090]	600-605	PeptideAtlas, Pride	984064
+KNLREF	1	Q61092	LAMC2_MOUSE [sp]	Laminin subunit gamma-2 precursor	1191	Mus musculus (Mouse) [10090]	952-957	Pride	
+KNLREF	2	Q9JHI5	IVD_MOUSE [sp]	Isovaleryl-CoA dehydrogenase, mitochondrial precursor	424	Mus musculus (Mouse) [10090]	76-81	PeptideAtlas, Pride	985254
+IDLQEL	1	Q8BZQ7	ANC2_MOUSE [sp]	Anaphase-promoting complex subunit 2	837	Mus musculus (Mouse) [10090]	805-810	Pride	195159, 914978, 984523
+IDLQEL	2	Q921Z5-2	TFIP8_MOUSE [sp]	Tumor necrosis factor alpha-induced protein 8	136	Mus musculus (Mouse) [10090]	111-116		
+SPDVDL	1	Q6TXD4	DNMBP_MOUSE [sp]	Dynamin-binding protein	1580	Mus musculus (Mouse) [10090]	384-389	PeptideAtlas, Pride	1072825
+AGAALQ	1	Q5I012	S38AA_MOUSE [sp]	Putative sodium-coupled neutral amino acid transporter 10	1090	Mus musculus (Mouse) [10090]	1068-1073	PeptideAtlas, Pride	243275, 548165, 737925, 749065, 917498
+AGAALQ	2	Q5I012-2	S38AA_MOUSE [sp]	Putative sodium-coupled neutral amino acid transporter 10	1089	Mus musculus (Mouse) [10090]	1067-1072		
+AGAALQ	3	Q5I012-3	S38AA_MOUSE [sp]	Putative sodium-coupled neutral amino acid transporter 10	1082	Mus musculus (Mouse) [10090]	1060-1065		
+AGAALQ	4	Q5I012-4	S38AA_MOUSE [sp]	Putative sodium-coupled neutral amino acid transporter 10	1081	Mus musculus (Mouse) [10090]	1059-1064		
+AGAALQ	5	Q6P3E7	HDA10_MOUSE [sp]	Polyamine deacetylase HDAC10	666	Mus musculus (Mouse) [10090]	107-112	Pride	
+FLHVTY	1	Q8BXJ9	TMM62_MOUSE [sp]	Transmembrane protein 62	643	Mus musculus (Mouse) [10090]	592-597	PeptideAtlas, Pride	192013
+TPGDSS	1	P54728	RD23B_MOUSE [sp]	UV excision repair protein RAD23 homolog B	416	Mus musculus (Mouse) [10090]	167-172	PeptideAtlas, Pride	499535, 532140, 532141, 533340, 983960, 983967, 983968, 983969, 984466, 984966, 984967, 984968, 984969, 985015, 985144, 985145, 985202, 985203, 985204
+KNLNES	1	Q9JIC3	DCR1A_MOUSE [sp]	DNA cross-link repair 1A protein	1026	Mus musculus (Mouse) [10090]	603-608	Pride	1073510
+GFIAGL	1	Q8C0L6	PAOX_MOUSE [sp]	Peroxisomal N(1)-acetyl-spermine/spermidine oxidase	504	Mus musculus (Mouse) [10090]	374-379	PeptideAtlas, Pride	836179, 918088
+GFIAGL	2	Q8C0L6-2	PAOX_MOUSE [sp]	Peroxisomal N(1)-acetyl-spermine/spermidine oxidase	224	Mus musculus (Mouse) [10090]	94-99		
+INLVRD	1	Q8R0F5	RBMX2_MOUSE [sp]	RNA-binding motif protein, X-linked 2	326	Mus musculus (Mouse) [10090]	65-70	PeptideAtlas, Pride	
+TGIAVE	1	Q80U57	RIMS3_MOUSE [sp]	Regulating synaptic membrane exocytosis protein 3	307	Mus musculus (Mouse) [10090]	89-94	Pride	239059
+ESLIDL	1	Q8CI71	VPS50_MOUSE [sp]	Syndetin	964	Mus musculus (Mouse) [10090]	681-686	PeptideAtlas, Pride	191898, 1070990, 1071668
+ESLIDL	2	Q8CI71-2	VPS50_MOUSE [sp]	Syndetin	929	Mus musculus (Mouse) [10090]	681-686		
+ESLIDL	3	Q8CI71-3	VPS50_MOUSE [sp]	Syndetin	938	Mus musculus (Mouse) [10090]	681-686		
+SNFRVQ	1	P51949	MAT1_MOUSE [sp]	CDK-activating kinase assembly factor MAT1	309	Mus musculus (Mouse) [10090]	56-61	PeptideAtlas, Pride	139410
+RLQSLQ	1	Q8K1A6	C2D1A_MOUSE [sp]	Coiled-coil and C2 domain-containing protein 1A	943	Mus musculus (Mouse) [10090]	252-257	PeptideAtlas, Pride	242461, 500021, 503447, 984807
+GCCSCG	1	Q9JLF6	TGM1_MOUSE [sp]	Protein-glutamine gamma-glutamyltransferase K	815	Mus musculus (Mouse) [10090]	52-57	PeptideAtlas, Pride	
+SSGWTA	1	A2AAE1	K1109_MOUSE [sp]	Transmembrane protein KIAA1109	5005	Mus musculus (Mouse) [10090]	778-783	PeptideAtlas, Pride	243480, 748272, 749991, 833223, 918288, 985293, 1070590, 1072857
+SSGWTA	2	A2AAE1-2	K1109_MOUSE [sp]	Transmembrane protein KIAA1109	5026	Mus musculus (Mouse) [10090]	778-783		
+SSGWTA	3	A2AAE1-3	K1109_MOUSE [sp]	Transmembrane protein KIAA1109	5058	Mus musculus (Mouse) [10090]	778-783		
+SSGWTA	4	A2AAE1-4	K1109_MOUSE [sp]	Transmembrane protein KIAA1109	4618	Mus musculus (Mouse) [10090]	392-397		
+SSGWTA	5	A2AAE1-5	K1109_MOUSE [sp]	Transmembrane protein KIAA1109	877	Mus musculus (Mouse) [10090]	778-783		
+SSGWTA	6	A2AAE1-6	K1109_MOUSE [sp]	Transmembrane protein KIAA1109	4970	Mus musculus (Mouse) [10090]	778-783		
+SSGWTA	7	Q80VM7	ANR24_MOUSE [sp]	Ankyrin repeat domain-containing protein 24	985	Mus musculus (Mouse) [10090]	117-122	Pride	
+DLGDIS	1	P70399	TP53B_MOUSE [sp]	TP53-binding protein 1	1969	Mus musculus (Mouse) [10090]	1295-1300	PeptideAtlas, Pride	833213, 833848, 834071, 917454
+DLGDIS	2	P70399-5	TP53B_MOUSE [sp]	TP53-binding protein 1	1963	Mus musculus (Mouse) [10090]	1289-1294		
+DLGDIS	3	P70399-6	TP53B_MOUSE [sp]	TP53-binding protein 1	1014	Mus musculus (Mouse) [10090]	340-345		
+GAISSV	1	A6PWY4	WDR76_MOUSE [sp]	WD repeat-containing protein 76	622	Mus musculus (Mouse) [10090]	313-318	PeptideAtlas, Pride	435018, 832886, 835040
+GAISSV	2	A6PWY4-2	WDR76_MOUSE [sp]	WD repeat-containing protein 76	524	Mus musculus (Mouse) [10090]	215-220		
+GAISSV	3	A6PWY4-3	WDR76_MOUSE [sp]	WD repeat-containing protein 76	418	Mus musculus (Mouse) [10090]	329-334		
+GAISSV	4	Q497L9	S22AE_MOUSE [sp]	Solute carrier family 22 member 14	629	Mus musculus (Mouse) [10090]	509-514	Pride	
+GAISSV	5	Q61473	SOX17_MOUSE [sp]	Transcription factor SOX-17	419	Mus musculus (Mouse) [10090]	398-403	Pride	
+GAISSV	6	Q61473-2	SOX17_MOUSE [sp]	Transcription factor SOX-17	291	Mus musculus (Mouse) [10090]	270-275		
+GAISSV	7	Q9Z0T6	PKDRE_MOUSE [sp]	Polycystic kidney disease and receptor for egg jelly-related protein precursor	2126	Mus musculus (Mouse) [10090]	493-498	Pride	
+NHTSPD	1	Q03717	KCNB1_MOUSE [sp]	Potassium voltage-gated channel subfamily B member 1	857	Mus musculus (Mouse) [10090]	834-839	PeptideAtlas, Pride	835441
+PSKPSK	1	Q6DIA7	BRME1_MOUSE [sp]	Break repair meiotic recombinase recruitment factor 1	600	Mus musculus (Mouse) [10090]	15-20	Pride	736700
+PSKPSK	2	Q6DIA7-2	BRME1_MOUSE [sp]	Break repair meiotic recombinase recruitment factor 1	565	Mus musculus (Mouse) [10090]	15-20		
+FQTLLA	1	O08800	SPB8_MOUSE [sp]	Serpin B8	374	Mus musculus (Mouse) [10090]	70-75	PeptideAtlas, Pride	29880
+FQTLLA	2	Q8CJ00	NOXA1_MOUSE [sp]	NADPH oxidase activator 1	444	Mus musculus (Mouse) [10090]	307-312	PeptideAtlas, Pride	
+FQTLLA	3	Q8CJ00-2	NOXA1_MOUSE [sp]	NADPH oxidase activator 1	436	Mus musculus (Mouse) [10090]	299-304		
+RFQTLL	1	Q80U19	DAAM2_MOUSE [sp]	Disheveled-associated activator of morphogenesis 2	1115	Mus musculus (Mouse) [10090]	252-257	PeptideAtlas, Pride	547740
+RFQTLL	2	Q80U19-2	DAAM2_MOUSE [sp]	Disheveled-associated activator of morphogenesis 2	524	Mus musculus (Mouse) [10090]	252-257		
+QALNTL	1	Q5I012	S38AA_MOUSE [sp]	Putative sodium-coupled neutral amino acid transporter 10	1090	Mus musculus (Mouse) [10090]	294-299	PeptideAtlas, Pride	243275, 548165, 737925, 749065, 917498
+QALNTL	2	Q5I012-2	S38AA_MOUSE [sp]	Putative sodium-coupled neutral amino acid transporter 10	1089	Mus musculus (Mouse) [10090]	294-299		
+QALNTL	3	Q5I012-3	S38AA_MOUSE [sp]	Putative sodium-coupled neutral amino acid transporter 10	1082	Mus musculus (Mouse) [10090]	294-299		
+QALNTL	4	Q5I012-4	S38AA_MOUSE [sp]	Putative sodium-coupled neutral amino acid transporter 10	1081	Mus musculus (Mouse) [10090]	294-299		
+QALNTL	5	Q5I012-5	S38AA_MOUSE [sp]	Putative sodium-coupled neutral amino acid transporter 10	408	Mus musculus (Mouse) [10090]	294-299		
+QALNTL	6	Q5I012-6	S38AA_MOUSE [sp]	Putative sodium-coupled neutral amino acid transporter 10	428	Mus musculus (Mouse) [10090]	294-299		
+QALNTL	7	Q8BHN1	TXLNG_MOUSE [sp]	Gamma-taxilin	524	Mus musculus (Mouse) [10090]	144-149	PeptideAtlas, Pride	
+QALNTL	8	Q8BHN1-2	TXLNG_MOUSE [sp]	Gamma-taxilin	241	Mus musculus (Mouse) [10090]	95-100		
+QALNTL	9	Q8BHN1-3	TXLNG_MOUSE [sp]	Gamma-taxilin	475	Mus musculus (Mouse) [10090]	95-100		
+QALNTL	10	Q925J9	MED1_MOUSE [sp]	Mediator of RNA polymerase II transcription subunit 1	1575	Mus musculus (Mouse) [10090]	901-906	PeptideAtlas, Pride	
+QALNTL	11	Q925J9-4	MED1_MOUSE [sp]	Mediator of RNA polymerase II transcription subunit 1	1560	Mus musculus (Mouse) [10090]	886-891		
+NRKRIS	1	Q8BPM0	DAAM1_MOUSE [sp]	Disheveled-associated activator of morphogenesis 1	1077	Mus musculus (Mouse) [10090]	1055-1060	PeptideAtlas, Pride	143750, 238865, 434801, 1070738
+NRKRIS	2	Q8BPM0-2	DAAM1_MOUSE [sp]	Disheveled-associated activator of morphogenesis 1	1068	Mus musculus (Mouse) [10090]	1046-1051		
+TPPIKD	1	Q99NB9	SF3B1_MOUSE [sp]	Splicing factor 3B subunit 1	1304	Mus musculus (Mouse) [10090]	1010-1015	Pride	1070166, 1070361, 1070477, 1072850
+IGAGIC	1	Q6P8K8	CBPA4_MOUSE [sp]	Carboxypeptidase A4 precursor	420	Mus musculus (Mouse) [10090]	11-16	PeptideAtlas, Pride	
+TASALG	1	Q62481	VPS72_MOUSE [sp]	Vacuolar protein sorting-associated protein 72 homolog	368	Mus musculus (Mouse) [10090]	339-344	PeptideAtlas, Pride	
+TASALG	2	Q7TMA2	ZN503_MOUSE [sp]	Zinc finger protein 503	652	Mus musculus (Mouse) [10090]	645-650	PeptideAtlas, Pride	834677, 985101
+TASALG	3	Q7TPH6	MYCB2_MOUSE [sp]	E3 ubiquitin-protein ligase MYCBP2	4749	Mus musculus (Mouse) [10090]	1701-1706	Pride	832630, 835772, 984557, 984994, 1071117, 1072374, 1073389
+TASALG	4	Q7TPH6-2	MYCB2_MOUSE [sp]	E3 ubiquitin-protein ligase MYCBP2	4746	Mus musculus (Mouse) [10090]	1701-1706		
+TASALG	5	Q91ZI0	CELR3_MOUSE [sp]	Cadherin EGF LAG seven-pass G-type receptor 3 precursor	3301	Mus musculus (Mouse) [10090]	3268-3273	Pride	1072664
+TGTGVL	1	Q3V172	SE1L2_MOUSE [sp]	Protein sel-1 homolog 2 precursor	688	Mus musculus (Mouse) [10090]	455-460	Pride	
+TGTGVL	2	Q9DCM0	ETHE1_MOUSE [sp]	Persulfide dioxygenase ETHE1, mitochondrial precursor	254	Mus musculus (Mouse) [10090]	86-91	PeptideAtlas, Pride	1071364
+SAIGKI	1	Q8BIV3	RNBP6_MOUSE [sp]	Ran-binding protein 6	1105	Mus musculus (Mouse) [10090]	982-987	Pride	833587
+ISSVLN	1	Q91ZJ5	UGPA_MOUSE [sp]	UTP--glucose-1-phosphate uridylyltransferase	508	Mus musculus (Mouse) [10090]	101-106	PeptideAtlas, Pride	833231, 835277
+ISSVLN	2	Q91ZJ5-2	UGPA_MOUSE [sp]	UTP--glucose-1-phosphate uridylyltransferase	497	Mus musculus (Mouse) [10090]	90-95		
+TISVTT	1	Q80Z19	MUC2_MOUSE [sp]	Mucin-2 precursor (Fragments)	2680	Mus musculus (Mouse) [10090]	1448-1453	PeptideAtlas, Pride	832609, 832996, 834543
+LTESNK	1	A6H8H5	KCNB2_MOUSE [sp]	Potassium voltage-gated channel subfamily B member 2	907	Mus musculus (Mouse) [10090]	283-288	PeptideAtlas, Pride	
+LTESNK	2	Q03717	KCNB1_MOUSE [sp]	Potassium voltage-gated channel subfamily B member 1	857	Mus musculus (Mouse) [10090]	279-284	PeptideAtlas, Pride	835441
+ALDPLS	1	Q62255	SALL3_MOUSE [sp]	Sal-like protein 3	1320	Mus musculus (Mouse) [10090]	393-398	PeptideAtlas, Pride	
+ALDPLS	2	Q62255-2	SALL3_MOUSE [sp]	Sal-like protein 3	1248	Mus musculus (Mouse) [10090]	393-398		
+TLEILD	1	A2AJ76	HMCN2_MOUSE [sp]	Hemicentin-2 precursor	5100	Mus musculus (Mouse) [10090]	3121-3126	PeptideAtlas, Pride	833155
+TLEILD	2	A2ASS6	TITIN_MOUSE [sp]	Titin	35213	Mus musculus (Mouse) [10090]	34219-34224	PeptideAtlas, Pride	501716, 832224, 832256, 832402, 833188, 833649, 834217, 834758, 835078, 835136, 917440, 918008, 984444
+TLEILD	3	A2ASS6-2	TITIN_MOUSE [sp]	Titin	26886	Mus musculus (Mouse) [10090]	25892-25897		
+TLEILD	4	Q4LDD4	ARAP1_MOUSE [sp]	Arf-GAP with Rho-GAP domain, ANK repeat and PH domain-containing protein 1	1452	Mus musculus (Mouse) [10090]	1205-1210	PeptideAtlas, Pride	1070589
+TLEILD	5	Q4LDD4-2	ARAP1_MOUSE [sp]	Arf-GAP with Rho-GAP domain, ANK repeat and PH domain-containing protein 1	1441	Mus musculus (Mouse) [10090]	1205-1210		
+TLEILD	6	Q4LDD4-3	ARAP1_MOUSE [sp]	Arf-GAP with Rho-GAP domain, ANK repeat and PH domain-containing protein 1	1193	Mus musculus (Mouse) [10090]	957-962		
+TLEILD	7	Q5DU56	NLRC3_MOUSE [sp]	Protein NLRC3	1064	Mus musculus (Mouse) [10090]	974-979	Pride	
+TLEILD	8	Q5DU56-3	NLRC3_MOUSE [sp]	Protein NLRC3	397	Mus musculus (Mouse) [10090]	307-312		
+QLIRAA	1	Q91YY4	ATPF2_MOUSE [sp]	ATP synthase mitochondrial F1 complex assembly factor 2 precursor	289	Mus musculus (Mouse) [10090]	126-131	PeptideAtlas, Pride	
+KSNLKP	1	Q8BXG3	IFT57_MOUSE [sp]	Intraflagellar transport protein 57 homolog	429	Mus musculus (Mouse) [10090]	63-68	Pride	
+GKQGNF	1	Q91WJ7	SPS2L_MOUSE [sp]	SPATS2-like protein	558	Mus musculus (Mouse) [10090]	382-387	PeptideAtlas, Pride	
+GKQGNF	2	Q91WJ7-2	SPS2L_MOUSE [sp]	SPATS2-like protein	557	Mus musculus (Mouse) [10090]	382-387		
+VSNGTH	1	Q8R4V5	OIT3_MOUSE [sp]	Oncoprotein-induced transcript 3 protein precursor	546	Mus musculus (Mouse) [10090]	297-302	Pride	834339
+VSNGTH	2	Q8R4V5-2	OIT3_MOUSE [sp]	Oncoprotein-induced transcript 3 protein precursor	492	Mus musculus (Mouse) [10090]	243-248		
+SFGGVS	1	Q7TPM1	PRC2B_MOUSE [sp]	Protein PRRC2B	1486	Mus musculus (Mouse) [10090]	1214-1219	PeptideAtlas, Pride	745906, 750562, 751911
+SFGGVS	2	Q7TPM1-2	PRC2B_MOUSE [sp]	Protein PRRC2B	778	Mus musculus (Mouse) [10090]	448-453		
+LQELGK	1	A2AIV2	VIR_MOUSE [sp]	Protein virilizer homolog	1811	Mus musculus (Mouse) [10090]	887-892	PeptideAtlas, Pride	116472, 191938, 243530, 422765, 833327, 834678, 917096, 1070145
+LQELGK	2	A2AIV2-2	VIR_MOUSE [sp]	Protein virilizer homolog	1139	Mus musculus (Mouse) [10090]	887-892		
+LQELGK	3	D3Z7P3	GLSK_MOUSE [sp]	Glutaminase kidney isoform, mitochondrial precursor	674	Mus musculus (Mouse) [10090]	80-85	PeptideAtlas, Pride	757971, 757995, 758516, 758777, 758840, 759098, 759114, 759130, 759751, 759827, 760173, 760180, 760542, 760761, 760860, 761187, 761579, 761752, 762259, 762464, 762875, 762920, 763090, 763098, 763224, 763277, 763285, 763360, 763416, 763610, 763840, 763856, 764230, 764448, 764628, 764982, 765267, 765802, 765988, 766044, 766101, 766334, 766505, 766636, 834768
+LQELGK	4	D3Z7P3-2	GLSK_MOUSE [sp]	Glutaminase kidney isoform, mitochondrial precursor	603	Mus musculus (Mouse) [10090]	80-85		
+LQELGK	5	Q6KAU7	PKHG2_MOUSE [sp]	Pleckstrin homology domain-containing family G member 2	1340	Mus musculus (Mouse) [10090]	243-248	Pride	1069344, 1072662
+LQELGK	6	Q6KAU7-2	PKHG2_MOUSE [sp]	Pleckstrin homology domain-containing family G member 2	1298	Mus musculus (Mouse) [10090]	201-206		
+LQELGK	7	Q6KAU7-3	PKHG2_MOUSE [sp]	Pleckstrin homology domain-containing family G member 2	1365	Mus musculus (Mouse) [10090]	243-248		
+SALEPL	1	Q6KAR6	EXOC3_MOUSE [sp]	Exocyst complex component 3	755	Mus musculus (Mouse) [10090]	375-380	PeptideAtlas, Pride	243436, 832239, 1070074
+SALEPL	2	Q80VA5	S3TC2_MOUSE [sp]	SH3 domain and tetratricopeptide repeat-containing protein 2	1289	Mus musculus (Mouse) [10090]	232-237	Pride	833493, 836198
+SALEPL	3	Q80VA5-4	S3TC2_MOUSE [sp]	SH3 domain and tetratricopeptide repeat-containing protein 2	1001	Mus musculus (Mouse) [10090]	232-237		
+HKNNKS	1	Q3V0J4	ANR53_MOUSE [sp]	Ankyrin repeat domain-containing protein 53	497	Mus musculus (Mouse) [10090]	154-159	Pride	
+RSVASQ	1	Q80X82	SYMPK_MOUSE [sp]	Symplekin	1288	Mus musculus (Mouse) [10090]	12-17	PeptideAtlas, Pride	58550, 568296, 833141, 833935
+DLQELG	1	Q6GQX6	ANKS6_MOUSE [sp]	Ankyrin repeat and SAM domain-containing protein 6	883	Mus musculus (Mouse) [10090]	809-814	Pride	
+NCTEVP	1	Q0VAV2	EXPH5_MOUSE [sp]	Exophilin-5	1960	Mus musculus (Mouse) [10090]	662-667	PeptideAtlas, Pride	
+TRAGCL	1	Q99NG0	ARIP4_MOUSE [sp]	Helicase ARIP4	1466	Mus musculus (Mouse) [10090]	815-820	Pride	833588, 1070339
+NVLYEN	1	Q9JHU4	DYHC1_MOUSE [sp]	Cytoplasmic dynein 1 heavy chain 1	4644	Mus musculus (Mouse) [10090]	3836-3841	PeptideAtlas, Pride	33307, 58436, 141091, 242950, 243628, 502165, 502166, 502167, 502421, 502422, 502742, 502743, 503035, 503036, 533605, 746155, 746621, 746658, 747492, 832596, 832658, 832786, 833593, 834499, 834604, 834712, 836513, 915054, 916202, 984005, 985266, 1071528, 1072195, 1308683
+KGCCSC	1	Q9WVC8	S26A3_MOUSE [sp]	Chloride anion exchanger	757	Mus musculus (Mouse) [10090]	40-45	Pride	238696, 737358, 836308
+IVNNAT	1	Q61207	SAP_MOUSE [sp]	Prosaposin precursor	557	Mus musculus (Mouse) [10090]	331-336	PeptideAtlas, Pride	497961, 500024, 501092, 501148, 501307, 501308, 501309, 501310, 501638, 501639, 501640, 501641, 502561, 502562, 502563, 503333, 530846, 531131, 532663, 532824, 533767, 533768, 534199, 534200, 736204, 737899
+PLQPEL	1	O88738	BIRC6_MOUSE [sp]	Baculoviral IAP repeat-containing protein 6	4882	Mus musculus (Mouse) [10090]	2162-2167	PeptideAtlas, Pride	116609, 434283, 471441, 749884, 752246, 753124, 753180, 1069672, 1070135, 1071393, 1072638, 1073124, 1073769, 1073770, 1073834, 1074143
+PLQPEL	2	O88738-2	BIRC6_MOUSE [sp]	Baculoviral IAP repeat-containing protein 6	4873	Mus musculus (Mouse) [10090]	2162-2167		
+PLQPEL	3	O88738-3	BIRC6_MOUSE [sp]	Baculoviral IAP repeat-containing protein 6	4867	Mus musculus (Mouse) [10090]	2156-2161		
+PLQPEL	4	Q8VDD8	WASH1_MOUSE [sp]	WASH complex subunit 1	475	Mus musculus (Mouse) [10090]	290-295	PeptideAtlas, Pride	
+SECVLG	1	Q8VIL2	RWDD3_MOUSE [sp]	RWD domain-containing protein 3	267	Mus musculus (Mouse) [10090]	259-264	Pride	
+ENGTIT	1	Q8QZT1	THIL_MOUSE [sp]	Acetyl-CoA acetyltransferase, mitochondrial precursor	424	Mus musculus (Mouse) [10090]	271-276	PeptideAtlas, Pride	530646, 934302
+ENGTIT	2	Q922D4	PP6R3_MOUSE [sp]	Serine/threonine-protein phosphatase 6 regulatory subunit 3	844	Mus musculus (Mouse) [10090]	408-413	PeptideAtlas, Pride	753117
+ENGTIT	3	Q922D4-2	PP6R3_MOUSE [sp]	Serine/threonine-protein phosphatase 6 regulatory subunit 3	827	Mus musculus (Mouse) [10090]	408-413		
+ENGTIT	4	Q922D4-3	PP6R3_MOUSE [sp]	Serine/threonine-protein phosphatase 6 regulatory subunit 3	548	Mus musculus (Mouse) [10090]	408-413		
+ENGTIT	5	Q922D4-4	PP6R3_MOUSE [sp]	Serine/threonine-protein phosphatase 6 regulatory subunit 3	497	Mus musculus (Mouse) [10090]	408-413		
+SFVIRG	1	Q14AI0	DCC1_MOUSE [sp]	Sister chromatid cohesion protein DCC1	399	Mus musculus (Mouse) [10090]	67-72	Pride	
+VNNTVY	1	Q3UGC7	EI3JA_MOUSE [sp]	Eukaryotic translation initiation factor 3 subunit J-A	261	Mus musculus (Mouse) [10090]	141-146	PeptideAtlas, Pride	
+VNNTVY	2	Q66JS6	EI3JB_MOUSE [sp]	Eukaryotic translation initiation factor 3 subunit J-B	263	Mus musculus (Mouse) [10090]	143-148	PeptideAtlas, Pride	
+LPDDFT	1	Q6NS52	DGKB_MOUSE [sp]	Diacylglycerol kinase beta	802	Mus musculus (Mouse) [10090]	75-80	PeptideAtlas, Pride	
+LPDDFT	2	Q6NS52-2	DGKB_MOUSE [sp]	Diacylglycerol kinase beta	795	Mus musculus (Mouse) [10090]	68-73		
+NSFTRG	1	Q60813	ADM1A_MOUSE [sp]	Disintegrin and metalloproteinase domain-containing protein 1a precursor	791	Mus musculus (Mouse) [10090]	270-275	Pride	
+NSFTRG	2	Q8R534	ADM1B_MOUSE [sp]	Disintegrin and metalloproteinase domain-containing protein 1b precursor	806	Mus musculus (Mouse) [10090]	238-243	Pride	
+DSLSST	1	A2AAE1	K1109_MOUSE [sp]	Transmembrane protein KIAA1109	5005	Mus musculus (Mouse) [10090]	3720-3725	PeptideAtlas, Pride	243480, 748272, 749991, 833223, 918288, 985293, 1070590, 1072857
+DSLSST	2	A2AAE1-2	K1109_MOUSE [sp]	Transmembrane protein KIAA1109	5026	Mus musculus (Mouse) [10090]	3741-3746		
+DSLSST	3	A2AAE1-3	K1109_MOUSE [sp]	Transmembrane protein KIAA1109	5058	Mus musculus (Mouse) [10090]	3808-3813		
+DSLSST	4	A2AAE1-4	K1109_MOUSE [sp]	Transmembrane protein KIAA1109	4618	Mus musculus (Mouse) [10090]	3333-3338		
+DSLSST	5	A2AAE1-6	K1109_MOUSE [sp]	Transmembrane protein KIAA1109	4970	Mus musculus (Mouse) [10090]	3720-3725		
+DSLSST	6	E9PV87	TALD3_MOUSE [sp]	Protein TALPID3	1520	Mus musculus (Mouse) [10090]	1271-1276	PeptideAtlas, Pride	243483, 832341, 1070994, 1072729
+DSLSST	7	P26011	ITB7_MOUSE [sp]	Integrin beta-7 precursor	806	Mus musculus (Mouse) [10090]	387-392	PeptideAtlas, Pride	501394, 533168, 1073999, 1074222
+TNLVKN	1	P50236	ST2A2_MOUSE [sp]	Bile salt sulfotransferase 2	285	Mus musculus (Mouse) [10090]	137-142	Pride	
+TNLVKN	2	P52843	ST2A1_MOUSE [sp]	Sulfotransferase 2A1	285	Mus musculus (Mouse) [10090]	137-142	Pride	
+VDLGDI	1	Q91WC7	NPAL2_MOUSE [sp]	NIPA-like protein 2	383	Mus musculus (Mouse) [10090]	340-345	Pride	834551
+LDKYFK	1	Q62356	FSTL1_MOUSE [sp]	Follistatin-related protein 1 precursor	306	Mus musculus (Mouse) [10090]	147-152	PeptideAtlas, Pride	
+SASFST	1	O08599	STXB1_MOUSE [sp]	Syntaxin-binding protein 1	594	Mus musculus (Mouse) [10090]	507-512	PeptideAtlas, Pride	735948, 984051
+SASFST	2	O08599-2	STXB1_MOUSE [sp]	Syntaxin-binding protein 1	603	Mus musculus (Mouse) [10090]	507-512		
+RDPQTL	1	P07141	CSF1_MOUSE [sp]	Macrophage colony-stimulating factor 1 precursor	552	Mus musculus (Mouse) [10090]	523-528	PeptideAtlas, Pride	984169, 984980
+RDPQTL	2	P07141-2	CSF1_MOUSE [sp]	Macrophage colony-stimulating factor 1 precursor	257	Mus musculus (Mouse) [10090]	228-233		
+VVIGIV	1	F7A4A7	OTOGL_MOUSE [sp]	Otogelin-like protein precursor	2325	Mus musculus (Mouse) [10090]	1891-1896	Pride	
+VVIGIV	2	F7A4A7-2	OTOGL_MOUSE [sp]	Otogelin-like protein precursor	2281	Mus musculus (Mouse) [10090]	1891-1896		
+VVIGIV	3	Q9CQC6	BZW1_MOUSE [sp]	Basic leucine zipper and W2 domain-containing protein 1	419	Mus musculus (Mouse) [10090]	291-296	PeptideAtlas, Pride	
+SSTASA	1	P62301	RS13_MOUSE [sp]	40S ribosomal protein S13	151	Mus musculus (Mouse) [10090]	143-148	PeptideAtlas, Pride	531949, 533942, 534390
+SSTASA	2	Q501J6	DDX17_MOUSE [sp]	Probable ATP-dependent RNA helicase DDX17	650	Mus musculus (Mouse) [10090]	584-589	PeptideAtlas, Pride	191203, 1070134
+SSTASA	3	Q6P4T0	ATG2A_MOUSE [sp]	Autophagy-related protein 2 homolog A	1914	Mus musculus (Mouse) [10090]	1767-1772	Pride	751288, 1072075
+SSTASA	4	Q8C804	SPICE_MOUSE [sp]	Spindle and centriole-associated protein 1	860	Mus musculus (Mouse) [10090]	318-323	PeptideAtlas, Pride	917643
+SSTASA	5	Q9Z1J2	NEK4_MOUSE [sp]	Serine/threonine-protein kinase Nek4	792	Mus musculus (Mouse) [10090]	547-552	Pride	1070389
+SSTASA	6	Q9Z1J2-2	NEK4_MOUSE [sp]	Serine/threonine-protein kinase Nek4	744	Mus musculus (Mouse) [10090]	499-504		
+LKGCCS	1	B8JKV0	AMN1_MOUSE [sp]	Protein AMN1 homolog	258	Mus musculus (Mouse) [10090]	122-127	Pride	
+LKGCCS	2	Q9WVC8	S26A3_MOUSE [sp]	Chloride anion exchanger	757	Mus musculus (Mouse) [10090]	39-44	Pride	238696, 737358, 836308
+CPFGEV	1	Q5U462	CDCP1_MOUSE [sp]	CUB domain-containing protein 1 precursor	833	Mus musculus (Mouse) [10090]	104-109	PeptideAtlas, Pride	
+NLVKNK	1	Q80UM3	NAA15_MOUSE [sp]	N-alpha-acetyltransferase 15, NatA auxiliary subunit	865	Mus musculus (Mouse) [10090]	666-671	PeptideAtlas, Pride	
+STQDLF	1	Q80VH0	BANK1_MOUSE [sp]	B-cell scaffold protein with ankyrin repeats	783	Mus musculus (Mouse) [10090]	11-16	Pride	195816, 499987, 499988, 502231, 1070103, 1072803
+STQDLF	2	Q9CPP7	LIPG_MOUSE [sp]	Gastric triacylglycerol lipase precursor	395	Mus musculus (Mouse) [10090]	286-291	Pride	
+LPLVSS	1	O88879	APAF_MOUSE [sp]	Apoptotic protease-activating factor 1	1249	Mus musculus (Mouse) [10090]	91-96	PeptideAtlas, Pride	651386
+LPLVSS	2	O88879-2	APAF_MOUSE [sp]	Apoptotic protease-activating factor 1	1238	Mus musculus (Mouse) [10090]	91-96		
+LPLVSS	3	P43883	PLIN2_MOUSE [sp]	Perilipin-2	425	Mus musculus (Mouse) [10090]	19-24	PeptideAtlas, Pride	548519, 738002, 833710, 1069193, 1074146
+LPLVSS	4	Q3U3N0	MIER2_MOUSE [sp]	Mesoderm induction early response protein 2	541	Mus musculus (Mouse) [10090]	476-481	PeptideAtlas, Pride	
+LPLVSS	5	Q3U3N0-2	MIER2_MOUSE [sp]	Mesoderm induction early response protein 2	539	Mus musculus (Mouse) [10090]	474-479		
+LPLVSS	6	Q3U3N0-3	MIER2_MOUSE [sp]	Mesoderm induction early response protein 2	495	Mus musculus (Mouse) [10090]	430-435		
+LPLVSS	7	Q60625	ICAM5_MOUSE [sp]	Intercellular adhesion molecule 5 precursor	917	Mus musculus (Mouse) [10090]	619-624	PeptideAtlas, Pride	238192, 737878, 1069167
+LPLVSS	8	Q8C3Y4	KNTC1_MOUSE [sp]	Kinetochore-associated protein 1	2207	Mus musculus (Mouse) [10090]	1249-1254	PeptideAtlas, Pride	191917, 497267, 836394, 1069398, 1071378, 1071676
+LPLVSS	9	Q8C8R3	ANK2_MOUSE [sp]	Ankyrin-2	3898	Mus musculus (Mouse) [10090]	2313-2318	PeptideAtlas, Pride	191370
+LPLVSS	10	Q8C8R3-2	ANK2_MOUSE [sp]	Ankyrin-2	3926	Mus musculus (Mouse) [10090]	2341-2346		
+LPLVSS	11	Q8C8R3-4	ANK2_MOUSE [sp]	Ankyrin-2	3959	Mus musculus (Mouse) [10090]	2313-2318		
+LPLVSS	12	Q8C8R3-5	ANK2_MOUSE [sp]	Ankyrin-2	3844	Mus musculus (Mouse) [10090]	2259-2264		
+LPLVSS	13	Q924A2	CIC_MOUSE [sp]	Protein capicua homolog	2510	Mus musculus (Mouse) [10090]	1847-1852	PeptideAtlas, Pride	737528, 747114, 751910
+LPLVSS	14	Q924A2-2	CIC_MOUSE [sp]	Protein capicua homolog	1604	Mus musculus (Mouse) [10090]	940-945		
+LPLVSS	15	Q9Z1L5	CA2D3_MOUSE [sp]	Voltage-dependent calcium channel subunit alpha-2/delta-3 precursor	1091	Mus musculus (Mouse) [10090]	1082-1087	PeptideAtlas, Pride	
+NTSNQV	1	Q6ZPF4	FMNL3_MOUSE [sp]	Formin-like protein 3	1028	Mus musculus (Mouse) [10090]	446-451	PeptideAtlas, Pride	835444
+NTSNQV	2	Q6ZPF4-2	FMNL3_MOUSE [sp]	Formin-like protein 3	976	Mus musculus (Mouse) [10090]	395-400		
+LITGRL	1	P12032	TIMP1_MOUSE [sp]	Metalloproteinase inhibitor 1 precursor	205	Mus musculus (Mouse) [10090]	108-113	PeptideAtlas, Pride	
+QKEIDR	1	Q60675	LAMA2_MOUSE [sp]	Laminin subunit alpha-2 precursor	3118	Mus musculus (Mouse) [10090]	1714-1719	PeptideAtlas, Pride	834577, 1069733
+KQIYKT	1	Q8CGY6	UN45B_MOUSE [sp]	Protein unc-45 homolog B	931	Mus musculus (Mouse) [10090]	467-472	PeptideAtlas, Pride	836457, 985121
+KQIYKT	2	Q8CGY6-2	UN45B_MOUSE [sp]	Protein unc-45 homolog B	929	Mus musculus (Mouse) [10090]	467-472		
+ASANLA	1	Q6P9K8	CSKI1_MOUSE [sp]	Caskin-1	1431	Mus musculus (Mouse) [10090]	960-965	PeptideAtlas, Pride	
+ASANLA	2	Q6P9K8-2	CSKI1_MOUSE [sp]	Caskin-1	1360	Mus musculus (Mouse) [10090]	889-894		
+ASANLA	3	Q6P9K8-3	CSKI1_MOUSE [sp]	Caskin-1	1372	Mus musculus (Mouse) [10090]	960-965		
+FGAGAA	1	P35569	IRS1_MOUSE [sp]	Insulin receptor substrate 1	1233	Mus musculus (Mouse) [10090]	1112-1117	PeptideAtlas, Pride	738044, 833731, 984957
+FGAGAA	2	Q99MX7	T121B_MOUSE [sp]	Transmembrane protein 121B	572	Mus musculus (Mouse) [10090]	132-137	Pride	238221
+SNNSIA	1	P62500	T22D1_MOUSE [sp]	TSC22 domain family protein 1	1077	Mus musculus (Mouse) [10090]	127-132	PeptideAtlas, Pride	
+SNNSIA	2	P62500-3	T22D1_MOUSE [sp]	TSC22 domain family protein 1	995	Mus musculus (Mouse) [10090]	127-132		
+KLQDVV	1	Q8R105	VP37C_MOUSE [sp]	Vacuolar protein sorting-associated protein 37C	352	Mus musculus (Mouse) [10090]	152-157	PeptideAtlas, Pride	501616, 501617, 501618, 501619, 1072621
+KLQDVV	2	Q8R105-2	VP37C_MOUSE [sp]	Vacuolar protein sorting-associated protein 37C	244	Mus musculus (Mouse) [10090]	44-49		
+KLQDVV	3	Q9Z329	ITPR2_MOUSE [sp]	Inositol 1,4,5-trisphosphate receptor type 2	2701	Mus musculus (Mouse) [10090]	1605-1610	PeptideAtlas, Pride	238297, 834012, 835644
+KLQDVV	4	Q9Z329-2	ITPR2_MOUSE [sp]	Inositol 1,4,5-trisphosphate receptor type 2	1601	Mus musculus (Mouse) [10090]	505-510		
+KLQDVV	5	Q9Z329-3	ITPR2_MOUSE [sp]	Inositol 1,4,5-trisphosphate receptor type 2	2668	Mus musculus (Mouse) [10090]	1572-1577		
+NCYFPL	1	Q9Z2H6	CLC4D_MOUSE [sp]	C-type lectin domain family 4 member D	219	Mus musculus (Mouse) [10090]	93-98	Pride	
+RLDKVE	1	P27548	CD40L_MOUSE [sp]	CD40 ligand	260	Mus musculus (Mouse) [10090]	49-54	Pride	
+AEVQID	1	Q61789	LAMA3_MOUSE [sp]	Laminin subunit alpha-3 precursor	3330	Mus musculus (Mouse) [10090]	2465-2470	PeptideAtlas, Pride	833522, 834367, 834689, 834911, 985252
+AEVQID	2	Q61789-2	LAMA3_MOUSE [sp]	Laminin subunit alpha-3 precursor	1724	Mus musculus (Mouse) [10090]	859-864		
+ALTGIA	1	Q99N07	M4A6D_MOUSE [sp]	Membrane-spanning 4-domains subfamily A member 6D	247	Mus musculus (Mouse) [10090]	128-133	Pride	243323, 752664
+LPFFSN	1	Q7TPD6	RAVR2_MOUSE [sp]	Ribonucleoprotein PTB-binding 2	673	Mus musculus (Mouse) [10090]	475-480	Pride	834701
+FEYVSQ	1	Q8C9H6	STRP2_MOUSE [sp]	Striatin-interacting proteins 2	844	Mus musculus (Mouse) [10090]	603-608	Pride	922516
+FEYVSQ	2	Q8C9H6-3	STRP2_MOUSE [sp]	Striatin-interacting proteins 2	816	Mus musculus (Mouse) [10090]	603-608		
+FEYVSQ	3	Q8C9H6-4	STRP2_MOUSE [sp]	Striatin-interacting proteins 2	662	Mus musculus (Mouse) [10090]	603-608		
+ELDSFK	1	Q9ERH4	NUSAP_MOUSE [sp]	Nucleolar and spindle-associated protein 1	427	Mus musculus (Mouse) [10090]	8-13	PeptideAtlas, Pride	833746
+ELDSFK	2	Q9ERH4-2	NUSAP_MOUSE [sp]	Nucleolar and spindle-associated protein 1	394	Mus musculus (Mouse) [10090]	8-13		
+CSCLKG	1	G5E8Q8	AGRF5_MOUSE [sp]	Adhesion G protein-coupled receptor F5 precursor	1348	Mus musculus (Mouse) [10090]	147-152	PeptideAtlas, Pride	985103, 1074233
+LQYGSF	1	O88737	BSN_MOUSE [sp]	Protein bassoon	3942	Mus musculus (Mouse) [10090]	2042-2047	PeptideAtlas, Pride	238419, 238704, 737044
+LQYGSF	2	O88737-2	BSN_MOUSE [sp]	Protein bassoon	3883	Mus musculus (Mouse) [10090]	2042-2047		
+NESLID	1	E9QAT4	SC16A_MOUSE [sp]	Protein transport protein Sec16A	2357	Mus musculus (Mouse) [10090]	1540-1545	PeptideAtlas, Pride	502530
+NESLID	2	E9QAT4-2	SC16A_MOUSE [sp]	Protein transport protein Sec16A	2377	Mus musculus (Mouse) [10090]	1540-1545		
+NIIRGW	1	Q2VPQ9	EAF6_MOUSE [sp]	Chromatin modification-related protein MEAF6	191	Mus musculus (Mouse) [10090]	56-61	PeptideAtlas, Pride	916832
+NIIRGW	2	Q2VPQ9-2	EAF6_MOUSE [sp]	Chromatin modification-related protein MEAF6	192	Mus musculus (Mouse) [10090]	56-61		
+NSNNLD	1	Q9R0G7	ZEB2_MOUSE [sp]	Zinc finger E-box-binding homeobox 2	1215	Mus musculus (Mouse) [10090]	871-876	Pride	
+LAGTIT	1	Q9WTS5	TEN2_MOUSE [sp]	Teneurin-2	2764	Mus musculus (Mouse) [10090]	1785-1790	Pride	
+FVTQRN	1	P39087	GRIK2_MOUSE [sp]	Glutamate receptor ionotropic, kainate 2 precursor	908	Mus musculus (Mouse) [10090]	744-749	PeptideAtlas, Pride	836447
+FVTQRN	2	P39087-2	GRIK2_MOUSE [sp]	Glutamate receptor ionotropic, kainate 2 precursor	869	Mus musculus (Mouse) [10090]	744-749		
+DPQTLE	1	Q6P4S8	INT1_MOUSE [sp]	Integrator complex subunit 1	2195	Mus musculus (Mouse) [10090]	1274-1279	Pride	548290, 1071901
+DPQTLE	2	Q9JJS6	BCDO1_MOUSE [sp]	Beta,beta-carotene 15,15'-dioxygenase	566	Mus musculus (Mouse) [10090]	148-153	Pride	
+LGKLQD	1	Q7TPM3	TRI17_MOUSE [sp]	E3 ubiquitin-protein ligase TRIM17	477	Mus musculus (Mouse) [10090]	215-220	Pride	736405
+PLVSSQ	1	A2A5K6	ZN335_MOUSE [sp]	Zinc finger protein 335	1337	Mus musculus (Mouse) [10090]	377-382	PeptideAtlas, Pride	
+PLVSSQ	2	Q9JKV7	EXTL1_MOUSE [sp]	Exostosin-like 1	669	Mus musculus (Mouse) [10090]	639-644	Pride	
+FNGIGV	1	Q91ZV3	DCBD2_MOUSE [sp]	Discoidin, CUB and LCCL domain-containing protein 2 precursor	769	Mus musculus (Mouse) [10090]	131-136	PeptideAtlas, Pride	834286
+ALNTLV	1	Q91XQ6	LAP4B_MOUSE [sp]	Lysosomal-associated transmembrane protein 4B	227	Mus musculus (Mouse) [10090]	113-118	Pride	38634, 493006, 493007, 493008, 500950, 500951, 500952
+PRTFLL	1	E0CYC6	NAT8B_MOUSE [sp]	Putative N-acetyltransferase 8B	232	Mus musculus (Mouse) [10090]	50-55	PeptideAtlas, Pride	
+AAEIRA	1	Q8BHW6	SPT21_MOUSE [sp]	Spermatogenesis-associated protein 21	681	Mus musculus (Mouse) [10090]	234-239	PeptideAtlas, Pride	
+AAEIRA	2	Q8R1F6	HID1_MOUSE [sp]	Protein HID1	788	Mus musculus (Mouse) [10090]	52-57	Pride	
+AAEIRA	3	Q8R1F6-2	HID1_MOUSE [sp]	Protein HID1	787	Mus musculus (Mouse) [10090]	52-57		
+NQKLIA	1	Q8K1X1	WDR11_MOUSE [sp]	WD repeat-containing protein 11	1223	Mus musculus (Mouse) [10090]	762-767	Pride	433997, 1070801, 1072683
+LIVNNA	1	Q61207	SAP_MOUSE [sp]	Prosaposin precursor	557	Mus musculus (Mouse) [10090]	330-335	PeptideAtlas, Pride	497961, 500024, 501092, 501148, 501307, 501308, 501309, 501310, 501638, 501639, 501640, 501641, 502561, 502562, 502563, 503333, 530846, 531131, 532663, 532824, 533767, 533768, 534199, 534200, 736204, 737899
+CTEVPV	1	Q0VAV2	EXPH5_MOUSE [sp]	Exophilin-5	1960	Mus musculus (Mouse) [10090]	663-668	PeptideAtlas, Pride	
+VFRSSV	1	Q9DAG5	STPG4_MOUSE [sp]	Protein STPG4	247	Mus musculus (Mouse) [10090]	159-164	Pride	
+RASANL	1	Q14BI2	GRM2_MOUSE [sp]	Metabotropic glutamate receptor 2 precursor	872	Mus musculus (Mouse) [10090]	841-846	PeptideAtlas, Pride	
+GQTGKI	1	Q61009	SCRB1_MOUSE [sp]	Scavenger receptor class B member 1	509	Mus musculus (Mouse) [10090]	401-406	Pride	497307, 533678, 533679, 533680, 736932, 835566, 1072348
+GQTGKI	2	Q61009-2	SCRB1_MOUSE [sp]	Scavenger receptor class B member 1	506	Mus musculus (Mouse) [10090]	401-406		
+GQTGKI	3	Q6ZPU9	KBP_MOUSE [sp]	KIF-binding protein	617	Mus musculus (Mouse) [10090]	277-282	PeptideAtlas, Pride	191599, 192045, 737571
+GQTGKI	4	Q6ZPU9-2	KBP_MOUSE [sp]	KIF-binding protein	393	Mus musculus (Mouse) [10090]	277-282		
+GQTGKI	5	Q99LC5	ETFA_MOUSE [sp]	Electron transfer flavoprotein subunit alpha, mitochondrial precursor	333	Mus musculus (Mouse) [10090]	264-269	PeptideAtlas, Pride	242816, 832947
+KTPPIK	1	Q9R1C6	DGKE_MOUSE [sp]	Diacylglycerol kinase epsilon	564	Mus musculus (Mouse) [10090]	251-256	PeptideAtlas, Pride	730481, 1073134
+ILPDPS	1	A2A7S8	K1522_MOUSE [sp]	Uncharacterized protein KIAA1522	1013	Mus musculus (Mouse) [10090]	702-707	Pride	834788
+ILPDPS	2	A2A7S8-2	K1522_MOUSE [sp]	Uncharacterized protein KIAA1522	1070	Mus musculus (Mouse) [10090]	759-764		
+ILPDPS	3	A2A7S8-3	K1522_MOUSE [sp]	Uncharacterized protein KIAA1522	900	Mus musculus (Mouse) [10090]	589-594		
+ILPDPS	4	A2A7S8-4	K1522_MOUSE [sp]	Uncharacterized protein KIAA1522	1025	Mus musculus (Mouse) [10090]	714-719		
+ILPDPS	5	Q3TUL7	DCA17_MOUSE [sp]	DDB1- and CUL4-associated factor 17	519	Mus musculus (Mouse) [10090]	110-115	Pride	835154, 836295
+ILPDPS	6	Q3TUL7-2	DCA17_MOUSE [sp]	DDB1- and CUL4-associated factor 17	505	Mus musculus (Mouse) [10090]	110-115		
+ILPDPS	7	Q3TUL7-3	DCA17_MOUSE [sp]	DDB1- and CUL4-associated factor 17	286	Mus musculus (Mouse) [10090]	110-115		
+LNDILS	1	Q80T41	GABR2_MOUSE [sp]	Gamma-aminobutyric acid type B receptor subunit 2 precursor	940	Mus musculus (Mouse) [10090]	833-838	PeptideAtlas, Pride	984587
+LQSLQT	1	Q9Z1P8	ANGL4_MOUSE [sp]	Angiopoietin-related protein 4 precursor	410	Mus musculus (Mouse) [10090]	106-111	Pride	501012
+GVEGFN	1	Q8CG65	SSPO_MOUSE [sp]	SCO-spondin precursor	4998	Mus musculus (Mouse) [10090]	529-534	Pride	1074248
+LLQYGS	1	O08746	MATN2_MOUSE [sp]	Matrilin-2 precursor	956	Mus musculus (Mouse) [10090]	98-103	PeptideAtlas, Pride	835381, 916742
+LLQYGS	2	O08746-2	MATN2_MOUSE [sp]	Matrilin-2 precursor	937	Mus musculus (Mouse) [10090]	98-103		
+LLQYGS	3	Q02788	CO6A2_MOUSE [sp]	Collagen alpha-2(VI) chain precursor	1034	Mus musculus (Mouse) [10090]	894-899	PeptideAtlas, Pride	833570, 835043, 985084, 1069722
+LLPLVS	1	O88327	CTNL1_MOUSE [sp]	Alpha-catulin	731	Mus musculus (Mouse) [10090]	40-45	PeptideAtlas, Pride	833022, 835778
+LLPLVS	2	P70423	CTR3_MOUSE [sp]	Cationic amino acid transporter 3	618	Mus musculus (Mouse) [10090]	545-550	PeptideAtlas, Pride	191216
+LLPLVS	3	Q9Z1L5	CA2D3_MOUSE [sp]	Voltage-dependent calcium channel subunit alpha-2/delta-3 precursor	1091	Mus musculus (Mouse) [10090]	1081-1086	PeptideAtlas, Pride	
+TEKSNI	1	Q91XE0	GLYAT_MOUSE [sp]	Glycine N-acyltransferase	296	Mus musculus (Mouse) [10090]	265-270	PeptideAtlas, Pride	833730
+TEKSNI	2	Q91XE0-2	GLYAT_MOUSE [sp]	Glycine N-acyltransferase	262	Mus musculus (Mouse) [10090]	231-236		
+LIRAAE	1	Q9JMH9	MY18A_MOUSE [sp]	Unconventional myosin-XVIIIa	2050	Mus musculus (Mouse) [10090]	1348-1353	PeptideAtlas, Pride	
+LIRAAE	2	Q9JMH9-1	MY18A_MOUSE [sp]	Unconventional myosin-XVIIIa	2035	Mus musculus (Mouse) [10090]	1348-1353		
+LIRAAE	3	Q9JMH9-2	MY18A_MOUSE [sp]	Unconventional myosin-XVIIIa	1719	Mus musculus (Mouse) [10090]	1017-1022		
+LIRAAE	4	Q9JMH9-4	MY18A_MOUSE [sp]	Unconventional myosin-XVIIIa	1998	Mus musculus (Mouse) [10090]	1348-1353		
+LIRAAE	5	Q9JMH9-5	MY18A_MOUSE [sp]	Unconventional myosin-XVIIIa	1704	Mus musculus (Mouse) [10090]	1017-1022		
+LIRAAE	6	Q9JMH9-6	MY18A_MOUSE [sp]	Unconventional myosin-XVIIIa	2062	Mus musculus (Mouse) [10090]	1360-1365		
+LIRAAE	7	Q9JMH9-7	MY18A_MOUSE [sp]	Unconventional myosin-XVIIIa	1716	Mus musculus (Mouse) [10090]	1029-1034		
+SSSGWT	1	A2AAE1	K1109_MOUSE [sp]	Transmembrane protein KIAA1109	5005	Mus musculus (Mouse) [10090]	777-782	PeptideAtlas, Pride	243480, 748272, 749991, 833223, 918288, 985293, 1070590, 1072857
+SSSGWT	2	A2AAE1-2	K1109_MOUSE [sp]	Transmembrane protein KIAA1109	5026	Mus musculus (Mouse) [10090]	777-782		
+SSSGWT	3	A2AAE1-3	K1109_MOUSE [sp]	Transmembrane protein KIAA1109	5058	Mus musculus (Mouse) [10090]	777-782		
+SSSGWT	4	A2AAE1-4	K1109_MOUSE [sp]	Transmembrane protein KIAA1109	4618	Mus musculus (Mouse) [10090]	391-396		
+SSSGWT	5	A2AAE1-5	K1109_MOUSE [sp]	Transmembrane protein KIAA1109	877	Mus musculus (Mouse) [10090]	777-782		
+SSSGWT	6	A2AAE1-6	K1109_MOUSE [sp]	Transmembrane protein KIAA1109	4970	Mus musculus (Mouse) [10090]	777-782		
+LHRSYL	1	Q6ZQF0	TOPB1_MOUSE [sp]	DNA topoisomerase 2-binding protein 1	1515	Mus musculus (Mouse) [10090]	1325-1330	PeptideAtlas, Pride	243281, 1071701
+TEVPVA	1	Q0VAV2	EXPH5_MOUSE [sp]	Exophilin-5	1960	Mus musculus (Mouse) [10090]	664-669	PeptideAtlas, Pride	
+TEVPVA	2	Q9Z0R6	ITSN2_MOUSE [sp]	Intersectin-2	1659	Mus musculus (Mouse) [10090]	1613-1618	PeptideAtlas, Pride	
+FKNLRE	1	P27671	RGRF1_MOUSE [sp]	Ras-specific guanine nucleotide-releasing factor 1	1262	Mus musculus (Mouse) [10090]	1161-1166	Pride	
+FKNLRE	2	P70392	RGRF2_MOUSE [sp]	Ras-specific guanine nucleotide-releasing factor 2	1189	Mus musculus (Mouse) [10090]	1088-1093	PeptideAtlas, Pride	833668
+FKNLRE	3	Q9JHI5	IVD_MOUSE [sp]	Isovaleryl-CoA dehydrogenase, mitochondrial precursor	424	Mus musculus (Mouse) [10090]	75-80	PeptideAtlas, Pride	985254
+PQSAPH	1	P06798	HXA4_MOUSE [sp]	Homeobox protein Hox-A4	285	Mus musculus (Mouse) [10090]	45-50	PeptideAtlas, Pride	
+ITGRLQ	1	Q8BZI0-2	AF1L1_MOUSE [sp]	Actin filament-associated protein 1-like 1	464	Mus musculus (Mouse) [10090]	417-422		
+PLLTDE	1	Q6P5C5	SMUG1_MOUSE [sp]	Single-strand selective monofunctional uracil DNA glycosylase	279	Mus musculus (Mouse) [10090]	268-273	PeptideAtlas, Pride	
+PLLTDE	2	Q80TS3	AGRL3_MOUSE [sp]	Adhesion G protein-coupled receptor L3 precursor	1537	Mus musculus (Mouse) [10090]	1428-1433	PeptideAtlas, Pride	
+PLLTDE	3	Q80TS3-3	AGRL3_MOUSE [sp]	Adhesion G protein-coupled receptor L3 precursor	1543	Mus musculus (Mouse) [10090]	1434-1439		
+PLLTDE	4	Q80TS3-4	AGRL3_MOUSE [sp]	Adhesion G protein-coupled receptor L3 precursor	1298	Mus musculus (Mouse) [10090]	1189-1194		
+PLLTDE	5	Q80TS3-5	AGRL3_MOUSE [sp]	Adhesion G protein-coupled receptor L3 precursor	1528	Mus musculus (Mouse) [10090]	1419-1424		
+DSFVIR	1	Q14AI0	DCC1_MOUSE [sp]	Sister chromatid cohesion protein DCC1	399	Mus musculus (Mouse) [10090]	66-71	Pride	
+DSFVIR	2	Q61096	PRTN3_MOUSE [sp]	Myeloblastin precursor	254	Mus musculus (Mouse) [10090]	219-224	PeptideAtlas, Pride	
+DSFVIR	3	Q80YX1	TENA_MOUSE [sp]	Tenascin precursor	2110	Mus musculus (Mouse) [10090]	1557-1562	PeptideAtlas, Pride	984622
+DSFVIR	4	Q80YX1-2	TENA_MOUSE [sp]	Tenascin precursor	2019	Mus musculus (Mouse) [10090]	1466-1471		
+QQLIRA	1	Q6PHS6	SNX13_MOUSE [sp]	Sorting nexin-13	957	Mus musculus (Mouse) [10090]	802-807	Pride	
+YLTPGD	1	Q8CCP0	NEMF_MOUSE [sp]	Nuclear export mediator factor Nemf	1064	Mus musculus (Mouse) [10090]	555-560	PeptideAtlas, Pride	
+YLTPGD	2	Q8CCP0-2	NEMF_MOUSE [sp]	Nuclear export mediator factor Nemf	892	Mus musculus (Mouse) [10090]	555-560		
+YLTPGD	3	Q8CCP0-3	NEMF_MOUSE [sp]	Nuclear export mediator factor Nemf	641	Mus musculus (Mouse) [10090]	555-560		
+ALGKLQ	1	Q5EBP3	ARMC5_MOUSE [sp]	Armadillo repeat-containing protein 5	926	Mus musculus (Mouse) [10090]	399-404	PeptideAtlas, Pride	
+KQLSSN	1	P51830	ADCY9_MOUSE [sp]	Adenylate cyclase type 9	1353	Mus musculus (Mouse) [10090]	35-40	PeptideAtlas, Pride	
+KQLSSN	2	Q8BQM9	MD12L_MOUSE [sp]	Mediator of RNA polymerase II transcription subunit 12-like protein	2157	Mus musculus (Mouse) [10090]	2137-2142	PeptideAtlas, Pride	704942, 1073694
+KQLSSN	3	Q8BQM9-2	MD12L_MOUSE [sp]	Mediator of RNA polymerase II transcription subunit 12-like protein	2192	Mus musculus (Mouse) [10090]	2172-2177		
+KQLSSN	4	Q8VHR0	PCD18_MOUSE [sp]	Protocadherin 18 precursor	1134	Mus musculus (Mouse) [10090]	554-559	Pride	
+QSIIAY	1	Q8CIE6	COPA_MOUSE [sp]	Coatomer subunit alpha	1224	Mus musculus (Mouse) [10090]	623-628	PeptideAtlas, Pride	116535, 191943, 500205, 833616, 836546, 984268, 1069322, 1069323, 1069518, 1069989, 1073196
+PFLMDL	1	Q3U827	RN180_MOUSE [sp]	E3 ubiquitin-protein ligase RNF180	592	Mus musculus (Mouse) [10090]	331-336	Pride	
+PFLMDL	2	Q3U827-2	RN180_MOUSE [sp]	E3 ubiquitin-protein ligase RNF180	591	Mus musculus (Mouse) [10090]	330-335		
+PFLMDL	3	Q3U827-3	RN180_MOUSE [sp]	E3 ubiquitin-protein ligase RNF180	575	Mus musculus (Mouse) [10090]	331-336		
+PFLMDL	4	Q3U827-4	RN180_MOUSE [sp]	E3 ubiquitin-protein ligase RNF180	502	Mus musculus (Mouse) [10090]	330-335		
+ALEPLV	1	Q8BX80	ENASE_MOUSE [sp]	Cytosolic endo-beta-N-acetylglucosaminidase	734	Mus musculus (Mouse) [10090]	99-104	PeptideAtlas, Pride	
+AISSVL	1	Q99N10	M4A8_MOUSE [sp]	Membrane-spanning 4-domains subfamily A member 8	290	Mus musculus (Mouse) [10090]	223-228	Pride	
+AISSVL	2	Q99N10-1	M4A8_MOUSE [sp]	Membrane-spanning 4-domains subfamily A member 8	268	Mus musculus (Mouse) [10090]	201-206		
+AISSVL	3	Q9JJA4	WDR12_MOUSE [sp]	Ribosome biogenesis protein WDR12	423	Mus musculus (Mouse) [10090]	259-264	Pride	1070757
+FGGVSV	1	Q6P9R1	DDX51_MOUSE [sp]	ATP-dependent RNA helicase DDX51	639	Mus musculus (Mouse) [10090]	500-505	PeptideAtlas, Pride	1069487, 1072448, 1073490
+FGGVSV	2	Q8CH40	NUDT6_MOUSE [sp]	Nucleoside diphosphate-linked moiety X motif 6	313	Mus musculus (Mouse) [10090]	50-55	Pride	
+RSYLTP	1	Q8BG95	MYPT2_MOUSE [sp]	Protein phosphatase 1 regulatory subunit 12B	976	Mus musculus (Mouse) [10090]	616-621	PeptideAtlas, Pride	747629
+RSYLTP	2	Q9DBR7	MYPT1_MOUSE [sp]	Protein phosphatase 1 regulatory subunit 12A	1029	Mus musculus (Mouse) [10090]	665-670	PeptideAtlas, Pride	833474, 834672, 835186
+RSYLTP	3	Q9DBR7-2	MYPT1_MOUSE [sp]	Protein phosphatase 1 regulatory subunit 12A	1004	Mus musculus (Mouse) [10090]	665-670		
+LTPGDS	1	Q6SJE0	GFRAL_MOUSE [sp]	GDNF family receptor alpha-like precursor	393	Mus musculus (Mouse) [10090]	50-55	Pride	
+LTPGDS	2	Q6SJE0-2	GFRAL_MOUSE [sp]	GDNF family receptor alpha-like precursor	238	Mus musculus (Mouse) [10090]	50-55		
+AAAYYV	1	Q571H0	NPA1P_MOUSE [sp]	Nucleolar pre-ribosomal-associated protein 1	2274	Mus musculus (Mouse) [10090]	1683-1688	PeptideAtlas, Pride	1073395, 1073716, 1073838
+LVDLPI	1	Q69ZR2	HECD1_MOUSE [sp]	E3 ubiquitin-protein ligase HECTD1	2618	Mus musculus (Mouse) [10090]	2266-2271	PeptideAtlas, Pride	243437, 1068906, 1069583
+TSALLA	1	Q8VCF0	MAVS_MOUSE [sp]	Mitochondrial antiviral-signaling protein	503	Mus musculus (Mouse) [10090]	483-488	PeptideAtlas, Pride	191925, 497542, 499919, 499920, 500963, 502785, 737423, 834408, 916491, 917582, 985406, 1072421
+SQSIIA	1	Q9R0I7	YLPM1_MOUSE [sp]	YLP motif-containing protein 1	1386	Mus musculus (Mouse) [10090]	676-681	PeptideAtlas, Pride	
+LYRLFR	1	Q9QZ09	PHTF1_MOUSE [sp]	Protein PHTF1	761	Mus musculus (Mouse) [10090]	492-497	Pride	243272, 833910
+AKNLNE	1	Q811B3	ATS12_MOUSE [sp]	A disintegrin and metalloproteinase with thrombospondin motifs 12 precursor	1600	Mus musculus (Mouse) [10090]	976-981	Pride	
+AKNLNE	2	Q9JIC3	DCR1A_MOUSE [sp]	DNA cross-link repair 1A protein	1026	Mus musculus (Mouse) [10090]	602-607	Pride	1073510
+DYSVLY	1	Q9D7R7	PEPC_MOUSE [sp]	Gastricsin precursor	392	Mus musculus (Mouse) [10090]	61-66	Pride	833786
+DYSVLY	2	Q9QYM9	TEFF2_MOUSE [sp]	Tomoregulin-2 precursor	374	Mus musculus (Mouse) [10090]	304-309	PeptideAtlas, Pride	
+DYSVLY	3	Q9QYM9-2	TEFF2_MOUSE [sp]	Tomoregulin-2 precursor	374	Mus musculus (Mouse) [10090]	304-309		
+NGLTVL	1	G3XA59	LRC32_MOUSE [sp]	Transforming growth factor beta activator LRRC32 precursor	663	Mus musculus (Mouse) [10090]	502-507	PeptideAtlas, Pride	116579
+AENSVA	1	Q62226	SHH_MOUSE [sp]	Sonic hedgehog protein precursor	437	Mus musculus (Mouse) [10090]	188-193	Pride	
+LDKVEA	1	E9Q557	DESP_MOUSE [sp]	Desmoplakin	2883	Mus musculus (Mouse) [10090]	813-818	PeptideAtlas, Pride	832793, 833708, 835872, 922192, 998869, 1012034, 1015877, 1029514, 1029793, 1031622
+LDKVEA	2	Q64511	TOP2B_MOUSE [sp]	DNA topoisomerase 2-beta	1612	Mus musculus (Mouse) [10090]	1184-1189	PeptideAtlas, Pride	191650, 548610, 835276, 835634, 916733, 916734
+LEILDI	1	Q8BXA7	PHLP2_MOUSE [sp]	PH domain leucine-rich repeat-containing protein phosphatase 2	1320	Mus musculus (Mouse) [10090]	524-529	Pride	
+LEILDI	2	Q9JLF7	TLR5_MOUSE [sp]	Toll-like receptor 5 precursor	859	Mus musculus (Mouse) [10090]	551-556	Pride	836020, 836313
+CTLKSF	1	Q8C7R4	UBA6_MOUSE [sp]	Ubiquitin-like modifier-activating enzyme 6	1053	Mus musculus (Mouse) [10090]	625-630	PeptideAtlas, Pride	1072526
+QDSLSS	1	P53798	FDFT_MOUSE [sp]	Squalene synthase	416	Mus musculus (Mouse) [10090]	33-38	PeptideAtlas, Pride	
+QDSLSS	2	P55937	GOGA3_MOUSE [sp]	Golgin subfamily A member 3	1487	Mus musculus (Mouse) [10090]	459-464	PeptideAtlas, Pride	501971, 1072256
+QDSLSS	3	P55937-1	GOGA3_MOUSE [sp]	Golgin subfamily A member 3	1447	Mus musculus (Mouse) [10090]	419-424		
+QDSLSS	4	Q5DU28	PCX2_MOUSE [sp]	Pecanex-like protein 2	2122	Mus musculus (Mouse) [10090]	304-309	Pride	836177
+QDSLSS	5	Q5DU28-3	PCX2_MOUSE [sp]	Pecanex-like protein 2	1121	Mus musculus (Mouse) [10090]	304-309		
+QDSLSS	6	Q8BM81	ADCL4_MOUSE [sp]	Arylacetamide deacetylase-like 4	407	Mus musculus (Mouse) [10090]	76-81	Pride	
+QDSLSS	7	Q9DB00	GON4L_MOUSE [sp]	GON-4-like protein	2260	Mus musculus (Mouse) [10090]	1335-1340	Pride	26728, 116420, 139216, 191185, 915890
+QDSLSS	8	Q9ER74	SALL1_MOUSE [sp]	Sal-like protein 1	1322	Mus musculus (Mouse) [10090]	847-852	Pride	832193, 1071253
+DILSRL	1	O08917	FLOT1_MOUSE [sp]	Flotillin-1	428	Mus musculus (Mouse) [10090]	399-404	PeptideAtlas, Pride	501668
+DILSRL	2	Q9JL70	FANCA_MOUSE [sp]	Fanconi anemia group A protein homolog	1439	Mus musculus (Mouse) [10090]	1010-1015	Pride	191730, 736358, 1069488, 1072455
+GRLQSL	1	Q80TN7	NAV3_MOUSE [sp]	Neuron navigator 3	2359	Mus musculus (Mouse) [10090]	1614-1619	Pride	1068870
+GRLQSL	2	Q9D967	MGDP1_MOUSE [sp]	Magnesium-dependent phosphatase 1	164	Mus musculus (Mouse) [10090]	56-61	PeptideAtlas, Pride	1070871
+LREFVF	1	Q9CQL6	RM35_MOUSE [sp]	39S ribosomal protein L35, mitochondrial precursor	188	Mus musculus (Mouse) [10090]	144-149	PeptideAtlas, Pride	
+QMAYRF	1	P15539	C11B2_MOUSE [sp]	Cytochrome P450 11B2, mitochondrial precursor	500	Mus musculus (Mouse) [10090]	479-484	Pride	
+DDSEPV	1	P97379	G3BP2_MOUSE [sp]	Ras GTPase-activating protein-binding protein 2	482	Mus musculus (Mouse) [10090]	380-385	PeptideAtlas, Pride	139417, 242739, 833059, 1071525
+DDSEPV	2	P97379-2	G3BP2_MOUSE [sp]	Ras GTPase-activating protein-binding protein 2	449	Mus musculus (Mouse) [10090]	347-352		
+DDSEPV	3	P97855	G3BP1_MOUSE [sp]	Ras GTPase-activating protein-binding protein 1	465	Mus musculus (Mouse) [10090]	384-389	PeptideAtlas, Pride	139069, 243197, 835295, 836576, 1071527, 1072273
+SFELLH	1	Q3U1J4	DDB1_MOUSE [sp]	DNA damage-binding protein 1	1140	Mus musculus (Mouse) [10090]	573-578	PeptideAtlas, Pride	503935, 531270, 533056, 606129, 832872, 1068898, 1069994, 1070523, 1070726, 1070939, 1071114, 1074290, 1074542
+GDSSSG	1	G3X9J0	SI1L3_MOUSE [sp]	Signal-induced proliferation-associated 1-like protein 3	1776	Mus musculus (Mouse) [10090]	1195-1200	PeptideAtlas, Pride	725042, 984658, 1069160, 1069707, 1069844, 1070213, 1071722, 1073332
+GDSSSG	2	Q64012	RALY_MOUSE [sp]	RNA-binding protein Raly	312	Mus musculus (Mouse) [10090]	225-230	PeptideAtlas, Pride	
+GDSSSG	3	Q64012-2	RALY_MOUSE [sp]	RNA-binding protein Raly	296	Mus musculus (Mouse) [10090]	209-214		
+GDSSSG	4	Q7TN31	AGGF1_MOUSE [sp]	Angiogenic factor with G patch and FHA domains 1	711	Mus musculus (Mouse) [10090]	381-386	Pride	
+GDSSSG	5	Q8VHB5	CAH9_MOUSE [sp]	Carbonic anhydrase 9 precursor	437	Mus musculus (Mouse) [10090]	46-51	Pride	917839
+GDSSSG	6	Q8VHB5-2	CAH9_MOUSE [sp]	Carbonic anhydrase 9 precursor	282	Mus musculus (Mouse) [10090]	46-51		
+GDSSSG	7	Q9QXY1	ZO3_MOUSE [sp]	Tight junction protein ZO-3	905	Mus musculus (Mouse) [10090]	124-129	Pride	
+GDSSSG	8	Q9QXZ7	NR2E3_MOUSE [sp]	Photoreceptor-specific nuclear receptor	395	Mus musculus (Mouse) [10090]	44-49	Pride	
+TQLPPA	1	Q3UGM2	NEK10_MOUSE [sp]	Serine/threonine-protein kinase Nek10	1111	Mus musculus (Mouse) [10090]	1000-1005	Pride	
+NTFVSG	1	P62881	GNB5_MOUSE [sp]	Guanine nucleotide-binding protein subunit beta-5	395	Mus musculus (Mouse) [10090]	252-257	PeptideAtlas, Pride	243387, 1069175
+NTFVSG	2	P62881-2	GNB5_MOUSE [sp]	Guanine nucleotide-binding protein subunit beta-5	353	Mus musculus (Mouse) [10090]	210-215		
+FVIRGD	1	Q14AI0	DCC1_MOUSE [sp]	Sister chromatid cohesion protein DCC1	399	Mus musculus (Mouse) [10090]	68-73	Pride	
+FPLQSY	1	E9Q8T7	DYH1_MOUSE [sp]	Dynein axonemal heavy chain 1	4250	Mus musculus (Mouse) [10090]	151-156	Pride	
+FPLQSY	2	E9Q8T7-2	DYH1_MOUSE [sp]	Dynein axonemal heavy chain 1	486	Mus musculus (Mouse) [10090]	151-156		
+PQIITT	1	Q8BRC6	CFA91_MOUSE [sp]	Cilia- and flagella-associated protein 91	783	Mus musculus (Mouse) [10090]	422-427	Pride	737457
+LDSFKE	1	Q8BHN1	TXLNG_MOUSE [sp]	Gamma-taxilin	524	Mus musculus (Mouse) [10090]	479-484	PeptideAtlas, Pride	
+LDSFKE	2	Q8BHN1-3	TXLNG_MOUSE [sp]	Gamma-taxilin	475	Mus musculus (Mouse) [10090]	430-435		
+LSFELL	1	P97432	NBR1_MOUSE [sp]	Next to BRCA1 gene 1 protein	988	Mus musculus (Mouse) [10090]	562-567	Pride	
+KEELDK	1	A0A0M3U1B0	SYC2L_MOUSE [sp]	Synaptonemal complex protein 2-like	842	Mus musculus (Mouse) [10090]	48-53		
+KEELDK	2	Q8BH82	NAPEP_MOUSE [sp]	N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D	396	Mus musculus (Mouse) [10090]	97-102	PeptideAtlas, Pride	832664
+KEELDK	3	Q8BI22	CE128_MOUSE [sp]	Centrosomal protein of 128 kDa	1102	Mus musculus (Mouse) [10090]	785-790	Pride	
+KEELDK	4	Q8BI22-2	CE128_MOUSE [sp]	Centrosomal protein of 128 kDa	1026	Mus musculus (Mouse) [10090]	785-790		
+KEELDK	5	Q8C176	TAF2_MOUSE [sp]	Transcription initiation factor TFIID subunit 2	1104	Mus musculus (Mouse) [10090]	386-391	PeptideAtlas, Pride	1073787
+RKRISN	1	Q8BPM0	DAAM1_MOUSE [sp]	Disheveled-associated activator of morphogenesis 1	1077	Mus musculus (Mouse) [10090]	1056-1061	PeptideAtlas, Pride	143750, 238865, 434801, 1070738
+RKRISN	2	Q8BPM0-2	DAAM1_MOUSE [sp]	Disheveled-associated activator of morphogenesis 1	1068	Mus musculus (Mouse) [10090]	1047-1052		
+RKRISN	3	Q9CWJ3	KTBL1_MOUSE [sp]	KATNB1-like protein 1	299	Mus musculus (Mouse) [10090]	21-26	PeptideAtlas, Pride	
+KTQSLL	1	Q9JK30	ORC3_MOUSE [sp]	Origin recognition complex subunit 3	715	Mus musculus (Mouse) [10090]	403-408	PeptideAtlas, Pride	835509, 984975, 985169, 1069547
+KTQSLL	2	Q9JK30-2	ORC3_MOUSE [sp]	Origin recognition complex subunit 3	714	Mus musculus (Mouse) [10090]	403-408		
+NSVAYS	1	G5E829	AT2B1_MOUSE [sp]	Plasma membrane calcium-transporting ATPase 1	1220	Mus musculus (Mouse) [10090]	7-12	PeptideAtlas, Pride	502752, 502753, 503219, 503220, 503635, 917450, 922340, 1069269, 1069368, 1074220
+TQRNFY	1	Q3UG20	KMT2E_MOUSE [sp]	Inactive histone-lysine N-methyltransferase 2E	1868	Mus musculus (Mouse) [10090]	1500-1505	PeptideAtlas, Pride	752708, 1072620
+TQRNFY	2	Q3UG20-2	KMT2E_MOUSE [sp]	Inactive histone-lysine N-methyltransferase 2E	1288	Mus musculus (Mouse) [10090]	920-925		
+LKSFTV	1	Q9CS72	FLIP1_MOUSE [sp]	Filamin-A-interacting protein 1	1211	Mus musculus (Mouse) [10090]	501-506	PeptideAtlas, Pride	195161
+PAQEKN	1	Q8BVA4	LMOD1_MOUSE [sp]	Leiomodin-1	595	Mus musculus (Mouse) [10090]	563-568	Pride	
+FNGLTV	1	Q9QXK3	COPG2_MOUSE [sp]	Coatomer subunit gamma-2	871	Mus musculus (Mouse) [10090]	548-553	PeptideAtlas, Pride	147532, 832298, 834176, 834628, 1072996
+FNGLTV	2	Q9QXK3-4	COPG2_MOUSE [sp]	Coatomer subunit gamma-2	870	Mus musculus (Mouse) [10090]	548-553		
+IAQYTS	1	Q99PT9	KIF19_MOUSE [sp]	Kinesin-like protein KIF19	997	Mus musculus (Mouse) [10090]	361-366	Pride	
+TGSNVF	1	Q3TVP5	OTULL_MOUSE [sp]	Inactive ubiquitin thioesterase OTULINL	353	Mus musculus (Mouse) [10090]	188-193	PeptideAtlas, Pride	
+TGSNVF	2	Q3TVP5-2	OTULL_MOUSE [sp]	Inactive ubiquitin thioesterase OTULINL	303	Mus musculus (Mouse) [10090]	138-143		
+FLVLLP	1	Q8VC48	PEX12_MOUSE [sp]	Peroxisome assembly protein 12	359	Mus musculus (Mouse) [10090]	119-124	Pride	836557
+FLVLLP	2	Q9R1W5	CALRL_MOUSE [sp]	Calcitonin gene-related peptide type 1 receptor precursor	463	Mus musculus (Mouse) [10090]	9-14	Pride	833723, 835537
+TLLALH	1	E9Q1P8	I2BP2_MOUSE [sp]	Interferon regulatory factor 2-binding protein 2	570	Mus musculus (Mouse) [10090]	290-295	PeptideAtlas, Pride	238417, 747822, 834633, 1073967
+TLLALH	2	Q6V4S5	SDK2_MOUSE [sp]	Protein sidekick-2 precursor	2176	Mus musculus (Mouse) [10090]	12-17	PeptideAtlas, Pride	1071104
+TLLALH	3	Q6V4S5-3	SDK2_MOUSE [sp]	Protein sidekick-2 precursor	542	Mus musculus (Mouse) [10090]	12-17		
+LQDVVN	1	Q9Z176	P2R3D_MOUSE [sp]	Serine/threonine-protein phosphatase 2A regulatory subunit B'' subunit delta	491	Mus musculus (Mouse) [10090]	181-186	Pride	1071311
+QLPPAY	1	A2RT91	ANKAR_MOUSE [sp]	Ankyrin and armadillo repeat-containing protein	1465	Mus musculus (Mouse) [10090]	133-138	Pride	
+TITDAV	1	Q8CF02	FM25C_MOUSE [sp]	Protein FAM25C	89	Mus musculus (Mouse) [10090]	72-77	PeptideAtlas, Pride	
+STGSNV	1	Q8VI56	LRP4_MOUSE [sp]	Low-density lipoprotein receptor-related protein 4 precursor	1905	Mus musculus (Mouse) [10090]	1281-1286	PeptideAtlas, Pride	832902
+STGSNV	2	Q8VI56-2	LRP4_MOUSE [sp]	Low-density lipoprotein receptor-related protein 4 precursor	1848	Mus musculus (Mouse) [10090]	1281-1286		
+QTLLAL	1	Q9DAL0	SIM23_MOUSE [sp]	Small integral membrane protein 23	136	Mus musculus (Mouse) [10090]	31-36	Pride	
+SALGKL	1	P23242	CXA1_MOUSE [sp]	Gap junction alpha-1 protein	382	Mus musculus (Mouse) [10090]	5-10	PeptideAtlas, Pride	833380, 835336, 1072388
+SALGKL	2	Q8BL99	DOP1_MOUSE [sp]	Protein dopey-1	2399	Mus musculus (Mouse) [10090]	39-44	PeptideAtlas, Pride	1070386, 1070893, 1074288
+SALGKL	3	Q8BL99-2	DOP1_MOUSE [sp]	Protein dopey-1	584	Mus musculus (Mouse) [10090]	39-44		
+SALGKL	4	Q8BL99-4	DOP1_MOUSE [sp]	Protein dopey-1	346	Mus musculus (Mouse) [10090]	39-44		
+SALGKL	5	Q8BL99-5	DOP1_MOUSE [sp]	Protein dopey-1	2391	Mus musculus (Mouse) [10090]	39-44		
+SALGKL	6	Q8BL99-6	DOP1_MOUSE [sp]	Protein dopey-1	2399	Mus musculus (Mouse) [10090]	39-44		
+QTGKIA	1	P63139	NFYB_MOUSE [sp]	Nuclear transcription factor Y subunit beta	207	Mus musculus (Mouse) [10090]	74-79	Pride	985070
+ANLAAT	1	Q8K298	ANLN_MOUSE [sp]	Anillin	1121	Mus musculus (Mouse) [10090]	201-206	PeptideAtlas, Pride	832693, 832908, 1071129
+ANLAAT	2	Q91V45	KISSR_MOUSE [sp]	KiSS-1 receptor	396	Mus musculus (Mouse) [10090]	82-87	Pride	
+ANLAAT	3	Q99NH0	ANR17_MOUSE [sp]	Ankyrin repeat domain-containing protein 17	2603	Mus musculus (Mouse) [10090]	762-767	PeptideAtlas, Pride	
+ANLAAT	4	Q99NH0-2	ANR17_MOUSE [sp]	Ankyrin repeat domain-containing protein 17	1330	Mus musculus (Mouse) [10090]	621-626		
+ANLAAT	5	Q99NH0-3	ANR17_MOUSE [sp]	Ankyrin repeat domain-containing protein 17	1599	Mus musculus (Mouse) [10090]	762-767		
+IVRFPN	1	P11247	PERM_MOUSE [sp]	Myeloperoxidase precursor	718	Mus musculus (Mouse) [10090]	208-213	PeptideAtlas, Pride	176862, 176957, 176965, 176970, 176971, 176994, 177051, 177053, 177060, 177077, 177138, 177150, 177151, 177156, 177181, 177182, 177200, 177207, 177210, 177211, 177227, 177228, 177237, 177239, 177240, 177294, 177358, 177362, 177371, 177373, 177374, 922254, 922547, 956827
+IVRFPN	2	P70398	USP9X_MOUSE [sp]	Probable ubiquitin carboxyl-terminal hydrolase FAF-X	2559	Mus musculus (Mouse) [10090]	889-894	PeptideAtlas, Pride	138833, 138850, 138922, 138923
+DLFLPF	1	Q3TAP4	AP5B1_MOUSE [sp]	AP-5 complex subunit beta-1	876	Mus musculus (Mouse) [10090]	764-769	PeptideAtlas, Pride	833802, 1073353
+LVKQLS	1	E9Q6P5	TTC7B_MOUSE [sp]	Tetratricopeptide repeat protein 7B	843	Mus musculus (Mouse) [10090]	29-34	PeptideAtlas, Pride	
+LVKQLS	2	O88907	PIAS1_MOUSE [sp]	E3 SUMO-protein ligase PIAS1	651	Mus musculus (Mouse) [10090]	284-289	PeptideAtlas, Pride	834070
+LVKQLS	3	Q80W00	PP1RA_MOUSE [sp]	Serine/threonine-protein phosphatase 1 regulatory subunit 10	888	Mus musculus (Mouse) [10090]	116-121	PeptideAtlas, Pride	
+LVKQLS	4	Q80W00-2	PP1RA_MOUSE [sp]	Serine/threonine-protein phosphatase 1 regulatory subunit 10	874	Mus musculus (Mouse) [10090]	116-121		
+LVKQLS	5	Q8BYW1	RHG25_MOUSE [sp]	Rho GTPase-activating protein 25	648	Mus musculus (Mouse) [10090]	274-279	Pride	195234, 548324, 833014
+LVKQLS	6	Q8BYW1-2	RHG25_MOUSE [sp]	Rho GTPase-activating protein 25	559	Mus musculus (Mouse) [10090]	185-190		
+LVKQLS	7	Q8BYW1-3	RHG25_MOUSE [sp]	Rho GTPase-activating protein 25	622	Mus musculus (Mouse) [10090]	248-253		
+LVKQLS	8	Q9Z329	ITPR2_MOUSE [sp]	Inositol 1,4,5-trisphosphate receptor type 2	2701	Mus musculus (Mouse) [10090]	2659-2664	PeptideAtlas, Pride	238297, 834012, 835644
+LVKQLS	9	Q9Z329-2	ITPR2_MOUSE [sp]	Inositol 1,4,5-trisphosphate receptor type 2	1601	Mus musculus (Mouse) [10090]	1559-1564		
+LVKQLS	10	Q9Z329-3	ITPR2_MOUSE [sp]	Inositol 1,4,5-trisphosphate receptor type 2	2668	Mus musculus (Mouse) [10090]	2626-2631		
+VQPTES	1	Q8CG19	LTBP1_MOUSE [sp]	Latent-transforming growth factor beta-binding protein 1 precursor	1712	Mus musculus (Mouse) [10090]	1498-1503	PeptideAtlas, Pride	1069009, 1069940
+VQPTES	2	Q8CG19-2	LTBP1_MOUSE [sp]	Latent-transforming growth factor beta-binding protein 1 precursor	1394	Mus musculus (Mouse) [10090]	1180-1185		
+VQPTES	3	Q8CG19-3	LTBP1_MOUSE [sp]	Latent-transforming growth factor beta-binding protein 1 precursor	1341	Mus musculus (Mouse) [10090]	1127-1132		
+IRAAEI	1	P27046	MA2A1_MOUSE [sp]	Alpha-mannosidase 2	1150	Mus musculus (Mouse) [10090]	524-529	PeptideAtlas, Pride	243473, 498771, 501281, 501573, 501574, 530720, 532739, 532740, 533203, 533393, 533394, 533615, 749101, 749493, 835219
+IRAAEI	2	Q9JMH9	MY18A_MOUSE [sp]	Unconventional myosin-XVIIIa	2050	Mus musculus (Mouse) [10090]	1349-1354	PeptideAtlas, Pride	
+IRAAEI	3	Q9JMH9-1	MY18A_MOUSE [sp]	Unconventional myosin-XVIIIa	2035	Mus musculus (Mouse) [10090]	1349-1354		
+IRAAEI	4	Q9JMH9-2	MY18A_MOUSE [sp]	Unconventional myosin-XVIIIa	1719	Mus musculus (Mouse) [10090]	1018-1023		
+IRAAEI	5	Q9JMH9-4	MY18A_MOUSE [sp]	Unconventional myosin-XVIIIa	1998	Mus musculus (Mouse) [10090]	1349-1354		
+IRAAEI	6	Q9JMH9-5	MY18A_MOUSE [sp]	Unconventional myosin-XVIIIa	1704	Mus musculus (Mouse) [10090]	1018-1023		
+IRAAEI	7	Q9JMH9-6	MY18A_MOUSE [sp]	Unconventional myosin-XVIIIa	2062	Mus musculus (Mouse) [10090]	1361-1366		
+IRAAEI	8	Q9JMH9-7	MY18A_MOUSE [sp]	Unconventional myosin-XVIIIa	1716	Mus musculus (Mouse) [10090]	1030-1035		
+VTQQLI	1	Q99PG0	AAAD_MOUSE [sp]	Arylacetamide deacetylase	398	Mus musculus (Mouse) [10090]	197-202	PeptideAtlas, Pride	833062
+EPQIIT	1	Q922V4	PLRG1_MOUSE [sp]	Pleiotropic regulator 1	513	Mus musculus (Mouse) [10090]	341-346	PeptideAtlas, Pride	64008, 548137, 747463, 834020
+LLKYNE	1	Q9D4H7	LONF3_MOUSE [sp]	LON peptidase N-terminal domain and RING finger protein 3	753	Mus musculus (Mouse) [10090]	264-269	Pride	1071748
+LHSTQD	1	Q99LC9	PEX6_MOUSE [sp]	Peroxisome assembly factor 2	981	Mus musculus (Mouse) [10090]	837-842	PeptideAtlas, Pride	
+LLAGTI	1	P33173	KIF1A_MOUSE [sp]	Kinesin-like protein KIF1A	1695	Mus musculus (Mouse) [10090]	1676-1681	PeptideAtlas, Pride	225057, 836111, 1071136
+LLAGTI	2	Q60575	KIF1B_MOUSE [sp]	Kinesin-like protein KIF1B	1816	Mus musculus (Mouse) [10090]	1797-1802	PeptideAtlas, Pride	833673, 834531, 835163
+LLAGTI	3	Q60575-2	KIF1B_MOUSE [sp]	Kinesin-like protein KIF1B	1770	Mus musculus (Mouse) [10090]	1751-1756		
+SYLTPG	1	P12399	CTL2A_MOUSE [sp]	Protein CTLA-2-alpha precursor	137	Mus musculus (Mouse) [10090]	127-132	PeptideAtlas, Pride	
+SYLTPG	2	P12400	CTL2B_MOUSE [sp]	Protein CTLA-2-beta	113	Mus musculus (Mouse) [10090]	103-108	PeptideAtlas, Pride	
+NLVRDL	1	Q3TL26	TFB2M_MOUSE [sp]	Dimethyladenosine transferase 2, mitochondrial precursor	396	Mus musculus (Mouse) [10090]	82-87	PeptideAtlas, Pride	
+NLVRDL	2	Q61483	DLL1_MOUSE [sp]	Delta-like protein 1 precursor	722	Mus musculus (Mouse) [10090]	642-647	Pride	
+NLVRDL	3	Q8BL80	RHG22_MOUSE [sp]	Rho GTPase-activating protein 22	702	Mus musculus (Mouse) [10090]	207-212	PeptideAtlas, Pride	
+NLVRDL	4	Q8BL80-2	RHG22_MOUSE [sp]	Rho GTPase-activating protein 22	571	Mus musculus (Mouse) [10090]	76-81		
+NLVRDL	5	Q8BL80-3	RHG22_MOUSE [sp]	Rho GTPase-activating protein 22	502	Mus musculus (Mouse) [10090]	76-81		
+YLQPRT	1	Q923W9	ADA33_MOUSE [sp]	Disintegrin and metalloproteinase domain-containing protein 33 precursor	797	Mus musculus (Mouse) [10090]	150-155	Pride	
+YLQPRT	2	Q923W9-2	ADA33_MOUSE [sp]	Disintegrin and metalloproteinase domain-containing protein 33 precursor	771	Mus musculus (Mouse) [10090]	150-155		
+VYSTGS	1	P70232	NCHL1_MOUSE [sp]	Neural cell adhesion molecule L1-like protein precursor	1209	Mus musculus (Mouse) [10090]	341-346	PeptideAtlas, Pride	
+VYSTGS	2	P70232-2	NCHL1_MOUSE [sp]	Neural cell adhesion molecule L1-like protein precursor	1150	Mus musculus (Mouse) [10090]	357-362		
+DEVRQI	1	Q8BRH4	KMT2C_MOUSE [sp]	Histone-lysine N-methyltransferase 2C	4903	Mus musculus (Mouse) [10090]	4522-4527	Pride	1069309, 1069854, 1069996
+DEVRQI	2	Q8BRH4-2	KMT2C_MOUSE [sp]	Histone-lysine N-methyltransferase 2C	3463	Mus musculus (Mouse) [10090]	3086-3091		
+DEVRQI	3	Q8VDS8	STX18_MOUSE [sp]	Syntaxin-18	334	Mus musculus (Mouse) [10090]	250-255	PeptideAtlas, Pride	548477, 917485
+DEVRQI	4	Q8VDS8-2	STX18_MOUSE [sp]	Syntaxin-18	308	Mus musculus (Mouse) [10090]	224-229		
+DEVRQI	5	Q8VDS8-3	STX18_MOUSE [sp]	Syntaxin-18	308	Mus musculus (Mouse) [10090]	250-255		
+IQDSLS	1	Q62087	PON3_MOUSE [sp]	Serum paraoxonase/lactonase 3	354	Mus musculus (Mouse) [10090]	306-311	PeptideAtlas, Pride	
+EPLVDL	1	Q8BLN6	UNC80_MOUSE [sp]	Protein unc-80 homolog	3261	Mus musculus (Mouse) [10090]	1372-1377	Pride	1070775
+EPLVDL	2	Q8VEE1	LMCD1_MOUSE [sp]	LIM and cysteine-rich domains protein 1	365	Mus musculus (Mouse) [10090]	280-285	Pride	
+VKQLSS	1	O88907	PIAS1_MOUSE [sp]	E3 SUMO-protein ligase PIAS1	651	Mus musculus (Mouse) [10090]	285-290	PeptideAtlas, Pride	834070
+VKQLSS	2	P56695	WFS1_MOUSE [sp]	Wolframin	890	Mus musculus (Mouse) [10090]	164-169	PeptideAtlas, Pride	243316
+CVLGQS	1	P00342	LDHC_MOUSE [sp]	L-lactate dehydrogenase C chain	332	Mus musculus (Mouse) [10090]	293-298	PeptideAtlas, Pride	
+LVLLPL	1	O55233	CER1_MOUSE [sp]	Cerberus precursor	272	Mus musculus (Mouse) [10090]	9-14	Pride	
+LVLLPL	2	P35347	CRFR1_MOUSE [sp]	Corticotropin-releasing factor receptor 1 precursor	415	Mus musculus (Mouse) [10090]	317-322	Pride	
+LVLLPL	3	Q60748	CRFR2_MOUSE [sp]	Corticotropin-releasing factor receptor 2	411	Mus musculus (Mouse) [10090]	313-318	Pride	
+LVLLPL	4	Q60748-2	CRFR2_MOUSE [sp]	Corticotropin-releasing factor receptor 2	431	Mus musculus (Mouse) [10090]	333-338		
+LVLLPL	5	Q60825	NPT2A_MOUSE [sp]	Sodium-dependent phosphate transport protein 2A	637	Mus musculus (Mouse) [10090]	232-237	PeptideAtlas, Pride	
+LVLLPL	6	Q80SU6	NPT2C_MOUSE [sp]	Sodium-dependent phosphate transport protein 2C	601	Mus musculus (Mouse) [10090]	203-208	Pride	
+LVLLPL	7	Q80TE0	RPAP1_MOUSE [sp]	RNA polymerase II-associated protein 1	1409	Mus musculus (Mouse) [10090]	1247-1252	PeptideAtlas, Pride	749054, 752216, 1069465
+LVLLPL	8	Q80TE0-2	RPAP1_MOUSE [sp]	RNA polymerase II-associated protein 1	1290	Mus musculus (Mouse) [10090]	1247-1252		
+LVLLPL	9	Q9R1W5	CALRL_MOUSE [sp]	Calcitonin gene-related peptide type 1 receptor precursor	463	Mus musculus (Mouse) [10090]	10-15	Pride	833723, 835537
+NGTITD	1	Q922D4	PP6R3_MOUSE [sp]	Serine/threonine-protein phosphatase 6 regulatory subunit 3	844	Mus musculus (Mouse) [10090]	409-414	PeptideAtlas, Pride	753117
+NGTITD	2	Q922D4-2	PP6R3_MOUSE [sp]	Serine/threonine-protein phosphatase 6 regulatory subunit 3	827	Mus musculus (Mouse) [10090]	409-414		
+NGTITD	3	Q922D4-3	PP6R3_MOUSE [sp]	Serine/threonine-protein phosphatase 6 regulatory subunit 3	548	Mus musculus (Mouse) [10090]	409-414		
+NGTITD	4	Q922D4-4	PP6R3_MOUSE [sp]	Serine/threonine-protein phosphatase 6 regulatory subunit 3	497	Mus musculus (Mouse) [10090]	409-414		
+DEDDSE	1	P51612	XPC_MOUSE [sp]	DNA repair protein complementing XP-C cells homolog	930	Mus musculus (Mouse) [10090]	122-127	PeptideAtlas, Pride	
+SNQVAV	1	P61600	NAA20_MOUSE [sp]	N-alpha-acetyltransferase 20	178	Mus musculus (Mouse) [10090]	115-120	PeptideAtlas, Pride	
+AQALNT	1	Q8C0V1	TERB1_MOUSE [sp]	Telomere repeats-binding bouquet formation protein 1	768	Mus musculus (Mouse) [10090]	682-687	Pride	
+AQALNT	2	Q8C0V1-2	TERB1_MOUSE [sp]	Telomere repeats-binding bouquet formation protein 1	705	Mus musculus (Mouse) [10090]	648-653		
+TMSLGA	1	Q8CFE4	SCYL2_MOUSE [sp]	SCY1-like protein 2	930	Mus musculus (Mouse) [10090]	805-810	PeptideAtlas, Pride	749710, 922345
+TMSLGA	2	Q8CFE4-2	SCYL2_MOUSE [sp]	SCY1-like protein 2	506	Mus musculus (Mouse) [10090]	381-386		
+QGFSAL	1	Q9JI33	NET4_MOUSE [sp]	Netrin-4 precursor	628	Mus musculus (Mouse) [10090]	495-500	Pride	
+ISNCVA	1	Q8BMC0	LPAR6_MOUSE [sp]	Lysophosphatidic acid receptor 6	344	Mus musculus (Mouse) [10090]	33-38	Pride	242799
+SLGAEN	1	Q8BXA5	CLP1L_MOUSE [sp]	Cleft lip and palate transmembrane protein 1-like protein	539	Mus musculus (Mouse) [10090]	64-69	PeptideAtlas, Pride	192133, 243652, 985163, 1074250
+SVLNDI	1	B1AZI6	THOC2_MOUSE [sp]	THO complex subunit 2	1594	Mus musculus (Mouse) [10090]	68-73	PeptideAtlas, Pride	191893, 985245, 1070919, 1074147
+SVLNDI	2	Q3UWA6	GUC2C_MOUSE [sp]	Heat-stable enterotoxin receptor precursor	1072	Mus musculus (Mouse) [10090]	592-597	PeptideAtlas, Pride	871541
+SVLNDI	3	Q3UWA6-2	GUC2C_MOUSE [sp]	Heat-stable enterotoxin receptor precursor	1048	Mus musculus (Mouse) [10090]	568-573		
+AVDCAL	1	B2RRD7	BRPF1_MOUSE [sp]	Peregrin	1212	Mus musculus (Mouse) [10090]	326-331	PeptideAtlas, Pride	

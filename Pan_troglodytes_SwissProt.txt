@@ -1,0 +1,12 @@
+#Query Peptide	Rank	Protein AC	Protein ID	Protein Name	Length	Organism	Matched Range(s)	Proteomic Databases	IEDB
+SLSSTA	1	Q5DRA2	PCDGM_PANTR [sp]	Protocadherin gamma-C5 precursor	944	Pan troglodytes (Chimpanzee) [9598]	655-660		
+GWIFGT	1	P55920	CXCR1_PANTR [sp]	C-X-C chemokine receptor type 1	350	Pan troglodytes (Chimpanzee) [9598]	102-107		
+GWIFGT	2	Q28807	CXCR2_PANTR [sp]	C-X-C chemokine receptor type 2 (Fragment)	357	Pan troglodytes (Chimpanzee) [9598]	108-113		
+ARSVAS	1	H2Q5A1	SCNNA_PANTR [sp]	Amiloride-sensitive sodium channel subunit alpha	692	Pan troglodytes (Chimpanzee) [9598]	226-231		
+RRARSV	1	H2Q5A1	SCNNA_PANTR [sp]	Amiloride-sensitive sodium channel subunit alpha	692	Pan troglodytes (Chimpanzee) [9598]	224-229		
+QALNTL	1	Q6GVM5	TXNG2_PANTR [sp]	Putative gamma-taxilin 2	131	Pan troglodytes (Chimpanzee) [9598]	103-108		
+TLEILD	1	B3Y613	TLR2_PANTR [sp]	Toll-like receptor 2 precursor	784	Pan troglodytes (Chimpanzee) [9598]	458-463		
+AKNLNE	1	A5A6I6	TRFE_PANTR [sp]	Serotransferrin precursor	698	Pan troglodytes (Chimpanzee) [9598]	570-575	Pride	
+RARSVA	1	H2Q5A1	SCNNA_PANTR [sp]	Amiloride-sensitive sodium channel subunit alpha	692	Pan troglodytes (Chimpanzee) [9598]	225-230		
+LVKQLS	1	Q7YR38	PP1RA_PANTR [sp]	Serine/threonine-protein phosphatase 1 regulatory subunit 10	940	Pan troglodytes (Chimpanzee) [9598]	116-121		
+LVLLPL	1	Q8SQ14	RNAS1_PANTR [sp]	Ribonuclease pancreatic precursor	156	Pan troglodytes (Chimpanzee) [9598]	7-12		
