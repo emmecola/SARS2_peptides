@@ -1,0 +1,6 @@
+#Query Peptide	Rank	Protein AC	Protein ID	Protein Name	Length	Organism	Matched Range(s)	Proteomic Databases	IEDB
+GWIFGT	1	P55919	CXCR1_GORGO [sp]	C-X-C chemokine receptor type 1	350	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	102-107		
+GWIFGT	2	Q28422	CXCR2_GORGO [sp]	C-X-C chemokine receptor type 2 (Fragment)	353	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	108-113		
+RVVVLS	1	Q8WNE1	CP2F5_GORGO [sp]	Cytochrome P450 2F5	491	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	74-79		
+TLEILD	1	B3Y615	TLR2_GORGO [sp]	Toll-like receptor 2 precursor	784	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	458-463		
+LVLLPL	1	Q8SQ13	RNAS1_GORGO [sp]	Ribonuclease pancreatic precursor	156	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	7-12		

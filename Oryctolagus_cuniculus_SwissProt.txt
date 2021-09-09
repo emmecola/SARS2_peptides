@@ -1,0 +1,22 @@
+#Query Peptide	Rank	Protein AC	Protein ID	Protein Name	Length	Organism	Matched Range(s)	Proteomic Databases	IEDB
+EIDRLN	1	Q28628	AKAP9_RABIT [sp]	A-kinase anchor protein 9 (Fragment)	1087	Oryctolagus cuniculus (Rabbit) [9986]	310-315	Pride	
+GIAVEQ	1	O18894	CLCN3_RABIT [sp]	H(+)/Cl(-) exchange transporter 3	818	Oryctolagus cuniculus (Rabbit) [9986]	542-547		
+VLLPLV	1	Q9TS33	RYR3_RABIT [sp]	Ryanodine receptor 3	4872	Oryctolagus cuniculus (Rabbit) [9986]	2865-2870	Pride	
+VLLPLV	2	Q9TS33-2	RYR3_RABIT [sp]	Ryanodine receptor 3	4843	Oryctolagus cuniculus (Rabbit) [9986]	2865-2870		
+VLLPLV	3	Q9TS33-3	RYR3_RABIT [sp]	Ryanodine receptor 3	4867	Oryctolagus cuniculus (Rabbit) [9986]	2865-2870		
+VLLPLV	4	Q9TS33-4	RYR3_RABIT [sp]	Ryanodine receptor 3	4821	Oryctolagus cuniculus (Rabbit) [9986]	2865-2870		
+GTITDA	1	P33477	ANX11_RABIT [sp]	Annexin A11	503	Oryctolagus cuniculus (Rabbit) [9986]	190-195		
+NLLLQY	1	P51789	CLCN2_RABIT [sp]	Chloride channel protein 2	898	Oryctolagus cuniculus (Rabbit) [9986]	132-137	Pride	
+VGYLQP	1	Q9GLC3	AT1B3_RABIT [sp]	Sodium/potassium-transporting ATPase subunit beta-3	279	Oryctolagus cuniculus (Rabbit) [9986]	224-229	Pride	
+GWIFGT	1	P21109	CXCR1_RABIT [sp]	C-X-C chemokine receptor type 1	355	Oryctolagus cuniculus (Rabbit) [9986]	107-112		
+VLPPLL	1	P34970	AA1R_RABIT [sp]	Adenosine receptor A1	328	Oryctolagus cuniculus (Rabbit) [9986]	189-194	Pride	
+VLPPLL	2	Q32ZE2	AA2BR_RABIT [sp]	Adenosine receptor A2b	332	Oryctolagus cuniculus (Rabbit) [9986]	191-196	Pride	
+IDRLNE	1	Q28628	AKAP9_RABIT [sp]	A-kinase anchor protein 9 (Fragment)	1087	Oryctolagus cuniculus (Rabbit) [9986]	311-316	Pride	
+LTESNK	1	Q95L11	KCNB2_RABIT [sp]	Potassium voltage-gated channel subfamily B member 2	911	Oryctolagus cuniculus (Rabbit) [9986]	283-288	Pride	
+LTESNK	2	Q9MZ19	KCNB1_RABIT [sp]	Potassium voltage-gated channel subfamily B member 1	858	Oryctolagus cuniculus (Rabbit) [9986]	279-284		
+DSLSST	1	P09809	APOA1_RABIT [sp]	Apolipoprotein A-I precursor	266	Oryctolagus cuniculus (Rabbit) [9986]	74-79		
+FKNIDG	1	P00182	CP2C3_RABIT [sp]	Cytochrome P450 2C3	489	Oryctolagus cuniculus (Rabbit) [9986]	233-238	Pride	
+DRLNEV	1	P18287	APOE_RABIT [sp]	Apolipoprotein E precursor	311	Oryctolagus cuniculus (Rabbit) [9986]	238-243		
+NTFVSG	1	Q6PNB6	GNB5_RABIT [sp]	Guanine nucleotide-binding protein subunit beta-5	353	Oryctolagus cuniculus (Rabbit) [9986]	210-215	Pride	
+SALGKL	1	Q6TYA7	CXA1_RABIT [sp]	Gap junction alpha-1 protein	382	Oryctolagus cuniculus (Rabbit) [9986]	5-10		
+LVLLPL	1	Q28620	NPT2A_RABIT [sp]	Sodium-dependent phosphate transport protein 2A	642	Oryctolagus cuniculus (Rabbit) [9986]	235-240	Pride	

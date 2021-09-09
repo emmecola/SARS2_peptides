@@ -1,0 +1,17 @@
+#Query Peptide	Rank	Protein AC	Protein ID	Protein Name	Length	Organism	Matched Range(s)	Proteomic Databases	IEDB
+VFLVLL	1	Q68CI2	DOPO_CANLF [sp]	Dopamine beta-hydroxylase	625	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	21-26		
+SVDCTM	1	P33729	ICAM1_CANLF [sp]	Intercellular adhesion molecule 1 precursor (Fragment)	528	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	229-234		
+ASALGK	1	P02648	APOA1_CANLF [sp]	Apolipoprotein A-I precursor	266	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	58-63	Pride	
+GWIFGT	1	O97571	CXCR2_CANLF [sp]	C-X-C chemokine receptor type 2	356	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	109-114		
+ASFSTF	1	Q68AY9	CCL8_CANLF [sp]	C-C motif chemokine 8 precursor	99	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	15-20	Pride	
+VLPPLL	1	P11616	AA1R_CANLF [sp]	Adenosine receptor A1	326	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	189-194		
+VLPPLL	2	Q6W3F4	AA2BR_CANLF [sp]	Adenosine receptor A2b	332	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	190-195		
+LSRLDK	1	Q28269	OCLN_CANLF [sp]	Occludin	521	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	456-461		
+ESLIDL	1	A4Z944	ZBED5_CANLF [sp]	Zinc finger BED domain-containing protein 5	694	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	594-599		
+LTESNK	1	Q95167	KCNB2_CANLF [sp]	Potassium voltage-gated channel subfamily B member 2 (Fragment)	809	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	283-288	Pride	
+TLEILD	1	Q689D1	TLR2_CANLF [sp]	Toll-like receptor 2 precursor	785	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	459-464		
+ENGTIT	1	A0A5F4BST2	CRUM3_CANLF [sp]	Protein crumbs homolog 3 precursor	123	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	35-40		
+NENGTI	1	A0A5F4BST2	CRUM3_CANLF [sp]	Protein crumbs homolog 3 precursor	123	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	34-39		
+DSLSST	1	P02648	APOA1_CANLF [sp]	Apolipoprotein A-I precursor	266	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	74-79	Pride	
+DIADTT	1	Q8MJW8	CCR4_CANLF [sp]	C-C chemokine receptor type 4	360	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	5-10		
+GRLQSL	1	Q28260	VCAM1_CANLF [sp]	Vascular cell adhesion protein 1 precursor	739	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	553-558	Pride	

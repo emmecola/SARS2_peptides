@@ -1,0 +1,6 @@
+#Query Peptide	Rank	Protein AC	Protein ID	Protein Name	Length	Organism	Matched Range(s)	Proteomic Databases	IEDB
+QDVVNQ	1	P15423	SPIKE_CVH22 [sp]	Spike glycoprotein precursor	1173	Human coronavirus 229E (HCoV-229E) [11137]	834-839	Pride	
+DRLITG	1	P15423	SPIKE_CVH22 [sp]	Spike glycoprotein precursor	1173	Human coronavirus 229E (HCoV-229E) [11137]	879-884	Pride	
+RLITGR	1	P15423	SPIKE_CVH22 [sp]	Spike glycoprotein precursor	1173	Human coronavirus 229E (HCoV-229E) [11137]	880-885	Pride	
+LITGRL	1	P15423	SPIKE_CVH22 [sp]	Spike glycoprotein precursor	1173	Human coronavirus 229E (HCoV-229E) [11137]	881-886	Pride	
+YIKWPW	1	P15423	SPIKE_CVH22 [sp]	Spike glycoprotein precursor	1173	Human coronavirus 229E (HCoV-229E) [11137]	1111-1116	Pride	

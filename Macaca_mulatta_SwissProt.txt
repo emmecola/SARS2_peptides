@@ -1,0 +1,7 @@
+#Query Peptide	Rank	Protein AC	Protein ID	Protein Name	Length	Organism	Matched Range(s)	Proteomic Databases	IEDB
+GWIFGT	1	Q28519	CXCR2_MACMU [sp]	C-X-C chemokine receptor type 2 (Fragment)	353	Macaca mulatta (Rhesus macaque) [9544]	108-113		
+GWIFGT	2	Q2YEG0	CXCR1_MACMU [sp]	C-X-C chemokine receptor type 1	351	Macaca mulatta (Rhesus macaque) [9544]	103-108		
+TLEILD	1	B3Y618	TLR2_MACMU [sp]	Toll-like receptor 2 precursor	784	Macaca mulatta (Rhesus macaque) [9544]	458-463		
+LEILDI	1	B3Y618	TLR2_MACMU [sp]	Toll-like receptor 2 precursor	784	Macaca mulatta (Rhesus macaque) [9544]	459-464		
+LVKQLS	1	Q5TM61	PP1RA_MACMU [sp]	Serine/threonine-protein phosphatase 1 regulatory subunit 10	940	Macaca mulatta (Rhesus macaque) [9544]	116-121		
+LVLLPL	1	Q76LL8	CRFR1_MACMU [sp]	Corticotropin-releasing factor receptor 1 precursor	415	Macaca mulatta (Rhesus macaque) [9544]	317-322		
