@@ -1,0 +1,9 @@
+#Query Peptide	Rank	Protein AC	Protein ID	Protein Name	Length	Organism	Matched Range(s)	Proteomic Databases	IEDB
+ILSRLD	1	Q5MQD0	SPIKE_CVHN1 [sp]	Spike glycoprotein precursor	1356	Human coronavirus HKU1 (isolate N1) (HCoV-HKU1) [443239]	1065-1070		
+IPTNFT	1	Q5MQD0	SPIKE_CVHN1 [sp]	Spike glycoprotein precursor	1356	Human coronavirus HKU1 (isolate N1) (HCoV-HKU1) [443239]	794-799		
+FGAISS	1	Q5MQD0	SPIKE_CVHN1 [sp]	Spike glycoprotein precursor	1356	Human coronavirus HKU1 (isolate N1) (HCoV-HKU1) [443239]	1055-1060		
+NQKLIA	1	Q5MQD0	SPIKE_CVHN1 [sp]	Spike glycoprotein precursor	1356	Human coronavirus HKU1 (isolate N1) (HCoV-HKU1) [443239]	1004-1009		
+VQIDRL	1	Q5MQD0	SPIKE_CVHN1 [sp]	Spike glycoprotein precursor	1356	Human coronavirus HKU1 (isolate N1) (HCoV-HKU1) [443239]	1076-1081		
+PTNFTI	1	Q5MQD0	SPIKE_CVHN1 [sp]	Spike glycoprotein precursor	1356	Human coronavirus HKU1 (isolate N1) (HCoV-HKU1) [443239]	795-800		
+QIDRLI	1	Q5MQD0	SPIKE_CVHN1 [sp]	Spike glycoprotein precursor	1356	Human coronavirus HKU1 (isolate N1) (HCoV-HKU1) [443239]	1077-1082		
+NAQALN	1	Q5MQD0	SPIKE_CVHN1 [sp]	Spike glycoprotein precursor	1356	Human coronavirus HKU1 (isolate N1) (HCoV-HKU1) [443239]	1040-1045		

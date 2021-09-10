@@ -1,0 +1,1379 @@
+#Query Peptide	Rank	Protein AC	Protein ID	Protein Name	Length	Organism	Matched Range(s)	Proteomic Databases	IEDB
+VEGFNC	1	A0A5F4CJ74	A0A5F4CJ74_CANLF [tr]	Laminin subunit gamma 1	1528	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	388-393		
+VEGFNC	2	F1PHK9	F1PHK9_CANLF [tr]	Laminin subunit gamma 1	1487	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	347-352	Pride	
+SLLIVN	1	A0A5F4CZY9	A0A5F4CZY9_CANLF [tr]	Phospholipase A2	139	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	19-24		
+SLLIVN	2	F6XUF9	F6XUF9_CANLF [tr]	E3 ubiquitin protein ligase	975	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	89-94		
+VTLADA	1	A0A5F4CC54	A0A5F4CC54_CANLF [tr]	Autophagy-related protein 9	916	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	253-258		
+TRFQTL	1	A0A5F4BSK8	A0A5F4BSK8_CANLF [tr]	Dishevelled associated activator of morphogenesis 1	1078	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	255-260		
+TRFQTL	2	A0A5F4D7T7	A0A5F4D7T7_CANLF [tr]	Dishevelled associated activator of morphogenesis 1	998	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	185-190		
+TRFQTL	3	A0A5F4DED7	A0A5F4DED7_CANLF [tr]	DNA topoisomerase	915	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	145-150		
+TRFQTL	4	A0A5F4DFQ4	A0A5F4DFQ4_CANLF [tr]	Dishevelled associated activator of morphogenesis 2	1076	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	251-256		
+TRFQTL	5	E2R292	E2R292_CANLF [tr]	Dishevelled associated activator of morphogenesis 1	1068	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	255-260		
+TRFQTL	6	E2RDQ5	E2RDQ5_CANLF [tr]	Dishevelled associated activator of morphogenesis 2	1067	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	251-256		
+TRFQTL	7	E2RIS5	E2RIS5_CANLF [tr]	DNA topoisomerase	989	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	219-224		
+EIDRLN	1	A0A5F4C2G2	A0A5F4C2G2_CANLF [tr]	A-kinase anchoring protein 9	3897	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2260-2265		
+EIDRLN	2	A0A5F4C6R6	A0A5F4C6R6_CANLF [tr]	A-kinase anchoring protein 9	3867	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2294-2299		
+EIDRLN	3	A0A5F4CFJ7	A0A5F4CFJ7_CANLF [tr]	A-kinase anchoring protein 9	3721	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2247-2252		
+EIDRLN	4	A0A5F4CLZ2	A0A5F4CLZ2_CANLF [tr]	A-kinase anchoring protein 9	3870	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2294-2299		
+EIDRLN	5	A0A5F4CRG5	A0A5F4CRG5_CANLF [tr]	A-kinase anchoring protein 9	3944	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2307-2312		
+EIDRLN	6	A0A5F4CSW3	A0A5F4CSW3_CANLF [tr]	Uncharacterized protein	252	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	30-35		
+EIDRLN	7	A0A5F4D5M4	A0A5F4D5M4_CANLF [tr]	A-kinase anchoring protein 9	3583	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1946-1951		
+EIDRLN	8	F1PBY8	F1PBY8_CANLF [tr]	A-kinase anchoring protein 9	3538	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1927-1932		567369
+EIDRLN	9	F1PDT2	F1PDT2_CANLF [tr]	Uncharacterized protein	297	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	53-58		
+EIDRLN	10	J9P048	J9P048_CANLF [tr]	Uncharacterized protein	289	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	53-58	Pride	
+EIDRLN	11	J9P4D9	J9P4D9_CANLF [tr]	A-kinase anchoring protein 9	3931	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2294-2299		
+EIDRLN	12	J9P7Y8	J9P7Y8_CANLF [tr]	Uncharacterized protein	298	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	80-85		
+EIDRLN	13	Q8MJ43	Q8MJ43_CANLF [tr]	Protein phosphatase 2A inhibitor 2	296	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	53-58		
+GWTFGA	1	F1PWW4	F1PWW4_CANLF [tr]	ATP binding cassette subfamily A member 13	4457	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	3770-3775		
+GWTFGA	2	J9NZP6	J9NZP6_CANLF [tr]	ATP binding cassette subfamily A member 13	4640	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	3997-4002		
+KVEAEV	1	A0A5F4C2X9	A0A5F4C2X9_CANLF [tr]	Structural maintenance of chromosomes protein	1306	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	897-902		
+KVEAEV	2	A0A5F4CU83	A0A5F4CU83_CANLF [tr]	Structural maintenance of chromosomes protein	1325	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	916-921		
+KVEAEV	3	E2RCX4	E2RCX4_CANLF [tr]	Structural maintenance of chromosomes protein	1230	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	879-884		
+KVEAEV	4	E2RR98	E2RR98_CANLF [tr]	Elastin microfibril interfacer 3	769	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	628-633		
+GIAVEQ	1	A0A5F4BTC6	A0A5F4BTC6_CANLF [tr]	Chloride channel protein	865	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	542-547		
+GIAVEQ	2	A0A5F4CUA6	A0A5F4CUA6_CANLF [tr]	Chloride channel protein	791	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	515-520		
+GIAVEQ	3	E2R876	E2R876_CANLF [tr]	Chloride channel protein	818	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	542-547		
+GIAVEQ	4	Q4LAL7	Q4LAL7_CANLF [tr]	Chloride channel protein	791	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	515-520		
+GIAVEQ	5	Q4LAL8	Q4LAL8_CANLF [tr]	Chloride channel protein	838	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	515-520		
+SFCTQL	1	Q70ZG8	Q70ZG8_CANLF [tr]	Olfactory receptor (Fragment)	216	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	100-105		
+ALLAGT	1	E2RIV2	E2RIV2_CANLF [tr]	COMM domain-containing protein 5	224	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	84-89		
+ALLAGT	2	F1PSK9	F1PSK9_CANLF [tr]	Nucleoporin 210	1763	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1692-1697		
+ALLAGT	3	J9JHT5	J9JHT5_CANLF [tr]	Nucleoporin 210	1764	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1693-1698		
+LTVLPP	1	A0A5F4C8G1	A0A5F4C8G1_CANLF [tr]	Ras suppressor protein 1	260	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	192-197		
+LTVLPP	2	A0A5F4CXQ0	A0A5F4CXQ0_CANLF [tr]	Ras suppressor protein 1	259	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	174-179		
+LTVLPP	3	A0A5F4DKP0	A0A5F4DKP0_CANLF [tr]	Ras suppressor protein 1	256	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	192-197		
+LTVLPP	4	E2R9R1	E2R9R1_CANLF [tr]	Ras suppressor protein 1	277	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	192-197	Pride	
+LTVLPP	5	F1PDT3	F1PDT3_CANLF [tr]	Formin homology 2 domain containing 3	1386	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	937-942		
+LTVLPP	6	J9NVV0	J9NVV0_CANLF [tr]	Formin homology 2 domain containing 3	636	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	187-192		
+LTVLPP	7	J9PAL1	J9PAL1_CANLF [tr]	Formin homology 2 domain containing 3	1403	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	954-959		
+AALQIP	1	F6Y4F1	F6Y4F1_CANLF [tr]	Dachsous cadherin-related 1	3294	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	145-150		
+VLLPLV	1	A0A5F4C970	A0A5F4C970_CANLF [tr]	Mitogen-activated protein kinase kinase kinase	1282	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	338-343		
+VLLPLV	2	A0A5F4CIM7	A0A5F4CIM7_CANLF [tr]	RNAse_Pc domain-containing protein	222	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	79-84		
+VLLPLV	3	A0A5F4CTA4	A0A5F4CTA4_CANLF [tr]	TNF receptor superfamily member 1A	660	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	320-325		
+VLLPLV	4	A0A5F4D3I0	A0A5F4D3I0_CANLF [tr]	TNF receptor superfamily member 1A	543	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	203-208		
+VLLPLV	5	A0A5F4D4X3	A0A5F4D4X3_CANLF [tr]	Olfactory receptor	309	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	207-212		
+VLLPLV	6	A0A5F4D904	A0A5F4D904_CANLF [tr]	Dermatopontin	201	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	8-13		
+VLLPLV	7	A0A5F4DCB7	A0A5F4DCB7_CANLF [tr]	TNF receptor superfamily member 1A	752	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	320-325		
+VLLPLV	8	A0A5F4DKW5	A0A5F4DKW5_CANLF [tr]	TNF receptor superfamily member 1A	409	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	169-174		
+VLLPLV	9	E2RFY1	E2RFY1_CANLF [tr]	Transmembrane channel-like protein	702	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	124-129		
+VLLPLV	10	E2RPQ6	E2RPQ6_CANLF [tr]	Dermatopontin	214	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	8-13	Pride	
+VLLPLV	11	F1P6H0	F1P6H0_CANLF [tr]	Mitogen-activated protein kinase kinase kinase	1300	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	338-343		568015
+VLLPLV	12	F1PJL2	F1PJL2_CANLF [tr]	Ryanodine receptor 3	4842	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2843-2848		
+VLLPLV	13	F1PNY7	F1PNY7_CANLF [tr]	Tumor necrosis factor receptor 1	452	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	212-217		
+VLLPLV	14	F1PXN3	F1PXN3_CANLF [tr]	Sialic acid acetylesterase	619	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	120-125		
+VLLPLV	15	W0UTI2	W0UTI2_CANLF [tr]	Pancreatic ribonuclease	151	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	8-13		
+GTITDA	1	A0A5F4C3D8	A0A5F4C3D8_CANLF [tr]	Annexin	713	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	347-352		
+GTITDA	2	A0A5F4CBY9	A0A5F4CBY9_CANLF [tr]	Annexin	694	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	347-352		
+GTITDA	3	A0A5F4CMH1	A0A5F4CMH1_CANLF [tr]	Annexin	590	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	224-229		
+GTITDA	4	A0A5F4DHG6	A0A5F4DHG6_CANLF [tr]	Annexin	529	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	216-221		
+GTITDA	5	E2QXN8	E2QXN8_CANLF [tr]	Annexin	660	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	347-352	Pride	
+VAVLYQ	1	E2R819	E2R819_CANLF [tr]	Ring finger protein 213	4454	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	3632-3637	Pride	
+YNYLYR	1	A0A5F4BQZ7	A0A5F4BQZ7_CANLF [tr]	Chromosome 7 C1orf43 homolog	325	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	64-69		
+YNYLYR	2	A0A5F4CV34	A0A5F4CV34_CANLF [tr]	Chromosome 7 C1orf43 homolog	359	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	98-103		
+YNYLYR	3	A0A5F4DBM2	A0A5F4DBM2_CANLF [tr]	Chromosome 7 C1orf43 homolog	399	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	98-103		
+YNYLYR	4	E2RRD8	E2RRD8_CANLF [tr]	Chromosome 7 C1orf43 homolog	171	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	98-103		
+VFLVLL	1	A0A5F4CLH0	A0A5F4CLH0_CANLF [tr]	NEDD4 binding protein 2 like 2	1215	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1180-1185		
+VFLVLL	2	A0A5F4DEY8	A0A5F4DEY8_CANLF [tr]	Asporin	235	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	5-10		
+VFLVLL	3	E2RBW8	E2RBW8_CANLF [tr]	Asporin	372	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	5-10	Pride	
+VFLVLL	4	Q68CI2	DOPO_CANLF [sp]	Dopamine beta-hydroxylase	625	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	21-26		
+SFIEDL	1	A0A5F4C2S4	A0A5F4C2S4_CANLF [tr]	Coiled-coil domain containing 61	575	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	105-110		
+SFIEDL	2	A0A5F4DIB7	A0A5F4DIB7_CANLF [tr]	Coiled-coil domain containing 61	527	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	57-62		
+SFIEDL	3	E2RNE8	E2RNE8_CANLF [tr]	Coiled-coil domain containing 61	468	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	49-54		
+SFIEDL	4	F1PM25	F1PM25_CANLF [tr]	ATP binding cassette subfamily B member 5	1206	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1085-1090		
+SFIEDL	5	J9NX16	J9NX16_CANLF [tr]	Coiled-coil domain containing 61	569	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	105-110		
+LFLPFF	1	A0A5F4CGB5	A0A5F4CGB5_CANLF [tr]	Fructose transporter	512	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	219-224		
+LFLPFF	2	A0A5F4CTM8	A0A5F4CTM8_CANLF [tr]	Fructose transporter	468	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	175-180		
+LFLPFF	3	A0A5F4DGF7	A0A5F4DGF7_CANLF [tr]	Fructose transporter	601	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	308-313		
+LFLPFF	4	A0A5F4DM02	A0A5F4DM02_CANLF [tr]	Fructose transporter	564	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	308-313		
+LFLPFF	5	E2QZT8	E2QZT8_CANLF [tr]	Fructose transporter	501	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	208-213		
+LFLPFF	6	J9P521	J9P521_CANLF [tr]	IG domain-containing protein	310	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	6-11		
+QDVVNQ	1	A0A5F4C4K2	A0A5F4C4K2_CANLF [tr]	Uncharacterized protein	352	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	209-214		
+QDVVNQ	2	A0A5F4CVU6	A0A5F4CVU6_CANLF [tr]	Uncharacterized protein	306	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	194-199		
+QDVVNQ	3	A0A5F4DGG6	A0A5F4DGG6_CANLF [tr]	Uncharacterized protein	321	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	209-214		
+QDVVNQ	4	F6X8K8	F6X8K8_CANLF [tr]	Uncharacterized protein	297	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	209-214		
+AGTITS	1	A0A5F4BU61	A0A5F4BU61_CANLF [tr]	Transcriptional enhancer factor TEF-3	480	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	51-56		
+AGTITS	2	A0A5F4CQC8	A0A5F4CQC8_CANLF [tr]	TEA domain transcription factor 4	357	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	51-56		
+AGTITS	3	F1PQJ7	F1PQJ7_CANLF [tr]	Transcriptional enhancer factor TEF-3	461	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	32-37		568168
+AARDLI	1	A0A5F4C2X2	A0A5F4C2X2_CANLF [tr]	Centriolin	2276	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1052-1057		
+AARDLI	2	A0A5F4C7X0	A0A5F4C7X0_CANLF [tr]	Centriolin	2506	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1033-1038		
+AARDLI	3	A0A5F4DL80	A0A5F4DL80_CANLF [tr]	Centriolin	2439	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1052-1057		
+AARDLI	4	F1P6S0	F1P6S0_CANLF [tr]	Centriolin	2358	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1052-1057		
+FRSSVL	1	A0A5F4CIL1	A0A5F4CIL1_CANLF [tr]	Phosphatidylinositol-4-phosphate 3-kinase	1477	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	109-114		
+FRSSVL	2	A0A5F4CKC2	A0A5F4CKC2_CANLF [tr]	Phosphatidylinositol-4-phosphate 3-kinase	1423	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	109-114		
+FRSSVL	3	A0A5F4DIG7	A0A5F4DIG7_CANLF [tr]	Phosphatidylinositol-4-phosphate 3-kinase	1445	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	109-114		
+FRSSVL	4	E2RIK1	E2RIK1_CANLF [tr]	Phosphatidylinositol-4-phosphate 3-kinase	1445	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	109-114		
+LQPRTF	1	A0A5F4DKV4	A0A5F4DKV4_CANLF [tr]	Double minute 4 protein	604	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	25-30		
+LQPRTF	2	E2RAU3	E2RAU3_CANLF [tr]	Phospholipase A2 group III	512	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	281-286		
+LQPRTF	3	F1Q3B4	F1Q3B4_CANLF [tr]	Phospholipase A2 group III	467	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	236-241		
+SVDCTM	1	P33729	ICAM1_CANLF [sp]	Intercellular adhesion molecule 1 precursor (Fragment)	528	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	229-234		
+GTKRFD	1	A0A5F4D8P2	A0A5F4D8P2_CANLF [tr]	AAA domain-containing protein	397	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	250-255		
+GTKRFD	2	A0A5F4DEK8	A0A5F4DEK8_CANLF [tr]	AAA domain-containing protein	402	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	255-260		
+GTKRFD	3	F1PBK7	F1PBK7_CANLF [tr]	AAA domain-containing protein	439	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	292-297	Pride	
+GTKRFD	4	J9NWA6	J9NWA6_CANLF [tr]	AAA domain-containing protein	440	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	293-298		
+PAICHD	1	A0A5F4CQF9	A0A5F4CQF9_CANLF [tr]	Dynein axonemal assembly factor 5	970	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	367-372		
+PAICHD	2	E2R9K0	E2R9K0_CANLF [tr]	Dynein axonemal assembly factor 5	860	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	367-372		
+PAICHD	3	J9P4X2	J9P4X2_CANLF [tr]	Dynein axonemal assembly factor 5	783	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	367-372		
+VDFCGK	1	E2R023	E2R023_CANLF [tr]	Leucine rich repeat containing 58	565	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	510-515		
+FLGVYY	1	E2RHX8	E2RHX8_CANLF [tr]	Solute carrier family 35 member G2	412	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	332-337		
+WTAGAA	1	A0A5F4BXK8	A0A5F4BXK8_CANLF [tr]	alpha-1,2-Mannosidase	863	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	38-43		
+WTAGAA	2	A0A5F4C0Y6	A0A5F4C0Y6_CANLF [tr]	alpha-1,2-Mannosidase	869	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	38-43		
+WTAGAA	3	A0A5F4C6X2	A0A5F4C6X2_CANLF [tr]	alpha-1,2-Mannosidase	886	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	38-43		
+WTAGAA	4	A0A5F4CH67	A0A5F4CH67_CANLF [tr]	alpha-1,2-Mannosidase	888	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	38-43		
+WTAGAA	5	A0A5F4CSQ9	A0A5F4CSQ9_CANLF [tr]	alpha-1,2-Mannosidase	891	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	38-43		
+WTAGAA	6	A0A5F4CV38	A0A5F4CV38_CANLF [tr]	alpha-1,2-Mannosidase	863	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	38-43		
+WTAGAA	7	E2RG02	E2RG02_CANLF [tr]	alpha-1,2-Mannosidase	949	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	38-43		
+WTAGAA	8	J9P409	J9P409_CANLF [tr]	alpha-1,2-Mannosidase	933	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	38-43		
+GVYYPD	1	F6XYX3	F6XYX3_CANLF [tr]	Enamelin	1148	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	597-602		
+DPFLGV	1	A0A5F4C2Q8	A0A5F4C2Q8_CANLF [tr]	Hexosyltransferase	780	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	548-553		
+DPFLGV	2	A0A5F4CJC1	A0A5F4CJC1_CANLF [tr]	Hexosyltransferase	705	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	473-478		
+DPFLGV	3	A0A5F4CLN1	A0A5F4CLN1_CANLF [tr]	Hexosyltransferase	756	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	524-529		
+DPFLGV	4	F1PAJ1	F1PAJ1_CANLF [tr]	Hexosyltransferase	745	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	513-518		
+GTNTSN	1	A0A5F4BQ19	A0A5F4BQ19_CANLF [tr]	Dual-specificity kinase	520	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	486-491		
+GTNTSN	2	A0A5F4C2U0	A0A5F4C2U0_CANLF [tr]	Dual-specificity kinase	530	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	486-491		
+GTNTSN	3	F1P9L4	F1P9L4_CANLF [tr]	Dual-specificity kinase	762	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	486-491		
+GTNTSN	4	F6Y848	F6Y848_CANLF [tr]	Dual-specificity kinase	579	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	486-491		
+QTLEIL	1	A0A5F4DEM5	A0A5F4DEM5_CANLF [tr]	Prefoldin subunit 3	191	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	77-82		
+QTLEIL	2	C0IRA0	C0IRA0_CANLF [tr]	Toll-like receptor 2	785	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	458-463		
+QTLEIL	3	E2RRM3	E2RRM3_CANLF [tr]	Adenosylmethionine decarboxylase 1	265	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	106-111		
+QTLEIL	4	F1PAV5	F1PAV5_CANLF [tr]	Toll-like receptor 2	802	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	475-480		
+QTLEIL	5	F6XQ49	F6XQ49_CANLF [tr]	Prefoldin subunit 3	197	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	83-88	Pride	
+SLSSTA	1	A0A5F4BRY1	A0A5F4BRY1_CANLF [tr]	Family with sequence similarity 13 member A	1010	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	478-483		
+SLSSTA	2	A0A5F4C7Y3	A0A5F4C7Y3_CANLF [tr]	Family with sequence similarity 13 member A	1058	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	526-531		
+SLSSTA	3	A0A5F4C8K7	A0A5F4C8K7_CANLF [tr]	Family with sequence similarity 13 member A	682	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	150-155		
+SLSSTA	4	A0A5F4C9K8	A0A5F4C9K8_CANLF [tr]	FAT atypical cadherin 3	4612	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2926-2931		568293
+SLSSTA	5	A0A5F4CFM2	A0A5F4CFM2_CANLF [tr]	Family with sequence similarity 13 member A	1011	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	507-512		
+SLSSTA	6	A0A5F4CGE1	A0A5F4CGE1_CANLF [tr]	Family with sequence similarity 13 member A	696	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	164-169		
+SLSSTA	7	A0A5F4CHG6	A0A5F4CHG6_CANLF [tr]	SRY-box transcription factor 5	642	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	110-115		
+SLSSTA	8	A0A5F4CJ84	A0A5F4CJ84_CANLF [tr]	Family with sequence similarity 13 member A	1044	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	512-517		
+SLSSTA	9	A0A5F4CLQ3	A0A5F4CLQ3_CANLF [tr]	Family with sequence similarity 13 member A	609	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	77-82		
+SLSSTA	10	A0A5F4CWX8	A0A5F4CWX8_CANLF [tr]	SRY-box transcription factor 5	753	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	113-118		
+SLSSTA	11	A0A5F4CZ59	A0A5F4CZ59_CANLF [tr]	Laminin subunit alpha 4	1857	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	985-990		
+SLSSTA	12	A0A5F4D085	A0A5F4D085_CANLF [tr]	SRY-box transcription factor 5	670	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	88-93		
+SLSSTA	13	A0A5F4D7E8	A0A5F4D7E8_CANLF [tr]	Family with sequence similarity 13 member A	969	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	437-442		
+SLSSTA	14	A0A5F4DKA9	A0A5F4DKA9_CANLF [tr]	Family with sequence similarity 13 member A	682	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	150-155		
+SLSSTA	15	E2R7Y2	E2R7Y2_CANLF [tr]	Uncharacterized protein	944	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	655-660		
+SLSSTA	16	F1P8U0	F1P8U0_CANLF [tr]	Family with sequence similarity 13 member A	1039	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	507-512		
+SLSSTA	17	F1PF35	F1PF35_CANLF [tr]	SRY-box transcription factor 5	763	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	123-128		
+SLSSTA	18	F1PJH1	F1PJH1_CANLF [tr]	FAT atypical cadherin 3	4589	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2903-2908		
+SLSSTA	19	F1PJH2	F1PJH2_CANLF [tr]	FAT atypical cadherin 3	4557	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2903-2908		
+SLSSTA	20	F1PR66	F1PR66_CANLF [tr]	Laminin subunit alpha 4	1812	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	900-905	Pride	
+PGDSSS	1	A0A5F4CJ01	A0A5F4CJ01_CANLF [tr]	Family with sequence similarity 219 member B	340	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	331-336		
+PGDSSS	2	A0A5F4CJ66	A0A5F4CJ66_CANLF [tr]	Taxilin beta	708	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	18-23		
+PGDSSS	3	A0A5F4CYS1	A0A5F4CYS1_CANLF [tr]	Zinc finger RNA binding protein 2	974	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	379-384		
+PGDSSS	4	A0A5F4DG33	A0A5F4DG33_CANLF [tr]	Family with sequence similarity 219 member B	185	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	176-181		
+PGDSSS	5	E2QUX7	E2QUX7_CANLF [tr]	Taxilin beta	688	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	18-23		
+PGDSSS	6	E2RE92	E2RE92_CANLF [tr]	Uncharacterized protein	348	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	41-46		862251
+PGDSSS	7	F1Q153	F1Q153_CANLF [tr]	Zinc finger RNA binding protein 2	964	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	369-374		
+PGDSSS	8	F6X8W6	F6X8W6_CANLF [tr]	Surfeit 2	258	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	189-194		
+DSFKEE	1	F1PHS8	F1PHS8_CANLF [tr]	Cancer antigen 1	773	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	129-134		
+LEPLVD	1	E2RJA9	E2RJA9_CANLF [tr]	MutS homolog 4	941	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	361-366		
+LEPLVD	2	J9P7F0	J9P7F0_CANLF [tr]	Endoglin	652	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	181-186		
+VGYLQP	1	A0A5F4DLZ8	A0A5F4DLZ8_CANLF [tr]	Dual-specificity kinase	691	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	58-63		
+GLTVLP	1	A0A5F4DMH2	A0A5F4DMH2_CANLF [tr]	Prostate transmembrane protein, androgen induced 1	282	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	57-62		
+GLTVLP	2	F1PDT3	F1PDT3_CANLF [tr]	Formin homology 2 domain containing 3	1386	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	936-941		
+GLTVLP	3	F6UZQ0	F6UZQ0_CANLF [tr]	Glycosylated lysosomal membrane protein	406	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	107-112		
+GLTVLP	4	J9NVV0	J9NVV0_CANLF [tr]	Formin homology 2 domain containing 3	636	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	186-191		
+GLTVLP	5	J9PAL1	J9PAL1_CANLF [tr]	Formin homology 2 domain containing 3	1403	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	953-958		
+DSEPVL	1	A0A5F4BRN2	A0A5F4BRN2_CANLF [tr]	Huntingtin interacting protein 1	952	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	286-291		
+DSEPVL	2	A0A5F4BRU4	A0A5F4BRU4_CANLF [tr]	Huntingtin interacting protein 1	985	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	322-327		
+DSEPVL	3	A0A5F4BS07	A0A5F4BS07_CANLF [tr]	Huntingtin interacting protein 1	982	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	268-273		
+DSEPVL	4	A0A5F4CA47	A0A5F4CA47_CANLF [tr]	Huntingtin interacting protein 1	948	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	234-239		
+DSEPVL	5	A0A5F4CT32	A0A5F4CT32_CANLF [tr]	Huntingtin interacting protein 1	967	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	253-258		
+DSEPVL	6	A0A5F4D3Z0	A0A5F4D3Z0_CANLF [tr]	Huntingtin interacting protein 1	931	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	286-291		
+DSEPVL	7	E2RCR3	E2RCR3_CANLF [tr]	XPC complex subunit, DNA damage recognition and repair factor	949	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	467-472		
+DSEPVL	8	F1PB24	F1PB24_CANLF [tr]	Huntingtin interacting protein 1	1036	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	322-327		
+DSEPVL	9	F1PQT4	F1PQT4_CANLF [tr]	Tribbles pseudokinase 3	358	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	263-268		
+DSEPVL	10	J9PA31	J9PA31_CANLF [tr]	Huntingtin interacting protein 1	964	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	286-291		
+ASALGK	1	F1PDJ5	F1PDJ5_CANLF [tr]	Apolipoprotein A-I	266	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	58-63	Pride	
+ASALGK	2	F1PS97	F1PS97_CANLF [tr]	NLR family pyrin domain containing 8	1016	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	917-922		
+ASALGK	3	J9NZE3	J9NZE3_CANLF [tr]	Fucose-1-phosphate guanylyltransferase	599	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	124-129		
+ASALGK	4	P02648	APOA1_CANLF [sp]	Apolipoprotein A-I precursor	266	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	58-63	Pride	
+VSQPFL	1	F1PGK2	F1PGK2_CANLF [tr]	Mediator of DNA damage checkpoint protein 1	1656	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	786-791		
+VSQPFL	2	F6UVB9	F6UVB9_CANLF [tr]	Mediator of DNA damage checkpoint protein 1	1912	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1042-1047		
+STNLVK	1	E2RMW5	E2RMW5_CANLF [tr]	Chromosome 20 C3orf49 homolog	293	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	48-53		
+KVTLAD	1	A0A5F4CC54	A0A5F4CC54_CANLF [tr]	Autophagy-related protein 9	916	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	252-257		
+FLPFFS	1	E2QS61	E2QS61_CANLF [tr]	Ubiquitinyl hydrolase 1	286	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	183-188	Pride	
+VLYQDV	1	F1P7D7	F1P7D7_CANLF [tr]	Uncharacterized protein	420	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	34-39		
+TGRLQS	1	A0A5F4BQW1	A0A5F4BQW1_CANLF [tr]	Neuron navigator 3	2340	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1587-1592		
+TGRLQS	2	A0A5F4BWC3	A0A5F4BWC3_CANLF [tr]	Neuron navigator 3	2331	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1578-1583		
+TGRLQS	3	A0A5F4C1F4	A0A5F4C1F4_CANLF [tr]	Neuron navigator 3	2191	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1438-1443		
+TGRLQS	4	A0A5F4C6J2	A0A5F4C6J2_CANLF [tr]	Neuron navigator 3	2177	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1424-1429		
+TGRLQS	5	A0A5F4CGD5	A0A5F4CGD5_CANLF [tr]	Neuron navigator 3	2306	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1553-1558		
+TGRLQS	6	F1P726	F1P726_CANLF [tr]	Bromodomain containing 7	635	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	358-363		
+TGRLQS	7	F1PNX9	F1PNX9_CANLF [tr]	Neuron navigator 3	2347	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1601-1606		
+TGRLQS	8	F1PNY1	F1PNY1_CANLF [tr]	Neuron navigator 3	2354	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1601-1606		
+ASYQTQ	1	E2RA41	E2RA41_CANLF [tr]	TIA1 cytotoxic granule associated RNA binding protein like 1	392	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	387-392		567665
+DPLSET	1	A0A5F4C850	A0A5F4C850_CANLF [tr]	Polypeptide N-acetylgalactosaminyltransferase	555	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	528-533		
+DPLSET	2	F1PZF5	F1PZF5_CANLF [tr]	Polypeptide N-acetylgalactosaminyltransferase	601	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	574-579		
+LNESLI	1	A0A5F4BQL7	A0A5F4BQL7_CANLF [tr]	NHS like 1	1623	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	739-744		
+LNESLI	2	A0A5F4BYU7	A0A5F4BYU7_CANLF [tr]	NHS like 1	1568	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	684-689		
+LNESLI	3	F1P9Y0	F1P9Y0_CANLF [tr]	NHS like 1	1564	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	680-685		
+LNESLI	4	J9NRL2	J9NRL2_CANLF [tr]	NHS like 1	1578	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	694-699		
+LNESLI	5	J9NTU9	J9NTU9_CANLF [tr]	NHS like 1	1579	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	695-700		
+NDILSR	1	E2RRG1	E2RRG1_CANLF [tr]	NK6 homeobox 1	366	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	99-104		
+DVVIGI	1	F1PTG8	F1PTG8_CANLF [tr]	Trifunctional purine biosynthetic protein adenosine-3	1011	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	610-615	Pride	568576
+DVVIGI	2	J9NUS5	J9NUS5_CANLF [tr]	Trifunctional purine biosynthetic protein adenosine-3	1019	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	610-615		
+DVVIGI	3	J9P7I4	J9P7I4_CANLF [tr]	Trifunctional purine biosynthetic protein adenosine-3	965	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	610-615	Pride	
+SFTRGV	1	A0A5F4BW79	A0A5F4BW79_CANLF [tr]	GPI ethanolamine phosphate transferase 1	911	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	448-453		
+SFTRGV	2	A0A5F4CV05	A0A5F4CV05_CANLF [tr]	GPI ethanolamine phosphate transferase 1	931	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	468-473		
+SFTRGV	3	A0A5F4D9G0	A0A5F4D9G0_CANLF [tr]	GPI ethanolamine phosphate transferase 1	847	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	384-389		
+SFTRGV	4	A0A5F4DFY0	A0A5F4DFY0_CANLF [tr]	GPI ethanolamine phosphate transferase 1	955	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	468-473		
+SFTRGV	5	F1PVD7	F1PVD7_CANLF [tr]	GPI ethanolamine phosphate transferase 1	913	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	468-473		
+SFTRGV	6	J9P158	J9P158_CANLF [tr]	GPI ethanolamine phosphate transferase 1	948	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	468-473		
+SNLLLQ	1	A0A5F4CCH1	A0A5F4CCH1_CANLF [tr]	SMG5 nonsense mediated mRNA decay factor	965	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	537-542		568376
+SNLLLQ	2	A0A5F4DDV5	A0A5F4DDV5_CANLF [tr]	SMG5 nonsense mediated mRNA decay factor	1046	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	583-588		
+SNLLLQ	3	F6UWF6	F6UWF6_CANLF [tr]	SMG5 nonsense mediated mRNA decay factor	986	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	583-588		
+ASTEKS	1	F1P678	F1P678_CANLF [tr]	Glycerophosphodiester phosphodiesterase domain containing 4	717	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	641-646		
+ASTEKS	2	J9P0A8	J9P0A8_CANLF [tr]	Chromosome 11 C5orf15 homolog	265	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	92-97		
+ASTEKS	3	J9P6V9	J9P6V9_CANLF [tr]	Glycerophosphodiester phosphodiesterase domain containing 4	750	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	674-679		
+VKNKCV	1	A0A5F4DDI6	A0A5F4DDI6_CANLF [tr]	Tyrosine-protein phosphatase non-receptor type	599	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	361-366		
+VLGQSK	1	A0A5F4CA92	A0A5F4CA92_CANLF [tr]	Rho GTPase activating protein 36	516	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	455-460		
+VLGQSK	2	E2QZE1	E2QZE1_CANLF [tr]	Rho GTPase activating protein 36	547	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	486-491		
+VLGQSK	3	F6XVB6	F6XVB6_CANLF [tr]	Rho GTPase activating protein 36	888	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	474-479		
+SKTQSL	1	A0A5F4BQ00	A0A5F4BQ00_CANLF [tr]	Family with sequence similarity 184 member A	1105	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	426-431		
+SKTQSL	2	A0A5F4BRB8	A0A5F4BRB8_CANLF [tr]	Family with sequence similarity 184 member A	1088	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	426-431		
+SKTQSL	3	A0A5F4BSE6	A0A5F4BSE6_CANLF [tr]	Tubulin-specific chaperone D	1087	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	498-503		
+SKTQSL	4	A0A5F4BXY9	A0A5F4BXY9_CANLF [tr]	Family with sequence similarity 184 member A	1105	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	426-431		
+SKTQSL	5	A0A5F4BYP5	A0A5F4BYP5_CANLF [tr]	Family with sequence similarity 184 member A	1154	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	426-431		
+SKTQSL	6	A0A5F4C6Q9	A0A5F4C6Q9_CANLF [tr]	CD2 associated protein	639	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	252-257		
+SKTQSL	7	A0A5F4C6W9	A0A5F4C6W9_CANLF [tr]	Tubulin-specific chaperone D	1114	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	525-530		
+SKTQSL	8	A0A5F4CNQ3	A0A5F4CNQ3_CANLF [tr]	Family with sequence similarity 184 member A	1082	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	426-431		
+SKTQSL	9	A0A5F4CP13	A0A5F4CP13_CANLF [tr]	Tubulin folding cofactor D	666	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	521-526		
+SKTQSL	10	A0A5F4CUQ9	A0A5F4CUQ9_CANLF [tr]	CD2 associated protein	640	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	253-258		
+SKTQSL	11	A0A5F4D7W4	A0A5F4D7W4_CANLF [tr]	Tubulin-specific chaperone D	1094	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	511-516		
+SKTQSL	12	A0A5F4DI00	A0A5F4DI00_CANLF [tr]	CD2 associated protein	621	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	269-274		
+SKTQSL	13	A0A5F4DIZ1	A0A5F4DIZ1_CANLF [tr]	Family with sequence similarity 184 member A	1050	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	426-431		
+SKTQSL	14	F1PS31	F1PS31_CANLF [tr]	Family with sequence similarity 184 member A	1140	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	426-431		
+SKTQSL	15	F1PS32	F1PS32_CANLF [tr]	Family with sequence similarity 184 member A	1116	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	426-431		
+SKTQSL	16	F1PUU5	F1PUU5_CANLF [tr]	CD2 associated protein	653	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	266-271		
+SKTQSL	17	H9GWC8	H9GWC8_CANLF [tr]	Tubulin-specific chaperone D	1110	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	526-531		
+SKTQSL	18	J9P9C9	J9P9C9_CANLF [tr]	Tubulin-specific chaperone D	1087	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	509-514		
+QPTNGV	1	F1PQU2	F1PQU2_CANLF [tr]	Pitrilysin metalloproteinase 1	1035	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	589-594	Pride	
+PSKRSF	1	F1PFI4	F1PFI4_CANLF [tr]	Sucrase-isomaltase	1736	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	490-495		
+KVFRSS	1	A0A5F4BV28	A0A5F4BV28_CANLF [tr]	Solute carrier family 26 member 6	783	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	490-495		
+KVFRSS	2	A0A5F4BXF1	A0A5F4BXF1_CANLF [tr]	Solute carrier family 26 member 6	779	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	545-550		
+KVFRSS	3	A0A5F4C0T0	A0A5F4C0T0_CANLF [tr]	Solute carrier family 26 member 6	808	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	594-599		
+KVFRSS	4	A0A5F4C8A9	A0A5F4C8A9_CANLF [tr]	Solute carrier family 26 member 6	803	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	524-529		
+KVFRSS	5	A0A5F4CWT1	A0A5F4CWT1_CANLF [tr]	Solute carrier family 26 member 6	739	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	524-529		
+KVFRSS	6	A0A5F4D480	A0A5F4D480_CANLF [tr]	Solute carrier family 26 member 6	766	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	473-478		
+KVFRSS	7	A0A5F4DDC8	A0A5F4DDC8_CANLF [tr]	Solute carrier family 26 member 6	812	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	519-524		
+KVFRSS	8	F1PIC0	F1PIC0_CANLF [tr]	Solute carrier family 26 member 6	760	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	545-550		
+FTTAPA	1	A0A5F4C0F7	A0A5F4C0F7_CANLF [tr]	KIAA1210	2054	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1768-1773		
+FTTAPA	2	F1PSA8	F1PSA8_CANLF [tr]	KIAA1210	2159	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1873-1878		
+FTTAPA	3	J9NT32	J9NT32_CANLF [tr]	KIAA1210	2054	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1768-1773		
+TESNKK	1	A0A5F4DDJ9	A0A5F4DDJ9_CANLF [tr]	Kinesin-like protein	947	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	616-621		
+TESNKK	2	E2QTN0	E2QTN0_CANLF [tr]	Kinesin-like protein	963	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	616-621	Pride	567932, 862245
+LSSTAS	1	A0A5F4BRY1	A0A5F4BRY1_CANLF [tr]	Family with sequence similarity 13 member A	1010	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	479-484		
+LSSTAS	2	A0A5F4C7Y3	A0A5F4C7Y3_CANLF [tr]	Family with sequence similarity 13 member A	1058	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	527-532		
+LSSTAS	3	A0A5F4C8K7	A0A5F4C8K7_CANLF [tr]	Family with sequence similarity 13 member A	682	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	151-156		
+LSSTAS	4	A0A5F4CFM2	A0A5F4CFM2_CANLF [tr]	Family with sequence similarity 13 member A	1011	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	508-513		
+LSSTAS	5	A0A5F4CGE1	A0A5F4CGE1_CANLF [tr]	Family with sequence similarity 13 member A	696	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	165-170		
+LSSTAS	6	A0A5F4CJ84	A0A5F4CJ84_CANLF [tr]	Family with sequence similarity 13 member A	1044	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	513-518		
+LSSTAS	7	A0A5F4CLQ3	A0A5F4CLQ3_CANLF [tr]	Family with sequence similarity 13 member A	609	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	78-83		
+LSSTAS	8	A0A5F4CVS9	A0A5F4CVS9_CANLF [tr]	ATP-grasp domain-containing protein	899	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	822-827		
+LSSTAS	9	A0A5F4D7E8	A0A5F4D7E8_CANLF [tr]	Family with sequence similarity 13 member A	969	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	438-443		
+LSSTAS	10	A0A5F4DKA9	A0A5F4DKA9_CANLF [tr]	Family with sequence similarity 13 member A	682	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	151-156		
+LSSTAS	11	F1P6C5	F1P6C5_CANLF [tr]	Nsp1_C domain-containing protein	184	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	18-23		
+LSSTAS	12	F1P8U0	F1P8U0_CANLF [tr]	Family with sequence similarity 13 member A	1039	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	508-513		
+LSSTAS	13	F1PFW6	F1PFW6_CANLF [tr]	ATP-grasp domain-containing protein	925	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	848-853		
+SFKEEL	1	E2QT66	E2QT66_CANLF [tr]	Tripartite motif containing 35	493	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	14-19		
+SFKEEL	2	E2RFB0	E2RFB0_CANLF [tr]	Tripartite motif containing 50	527	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	171-176		
+GWIFGT	1	F1PAH5	F1PAH5_CANLF [tr]	C-X-C chemokine receptor type 2	358	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	109-114		
+GWIFGT	2	F1PAH6	F1PAH6_CANLF [tr]	G_PROTEIN_RECEP_F1_2 domain-containing protein	330	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	81-86		
+GWIFGT	3	O97571	CXCR2_CANLF [sp]	C-X-C chemokine receptor type 2	356	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	109-114		
+ASFSTF	1	Q68AY9	CCL8_CANLF [sp]	C-C motif chemokine 8 precursor	99	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	15-20	Pride	
+YNYKLP	1	A0A5F4CF33	A0A5F4CF33_CANLF [tr]	NIMA related kinase 4	667	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	101-106		
+EELDKY	1	E2REU6	E2REU6_CANLF [tr]	IF rod domain-containing protein	431	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	266-271	Pride	
+RVVVLS	1	A0A5F4DIQ5	A0A5F4DIQ5_CANLF [tr]	Helicase with zinc finger 2	2929	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1124-1129		
+RVVVLS	2	E2RBM4	E2RBM4_CANLF [tr]	Helicase with zinc finger 2	2974	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1124-1129		
+RVVVLS	3	E2RJX5	E2RJX5_CANLF [tr]	Cytochrome P450 family 2 subfamily F member 1	491	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	74-79		
+SVLHST	1	A0A5F4CFF1	A0A5F4CFF1_CANLF [tr]	OCIA domain containing 2	276	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	91-96		
+VLPPLL	1	A0A5F4BRK9	A0A5F4BRK9_CANLF [tr]	Potassium two pore domain channel subfamily K member 2	422	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	391-396		
+VLPPLL	2	A0A5F4D9S4	A0A5F4D9S4_CANLF [tr]	Adenosine receptor A2	550	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	408-413		
+VLPPLL	3	A0A5F4DCE5	A0A5F4DCE5_CANLF [tr]	Adenosine receptor A2	306	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	190-195		
+VLPPLL	4	E2RHJ8	E2RHJ8_CANLF [tr]	Potassium two pore domain channel subfamily K member 2	426	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	395-400		
+VLPPLL	5	F1PEH0	F1PEH0_CANLF [tr]	Adenosine receptor A2	306	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	190-195		
+VLPPLL	6	P11616	AA1R_CANLF [sp]	Adenosine receptor A1	326	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	189-194		
+VLPPLL	7	Q6W3F4	AA2BR_CANLF [sp]	Adenosine receptor A2b	332	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	190-195		
+LYENQK	1	A0A5F4DES5	A0A5F4DES5_CANLF [tr]	Uncharacterized protein	836	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	37-42		
+LFNKVT	1	E2QV35	E2QV35_CANLF [tr]	SURF6 domain-containing protein	363	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	203-208		
+KPSKRS	1	F1PQF2	F1PQF2_CANLF [tr]	HIVEP zinc finger 3	2309	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	79-84		
+NASVVN	1	A0A5F4CE37	A0A5F4CE37_CANLF [tr]	Glutamine and serine rich 1	1715	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	219-224		
+NASVVN	2	A0A5F4CHT2	A0A5F4CHT2_CANLF [tr]	Glutamine and serine rich 1	1688	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	219-224		
+NASVVN	3	F1PQ29	F1PQ29_CANLF [tr]	Integrin subunit alpha 4	964	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	13-18		
+NASVVN	4	F6Y5A9	F6Y5A9_CANLF [tr]	Glutamine and serine rich 1	1734	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	219-224		568813
+AATKMS	1	A0A5F4DEE0	A0A5F4DEE0_CANLF [tr]	Pyruvate carboxylase	1206	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	467-472		
+AATKMS	2	F1P6G9	F1P6G9_CANLF [tr]	Pyruvate carboxylase	1190	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	451-456	Pride	
+ICHDGK	1	A0A5F4DBG5	A0A5F4DBG5_CANLF [tr]	Serine/threonine-protein phosphatase	598	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	358-363		
+ICHDGK	2	A0A5F4DG35	A0A5F4DG35_CANLF [tr]	Serine/threonine-protein phosphatase	601	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	361-366		
+ICHDGK	3	A0A5F4DJ42	A0A5F4DJ42_CANLF [tr]	Serine/threonine-protein phosphatase	611	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	371-376		
+ICHDGK	4	F1PVQ1	F1PVQ1_CANLF [tr]	Serine/threonine-protein phosphatase with EF-hands	661	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	421-426		
+RSSVLH	1	E2RJ82	E2RJ82_CANLF [tr]	Zinc finger protein 214	654	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	417-422		
+YGDCLG	1	A0A5F4C801	A0A5F4C801_CANLF [tr]	Uncharacterized protein	524	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	43-48		
+YGDCLG	2	A0A5F4CHG8	A0A5F4CHG8_CANLF [tr]	Uncharacterized protein	532	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	43-48		
+YGDCLG	3	A0A5F4CS76	A0A5F4CS76_CANLF [tr]	Uncharacterized protein	527	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	43-48		
+YGDCLG	4	A0A5F4CZD3	A0A5F4CZD3_CANLF [tr]	Uncharacterized protein	518	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	43-48		
+YGDCLG	5	A0A5F4DEE5	A0A5F4DEE5_CANLF [tr]	Uncharacterized protein	518	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	43-48		
+YGDCLG	6	E2RB95	E2RB95_CANLF [tr]	Uncharacterized protein	547	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	43-48		567944
+EVRQIA	1	F1P7W6	F1P7W6_CANLF [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4833	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	4453-4458		
+HADQLT	1	A0A5F4DHK6	A0A5F4DHK6_CANLF [tr]	Ankyrin repeat domain 17	2441	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	726-731		
+HADQLT	2	A0A5F4DHU1	A0A5F4DHU1_CANLF [tr]	Ankyrin repeat domain 17	2420	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	726-731		
+HADQLT	3	F6XLN1	F6XLN1_CANLF [tr]	Ankyrin repeat domain 17	2491	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	726-731		
+HADQLT	4	J9NSE6	J9NSE6_CANLF [tr]	Ankyrin repeat domain 17	2459	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	726-731		
+SSVLND	1	E2QXE3	E2QXE3_CANLF [tr]	Uncharacterized protein	860	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	267-272		
+SALLAG	1	A0A5F4C5B2	A0A5F4C5B2_CANLF [tr]	Sidekick cell adhesion molecule 1	2098	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1258-1263		
+SALLAG	2	A0A5F4CW86	A0A5F4CW86_CANLF [tr]	Sidekick cell adhesion molecule 1	2105	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1252-1257		
+SALLAG	3	A0A5F4D4V2	A0A5F4D4V2_CANLF [tr]	Sidekick cell adhesion molecule 1	1932	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1059-1064		
+SALLAG	4	F1PZR0	F1PZR0_CANLF [tr]	Sidekick cell adhesion molecule 1	2125	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1252-1257		
+IAARDL	1	F1PY11	F1PY11_CANLF [tr]	Plakophilin 3	707	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	644-649		
+EVAKNL	1	E2QYA0	E2QYA0_CANLF [tr]	Ubiquitin like modifier activating enzyme 7	1008	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	46-51		
+EVAKNL	2	F1PKA6	F1PKA6_CANLF [tr]	Ectonucleoside triphosphate diphosphohydrolase 4	616	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	296-301		
+STASAL	1	A0A5F4C0N2	A0A5F4C0N2_CANLF [tr]	HECT-type E3 ubiquitin transferase	4243	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1071-1076		
+STASAL	2	A0A5F4C896	A0A5F4C896_CANLF [tr]	HECT-type E3 ubiquitin transferase	4354	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1145-1150		
+STASAL	3	A0A5F4D4I2	A0A5F4D4I2_CANLF [tr]	HECT-type E3 ubiquitin transferase	4325	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1071-1076		
+STASAL	4	A0A5F4D4I9	A0A5F4D4I9_CANLF [tr]	Adenylyl cyclase-associated protein	451	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	191-196		
+STASAL	5	A0A5F4D7P3	A0A5F4D7P3_CANLF [tr]	Adenylyl cyclase-associated protein	413	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	153-158		
+STASAL	6	A0A5F4DAE0	A0A5F4DAE0_CANLF [tr]	Adenylyl cyclase-associated protein	365	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	105-110		
+STASAL	7	A0A5F4DB75	A0A5F4DB75_CANLF [tr]	HECT-type E3 ubiquitin transferase	4379	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1119-1124		
+STASAL	8	A0A5F4DHB9	A0A5F4DHB9_CANLF [tr]	40S ribosomal protein S13	151	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	144-149		
+STASAL	9	A0A5F4DNM1	A0A5F4DNM1_CANLF [tr]	HECT-type E3 ubiquitin transferase	4292	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1071-1076		568506
+STASAL	10	E2RH53	E2RH53_CANLF [tr]	Adenylyl cyclase-associated protein	477	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	217-222	Pride	
+STASAL	11	F6XKL7	F6XKL7_CANLF [tr]	HECT-type E3 ubiquitin transferase	4299	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1071-1076	Pride	
+STASAL	12	F6XM35	F6XM35_CANLF [tr]	HECT-type E3 ubiquitin transferase	4399	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1124-1129		
+STASAL	13	F6XRT0	F6XRT0_CANLF [tr]	Nuclear RNA export factor 1	630	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	178-183		
+STASAL	14	J9NV67	J9NV67_CANLF [tr]	Nuclear RNA export factor 1	618	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	166-171		
+GVLTES	1	A0A5F4C4Q2	A0A5F4C4Q2_CANLF [tr]	Vacuolar protein sorting 13 homolog B	3891	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1526-1531		
+GVLTES	2	A0A5F4C6S2	A0A5F4C6S2_CANLF [tr]	Vacuolar protein sorting 13 homolog B	3938	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1573-1578		
+GVLTES	3	A0A5F4CAC4	A0A5F4CAC4_CANLF [tr]	Vacuolar protein sorting 13 homolog B	3833	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1543-1548		
+GVLTES	4	A0A5F4CFU2	A0A5F4CFU2_CANLF [tr]	Vacuolar protein sorting 13 homolog B	3929	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1564-1569		
+GVLTES	5	A0A5F4CSM3	A0A5F4CSM3_CANLF [tr]	Vacuolar protein sorting 13 homolog B	3919	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1629-1634		
+GVLTES	6	A0A5F4D0J8	A0A5F4D0J8_CANLF [tr]	Vacuolar protein sorting 13 homolog B	3946	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1581-1586		
+GVLTES	7	A0A5F4D2L2	A0A5F4D2L2_CANLF [tr]	Vacuolar protein sorting 13 homolog B	3876	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1511-1516		
+GVLTES	8	A0A5F4D9Z9	A0A5F4D9Z9_CANLF [tr]	Vacuolar protein sorting 13 homolog B	4000	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1635-1640		
+GVLTES	9	F6UQC5	F6UQC5_CANLF [tr]	Vacuolar protein sorting 13 homolog B	4019	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1654-1659		
+GVLTES	10	J9NY52	J9NY52_CANLF [tr]	Vacuolar protein sorting 13 homolog B	3987	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1629-1634		
+SSVLHS	1	A0A5F4BWH3	A0A5F4BWH3_CANLF [tr]	Uncharacterized protein	1048	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	641-646		
+SSVLHS	2	A0A5F4CU74	A0A5F4CU74_CANLF [tr]	FYVE, RhoGEF and PH domain containing 6	1320	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1195-1200		
+SSVLHS	3	F1Q280	F1Q280_CANLF [tr]	FYVE, RhoGEF and PH domain containing 6	1399	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1274-1279		
+SSVLHS	4	J9NYT0	J9NYT0_CANLF [tr]	FYVE, RhoGEF and PH domain containing 6	1423	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1298-1303		
+SSVLHS	5	J9P857	J9P857_CANLF [tr]	Uncharacterized protein	1020	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	613-618		
+SPRRAR	1	A0A5F4C0K1	A0A5F4C0K1_CANLF [tr]	Zinc finger protein 462	2409	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	171-176		
+SPRRAR	2	A0A5F4C1H7	A0A5F4C1H7_CANLF [tr]	G_PROTEIN_RECEP_F1_2 domain-containing protein	596	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	468-473		
+SPRRAR	3	A0A5F4CRM7	A0A5F4CRM7_CANLF [tr]	BUD13 homolog	667	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	158-163		
+SPRRAR	4	A0A5F4CRN7	A0A5F4CRN7_CANLF [tr]	Zinc finger protein 462	2502	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	171-176		
+SPRRAR	5	A0A5F4CWC3	A0A5F4CWC3_CANLF [tr]	Zinc finger protein 462	2528	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	171-176		
+SPRRAR	6	A0A5F4DBK0	A0A5F4DBK0_CANLF [tr]	GRB2 associated regulator of MAPK1 subtype 2	834	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	342-347		
+SPRRAR	7	A0A5F4DDR1	A0A5F4DDR1_CANLF [tr]	Zinc finger protein 462	2570	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	171-176		
+SPRRAR	8	E2R531	E2R531_CANLF [tr]	Zinc finger protein 462	2398	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	171-176		
+SPRRAR	9	E2RMP2	E2RMP2_CANLF [tr]	BUD13 homolog	704	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	192-197		
+SPRRAR	10	F1PJH9	F1PJH9_CANLF [tr]	GRB2 associated regulator of MAPK1 subtype 2	884	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	392-397		
+SPRRAR	11	J9P7D3	J9P7D3_CANLF [tr]	Exo-alpha-sialidase	378	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	238-243		
+SPRRAR	12	J9PBJ8	J9PBJ8_CANLF [tr]	BUD13 homolog	726	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	192-197		
+KRSFIE	1	A0A5F4BQF2	A0A5F4BQF2_CANLF [tr]	Tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1	1557	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1549-1554		
+KRSFIE	2	A0A5F4CPW2	A0A5F4CPW2_CANLF [tr]	Tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1	1539	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1531-1536		
+KRSFIE	3	A0A5F4D2M8	A0A5F4D2M8_CANLF [tr]	Tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1	1486	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1478-1483		
+KRSFIE	4	A0A5F4DDT0	A0A5F4DDT0_CANLF [tr]	Tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1	1574	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1566-1571		
+KRSFIE	5	A0A5F4DET9	A0A5F4DET9_CANLF [tr]	Tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1	1739	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1731-1736		
+KRSFIE	6	F1PND8	F1PND8_CANLF [tr]	Tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1	1541	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1533-1538		
+VTYVPA	1	E2R6R4	E2R6R4_CANLF [tr]	Olfactory receptor family 52 subfamily AC member 1	298	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	238-243		
+ARSVAS	1	E2RP39	E2RP39_CANLF [tr]	Uncharacterized protein	547	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	303-308		
+LSRLDK	1	A0A5F4C8Y4	A0A5F4C8Y4_CANLF [tr]	TATA-box binding protein associated factor, RNA polymerase I subunit A	412	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	160-165		
+LSRLDK	2	E2QXZ0	E2QXZ0_CANLF [tr]	4'-phosphopantetheine phosphatase	773	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	702-707		
+LSRLDK	3	E2R3X4	E2R3X4_CANLF [tr]	Occludin	520	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	455-460		
+LSRLDK	4	E2R8E6	E2R8E6_CANLF [tr]	TATA-box binding protein associated factor, RNA polymerase I subunit A	450	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	198-203		
+LSRLDK	5	F1PZF7	F1PZF7_CANLF [tr]	Occludin	559	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	494-499		
+LSRLDK	6	J9P475	J9P475_CANLF [tr]	Occludin	507	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	442-447		
+LSRLDK	7	Q28269	OCLN_CANLF [sp]	Occludin	521	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	456-461		
+LSRLDK	8	Q9N0W3	Q9N0W3_CANLF [tr]	Occludin	560	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	495-500		
+ILDITP	1	E2QW82	E2QW82_CANLF [tr]	Matrix metallopeptidase 19	547	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	523-528		
+SFPQSA	1	J9P9R8	J9P9R8_CANLF [tr]	Cysteine rich C-terminal 1	94	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2-7		
+LADAGF	1	A0A5F4BVS1	A0A5F4BVS1_CANLF [tr]	Lipase A, lysosomal acid type	493	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	202-207		
+LADAGF	2	E2QW15	E2QW15_CANLF [tr]	AB hydrolase-1 domain-containing protein	858	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	93-98		
+LADAGF	3	E2QXS1	E2QXS1_CANLF [tr]	Lipase A, lysosomal acid type	500	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	209-214	Pride	
+LADAGF	4	E2R455	E2R455_CANLF [tr]	Lipase	398	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	107-112		
+LADAGF	5	J9NVE3	J9NVE3_CANLF [tr]	AB hydrolase-1 domain-containing protein	885	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	120-125		
+LGQSKR	1	D0VE84	D0VE84_CANLF [tr]	FAM151A-like protein	591	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	268-273		
+LGQSKR	2	E2R835	E2R835_CANLF [tr]	Family with sequence similarity 151 member A	642	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	319-324		
+MTKTSV	1	A0A5F4CEI4	A0A5F4CEI4_CANLF [tr]	WASH complex subunit 4	1133	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	468-473		
+MTKTSV	2	A0A5F4D7T4	A0A5F4D7T4_CANLF [tr]	WASH complex subunit 4	786	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	82-87		
+MTKTSV	3	E2RG72	E2RG72_CANLF [tr]	WASH complex subunit 4	1173	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	469-474	Pride	
+MTKTSV	4	J9P227	J9P227_CANLF [tr]	WASH complex subunit 4	1147	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	468-473		
+SGINAS	1	A0A5F4DGE4	A0A5F4DGE4_CANLF [tr]	Cir_N domain-containing protein	475	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	149-154		
+SGINAS	2	E2R280	E2R280_CANLF [tr]	Uncharacterized protein	5762	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	3870-3875		
+SGINAS	3	J9P3Y9	J9P3Y9_CANLF [tr]	SH3 domain-containing protein	6526	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	4627-4632		
+SGINAS	4	J9P494	J9P494_CANLF [tr]	SH3 domain-containing protein	6526	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	4627-4632		
+DAVDCA	1	E2RFR5	E2RFR5_CANLF [tr]	Dynein light chain	89	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	20-25	Pride	
+IAVEQD	1	A0A5F4BTQ9	A0A5F4BTQ9_CANLF [tr]	FRY like transcription coactivator	3129	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1857-1862		
+IAVEQD	2	A0A5F4C2B3	A0A5F4C2B3_CANLF [tr]	FRY like transcription coactivator	3029	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1757-1762		
+IAVEQD	3	A0A5F4C3F3	A0A5F4C3F3_CANLF [tr]	FRY like transcription coactivator	2967	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1742-1747		
+IAVEQD	4	A0A5F4C4E2	A0A5F4C4E2_CANLF [tr]	FRY like transcription coactivator	2967	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1695-1700		
+IAVEQD	5	A0A5F4CCM7	A0A5F4CCM7_CANLF [tr]	FRY like transcription coactivator	2729	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1463-1468		
+IAVEQD	6	A0A5F4CHV8	A0A5F4CHV8_CANLF [tr]	FRY like transcription coactivator	3106	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1803-1808		
+IAVEQD	7	A0A5F4D448	A0A5F4D448_CANLF [tr]	FRY like transcription coactivator	3046	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1774-1779		
+IAVEQD	8	A0A5F4DGU6	A0A5F4DGU6_CANLF [tr]	FRY like transcription coactivator	3019	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1803-1808		
+IAVEQD	9	E2RLS2	E2RLS2_CANLF [tr]	FRY like transcription coactivator	3065	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1793-1798		
+IAVEQD	10	F1PA94	F1PA94_CANLF [tr]	FRY like transcription coactivator	3014	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1742-1747	Pride	567683
+LLIVNN	1	E2RB00	E2RB00_CANLF [tr]	STIL centriolar assembly protein	1249	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	911-916		
+IDRLNE	1	A0A5F4C2G2	A0A5F4C2G2_CANLF [tr]	A-kinase anchoring protein 9	3897	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2261-2266		
+IDRLNE	2	A0A5F4C6R6	A0A5F4C6R6_CANLF [tr]	A-kinase anchoring protein 9	3867	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2295-2300		
+IDRLNE	3	A0A5F4CFJ7	A0A5F4CFJ7_CANLF [tr]	A-kinase anchoring protein 9	3721	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2248-2253		
+IDRLNE	4	A0A5F4CLZ2	A0A5F4CLZ2_CANLF [tr]	A-kinase anchoring protein 9	3870	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2295-2300		
+IDRLNE	5	A0A5F4CRG5	A0A5F4CRG5_CANLF [tr]	A-kinase anchoring protein 9	3944	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2308-2313		
+IDRLNE	6	A0A5F4CSW3	A0A5F4CSW3_CANLF [tr]	Uncharacterized protein	252	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	31-36		
+IDRLNE	7	A0A5F4D5M4	A0A5F4D5M4_CANLF [tr]	A-kinase anchoring protein 9	3583	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1947-1952		
+IDRLNE	8	F1PBY8	F1PBY8_CANLF [tr]	A-kinase anchoring protein 9	3538	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1928-1933		567369
+IDRLNE	9	F1PDT2	F1PDT2_CANLF [tr]	Uncharacterized protein	297	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	54-59		
+IDRLNE	10	J9P048	J9P048_CANLF [tr]	Uncharacterized protein	289	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	54-59	Pride	
+IDRLNE	11	J9P4D9	J9P4D9_CANLF [tr]	A-kinase anchoring protein 9	3931	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2295-2300		
+IDRLNE	12	J9P7Y8	J9P7Y8_CANLF [tr]	Uncharacterized protein	298	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	81-86		
+IDRLNE	13	Q8MJ43	Q8MJ43_CANLF [tr]	Protein phosphatase 2A inhibitor 2	296	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	54-59		
+LPPLLT	1	A0A5F4CIC8	A0A5F4CIC8_CANLF [tr]	Uncharacterized protein	1522	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	160-165		
+LPPLLT	2	E2R5K6	E2R5K6_CANLF [tr]	Transmembrane protein 82	346	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	200-205		
+GAALQI	1	A0A5F4BVA6	A0A5F4BVA6_CANLF [tr]	Uncharacterized protein	409	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	41-46		
+GAALQI	2	E2QSX0	E2QSX0_CANLF [tr]	Uncharacterized protein	430	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	61-66		
+LLFNKV	1	A0A5F4DGH7	A0A5F4DGH7_CANLF [tr]	SURF6 domain-containing protein	563	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	400-405		
+LLFNKV	2	E2QV35	E2QV35_CANLF [tr]	SURF6 domain-containing protein	363	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	202-207		
+LLFNKV	3	J9NU30	J9NU30_CANLF [tr]	SURF6 domain-containing protein	342	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	190-195		
+TTLDSK	1	F6USS9	F6USS9_CANLF [tr]	Uncharacterized protein	486	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	180-185		
+NSASFS	1	A0A5F4BUI0	A0A5F4BUI0_CANLF [tr]	Neuron navigator 1	1490	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	468-473		
+NSASFS	2	A0A5F4CZ97	A0A5F4CZ97_CANLF [tr]	Neuron navigator 1	2107	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1142-1147		
+NSASFS	3	A0A5F4D5L1	A0A5F4D5L1_CANLF [tr]	Neuron navigator 1	2156	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1142-1147		
+NSASFS	4	A0A5F4D761	A0A5F4D761_CANLF [tr]	Neuron navigator 1	1732	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	710-715		
+NSASFS	5	A0A5F4DKU5	A0A5F4DKU5_CANLF [tr]	Neuron navigator 1	1896	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	874-879		
+NSASFS	6	E2R7W3	E2R7W3_CANLF [tr]	Neuron navigator 1	1880	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	855-860		
+NSASFS	7	J9NVW6	J9NVW6_CANLF [tr]	Neuron navigator 1	2164	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1142-1147		
+SKRSFI	1	A0A5F4CHX6	A0A5F4CHX6_CANLF [tr]	Zinc finger protein 200	437	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	12-17		
+SKRSFI	2	F1PFI4	F1PFI4_CANLF [tr]	Sucrase-isomaltase	1736	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	491-496		
+SKRSFI	3	J9NS02	J9NS02_CANLF [tr]	Zinc finger protein 200	404	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	13-18		
+SKRSFI	4	J9P134	J9P134_CANLF [tr]	GABA(C) receptor	462	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	146-151		
+LTTRTQ	1	A0A5F4D1J7	A0A5F4D1J7_CANLF [tr]	Uncharacterized protein	88	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	51-56		
+TQDLFL	1	E2R819	E2R819_CANLF [tr]	Ring finger protein 213	4454	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2007-2012	Pride	
+VVLSFE	1	A0A5F4CB24	A0A5F4CB24_CANLF [tr]	CST complex subunit CTC1	1236	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1175-1180		
+VVLSFE	2	A0A5F4CE64	A0A5F4CE64_CANLF [tr]	CST complex subunit CTC1	1215	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1154-1159		
+VVLSFE	3	A0A5F4D6P7	A0A5F4D6P7_CANLF [tr]	CST complex subunit CTC1	1189	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1128-1133		
+VVLSFE	4	F1Q3J7	F1Q3J7_CANLF [tr]	CST complex subunit CTC1	1211	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1150-1155		
+TAGAAA	1	A0A5F4CM40	A0A5F4CM40_CANLF [tr]	Aspartylglucosaminidase	333	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	237-242		
+TAGAAA	2	A0A5F4D5K4	A0A5F4D5K4_CANLF [tr]	Cartilage acidic protein 1	676	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	656-661		
+TAGAAA	3	A0A5F4DBX2	A0A5F4DBX2_CANLF [tr]	Scaffold protein involved in DNA repair	913	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	43-48		
+TAGAAA	4	E2RPH8	E2RPH8_CANLF [tr]	Kelch like family member 31	634	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	557-562		
+TAGAAA	5	F1PA15	F1PA15_CANLF [tr]	Aspartylglucosaminidase	343	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	247-252		
+TAGAAA	6	F1PKB7	F1PKB7_CANLF [tr]	Scaffold protein involved in DNA repair	918	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	43-48		
+TAGAAA	7	F1PTC8	F1PTC8_CANLF [tr]	Cartilage acidic protein 1	682	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	662-667	Pride	
+TAGAAA	8	J9PAT1	J9PAT1_CANLF [tr]	Scaffold protein involved in DNA repair	941	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	43-48		
+ESEFRV	1	A0A5F4C5D6	A0A5F4C5D6_CANLF [tr]	PML nuclear body scaffold	933	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	684-689		
+ESEFRV	2	A0A5F4D4L7	A0A5F4D4L7_CANLF [tr]	PML nuclear body scaffold	833	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	584-589		
+ESEFRV	3	F1PBA8	F1PBA8_CANLF [tr]	PML nuclear body scaffold	882	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	633-638		
+ALHRSY	1	A0A5F4C209	A0A5F4C209_CANLF [tr]	Pleckstrin homology, MyTH4 and FERM domain containing H3	391	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	354-359		
+IYKTPP	1	E2RME7	E2RME7_CANLF [tr]	BCL6 corepressor	1761	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	148-153		
+IYKTPP	2	E2RME8	E2RME8_CANLF [tr]	BCL6 corepressor	1743	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	148-153		
+LNEVAK	1	A0A5F4CFX3	A0A5F4CFX3_CANLF [tr]	Apoptosis inducing factor mitochondria associated 1	326	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	314-319		
+LNEVAK	2	A0A5F4CHB2	A0A5F4CHB2_CANLF [tr]	Tripartite motif containing 8	576	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	334-339		
+LNEVAK	3	A0A5F4CTJ6	A0A5F4CTJ6_CANLF [tr]	Apoptosis inducing factor mitochondria associated 1	609	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	597-602		
+LNEVAK	4	A0A5F4CYH8	A0A5F4CYH8_CANLF [tr]	Apoptosis inducing factor mitochondria associated 1	618	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	606-611		
+LNEVAK	5	A0A5F4D5M0	A0A5F4D5M0_CANLF [tr]	Tripartite motif containing 8	592	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	375-380		
+LNEVAK	6	E2R541	E2R541_CANLF [tr]	Apoptosis inducing factor mitochondria associated 1	613	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	601-606	Pride	
+KNLREF	1	A0A5F4CJZ0	A0A5F4CJZ0_CANLF [tr]	Laminin subunit gamma 2	1164	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	924-929		
+KNLREF	2	A0A5F4CLL0	A0A5F4CLL0_CANLF [tr]	Laminin subunit gamma 2	1163	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	923-928		
+KNLREF	3	A0A5F4CYQ9	A0A5F4CYQ9_CANLF [tr]	Butyryl-CoA dehydrogenase	416	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	75-80		
+KNLREF	4	E2RRP1	E2RRP1_CANLF [tr]	Butyryl-CoA dehydrogenase	426	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	78-83	Pride	
+KNLREF	5	F1PG66	F1PG66_CANLF [tr]	Laminin subunit gamma 2	1196	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	956-961		
+KNLREF	6	Q867A2	Q867A2_CANLF [tr]	Laminin-5 gamma 2	1196	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	956-961		
+IDLQEL	1	A0A5F4CYV4	A0A5F4CYV4_CANLF [tr]	Anaphase-promoting complex subunit 2	808	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	786-791		
+IDLQEL	2	A0A5F4DE07	A0A5F4DE07_CANLF [tr]	Anaphase-promoting complex subunit 2	1014	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	970-975		
+IDLQEL	3	F1PY31	F1PY31_CANLF [tr]	Anaphase-promoting complex subunit 2	869	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	786-791		
+IDLQEL	4	F1PYP1	F1PYP1_CANLF [tr]	Anaphase-promoting complex subunit 2	1143	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	970-975		
+AGAALQ	1	E2RQK5	E2RQK5_CANLF [tr]	Ribonuclease	502	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	80-85		
+AGAALQ	2	F6V4W8	F6V4W8_CANLF [tr]	Solute carrier family 18 member A3	510	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	14-19		
+AGAALQ	3	J9NY45	J9NY45_CANLF [tr]	Uncharacterized protein	376	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	302-307		
+TRTQLP	1	E2R7N9	E2R7N9_CANLF [tr]	Transient receptor potential cation channel subfamily C member 4 associated protein	797	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	371-376		
+TRTQLP	2	J9P7R3	J9P7R3_CANLF [tr]	Transient receptor potential cation channel subfamily C member 4 associated protein	735	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	309-314		
+KNLNES	1	E2QZ29	E2QZ29_CANLF [tr]	DNA cross-link repair 1A	1049	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	625-630		
+KNLNES	2	F1PNI1	F1PNI1_CANLF [tr]	StAR related lipid transfer domain containing 9	4728	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2035-2040		
+KNLNES	3	F1PYA1	F1PYA1_CANLF [tr]	StAR related lipid transfer domain containing 9	4694	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2001-2006		
+KNLNES	4	J9NZ42	J9NZ42_CANLF [tr]	StAR related lipid transfer domain containing 9	4705	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2012-2017		
+INLVRD	1	F1PRG0	F1PRG0_CANLF [tr]	RNA binding motif protein X-linked 2	341	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	65-70		
+TGIAVE	1	A0A5F4CSU3	A0A5F4CSU3_CANLF [tr]	Regulating synaptic membrane exocytosis 3	308	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	89-94		
+TGIAVE	2	A0A5F4D9Z4	A0A5F4D9Z4_CANLF [tr]	Regulating synaptic membrane exocytosis 3	314	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	89-94		
+TGIAVE	3	E2R3C1	E2R3C1_CANLF [tr]	Regulating synaptic membrane exocytosis 3	324	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	89-94		
+PPLLTD	1	A0A5F4BPB4	A0A5F4BPB4_CANLF [tr]	Discs large MAGUK scaffold protein 5	1790	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	51-56		
+PPLLTD	2	A0A5F4BXG3	A0A5F4BXG3_CANLF [tr]	Discs large MAGUK scaffold protein 5	1837	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	24-29		
+PPLLTD	3	A0A5F4CEX1	A0A5F4CEX1_CANLF [tr]	Discs large MAGUK scaffold protein 5	1940	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	134-139		
+PPLLTD	4	A0A5F4CJQ3	A0A5F4CJQ3_CANLF [tr]	Discs large MAGUK scaffold protein 5	1898	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	111-116		
+PPLLTD	5	A0A5F4CR17	A0A5F4CR17_CANLF [tr]	Discs large MAGUK scaffold protein 5	1838	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	51-56		
+PPLLTD	6	A0A5F4D4L0	A0A5F4D4L0_CANLF [tr]	Discs large MAGUK scaffold protein 5	1780	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	24-29		
+PPLLTD	7	F1Q0Q4	F1Q0Q4_CANLF [tr]	Uncharacterized protein	934	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	430-435		
+PPLLTD	8	F6X528	F6X528_CANLF [tr]	Discs large MAGUK scaffold protein 5	1821	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	24-29		
+PPLLTD	9	J9NYH2	J9NYH2_CANLF [tr]	Discs large MAGUK scaffold protein 5	1878	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	91-96		
+PPLLTD	10	J9NYI9	J9NYI9_CANLF [tr]	Discs large MAGUK scaffold protein 5	1762	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	24-29		
+ESLIDL	1	A4Z944	ZBED5_CANLF [sp]	Zinc finger BED domain-containing protein 5	694	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	594-599		
+SNFRVQ	1	A0A5F4CHX0	A0A5F4CHX0_CANLF [tr]	CDK-activating kinase assembly factor MAT1	267	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	56-61		
+SNFRVQ	2	A0A5F4CWN6	A0A5F4CWN6_CANLF [tr]	MNAT1 component of CDK activating kinase	358	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	56-61		
+SNFRVQ	3	E2QVF4	E2QVF4_CANLF [tr]	CDK-activating kinase assembly factor MAT1	309	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	56-61		
+SGTNGT	1	E2RJM1	E2RJM1_CANLF [tr]	TRIO and F-actin binding protein	2165	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1475-1480		
+GTTLDS	1	A0A5F4CBC5	A0A5F4CBC5_CANLF [tr]	Collagen type XIV alpha 1 chain	1796	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	710-715		
+GTTLDS	2	E2RT85	E2RT85_CANLF [tr]	Collagen type XIV alpha 1 chain	1765	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	711-716	Pride	
+NLAATK	1	F1Q2E4	F1Q2E4_CANLF [tr]	Glycine N-acyltransferase-like protein	294	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	115-120		
+NLAATK	2	J9NY28	J9NY28_CANLF [tr]	Glycine N-acyltransferase-like protein	295	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	116-121		
+SSGWTA	1	A0A5F4C840	A0A5F4C840_CANLF [tr]	KIAA1109	5041	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	778-783		
+SSGWTA	2	A0A5F4D3N0	A0A5F4D3N0_CANLF [tr]	KIAA1109	5037	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	778-783		
+SSGWTA	3	E2R1I7	E2R1I7_CANLF [tr]	KIAA1109	5026	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	778-783		
+SSGWTA	4	F1PIE9	F1PIE9_CANLF [tr]	KIAA1109	5005	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	778-783		
+SSGWTA	5	F1Q1L3	F1Q1L3_CANLF [tr]	Ankyrin repeat domain 24	969	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	28-33		
+LLLQYG	1	F1PMM2	F1PMM2_CANLF [tr]	Palmitoyltransferase	622	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	134-139		
+LLLQYG	2	J9P5M3	J9P5M3_CANLF [tr]	Palmitoyltransferase	575	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	134-139		
+DLGDIS	1	F1PRR6	F1PRR6_CANLF [tr]	Tumor protein p53 binding protein 1	1936	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1262-1267		
+TSCCSC	1	A0A5F4CEJ2	A0A5F4CEJ2_CANLF [tr]	G protein-coupled receptor 155	817	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	540-545		
+TSCCSC	2	E2RJ32	E2RJ32_CANLF [tr]	G protein-coupled receptor 155	869	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	592-597		
+TSCCSC	3	J9P529	J9P529_CANLF [tr]	G protein-coupled receptor 155	837	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	592-597		
+VVFLHV	1	E2R0P5	E2R0P5_CANLF [tr]	Solute carrier family 27 member 6	619	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	13-18		
+KGIYQT	1	A0A5F4CCA0	A0A5F4CCA0_CANLF [tr]	D-amino acid oxidase	354	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	217-222		
+KGIYQT	2	A0A5F4CLS8	A0A5F4CLS8_CANLF [tr]	D-amino acid oxidase	281	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	155-160		
+KGIYQT	3	A0A5F4DI39	A0A5F4DI39_CANLF [tr]	D-amino acid oxidase	376	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	239-244		
+KGIYQT	4	E2QV61	E2QV61_CANLF [tr]	D-amino acid oxidase	325	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	221-226		
+KGIYQT	5	F1Q3Q2	F1Q3Q2_CANLF [tr]	D-amino acid oxidase	365	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	239-244		
+SCCSCL	1	J9NT83	J9NT83_CANLF [tr]	Fibroblast growth factor receptor substrate 3	496	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	3-8		
+QTRAGC	1	A0A5F4BSS9	A0A5F4BSS9_CANLF [tr]	Proline rich 14 like	2097	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1804-1809		
+QTRAGC	2	E2RK17	E2RK17_CANLF [tr]	Proline rich 14 like	2122	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1804-1809		
+QTRAGC	3	J9P6L7	J9P6L7_CANLF [tr]	Proline rich 14 like	2146	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1804-1809		
+PVLPFN	1	A0A5F4BRE1	A0A5F4BRE1_CANLF [tr]	N-acetylated alpha-linked acidic dipeptidase like 2	779	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	630-635		
+PVLPFN	2	A0A5F4CJ45	A0A5F4CJ45_CANLF [tr]	N-acetylated alpha-linked acidic dipeptidase like 2	805	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	656-661		
+PVLPFN	3	A0A5F4CUN2	A0A5F4CUN2_CANLF [tr]	N-acetylated alpha-linked acidic dipeptidase like 2	816	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	667-672		
+PVLPFN	4	A0A5F4D4I7	A0A5F4D4I7_CANLF [tr]	N-acetylated alpha-linked acidic dipeptidase like 2	745	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	596-601		
+PVLPFN	5	A0A5F4D597	A0A5F4D597_CANLF [tr]	N-acetylated alpha-linked acidic dipeptidase like 2	728	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	579-584		
+PVLPFN	6	A0A5F4DKY7	A0A5F4DKY7_CANLF [tr]	N-acetylated alpha-linked acidic dipeptidase like 2	810	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	661-666		
+PVLPFN	7	F1PRA2	F1PRA2_CANLF [tr]	N-acetylated alpha-linked acidic dipeptidase like 2	794	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	645-650		
+MSFPQS	1	J9P9R8	J9P9R8_CANLF [tr]	Cysteine rich C-terminal 1	94	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1-6		
+RFQTLL	1	A0A5F4DFQ4	A0A5F4DFQ4_CANLF [tr]	Dishevelled associated activator of morphogenesis 2	1076	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	252-257		
+RFQTLL	2	E2RDQ5	E2RDQ5_CANLF [tr]	Dishevelled associated activator of morphogenesis 2	1067	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	252-257		
+QALNTL	1	A0A5F4BQF6	A0A5F4BQF6_CANLF [tr]	Taxilin gamma	497	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	144-149		
+QALNTL	2	A0A5F4CD21	A0A5F4CD21_CANLF [tr]	Taxilin gamma	492	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	114-119		
+QALNTL	3	A0A5F4CF70	A0A5F4CF70_CANLF [tr]	Solute carrier family 38 member 10	1036	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	294-299		
+QALNTL	4	A0A5F4CJ09	A0A5F4CJ09_CANLF [tr]	Armadillo repeat containing 6	424	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	134-139		
+QALNTL	5	A0A5F4D1C8	A0A5F4D1C8_CANLF [tr]	Solute carrier family 38 member 10	984	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	294-299		
+QALNTL	6	A0A5F4D4M8	A0A5F4D4M8_CANLF [tr]	Solute carrier family 38 member 10	1097	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	294-299		
+QALNTL	7	E2R4P0	E2R4P0_CANLF [tr]	Mediator of RNA polymerase II transcription subunit 1	1583	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	901-906		
+QALNTL	8	E2RHJ6	E2RHJ6_CANLF [tr]	Taxilin gamma	522	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	144-149		
+QALNTL	9	E2RLA9	E2RLA9_CANLF [tr]	Arm_2 domain-containing protein	307	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	129-134		
+QALNTL	10	F1PH54	F1PH54_CANLF [tr]	Armadillo repeat containing 6	476	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	132-137		
+QALNTL	11	F6X4P9	F6X4P9_CANLF [tr]	Solute carrier family 38 member 10	1089	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	294-299		
+QALNTL	12	J9NXL8	J9NXL8_CANLF [tr]	Arm_2 domain-containing protein	367	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	156-161		
+QALNTL	13	S5U7Q1	S5U7Q1_CANLF [tr]	CYorf15	479	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	105-110		
+PTESIV	1	A0A5F4D4W5	A0A5F4D4W5_CANLF [tr]	Uncharacterized protein	1707	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	61-66, 212-217, 1586-1591		
+TPPIKD	1	A0A5F4BWX7	A0A5F4BWX7_CANLF [tr]	Splicing factor 3b subunit 1	1180	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1010-1015		
+TPPIKD	2	A0A5F4BZX2	A0A5F4BZX2_CANLF [tr]	Splicing factor 3b subunit 1	1331	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1010-1015		
+TPPIKD	3	A0A5F4D1Z0	A0A5F4D1Z0_CANLF [tr]	Splicing factor 3b subunit 1	1268	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1010-1015		
+TPPIKD	4	A0A5F4D9X1	A0A5F4D9X1_CANLF [tr]	Splicing factor 3b subunit 1	1306	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1012-1017		
+TPPIKD	5	F1PKF6	F1PKF6_CANLF [tr]	Splicing factor 3b subunit 1	1429	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1135-1140	Pride	
+TASALG	1	A0A5F4BRR2	A0A5F4BRR2_CANLF [tr]	RCR-type E3 ubiquitin transferase	4718	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1670-1675		
+TASALG	2	A0A5F4BSH3	A0A5F4BSH3_CANLF [tr]	RCR-type E3 ubiquitin transferase	4672	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1649-1654		
+TASALG	3	A0A5F4BSQ3	A0A5F4BSQ3_CANLF [tr]	RCR-type E3 ubiquitin transferase	4657	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1634-1639		
+TASALG	4	A0A5F4BV31	A0A5F4BV31_CANLF [tr]	RCR-type E3 ubiquitin transferase	4705	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1704-1709		
+TASALG	5	A0A5F4BVX1	A0A5F4BVX1_CANLF [tr]	Cadherin EGF LAG seven-pass G-type receptor 3	3309	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	3284-3289		
+TASALG	6	A0A5F4C237	A0A5F4C237_CANLF [tr]	RCR-type E3 ubiquitin transferase	4652	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1704-1709		
+TASALG	7	A0A5F4C881	A0A5F4C881_CANLF [tr]	RCR-type E3 ubiquitin transferase	4709	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1704-1709		
+TASALG	8	A0A5F4CQF2	A0A5F4CQF2_CANLF [tr]	RCR-type E3 ubiquitin transferase	4750	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1668-1673		
+TASALG	9	A0A5F4D8U4	A0A5F4D8U4_CANLF [tr]	RCR-type E3 ubiquitin transferase	4761	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1704-1709		
+TASALG	10	A0A5F4DEC7	A0A5F4DEC7_CANLF [tr]	Nicotinamide phosphoribosyltransferase	534	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	8-13		
+TASALG	11	E2R930	E2R930_CANLF [tr]	Zinc finger protein 503	653	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	646-651		
+TASALG	12	E2RMI0	E2RMI0_CANLF [tr]	Transcription factor-like 1	364	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	335-340		
+TASALG	13	F1PB36	F1PB36_CANLF [tr]	RCR-type E3 ubiquitin transferase	4700	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1704-1709		
+TASALG	14	J9PB77	J9PB77_CANLF [tr]	RCR-type E3 ubiquitin transferase	4752	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1704-1709		
+VKQIYK	1	A0A5F4BP79	A0A5F4BP79_CANLF [tr]	Transformation/transcription domain associated protein	3783	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	158-163		
+VKQIYK	2	A0A5F4BRA8	A0A5F4BRA8_CANLF [tr]	Transformation/transcription domain associated protein	3495	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	158-163		
+VKQIYK	3	A0A5F4BTL1	A0A5F4BTL1_CANLF [tr]	Transformation/transcription domain associated protein	3872	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	158-163		
+VKQIYK	4	A0A5F4BXL9	A0A5F4BXL9_CANLF [tr]	Transformation/transcription domain associated protein	3854	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	158-163		
+VKQIYK	5	A0A5F4C4X1	A0A5F4C4X1_CANLF [tr]	Transformation/transcription domain associated protein	3776	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	158-163		
+VKQIYK	6	A0A5F4CD22	A0A5F4CD22_CANLF [tr]	Transformation/transcription domain associated protein	3798	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	158-163		
+VKQIYK	7	A0A5F4CZ57	A0A5F4CZ57_CANLF [tr]	Transformation/transcription domain associated protein	3732	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	158-163		
+VKQIYK	8	E2RJS8	E2RJS8_CANLF [tr]	Transformation/transcription domain associated protein	3865	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	158-163		567749, 567779
+VKQIYK	9	J9NV05	J9NV05_CANLF [tr]	Transformation/transcription domain associated protein	3847	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	158-163		
+TGTGVL	1	A0A5F4C7N0	A0A5F4C7N0_CANLF [tr]	SEL1L2 adaptor subunit of ERAD E3 ligase	550	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	429-434		
+TGTGVL	2	A0A5F4D0P6	A0A5F4D0P6_CANLF [tr]	SEL1L2 adaptor subunit of ERAD E3 ligase	730	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	455-460		
+TGTGVL	3	F1PWF6	F1PWF6_CANLF [tr]	SEL1L2 adaptor subunit of ERAD E3 ligase	688	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	455-460		
+TGTGVL	4	J9NTR9	J9NTR9_CANLF [tr]	SEL1L2 adaptor subunit of ERAD E3 ligase	575	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	455-460		
+ISSVLN	1	E2R5R9	E2R5R9_CANLF [tr]	UTP--glucose-1-phosphate uridylyltransferase	508	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	101-106	Pride	
+ISSVLN	2	F1Q1Q8	F1Q1Q8_CANLF [tr]	UTP--glucose-1-phosphate uridylyltransferase	466	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	90-95	Pride	
+ISSVLN	3	Q6W6W0	Q6W6W0_CANLF [tr]	Olfactory receptor family 7 subfamily A (Fragment)	96	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	33-38		
+LTESNK	1	A0A5F4CK12	A0A5F4CK12_CANLF [tr]	Potassium voltage-gated channel subfamily B member 2	910	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	283-288		
+LTESNK	2	E2QY00	E2QY00_CANLF [tr]	Potassium voltage-gated channel subfamily B member 1	858	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	279-284		
+LTESNK	3	Q95167	KCNB2_CANLF [sp]	Potassium voltage-gated channel subfamily B member 2 (Fragment)	809	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	283-288	Pride	
+ALDPLS	1	F1PJM8	F1PJM8_CANLF [tr]	Spalt like transcription factor 3	1331	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	475-480		
+TLEILD	1	A0A5F4BR37	A0A5F4BR37_CANLF [tr]	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	1071	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	835-840		
+TLEILD	2	A0A5F4BU36	A0A5F4BU36_CANLF [tr]	Titin	27097	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	26101-26106		
+TLEILD	3	A0A5F4C888	A0A5F4C888_CANLF [tr]	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	655	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	419-424		
+TLEILD	4	A0A5F4CLQ8	A0A5F4CLQ8_CANLF [tr]	Titin	27035	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	26039-26044		
+TLEILD	5	A0A5F4CQA6	A0A5F4CQA6_CANLF [tr]	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	1377	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1141-1146		
+TLEILD	6	A0A5F4CQD7	A0A5F4CQD7_CANLF [tr]	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	1149	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	902-907		
+TLEILD	7	A0A5F4DFI9	A0A5F4DFI9_CANLF [tr]	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	1143	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	896-901		
+TLEILD	8	C0IRA0	C0IRA0_CANLF [tr]	Toll-like receptor 2	785	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	459-464		
+TLEILD	9	E2R818	E2R818_CANLF [tr]	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	1388	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1141-1146		
+TLEILD	10	F1PAV5	F1PAV5_CANLF [tr]	Toll-like receptor 2	802	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	476-481		
+TLEILD	11	F1PV45	F1PV45_CANLF [tr]	Titin	26910	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	25914-25919		
+TLEILD	12	F1PXP2	F1PXP2_CANLF [tr]	SLX4 structure-specific endonuclease subunit	1059	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	969-974		
+TLEILD	13	Q689D1	TLR2_CANLF [sp]	Toll-like receptor 2 precursor	785	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	459-464		
+GLIAIV	1	A0A5F4BVA1	A0A5F4BVA1_CANLF [tr]	Uncharacterized protein	256	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	198-203		
+QLIRAA	1	F1PRK7	F1PRK7_CANLF [tr]	ATP synthase mitochondrial F1 complex assembly factor 2	276	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	113-118		
+QTNSPR	1	F1PVS7	F1PVS7_CANLF [tr]	PVR cell adhesion molecule	405	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	400-405		
+KSTNLV	1	A0A5F4CVZ2	A0A5F4CVZ2_CANLF [tr]	Ring finger protein 38	544	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	503-508		
+GKQGNF	1	A0A5F4C6W1	A0A5F4C6W1_CANLF [tr]	Kazal-like domain-containing protein	346	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	117-122		
+VSNGTH	1	A0A5F4CZC0	A0A5F4CZC0_CANLF [tr]	Uncharacterized protein	321	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	297-302		
+VSNGTH	2	A0A5F4DA08	A0A5F4DA08_CANLF [tr]	ZP domain-containing protein	540	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	291-296		
+VSNGTH	3	E2RAS2	E2RAS2_CANLF [tr]	ZP domain-containing protein	546	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	297-302		
+SFGGVS	1	A0A5F4CEM0	A0A5F4CEM0_CANLF [tr]	Proline rich coiled-coil 2B	2235	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1922-1927		
+SFGGVS	2	A0A5F4DKI6	A0A5F4DKI6_CANLF [tr]	Proline rich coiled-coil 2B	1515	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1202-1207		
+SFGGVS	3	F6V0G0	F6V0G0_CANLF [tr]	Proline rich coiled-coil 2B	2202	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1889-1894		
+LQELGK	1	A0A5F4DFY2	A0A5F4DFY2_CANLF [tr]	Glutaminase	712	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	155-160		
+LQELGK	2	E2RJ93	E2RJ93_CANLF [tr]	Glutaminase	754	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	155-160	Pride	
+LQELGK	3	E2RLF3	E2RLF3_CANLF [tr]	Vir like m6A methyltransferase associated	1691	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	818-823		
+LQELGK	4	F1PTH2	F1PTH2_CANLF [tr]	Vir like m6A methyltransferase associated	1811	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	887-892		
+LQELGK	5	J9NXT2	J9NXT2_CANLF [tr]	Pleckstrin homology and RhoGEF domain containing G2	1388	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	248-253		
+LQELGK	6	J9PBH0	J9PBH0_CANLF [tr]	Pleckstrin homology and RhoGEF domain containing G2	578	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	247-252		
+SALEPL	1	A0A5F4CWE3	A0A5F4CWE3_CANLF [tr]	Nudix hydrolase domain-containing protein	1472	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1260-1265		
+RSVASQ	1	F1PSM3	F1PSM3_CANLF [tr]	Symplekin	1275	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	12-17		
+PQTLEI	1	C0IRA0	C0IRA0_CANLF [tr]	Toll-like receptor 2	785	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	457-462		
+PQTLEI	2	F1PAV5	F1PAV5_CANLF [tr]	Toll-like receptor 2	802	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	474-479		
+TRAGCL	1	F1PB65	F1PB65_CANLF [tr]	RAD54 like 2	1467	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	816-821		
+NVLYEN	1	A0A5F4CZ62	A0A5F4CZ62_CANLF [tr]	Dynein cytoplasmic 1 heavy chain 1	4329	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	3521-3526		
+NVLYEN	2	A0A5F4D104	A0A5F4D104_CANLF [tr]	Receptor protein-tyrosine kinase	1138	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	57-62		
+NVLYEN	3	F1PF03	F1PF03_CANLF [tr]	Receptor protein-tyrosine kinase	1141	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	57-62		
+NVLYEN	4	F1PGY9	F1PGY9_CANLF [tr]	Dynein cytoplasmic 1 heavy chain 1	4647	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	3838-3843	Pride	
+KIQDSL	1	A0A5F4BUN0	A0A5F4BUN0_CANLF [tr]	Phosphorylase b kinase regulatory subunit	1086	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	76-81		
+KIQDSL	2	A0A5F4C050	A0A5F4C050_CANLF [tr]	Phosphorylase b kinase regulatory subunit	1153	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	76-81		
+KIQDSL	3	A0A5F4C2Q4	A0A5F4C2Q4_CANLF [tr]	Par-3 family cell polarity regulator	1131	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	904-909		
+KIQDSL	4	A0A5F4C6U2	A0A5F4C6U2_CANLF [tr]	Phosphorylase b kinase regulatory subunit	1137	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	127-132		
+KIQDSL	5	A0A5F4CK20	A0A5F4CK20_CANLF [tr]	Par-3 family cell polarity regulator	1141	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	889-894		
+KIQDSL	6	A0A5F4CQ90	A0A5F4CQ90_CANLF [tr]	Phosphorylase b kinase regulatory subunit	1097	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	76-81		
+KIQDSL	7	A0A5F4D1Q0	A0A5F4D1Q0_CANLF [tr]	Phosphorylase b kinase regulatory subunit	1089	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	76-81		
+KIQDSL	8	A0A5F4D8H3	A0A5F4D8H3_CANLF [tr]	Phosphorylase b kinase regulatory subunit	1093	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	76-81		
+KIQDSL	9	A0A5F4DI35	A0A5F4DI35_CANLF [tr]	Par-3 family cell polarity regulator	1229	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	889-894		
+KIQDSL	10	F1PFK4	F1PFK4_CANLF [tr]	Par-3 family cell polarity regulator	1258	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	942-947		
+KIQDSL	11	F1PUX2	F1PUX2_CANLF [tr]	Phosphorylase b kinase regulatory subunit	1125	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	76-81		
+KIQDSL	12	F1PX65	F1PX65_CANLF [tr]	Phosphorylase b kinase regulatory subunit	1041	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	76-81		
+KIQDSL	13	J9P9Z9	J9P9Z9_CANLF [tr]	Dynein axonemal heavy chain 7	4023	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	757-762		
+IVNNAT	1	E2R3L7	E2R3L7_CANLF [tr]	DNA helicase B	1115	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	707-712		
+IVNNAT	2	F1PMY1	F1PMY1_CANLF [tr]	DNA helicase B	1135	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	707-712		
+PLQPEL	1	A0A5F4D0U7	A0A5F4D0U7_CANLF [tr]	Structural maintenance of chromosomes flexible hinge domain containing 1	3051	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2770-2775		
+PLQPEL	2	E2REB0	E2REB0_CANLF [tr]	Structural maintenance of chromosomes flexible hinge domain containing 1	2997	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2716-2721		
+PLQPEL	3	E2REB1	E2REB1_CANLF [tr]	Structural maintenance of chromosomes flexible hinge domain containing 1	2999	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2718-2723		
+ENGTIT	1	A0A5F4BSN5	A0A5F4BSN5_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2627	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	460-465		
+ENGTIT	2	A0A5F4BST2	CRUM3_CANLF [sp]	Protein crumbs homolog 3 precursor	123	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	35-40		
+ENGTIT	3	A0A5F4C9J0	A0A5F4C9J0_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2658	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	460-465		
+ENGTIT	4	A0A5F4CFY8	A0A5F4CFY8_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2445	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	460-465		
+ENGTIT	5	A0A5F4D2J0	A0A5F4D2J0_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2602	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	460-465		
+ENGTIT	6	A0A5F4D379	A0A5F4D379_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2667	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	460-465		
+ENGTIT	7	A0A5F4DC07	A0A5F4DC07_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2444	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	276-281		
+ENGTIT	8	A0A5F4DE93	A0A5F4DE93_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2643	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	460-465		
+ENGTIT	9	A0A5F4DGC9	A0A5F4DGC9_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2670	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	460-465		
+ENGTIT	10	A0A5F4DGX4	A0A5F4DGX4_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2554	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	460-465		
+ENGTIT	11	F1Q0H6	F1Q0H6_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2701	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	460-465		
+NENGTI	1	A0A5F4BST2	CRUM3_CANLF [sp]	Protein crumbs homolog 3 precursor	123	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	34-39		
+VNNTVY	1	A0A5F4BYK0	A0A5F4BYK0_CANLF [tr]	Eukaryotic translation initiation factor 3 subunit J	210	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	90-95		
+VNNTVY	2	A0A5F4DGH8	A0A5F4DGH8_CANLF [tr]	Eukaryotic translation initiation factor 3 subunit J	229	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	109-114		
+VNNTVY	3	E2QUU1	E2QUU1_CANLF [tr]	Eukaryotic translation initiation factor 3 subunit J	259	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	139-144	Pride	
+GKLQDV	1	H9GWX7	H9GWX7_CANLF [tr]	ANK_REP_REGION domain-containing protein	329	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	62-67		
+GKLQDV	2	H9GX26	H9GX26_CANLF [tr]	ANK_REP_REGION domain-containing protein	256	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	45-50		
+GVSPTK	1	A0A5F4C1P7	A0A5F4C1P7_CANLF [tr]	Tubby-like protein	450	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	292-297		
+GVSPTK	2	F1PNR7	F1PNR7_CANLF [tr]	Tubby-like protein	462	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	304-309		
+LPDDFT	1	A0A5F4BNI8	A0A5F4BNI8_CANLF [tr]	Diacylglycerol kinase	754	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	68-73		
+LPDDFT	2	A0A5F4BRI4	A0A5F4BRI4_CANLF [tr]	Diacylglycerol kinase	752	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	75-80		
+LPDDFT	3	A0A5F4CIJ2	A0A5F4CIJ2_CANLF [tr]	Diacylglycerol kinase	790	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	75-80		
+LPDDFT	4	A0A5F4CK46	A0A5F4CK46_CANLF [tr]	Diacylglycerol kinase	755	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	75-80		
+LPDDFT	5	A0A5F4D551	A0A5F4D551_CANLF [tr]	Diacylglycerol kinase	795	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	68-73		
+LPDDFT	6	F1PJ17	F1PJ17_CANLF [tr]	Diacylglycerol kinase	761	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	68-73		
+LPDDFT	7	J9NY96	J9NY96_CANLF [tr]	Diacylglycerol kinase	803	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	75-80		
+LPDDFT	8	J9P1W1	J9P1W1_CANLF [tr]	Diacylglycerol kinase	791	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	75-80		
+DSLSST	1	A0A5F4BRS7	A0A5F4BRS7_CANLF [tr]	KIAA0586	1539	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1285-1290		
+DSLSST	2	A0A5F4BV25	A0A5F4BV25_CANLF [tr]	KIAA0586	1429	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1175-1180		
+DSLSST	3	A0A5F4BV39	A0A5F4BV39_CANLF [tr]	KIAA0586	1469	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1193-1198		
+DSLSST	4	A0A5F4BZC6	A0A5F4BZC6_CANLF [tr]	Zinc finger RANBP2-type containing 3	1076	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	644-649		
+DSLSST	5	A0A5F4D824	A0A5F4D824_CANLF [tr]	Zinc finger RANBP2-type containing 3	1128	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	644-649		
+DSLSST	6	E2R8Y8	E2R8Y8_CANLF [tr]	Uncharacterized protein	1324	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	472-477		
+DSLSST	7	E2RK04	E2RK04_CANLF [tr]	Zinc finger RANBP2-type containing 3	1072	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	647-652		
+DSLSST	8	F1PDJ5	F1PDJ5_CANLF [tr]	Apolipoprotein A-I	266	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	74-79	Pride	
+DSLSST	9	F1PVH8	F1PVH8_CANLF [tr]	KIAA0586	1474	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1220-1225		
+DSLSST	10	F1PVI0	F1PVI0_CANLF [tr]	KIAA0586	1495	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1285-1290		
+DSLSST	11	F1PX68	F1PX68_CANLF [tr]	Uncharacterized protein	1296	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	444-449		
+DSLSST	12	J9NUQ5	J9NUQ5_CANLF [tr]	KIAA0586	1406	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1152-1157		
+DSLSST	13	P02648	APOA1_CANLF [sp]	Apolipoprotein A-I precursor	266	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	74-79	Pride	
+LDKYFK	1	F1PY69	F1PY69_CANLF [tr]	Follistatin like 1	299	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	140-145		
+LDKYFK	2	J9NS23	J9NS23_CANLF [tr]	Follistatin like 1	328	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	169-174		
+SASFST	1	A0A5F4CRH8	A0A5F4CRH8_CANLF [tr]	DNA polymerase epsilon catalytic subunit	2335	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2269-2274		
+SASFST	2	A0A5F4D2S5	A0A5F4D2S5_CANLF [tr]	DNA polymerase epsilon catalytic subunit	2319	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2253-2258		
+SASFST	3	F1P7D2	F1P7D2_CANLF [tr]	Syntaxin binding protein 1	619	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	493-498		
+SASFST	4	J9NTI1	J9NTI1_CANLF [tr]	Syntaxin binding protein 1	581	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	494-499		
+SASFST	5	J9NUA1	J9NUA1_CANLF [tr]	Syntaxin binding protein 1	590	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	494-499		
+RDPQTL	1	J9P720	J9P720_CANLF [tr]	SAM domain-containing protein	344	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	285-290		
+VVIGIV	1	A0A5F4C969	A0A5F4C969_CANLF [tr]	RING-type domain-containing protein	320	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	305-310		
+VVIGIV	2	A0A5F4CBP9	A0A5F4CBP9_CANLF [tr]	W2 domain-containing protein	256	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	128-133		
+VVIGIV	3	A0A5F4CC81	A0A5F4CC81_CANLF [tr]	Basic leucine zipper and W2 domains 1	419	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	291-296		
+VVIGIV	4	A0A5F4CEG0	A0A5F4CEG0_CANLF [tr]	Basic leucine zipper and W2 domains 1	423	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	295-300		
+VVIGIV	5	A0A5F4DAH0	A0A5F4DAH0_CANLF [tr]	RING-type domain-containing protein	288	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	273-278		
+VVIGIV	6	F6V4W0	F6V4W0_CANLF [tr]	Basic leucine zipper and W2 domains 1	451	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	323-328	Pride	567816, 568796
+SSTASA	1	A0A5F4C7C2	A0A5F4C7C2_CANLF [tr]	Hydroxyacyl-CoA dehydrogenase	308	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	38-43		
+SSTASA	2	A0A5F4CVN2	A0A5F4CVN2_CANLF [tr]	Hydroxyacyl-CoA dehydrogenase	312	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	15-20		
+SSTASA	3	A0A5F4D0U5	A0A5F4D0U5_CANLF [tr]	Hydroxyacyl-CoA dehydrogenase	174	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	15-20		
+SSTASA	4	A0A5F4D4X2	A0A5F4D4X2_CANLF [tr]	Hydroxyacyl-CoA dehydrogenase	285	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	15-20		
+SSTASA	5	A0A5F4DHB9	A0A5F4DHB9_CANLF [tr]	40S ribosomal protein S13	151	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	143-148		
+SSTASA	6	F6XX91	F6XX91_CANLF [tr]	Frizzled class receptor 7	910	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	144-149		
+SSTASA	7	J9P8S8	J9P8S8_CANLF [tr]	Autophagy related 2A	1936	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1789-1794		745340
+CPFGEV	1	A0A5F4CEY2	A0A5F4CEY2_CANLF [tr]	CUB domain containing protein 1	762	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	34-39		
+CPFGEV	2	F1PV63	F1PV63_CANLF [tr]	CUB domain containing protein 1	832	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	104-109		
+NLVKNK	1	F1PFN4	F1PFN4_CANLF [tr]	N-alpha-acetyltransferase 15, NatA auxiliary subunit	856	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	656-661		
+LPLVSS	1	A0A5F4CRI5	A0A5F4CRI5_CANLF [tr]	Perilipin 2	109	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	19-24		
+LPLVSS	2	A0A5F4CX51	A0A5F4CX51_CANLF [tr]	Perilipin	410	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	19-24		
+LPLVSS	3	E2RP20	E2RP20_CANLF [tr]	Perilipin	447	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	19-24		
+LITGRL	1	A0A5F4BS16	A0A5F4BS16_CANLF [tr]	Solute carrier family 22 member 12	542	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	277-282		
+LITGRL	2	A0A5F4CH92	A0A5F4CH92_CANLF [tr]	Solute carrier family 22 member 12	444	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	179-184		
+LITGRL	3	E2RLK5	E2RLK5_CANLF [tr]	Solute carrier family 22 member 12	552	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	287-292		
+LITGRL	4	I7HI71	I7HI71_CANLF [tr]	Organic anion/urate transporter, URAT1	552	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	287-292		
+VSMTKT	1	E2QXM8	E2QXM8_CANLF [tr]	Uncharacterized protein	1783	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1232-1237		
+FGAGAA	1	A0A5F4CDR1	A0A5F4CDR1_CANLF [tr]	Nuclear receptor subfamily 2 group F member 6	764	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	538-543		
+FGAGAA	2	E2QTH4	E2QTH4_CANLF [tr]	Secernin 2	433	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	329-334		
+SNNSIA	1	A0A5F4C5K9	A0A5F4C5K9_CANLF [tr]	TSC22 domain family member 1	985	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	136-141		
+SNNSIA	2	A0A5F4D7Q0	A0A5F4D7Q0_CANLF [tr]	TSC22 domain family member 1	1052	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	136-141		
+SNNSIA	3	F1PJA5	F1PJA5_CANLF [tr]	TSC22 domain family member 1	1074	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	136-141	Pride	
+SNNSIA	4	J9NZ78	J9NZ78_CANLF [tr]	TSC22 domain family member 1	1029	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	136-141		
+DKYFKN	1	F1PY69	F1PY69_CANLF [tr]	Follistatin like 1	299	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	141-146		
+DKYFKN	2	J9NS23	J9NS23_CANLF [tr]	Follistatin like 1	328	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	170-175		
+KLQDVV	1	A0A5F4BSN5	A0A5F4BSN5_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2627	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1605-1610		
+KLQDVV	2	A0A5F4C9J0	A0A5F4C9J0_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2658	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1562-1567		
+KLQDVV	3	A0A5F4CFY8	A0A5F4CFY8_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2445	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1605-1610		
+KLQDVV	4	A0A5F4D2J0	A0A5F4D2J0_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2602	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1605-1610		
+KLQDVV	5	A0A5F4D379	A0A5F4D379_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2667	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1605-1610		
+KLQDVV	6	A0A5F4DC07	A0A5F4DC07_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2444	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1421-1426		
+KLQDVV	7	A0A5F4DE93	A0A5F4DE93_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2643	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1547-1552		
+KLQDVV	8	A0A5F4DGC9	A0A5F4DGC9_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2670	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1605-1610		
+KLQDVV	9	A0A5F4DGX4	A0A5F4DGX4_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2554	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1605-1610		
+KLQDVV	10	F1Q0H6	F1Q0H6_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2701	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1605-1610		
+KLQDVV	11	F6Y448	F6Y448_CANLF [tr]	cGMP-dependent protein kinase	762	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	81-86		
+RLDKVE	1	A0A5F4BST9	A0A5F4BST9_CANLF [tr]	Dpy-19 like C-mannosyltransferase 3	757	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	744-749		
+RLDKVE	2	E2RS53	E2RS53_CANLF [tr]	Dpy-19 like C-mannosyltransferase 3	801	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	788-793		
+QIITTD	1	A0A5F4BWV2	A0A5F4BWV2_CANLF [tr]	ADAM metallopeptidase with thrombospondin type 1 motif 9	1902	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1805-1810		
+QIITTD	2	A0A5F4C7C3	A0A5F4C7C3_CANLF [tr]	ADAM metallopeptidase with thrombospondin type 1 motif 9	1872	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1775-1780		
+QIITTD	3	A0A5F4C9U4	A0A5F4C9U4_CANLF [tr]	ADAM metallopeptidase with thrombospondin type 1 motif 9	1898	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1801-1806		
+QIITTD	4	A0A5F4CMW0	A0A5F4CMW0_CANLF [tr]	ADAM metallopeptidase with thrombospondin type 1 motif 9	1874	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1777-1782		
+QIITTD	5	A0A5F4D7A1	A0A5F4D7A1_CANLF [tr]	ADAM metallopeptidase with thrombospondin type 1 motif 9	1816	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1719-1724		
+QIITTD	6	E2RDJ3	E2RDJ3_CANLF [tr]	ADAM metallopeptidase with thrombospondin type 1 motif 9	1930	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1833-1838		
+EDDSEP	1	A0A5F4BWN7	A0A5F4BWN7_CANLF [tr]	Origin recognition complex subunit 1	864	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	73-78		
+EDDSEP	2	A0A5F4CEZ7	A0A5F4CEZ7_CANLF [tr]	PACAP-related peptide	161	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	122-127		
+EDDSEP	3	A0A5F4CJF4	A0A5F4CJF4_CANLF [tr]	PACAP-related peptide	326	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	268-273		
+EDDSEP	4	A0A5F4CTL6	A0A5F4CTL6_CANLF [tr]	PACAP-related peptide	176	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	122-127		
+EDDSEP	5	A0A5F4D044	A0A5F4D044_CANLF [tr]	PACAP-related peptide	167	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	122-127		
+EDDSEP	6	E2QU75	E2QU75_CANLF [tr]	Origin recognition complex subunit 1	813	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	73-78		
+FEYVSQ	1	A0A5F4DFR2	A0A5F4DFR2_CANLF [tr]	Striatin interacting protein 2	766	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	525-530		
+FEYVSQ	2	E2RJF2	E2RJF2_CANLF [tr]	Striatin interacting protein 2	834	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	593-598		
+LEGKQG	1	A0A5F4BVT0	A0A5F4BVT0_CANLF [tr]	Uncharacterized protein	546	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	81-86		
+LEGKQG	2	E2R7E0	E2R7E0_CANLF [tr]	Uncharacterized protein	519	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	79-84		
+LEGKQG	3	E2RMK4	E2RMK4_CANLF [tr]	Uncharacterized protein	784	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	92-97		
+LEGKQG	4	J9JHW1	J9JHW1_CANLF [tr]	Uncharacterized protein	815	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	92-97		
+LEGKQG	5	J9P6U0	J9P6U0_CANLF [tr]	Uncharacterized protein	697	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	92-97		
+LEGKQG	6	L7N0N8	L7N0N8_CANLF [tr]	Uncharacterized protein	729	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	92-97		
+NKVTLA	1	F1PQ29	F1PQ29_CANLF [tr]	Integrin subunit alpha 4	964	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	694-699		
+LQPELD	1	A0A5F4C0B4	A0A5F4C0B4_CANLF [tr]	Golgin B1	3182	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1312-1317		
+LQPELD	2	F6XPP6	F6XPP6_CANLF [tr]	Golgin B1	3263	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1391-1396		
+ELDSFK	1	A0A5F4CLL8	A0A5F4CLL8_CANLF [tr]	Uncharacterized protein	382	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	8-13		
+ELDSFK	2	A0A5F4CW09	A0A5F4CW09_CANLF [tr]	Uncharacterized protein	416	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	8-13		
+ELDSFK	3	A0A5F4CYQ5	A0A5F4CYQ5_CANLF [tr]	Uncharacterized protein	370	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	8-13		
+ELDSFK	4	E2RPF2	E2RPF2_CANLF [tr]	Nucleolar and spindle associated protein 1	437	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	8-13		
+CSCLKG	1	A0A5F4D3D1	A0A5F4D3D1_CANLF [tr]	Adhesion G protein-coupled receptor F5	1383	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	151-156		
+CSCLKG	2	A0A5F4DA65	A0A5F4DA65_CANLF [tr]	Adhesion G protein-coupled receptor F5	1220	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	151-156		
+CSCLKG	3	A0A5F4DEW1	A0A5F4DEW1_CANLF [tr]	Adhesion G protein-coupled receptor F5	1343	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	151-156		
+CSCLKG	4	A0A5F4DJJ3	A0A5F4DJJ3_CANLF [tr]	Adhesion G protein-coupled receptor F5	1388	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	151-156		
+CSCLKG	5	E2RAK2	E2RAK2_CANLF [tr]	Adhesion G protein-coupled receptor F5	1331	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	151-156		
+CSCLKG	6	F1PDC7	F1PDC7_CANLF [tr]	Neurogenic locus notch homolog protein 1	2565	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	619-624		
+CSCLKG	7	F1PUX7	F1PUX7_CANLF [tr]	Adhesion G protein-coupled receptor F5	1363	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	151-156		
+VSGNCD	1	A0A5F4BTF7	A0A5F4BTF7_CANLF [tr]	Rho GTPase activating protein 32	2004	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1029-1034		
+VSGNCD	2	A0A5F4CJV8	A0A5F4CJV8_CANLF [tr]	Rho GTPase activating protein 32	2113	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1138-1143		
+VSGNCD	3	A0A5F4CLN8	A0A5F4CLN8_CANLF [tr]	Rho GTPase activating protein 32	2036	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1061-1066		
+VSGNCD	4	A0A5F4D199	A0A5F4D199_CANLF [tr]	Rho GTPase activating protein 32	2056	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1127-1132		
+VSGNCD	5	A0A5F4D1A3	A0A5F4D1A3_CANLF [tr]	Rho GTPase activating protein 32	2102	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1127-1132		
+VSGNCD	6	A0A5F4D6J2	A0A5F4D6J2_CANLF [tr]	Rho GTPase activating protein 32	2022	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1047-1052		
+VSGNCD	7	A0A5F4DFP8	A0A5F4DFP8_CANLF [tr]	Rho GTPase activating protein 32	2088	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1113-1118		
+VSGNCD	8	F1PUT9	F1PUT9_CANLF [tr]	Rho GTPase activating protein 32	2067	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1092-1097		
+VSGNCD	9	J9NXT5	J9NXT5_CANLF [tr]	Rho GTPase activating protein 32	2072	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1097-1102		
+NIIRGW	1	A0A5F4DI90	A0A5F4DI90_CANLF [tr]	Chromatin modification-related protein MEAF6	169	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	34-39		
+NIIRGW	2	F1PY51	F1PY51_CANLF [tr]	Chromatin modification-related protein MEAF6	169	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	34-39		
+NSNNLD	1	A0A5F4CIC4	A0A5F4CIC4_CANLF [tr]	Zinc finger E-box binding homeobox 2	1282	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	939-944		
+NSNNLD	2	A0A5F4D5F1	A0A5F4D5F1_CANLF [tr]	Zinc finger E-box binding homeobox 2	1165	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	822-827		
+NSNNLD	3	F1PKS2	F1PKS2_CANLF [tr]	Zinc finger E-box binding homeobox 2	1130	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	784-789		
+TEIYQA	1	A0A5F4CH20	A0A5F4CH20_CANLF [tr]	Tyrosine-protein kinase receptor	2334	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1390-1395		
+TEIYQA	2	A0A5F4DL64	A0A5F4DL64_CANLF [tr]	Tyrosine-protein kinase receptor	2272	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1328-1333		
+TEIYQA	3	F1PUF3	F1PUF3_CANLF [tr]	Tyrosine-protein kinase receptor	2343	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1399-1404		
+LAGTIT	1	A0A5F4C344	A0A5F4C344_CANLF [tr]	Teneurin transmembrane protein 2	2651	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1672-1677		
+LAGTIT	2	A0A5F4CDW9	A0A5F4CDW9_CANLF [tr]	Teneurin transmembrane protein 2	2624	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1645-1650		
+LAGTIT	3	A0A5F4CM84	A0A5F4CM84_CANLF [tr]	Teneurin transmembrane protein 2	2541	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1562-1567		
+LAGTIT	4	A0A5F4CWB8	A0A5F4CWB8_CANLF [tr]	Teneurin transmembrane protein 2	2621	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1642-1647		
+LAGTIT	5	A0A5F4CX06	A0A5F4CX06_CANLF [tr]	Teneurin transmembrane protein 2	2571	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1592-1597		
+LAGTIT	6	A0A5F4CZG4	A0A5F4CZG4_CANLF [tr]	Teneurin transmembrane protein 2	2774	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1795-1800		
+LAGTIT	7	A0A5F4D4S4	A0A5F4D4S4_CANLF [tr]	Teneurin transmembrane protein 2	2612	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1633-1638		
+LAGTIT	8	A0A5F4DDR4	A0A5F4DDR4_CANLF [tr]	Teneurin transmembrane protein 2	2570	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1591-1596		
+LAGTIT	9	A0A5F4DI57	A0A5F4DI57_CANLF [tr]	Teneurin transmembrane protein 2	2533	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1554-1559		
+LAGTIT	10	F1PQB7	F1PQB7_CANLF [tr]	Teneurin transmembrane protein 2	2533	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1554-1559		
+HFPREG	1	F1P8H1	F1P8H1_CANLF [tr]	Serine/threonine-protein kinase 11-interacting protein	1099	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1093-1098		
+VNQNAQ	1	F6XRS2	F6XRS2_CANLF [tr]	SIX homeobox 4	785	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	589-594		
+VNQNAQ	2	F6Y057	F6Y057_CANLF [tr]	Hook microtubule tethering protein 1	728	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	578-583		
+VNQNAQ	3	J9NXQ2	J9NXQ2_CANLF [tr]	SIX homeobox 4	804	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	608-613		
+VNQNAQ	4	J9P424	J9P424_CANLF [tr]	SIX homeobox 4	796	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	600-605		
+AQEKNF	1	A0A5F4D036	A0A5F4D036_CANLF [tr]	Maestro heat like repeat family member 1	1477	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	642-647		
+AQEKNF	2	F1PEI8	F1PEI8_CANLF [tr]	Maestro heat like repeat family member 1	1486	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	642-647		
+FVTQRN	1	A0A5F4BRQ1	A0A5F4BRQ1_CANLF [tr]	Taste receptor type 2	288	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	149-154		
+FVTQRN	2	A0A5F4C569	A0A5F4C569_CANLF [tr]	Glutamate receptor	893	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	744-749		
+FVTQRN	3	A0A5F4D292	A0A5F4D292_CANLF [tr]	Glutamate receptor	796	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	647-652		
+FVTQRN	4	A0A5F4DAN7	A0A5F4DAN7_CANLF [tr]	Glutamate receptor	869	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	744-749		
+FVTQRN	5	F1P7K5	F1P7K5_CANLF [tr]	Glutamate receptor	908	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	744-749		
+FVTQRN	6	F1P7K6	F1P7K6_CANLF [tr]	Glutamate receptor	858	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	695-700		
+FVTQRN	7	Q2ABD7	Q2ABD7_CANLF [tr]	Taste receptor type 2 member 4 (Fragment)	209	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	70-75		
+FGAISS	1	A0A5F4BZK7	A0A5F4BZK7_CANLF [tr]	Sodium/bile acid cotransporter	357	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	202-207		
+FGAISS	2	A0A5F4CTR5	A0A5F4CTR5_CANLF [tr]	Solute carrier family 10 member 7	166	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	28-33		
+FGAISS	3	A0A5F4D005	A0A5F4D005_CANLF [tr]	Sodium/bile acid cotransporter	327	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	189-194		
+FGAISS	4	A0A5F4D0Z1	A0A5F4D0Z1_CANLF [tr]	Sodium/bile acid cotransporter	312	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	174-179		
+FGAISS	5	A0A5F4DHJ0	A0A5F4DHJ0_CANLF [tr]	Sodium/bile acid cotransporter	328	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	190-195		
+FGAISS	6	E2R8R9	E2R8R9_CANLF [tr]	Sodium/bile acid cotransporter	340	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	202-207		
+DPQTLE	1	A0A5F4CEC0	A0A5F4CEC0_CANLF [tr]	Integrator complex subunit 1	2047	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1131-1136		
+DPQTLE	2	A0A5F4DBU3	A0A5F4DBU3_CANLF [tr]	Integrator complex subunit 1	2153	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1237-1242		
+DPQTLE	3	A0A5F4DFV5	A0A5F4DFV5_CANLF [tr]	Integrator complex subunit 1	2213	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1297-1302		
+DPQTLE	4	A0A5F4DG24	A0A5F4DG24_CANLF [tr]	Integrator complex subunit 1	2161	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1245-1250		
+DPQTLE	5	F6XBJ5	F6XBJ5_CANLF [tr]	Integrator complex subunit 1	2188	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1272-1277		
+LGKLQD	1	A0A5F4C1Y3	A0A5F4C1Y3_CANLF [tr]	V-set and transmembrane domain containing 1	142	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	60-65		
+LGKLQD	2	E2RCR2	E2RCR2_CANLF [tr]	V-set and transmembrane domain containing 1	131	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	60-65		
+PLVSSQ	1	A0A5F4C1A9	A0A5F4C1A9_CANLF [tr]	Leucine rich repeat containing 46	291	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	250-255		
+PLVSSQ	2	A0A5F4DKA1	A0A5F4DKA1_CANLF [tr]	Zinc finger protein 335	1380	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	411-416		
+PLVSSQ	3	E2RCJ4	E2RCJ4_CANLF [tr]	Zinc finger protein 335	1316	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	373-378		
+PLVSSQ	4	E2RGC7	E2RGC7_CANLF [tr]	Spectrin beta, non-erythrocytic 5	3660	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1638-1643	Pride	
+PLVSSQ	5	J9PA18	J9PA18_CANLF [tr]	Leucine rich repeat containing 46	322	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	281-286		
+FNGIGV	1	A0A5F4CJJ0	A0A5F4CJJ0_CANLF [tr]	Discoidin, CUB and LCCL domain containing 2	737	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	96-101		
+FNGIGV	2	F1PVX2	F1PVX2_CANLF [tr]	Discoidin, CUB and LCCL domain containing 2	728	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	73-78		
+ALNTLV	1	F1PGH9	F1PGH9_CANLF [tr]	Lysosomal-associated transmembrane protein 4B	226	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	113-118		
+GTNGTK	1	A0A5F4C636	A0A5F4C636_CANLF [tr]	Interleukin 31 receptor A	679	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	453-458		
+GTNGTK	2	F1PTZ6	F1PTZ6_CANLF [tr]	Interleukin 31 receptor A	728	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	502-507		
+AAEIRA	1	E2RPM1	E2RPM1_CANLF [tr]	Uncharacterized protein	715	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	199-204		
+AAEIRA	2	F1PV04	F1PV04_CANLF [tr]	HID1 domain containing	786	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	50-55		
+VLSFEL	1	A0A5F4CB24	A0A5F4CB24_CANLF [tr]	CST complex subunit CTC1	1236	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1176-1181		
+VLSFEL	2	A0A5F4CE64	A0A5F4CE64_CANLF [tr]	CST complex subunit CTC1	1215	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1155-1160		
+VLSFEL	3	A0A5F4D6P7	A0A5F4D6P7_CANLF [tr]	CST complex subunit CTC1	1189	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1129-1134		
+VLSFEL	4	F1Q3J7	F1Q3J7_CANLF [tr]	CST complex subunit CTC1	1211	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1151-1156		
+NQKLIA	1	F1PUH1	F1PUH1_CANLF [tr]	WD repeat domain 11	1224	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	763-768		
+DIADTT	1	Q8MJW8	CCR4_CANLF [sp]	C-C chemokine receptor type 4	360	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	5-10		
+FIEDLL	1	J9NZZ3	J9NZZ3_CANLF [tr]	Mastermind like domain containing 1	1036	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	987-992		
+PRRARS	1	A0A5F4BXX0	A0A5F4BXX0_CANLF [tr]	AarF domain containing kinase 5	637	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	21-26		
+PRRARS	2	A0A5F4C0U3	A0A5F4C0U3_CANLF [tr]	AarF domain containing kinase 5	681	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	21-26		
+PRRARS	3	A0A5F4D7D3	A0A5F4D7D3_CANLF [tr]	AarF domain containing kinase 5	631	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	21-26		
+PRRARS	4	J9NW85	J9NW85_CANLF [tr]	Uncharacterized protein	469	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	158-163		
+LIVNNA	1	E2R3L7	E2R3L7_CANLF [tr]	DNA helicase B	1115	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	706-711		
+LIVNNA	2	F1PMY1	F1PMY1_CANLF [tr]	DNA helicase B	1135	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	706-711		
+RASANL	1	A0A5F4DAY3	A0A5F4DAY3_CANLF [tr]	Uncharacterized protein	638	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	339-344		
+RASANL	2	E2R0K2	E2R0K2_CANLF [tr]	Tektin	447	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	273-278		
+DAVRDP	1	A0A5F4C248	A0A5F4C248_CANLF [tr]	Endoplasmic reticulum-golgi intermediate compartment 1	493	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	20-25		
+DAVRDP	2	A0A5F4CAL6	A0A5F4CAL6_CANLF [tr]	Endoplasmic reticulum-golgi intermediate compartment 1	488	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	20-25		
+GQTGKI	1	A0A5F4BSP3	A0A5F4BSP3_CANLF [tr]	Scavenger receptor class B member 1	486	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	378-383		
+GQTGKI	2	A0A5F4C5C0	A0A5F4C5C0_CANLF [tr]	Scavenger receptor class B member 1	542	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	378-383		
+GQTGKI	3	A0A5F4CH61	A0A5F4CH61_CANLF [tr]	Electron transfer flavoprotein subunit alpha	284	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	215-220		
+GQTGKI	4	A0A5F4CLR6	A0A5F4CLR6_CANLF [tr]	Scavenger receptor class B member 1	484	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	378-383		
+GQTGKI	5	A0A5F4CTK9	A0A5F4CTK9_CANLF [tr]	Scavenger receptor class B member 1	552	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	388-393		
+GQTGKI	6	A0A5F4CYK6	A0A5F4CYK6_CANLF [tr]	Electron transfer flavoprotein subunit alpha	229	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	160-165		
+GQTGKI	7	A0A5F4DBX4	A0A5F4DBX4_CANLF [tr]	Electron transfer flavoprotein subunit alpha	321	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	264-269		
+GQTGKI	8	E2RAE2	E2RAE2_CANLF [tr]	Electron transfer flavoprotein subunit alpha	333	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	264-269	Pride	
+GQTGKI	9	F1PQT1	F1PQT1_CANLF [tr]	Scavenger receptor class B member 1	526	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	362-367	Pride	
+KTPPIK	1	E2RLE5	E2RLE5_CANLF [tr]	Diacylglycerol kinase	564	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	251-256		
+LQSLQT	1	A0A5F4BNJ9	A0A5F4BNJ9_CANLF [tr]	C-type lectin domain containing 7A	276	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	106-111		
+LQSLQT	2	A0A5F4C6T6	A0A5F4C6T6_CANLF [tr]	Tandem C2 domains, nuclear	451	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	260-265		
+LQSLQT	3	A0A5F4CQP8	A0A5F4CQP8_CANLF [tr]	C-type lectin domain containing 7A	270	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	100-105		
+LQSLQT	4	A0A5F4CYV9	A0A5F4CYV9_CANLF [tr]	C-type lectin domain containing 7A	247	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	67-72		
+LQSLQT	5	A0A5F4D5Z4	A0A5F4D5Z4_CANLF [tr]	C-type lectin domain containing 7A	280	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	100-105		
+LQSLQT	6	E2R2Z1	E2R2Z1_CANLF [tr]	Tandem C2 domains, nuclear	490	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	299-304		
+LLQYGS	1	A0A5F4CG89	A0A5F4CG89_CANLF [tr]	Matrilin 2	1078	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	294-299		
+LLQYGS	2	A0A5F4CZM5	A0A5F4CZM5_CANLF [tr]	Matrilin 2	916	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	99-104		
+LLQYGS	3	A0A5F4D5C4	A0A5F4D5C4_CANLF [tr]	Matrilin 2	1095	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	294-299		
+LLQYGS	4	A0A5F4DHG2	A0A5F4DHG2_CANLF [tr]	Matrilin 2	1097	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	294-299		
+LLQYGS	5	F1PGH3	F1PGH3_CANLF [tr]	Matrilin 2	938	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	99-104	Pride	
+LLQYGS	6	F1PQA2	F1PQA2_CANLF [tr]	Matrilin 2	992	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	118-123		
+LLPLVS	1	A0A5F4BR65	A0A5F4BR65_CANLF [tr]	Uncharacterized protein	486	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	444-449		
+LLPLVS	2	A0A5F4BWR4	A0A5F4BWR4_CANLF [tr]	Uncharacterized protein	520	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	478-483		
+LLPLVS	3	A0A5F4C3M9	A0A5F4C3M9_CANLF [tr]	Collagen type VII alpha 1 chain	2803	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	207-212		
+LLPLVS	4	A0A5F4C7L6	A0A5F4C7L6_CANLF [tr]	Collagen type VII alpha 1 chain	2768	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	207-212		
+LLPLVS	5	A0A5F4CAX2	A0A5F4CAX2_CANLF [tr]	Uncharacterized protein	360	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	10-15		
+LLPLVS	6	A0A5F4CKB9	A0A5F4CKB9_CANLF [tr]	Collagen type VII alpha 1 chain	2936	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	207-212		
+LLPLVS	7	A0A5F4D4N4	A0A5F4D4N4_CANLF [tr]	Uncharacterized protein	481	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	439-444		
+LLPLVS	8	F1PIP7	F1PIP7_CANLF [tr]	Collagen type VII alpha 1 chain	2906	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	207-212		
+LLPLVS	9	F1Q1S7	F1Q1S7_CANLF [tr]	Uncharacterized protein	426	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	384-389		
+LLPLVS	10	O97566	O97566_CANLF [tr]	Alpha-1 type VII collagen non-collagenous domain (Fragment)	1253	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	207-212		
+LLPLVS	11	Q7YRK8	Q7YRK8_CANLF [tr]	Type VII collagen	2936	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	207-212		
+LIRAAE	1	A0A5F4C0X2	A0A5F4C0X2_CANLF [tr]	Myosin XVIIIA	2658	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1584-1589		
+LIRAAE	2	A0A5F4C3J8	A0A5F4C3J8_CANLF [tr]	Myosin XVIIIA	2384	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1310-1315		
+LIRAAE	3	A0A5F4C773	A0A5F4C773_CANLF [tr]	Myosin XVIIIA	2422	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1348-1353		
+LIRAAE	4	A0A5F4CVY9	A0A5F4CVY9_CANLF [tr]	Myosin XVIIIA	2704	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1630-1635		
+LIRAAE	5	A0A5F4CX99	A0A5F4CX99_CANLF [tr]	Myosin XVIIIA	2294	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1592-1597		
+LIRAAE	6	A0A5F4D0Q1	A0A5F4D0Q1_CANLF [tr]	Myosin XVIIIA	2317	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1630-1635		
+LIRAAE	7	A0A5F4DCF7	A0A5F4DCF7_CANLF [tr]	Myosin XVIIIA	2684	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1610-1615		
+LIRAAE	8	A0A5F4DG16	A0A5F4DG16_CANLF [tr]	Myosin XVIIIA	2426	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1352-1357		
+LIRAAE	9	F6Y037	F6Y037_CANLF [tr]	Myosin XVIIIA	2077	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1390-1395		
+LIRAAE	10	J9P992	J9P992_CANLF [tr]	Myosin XVIIIA	2332	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1630-1635	Pride	
+DKNTQE	1	E2R971	E2R971_CANLF [tr]	Cadherin 9	789	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	321-326		
+STEIYQ	1	A0A5F4CH20	A0A5F4CH20_CANLF [tr]	Tyrosine-protein kinase receptor	2334	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1389-1394		
+STEIYQ	2	A0A5F4DL64	A0A5F4DL64_CANLF [tr]	Tyrosine-protein kinase receptor	2272	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1327-1332		
+STEIYQ	3	F1PUF3	F1PUF3_CANLF [tr]	Tyrosine-protein kinase receptor	2343	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1398-1403		
+DRLNEV	1	E2R8Y8	E2R8Y8_CANLF [tr]	Uncharacterized protein	1324	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1236-1241		
+DRLNEV	2	F1PX68	F1PX68_CANLF [tr]	Uncharacterized protein	1296	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1208-1213		
+SSSGWT	1	A0A5F4C840	A0A5F4C840_CANLF [tr]	KIAA1109	5041	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	777-782		
+SSSGWT	2	A0A5F4D3N0	A0A5F4D3N0_CANLF [tr]	KIAA1109	5037	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	777-782		
+SSSGWT	3	E2R1I7	E2R1I7_CANLF [tr]	KIAA1109	5026	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	777-782		
+SSSGWT	4	F1PIE9	F1PIE9_CANLF [tr]	KIAA1109	5005	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	777-782		
+LHRSYL	1	A0A5F4C011	A0A5F4C011_CANLF [tr]	DNA topoisomerase II binding protein 1	1458	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1319-1324		
+LHRSYL	2	A0A5F4C870	A0A5F4C870_CANLF [tr]	DNA topoisomerase II binding protein 1	1448	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1255-1260		
+LHRSYL	3	A0A5F4CHW5	A0A5F4CHW5_CANLF [tr]	DNA topoisomerase II binding protein 1	1390	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1197-1202		
+LHRSYL	4	A0A5F4CW47	A0A5F4CW47_CANLF [tr]	DNA topoisomerase II binding protein 1	1448	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1255-1260		
+LHRSYL	5	A0A5F4CWM4	A0A5F4CWM4_CANLF [tr]	DNA topoisomerase II binding protein 1	1463	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1270-1275		
+LHRSYL	6	F1PZN2	F1PZN2_CANLF [tr]	DNA topoisomerase II binding protein 1	1513	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1320-1325		
+TEVPVA	1	F1PR68	F1PR68_CANLF [tr]	Intersectin 2	1690	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1644-1649		
+FKNLRE	1	A0A5F4CFX6	A0A5F4CFX6_CANLF [tr]	Ras protein specific guanine nucleotide releasing factor 2	1175	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1094-1099		
+FKNLRE	2	A0A5F4CQP2	A0A5F4CQP2_CANLF [tr]	Ras protein specific guanine nucleotide releasing factor 1	1306	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1175-1180		
+FKNLRE	3	A0A5F4CYQ9	A0A5F4CYQ9_CANLF [tr]	Butyryl-CoA dehydrogenase	416	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	74-79		
+FKNLRE	4	E2RNH2	E2RNH2_CANLF [tr]	Ras protein specific guanine nucleotide releasing factor 1	1287	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1156-1161		
+FKNLRE	5	E2RRP1	E2RRP1_CANLF [tr]	Butyryl-CoA dehydrogenase	426	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	77-82	Pride	
+FKNLRE	6	E2RTG6	E2RTG6_CANLF [tr]	Ras protein specific guanine nucleotide releasing factor 2	1206	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1094-1099		
+FKNLRE	7	J9NUI8	J9NUI8_CANLF [tr]	Ras protein specific guanine nucleotide releasing factor 2	1155	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1043-1048		568856
+FKNLRE	8	J9NYT7	J9NYT7_CANLF [tr]	Ras protein specific guanine nucleotide releasing factor 2	1215	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1138-1143		
+FKNLRE	9	J9PAM7	J9PAM7_CANLF [tr]	Ras protein specific guanine nucleotide releasing factor 2	1134	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1022-1027		
+PLLTDE	1	A0A5F4BNT0	A0A5F4BNT0_CANLF [tr]	Mono-ADP ribosylhydrolase 1	358	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	195-200		
+PLLTDE	2	A0A5F4D5K0	A0A5F4D5K0_CANLF [tr]	Mono-ADP ribosylhydrolase 1	348	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	185-190		
+PLLTDE	3	A0A5F4DH46	A0A5F4DH46_CANLF [tr]	Mono-ADP ribosylhydrolase 1	319	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	195-200		
+PLLTDE	4	E2RAG4	E2RAG4_CANLF [tr]	Mono-ADP ribosylhydrolase 1	379	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	195-200		
+PLLTDE	5	J9P0Q0	J9P0Q0_CANLF [tr]	Mono-ADP ribosylhydrolase 1	338	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	195-200		
+QQLIRA	1	A0A5F4D2R3	A0A5F4D2R3_CANLF [tr]	Sorting nexin 13	968	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	813-818		
+QQLIRA	2	A0A5F4D6X8	A0A5F4D6X8_CANLF [tr]	Sorting nexin 13	968	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	813-818		
+QQLIRA	3	F1PSY8	F1PSY8_CANLF [tr]	Sorting nexin 13	904	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	802-807		
+AGICAS	1	A0A5F4D4K7	A0A5F4D4K7_CANLF [tr]	Leucine rich repeat and coiled-coil centrosomal protein 1	948	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	8-13		
+EGVFVS	1	A0A5F4C4T8	A0A5F4C4T8_CANLF [tr]	NHS actin remodeling regulator	1628	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1405-1410		
+EGVFVS	2	A0A5F4CUW2	A0A5F4CUW2_CANLF [tr]	NHS actin remodeling regulator	1445	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1222-1227		
+EGVFVS	3	F1PK08	F1PK08_CANLF [tr]	NHS actin remodeling regulator	1476	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1253-1258		
+EGVFVS	4	J9P0U6	J9P0U6_CANLF [tr]	NHS actin remodeling regulator	1355	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1132-1137		
+SKPSKR	1	A0A5F4BPL6	A0A5F4BPL6_CANLF [tr]	ABI family member 3 binding protein	1643	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	539-544		
+SKPSKR	2	A0A5F4BTQ5	A0A5F4BTQ5_CANLF [tr]	ABI family member 3 binding protein	1640	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	514-519		
+SKPSKR	3	A0A5F4C3I4	A0A5F4C3I4_CANLF [tr]	ABI family member 3 binding protein	1645	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	539-544		
+SKPSKR	4	A0A5F4C479	A0A5F4C479_CANLF [tr]	ABI family member 3 binding protein	1645	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	539-544		
+SKPSKR	5	A0A5F4CLW0	A0A5F4CLW0_CANLF [tr]	ABI family member 3 binding protein	1665	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	539-544		
+SKPSKR	6	A0A5F4CZE4	A0A5F4CZE4_CANLF [tr]	ABI family member 3 binding protein	1649	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	539-544		
+SKPSKR	7	A0A5F4D6R8	A0A5F4D6R8_CANLF [tr]	ABI family member 3 binding protein	1646	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	539-544		
+SKPSKR	8	A0A5F4DC50	A0A5F4DC50_CANLF [tr]	ABI family member 3 binding protein	1640	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	514-519		
+SKPSKR	9	F1PKX2	F1PKX2_CANLF [tr]	ABI family member 3 binding protein	1641	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	539-544	Pride	
+QSIIAY	1	A0A5F4CR13	A0A5F4CR13_CANLF [tr]	Coatomer subunit alpha	1115	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	514-519		
+QSIIAY	2	F1PU93	F1PU93_CANLF [tr]	Coatomer subunit alpha	1214	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	613-618	Pride	
+FDEDDS	1	E2QXM8	E2QXM8_CANLF [tr]	Uncharacterized protein	1783	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1126-1131		
+RALTGI	1	A0A5F4BWX3	A0A5F4BWX3_CANLF [tr]	Grancalcin	231	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	186-191		
+EIYQAG	1	A0A5F4BUF4	A0A5F4BUF4_CANLF [tr]	Dolichyl-phosphate-mannose--protein mannosyltransferase	935	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	656-661		
+EIYQAG	2	A0A5F4BUG9	A0A5F4BUG9_CANLF [tr]	Dolichyl-phosphate-mannose--protein mannosyltransferase	876	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	597-602		
+EIYQAG	3	A0A5F4CHF3	A0A5F4CHF3_CANLF [tr]	Dolichyl-phosphate-mannose--protein mannosyltransferase	852	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	573-578		
+EIYQAG	4	A0A5F4CHP5	A0A5F4CHP5_CANLF [tr]	Dolichyl-phosphate-mannose--protein mannosyltransferase	860	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	581-586		
+EIYQAG	5	A0A5F4CJS0	A0A5F4CJS0_CANLF [tr]	Dolichyl-phosphate-mannose--protein mannosyltransferase	839	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	560-565		
+EIYQAG	6	A0A5F4CMF2	A0A5F4CMF2_CANLF [tr]	Dolichyl-phosphate-mannose--protein mannosyltransferase	908	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	629-634		
+EIYQAG	7	A0A5F4D1M1	A0A5F4D1M1_CANLF [tr]	Dolichyl-phosphate-mannose--protein mannosyltransferase	900	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	621-626		
+EIYQAG	8	A0A5F4D4Y8	A0A5F4D4Y8_CANLF [tr]	Transmembrane O-mannosyltransferase targeting cadherins 1	834	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	555-560		
+EIYQAG	9	A0A5F4DCZ6	A0A5F4DCZ6_CANLF [tr]	Dolichyl-phosphate-mannose--protein mannosyltransferase	895	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	616-621		
+EIYQAG	10	F1PKF5	F1PKF5_CANLF [tr]	Dolichyl-phosphate-mannose--protein mannosyltransferase	938	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	659-664		
+LVRDLP	1	A0A5F4BVQ4	A0A5F4BVQ4_CANLF [tr]	SZT2 subunit of KICSTOR complex	3375	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1500-1505		
+LVRDLP	2	A0A5F4C6Z0	A0A5F4C6Z0_CANLF [tr]	Protein naked cuticle homolog	411	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	370-375		
+LVRDLP	3	A0A5F4D2P7	A0A5F4D2P7_CANLF [tr]	SZT2 subunit of KICSTOR complex	3381	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1557-1562		
+LVRDLP	4	A0A5F4D694	A0A5F4D694_CANLF [tr]	SZT2 subunit of KICSTOR complex	3464	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1527-1532		
+LVRDLP	5	F1P8L6	F1P8L6_CANLF [tr]	SZT2 subunit of KICSTOR complex	3401	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1526-1531		
+LVRDLP	6	F1PKF8	F1PKF8_CANLF [tr]	Protein naked cuticle homolog	560	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	519-524		
+LVRDLP	7	F1PKY7	F1PKY7_CANLF [tr]	Ectonucleoside triphosphate diphosphohydrolase 7	604	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	192-197		
+LVRDLP	8	J9P9Y8	J9P9Y8_CANLF [tr]	SZT2 subunit of KICSTOR complex	3432	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1557-1562		
+QDLFLP	1	A0A5F4BV06	A0A5F4BV06_CANLF [tr]	ADAM metallopeptidase domain 15	1017	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	170-175		
+QDLFLP	2	A0A5F4BXK1	A0A5F4BXK1_CANLF [tr]	ADAM metallopeptidase domain 15	842	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	170-175		
+QDLFLP	3	A0A5F4C2D7	A0A5F4C2D7_CANLF [tr]	ADAM metallopeptidase domain 15	827	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	179-184		
+QDLFLP	4	A0A5F4C4U4	A0A5F4C4U4_CANLF [tr]	ADAM metallopeptidase domain 15	784	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	170-175		
+QDLFLP	5	A0A5F4CZW9	A0A5F4CZW9_CANLF [tr]	ADAM metallopeptidase domain 15	993	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	170-175		
+QDLFLP	6	A0A5F4DHM1	A0A5F4DHM1_CANLF [tr]	ADAM metallopeptidase domain 15	969	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	170-175		
+QDLFLP	7	F6UXL3	F6UXL3_CANLF [tr]	ADAM metallopeptidase domain 15	867	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	170-175		
+AISSVL	1	A0A5F4BQQ8	A0A5F4BQQ8_CANLF [tr]	G protein-coupled receptor class C group 5 member D	362	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	204-209		
+AISSVL	2	A0A5F4CE15	A0A5F4CE15_CANLF [tr]	G protein-coupled receptor class C group 5 member D	369	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	211-216		
+AISSVL	3	E2RNA4	E2RNA4_CANLF [tr]	Ribosome biogenesis protein WDR12	423	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	259-264		
+AISSVL	4	E2RP03	E2RP03_CANLF [tr]	G protein-coupled receptor class C group 5 member D	382	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	224-229		
+AISSVL	5	F1PW10	F1PW10_CANLF [tr]	Transforming growth factor-beta-induced protein ig-h3	638	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	582-587	Pride	
+FGGVSV	1	A0A5F4D5B8	A0A5F4D5B8_CANLF [tr]	Nudix hydrolase 6	286	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	53-58		
+FGGVSV	2	E2RC30	E2RC30_CANLF [tr]	Nudix hydrolase 6	316	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	53-58		
+RSYLTP	1	A0A5F4BVR0	A0A5F4BVR0_CANLF [tr]	Protein phosphatase 1 regulatory subunit	994	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	666-671		
+RSYLTP	2	A0A5F4CB00	A0A5F4CB00_CANLF [tr]	Protein phosphatase 1 regulatory subunit	973	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	610-615		
+RSYLTP	3	A0A5F4CD61	A0A5F4CD61_CANLF [tr]	Protein phosphatase 1 regulatory subunit	1059	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	678-683		
+RSYLTP	4	A0A5F4CS35	A0A5F4CS35_CANLF [tr]	Protein phosphatase 1 regulatory subunit	1029	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	678-683		
+RSYLTP	5	A0A5F4CTU2	A0A5F4CTU2_CANLF [tr]	Protein phosphatase 1 regulatory subunit	1084	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	705-710		
+RSYLTP	6	A0A5F4DES4	A0A5F4DES4_CANLF [tr]	Protein phosphatase 1 regulatory subunit	1009	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	646-651		
+RSYLTP	7	A0A5F4DIU0	A0A5F4DIU0_CANLF [tr]	Protein phosphatase 1 regulatory subunit	1043	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	705-710		
+RSYLTP	8	E2QWJ6	E2QWJ6_CANLF [tr]	Protein phosphatase 1 regulatory subunit	1029	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	666-671	Pride	
+RSYLTP	9	E2RHS3	E2RHS3_CANLF [tr]	Protein phosphatase 1 regulatory subunit	1043	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	678-683		
+RSYLTP	10	J9NTV8	J9NTV8_CANLF [tr]	Protein phosphatase 1 regulatory subunit	999	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	618-623		
+RSYLTP	11	J9P5T7	J9P5T7_CANLF [tr]	Protein phosphatase 1 regulatory subunit	1068	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	705-710	Pride	
+LTPGDS	1	F1PTD1	F1PTD1_CANLF [tr]	Nitrilase family member 2	283	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	139-144	Pride	
+AAAYYV	1	A0A5F4DE43	A0A5F4DE43_CANLF [tr]	URB1 ribosome biogenesis homolog	2235	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1648-1653		
+AAAYYV	2	F1Q419	F1Q419_CANLF [tr]	URB1 ribosome biogenesis homolog	2277	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1690-1695		
+LVDLPI	1	E2RGH9	E2RGH9_CANLF [tr]	HECT-type E3 ubiquitin transferase	2609	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2260-2265	Pride	
+TSALLA	1	F6XZG7	F6XZG7_CANLF [tr]	Solute carrier family 9 member B2	537	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	218-223		
+FVFLVL	1	F1PZ83	F1PZ83_CANLF [tr]	Prostacyclin synthase	475	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	429-434	Pride	
+PTNFTI	1	F1P954	F1P954_CANLF [tr]	Interleukin 5 receptor subunit alpha	420	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	33-38		
+PTNFTI	2	F1PT85	F1PT85_CANLF [tr]	Interleukin 5 receptor subunit alpha	325	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	33-38		
+AKNLNE	1	E2QZ29	E2QZ29_CANLF [tr]	DNA cross-link repair 1A	1049	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	624-629		
+DYSVLY	1	A0A5F4DFH8	A0A5F4DFH8_CANLF [tr]	Transmembrane protein with EGF like and two follistatin like domains 2	346	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	304-309		
+DYSVLY	2	F1PBU2	F1PBU2_CANLF [tr]	Transmembrane protein with EGF like and two follistatin like domains 2	374	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	304-309		
+TDAVDC	1	A0A5F4DFK6	A0A5F4DFK6_CANLF [tr]	F-box protein 34	743	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	461-466		
+TDAVDC	2	J9P5C5	J9P5C5_CANLF [tr]	F-box protein 34	766	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	484-489		
+AENSVA	1	A0A5F4C8Q9	A0A5F4C8Q9_CANLF [tr]	Hedgehog protein	593	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	187-192		
+AENSVA	2	A0A5F4CLI0	A0A5F4CLI0_CANLF [tr]	Hedgehog protein	486	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	212-217		
+AENSVA	3	B8PZT0	B8PZT0_CANLF [tr]	Sonic hedgehog (Fragment)	70	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	18-23		
+AENSVA	4	J9NYK0	J9NYK0_CANLF [tr]	Hedgehog protein	458	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	187-192		
+TQNVLY	1	A0A5F4BVJ1	A0A5F4BVJ1_CANLF [tr]	Potassium calcium-activated channel subfamily N member 1	594	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	511-516		
+TQNVLY	2	A0A5F4C8N6	A0A5F4C8N6_CANLF [tr]	Potassium calcium-activated channel subfamily N member 1	626	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	543-548		
+TQNVLY	3	A0A5F4CAJ0	A0A5F4CAJ0_CANLF [tr]	Potassium calcium-activated channel subfamily N member 1	543	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	460-465		
+LDKVEA	1	A0A5F4CDT3	A0A5F4CDT3_CANLF [tr]	DNA topoisomerase 2	1542	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1115-1120		
+LDKVEA	2	A0A5F4CNG7	A0A5F4CNG7_CANLF [tr]	Desmoplakin	2057	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	581-586		
+LDKVEA	3	A0A5F4DFW7	A0A5F4DFW7_CANLF [tr]	DNA topoisomerase 2	1609	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1182-1187		
+LDKVEA	4	E2RNG4	E2RNG4_CANLF [tr]	Desmoplakin	2280	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	804-809	Pride	
+LDKVEA	5	F1PRA7	F1PRA7_CANLF [tr]	DNA topoisomerase 2	1601	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1174-1179	Pride	
+LDKVEA	6	J9P8T8	J9P8T8_CANLF [tr]	Desmoplakin	2250	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	774-779		
+LEILDI	1	A0A5F4BVC9	A0A5F4BVC9_CANLF [tr]	Protein phosphatase 1 regulatory subunit 7	486	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	132-137		
+LEILDI	2	A0A5F4BW90	A0A5F4BW90_CANLF [tr]	Protein phosphatase 1 regulatory subunit 7	523	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	169-174		
+LEILDI	3	A0A5F4BZ31	A0A5F4BZ31_CANLF [tr]	Uncharacterized protein	464	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	110-115		
+LEILDI	4	A0A5F4CT15	A0A5F4CT15_CANLF [tr]	Protein phosphatase 1 regulatory subunit 7	348	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	132-137		
+LEILDI	5	A0A5F4CY85	A0A5F4CY85_CANLF [tr]	Protein phosphatase 1 regulatory subunit 7	549	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	195-200		
+LEILDI	6	H9GWB6	H9GWB6_CANLF [tr]	Protein phosphatase 1 regulatory subunit 7	317	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	101-106	Pride	
+LEILDI	7	J9NZ14	J9NZ14_CANLF [tr]	Uncharacterized protein	545	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	191-196		567844
+GAGAAL	1	A0A5F4BW16	A0A5F4BW16_CANLF [tr]	Neurobeachin like 2	2638	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	307-312		
+GAGAAL	2	A0A5F4BWG8	A0A5F4BWG8_CANLF [tr]	Uncharacterized protein	944	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	692-697		
+GAGAAL	3	A0A5F4BXS8	A0A5F4BXS8_CANLF [tr]	MyoD family inhibitor domain containing	375	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	3-8		
+GAGAAL	4	A0A5F4C5C1	A0A5F4C5C1_CANLF [tr]	Uncharacterized protein	146	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	122-127		
+GAGAAL	5	A0A5F4C5K2	A0A5F4C5K2_CANLF [tr]	Uncharacterized protein	954	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	692-697		
+GAGAAL	6	A0A5F4CAI3	A0A5F4CAI3_CANLF [tr]	Protocadherin alpha 5	846	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	698-703		
+GAGAAL	7	A0A5F4CDE0	A0A5F4CDE0_CANLF [tr]	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	645	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	611-616		
+GAGAAL	8	A0A5F4CFG3	A0A5F4CFG3_CANLF [tr]	MyoD family inhibitor domain containing	398	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	3-8		
+GAGAAL	9	A0A5F4CHT3	A0A5F4CHT3_CANLF [tr]	MyoD family inhibitor domain containing	380	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	3-8		
+GAGAAL	10	A0A5F4CJT2	A0A5F4CJT2_CANLF [tr]	Uncharacterized protein	949	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	687-692		
+GAGAAL	11	A0A5F4CJU2	A0A5F4CJU2_CANLF [tr]	Neurobeachin like 2	2633	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	307-312		
+GAGAAL	12	A0A5F4CKU7	A0A5F4CKU7_CANLF [tr]	Neurobeachin like 2	2664	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	307-312		
+GAGAAL	13	A0A5F4CLA3	A0A5F4CLA3_CANLF [tr]	Uncharacterized protein	954	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	693-698		
+GAGAAL	14	A0A5F4CN66	A0A5F4CN66_CANLF [tr]	Uncharacterized protein	907	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	692-697		
+GAGAAL	15	A0A5F4CS25	A0A5F4CS25_CANLF [tr]	MyoD family inhibitor domain containing	413	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	3-8		
+GAGAAL	16	A0A5F4CUJ4	A0A5F4CUJ4_CANLF [tr]	Neurobeachin like 2	2687	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	312-317		
+GAGAAL	17	A0A5F4CX38	A0A5F4CX38_CANLF [tr]	Neurobeachin like 2	2521	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	307-312		
+GAGAAL	18	A0A5F4CXC9	A0A5F4CXC9_CANLF [tr]	Cytochrome c oxidase assembly factor 6	209	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	62-67		
+GAGAAL	19	A0A5F4D8T1	A0A5F4D8T1_CANLF [tr]	Uncharacterized protein	951	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	692-697		
+GAGAAL	20	A0A5F4D988	A0A5F4D988_CANLF [tr]	Fucose-1-phosphate guanylyltransferase	215	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	7-12		
+GAGAAL	21	A0A5F4DCN3	A0A5F4DCN3_CANLF [tr]	Plexin B3	1806	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	291-296		
+GAGAAL	22	A0A5F4DHQ9	A0A5F4DHQ9_CANLF [tr]	Neurobeachin like 2	2636	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	279-284		
+GAGAAL	23	E2R0F6	E2R0F6_CANLF [tr]	Uncharacterized protein	950	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	688-693		
+GAGAAL	24	E2RQK5	E2RQK5_CANLF [tr]	Ribonuclease	502	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	79-84		
+GAGAAL	25	F1PFY5	F1PFY5_CANLF [tr]	MyoD family inhibitor domain containing	243	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	3-8		
+GAGAAL	26	F1PXM6	F1PXM6_CANLF [tr]	Plexin B3	1869	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	291-296		
+GAGAAL	27	F1PXX3	F1PXX3_CANLF [tr]	Neurobeachin like 2	2609	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	252-257		
+GAGAAL	28	J9NZE3	J9NZE3_CANLF [tr]	Fucose-1-phosphate guanylyltransferase	599	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	7-12		
+CTLKSF	1	A0A5F4BR06	A0A5F4BR06_CANLF [tr]	Ubiquitin like modifier activating enzyme 6	1101	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	625-630		
+CTLKSF	2	A0A5F4BX89	A0A5F4BX89_CANLF [tr]	Ubiquitin like modifier activating enzyme 6	1938	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	625-630		
+CTLKSF	3	A0A5F4C7J5	A0A5F4C7J5_CANLF [tr]	Ubiquitin like modifier activating enzyme 6	1908	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	625-630		
+CTLKSF	4	A0A5F4CV03	A0A5F4CV03_CANLF [tr]	Ubiquitin like modifier activating enzyme 6	1088	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	625-630		
+CTLKSF	5	A0A5F4CVD1	A0A5F4CVD1_CANLF [tr]	Ubiquitin like modifier activating enzyme 6	1177	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	625-630		
+CTLKSF	6	A0A5F4D1Q8	A0A5F4D1Q8_CANLF [tr]	Ubiquitin like modifier activating enzyme 6	1054	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	625-630		
+CTLKSF	7	A0A5F4DHZ5	A0A5F4DHZ5_CANLF [tr]	Ubiquitin like modifier activating enzyme 6	1068	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	625-630		
+CTLKSF	8	E2R529	E2R529_CANLF [tr]	Ubiquitin like modifier activating enzyme 6	1053	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	625-630	Pride	
+CTLKSF	9	F1PXT0	F1PXT0_CANLF [tr]	Ubiquitin like modifier activating enzyme 6	1980	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	625-630		
+QDSLSS	1	A0A5F4BNU2	A0A5F4BNU2_CANLF [tr]	Golgin A3	1405	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	360-365		
+QDSLSS	2	A0A5F4CQ99	A0A5F4CQ99_CANLF [tr]	Squalene synthase	471	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	87-92		
+QDSLSS	3	A0A5F4CU71	A0A5F4CU71_CANLF [tr]	Golgin A3	1392	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	413-418		
+QDSLSS	4	A0A5F4CUT6	A0A5F4CUT6_CANLF [tr]	Golgin A3	1419	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	413-418		
+QDSLSS	5	A0A5F4D240	A0A5F4D240_CANLF [tr]	Squalene synthase	442	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	101-106		
+QDSLSS	6	A0A5F4DCK8	A0A5F4DCK8_CANLF [tr]	Squalene synthase	417	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	33-38		567797
+QDSLSS	7	A0A5F4DHS7	A0A5F4DHS7_CANLF [tr]	Squalene synthase	442	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	101-106		
+QDSLSS	8	E2RN85	E2RN85_CANLF [tr]	Spalt like transcription factor 1	1324	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	848-853		
+QDSLSS	9	F1Q0T0	F1Q0T0_CANLF [tr]	Golgin A3	1498	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	453-458		
+YTSALL	1	A0A5F4CY70	A0A5F4CY70_CANLF [tr]	Uncharacterized protein	151	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	11-16		
+DILSRL	1	A0A5F4CLS2	A0A5F4CLS2_CANLF [tr]	Flotillin	429	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	399-404		
+DILSRL	2	E2QSE3	E2QSE3_CANLF [tr]	Flotillin	427	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	399-404	Pride	
+GRLQSL	1	A0A5F4BQW1	A0A5F4BQW1_CANLF [tr]	Neuron navigator 3	2340	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1588-1593		
+GRLQSL	2	A0A5F4BWC3	A0A5F4BWC3_CANLF [tr]	Neuron navigator 3	2331	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1579-1584		
+GRLQSL	3	A0A5F4C1F4	A0A5F4C1F4_CANLF [tr]	Neuron navigator 3	2191	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1439-1444		
+GRLQSL	4	A0A5F4C6J2	A0A5F4C6J2_CANLF [tr]	Neuron navigator 3	2177	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1425-1430		
+GRLQSL	5	A0A5F4CGD5	A0A5F4CGD5_CANLF [tr]	Neuron navigator 3	2306	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1554-1559		
+GRLQSL	6	A0A5F4CMV3	A0A5F4CMV3_CANLF [tr]	Vascular cell adhesion protein 1	540	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	354-359		
+GRLQSL	7	A0A5F4CMY7	A0A5F4CMY7_CANLF [tr]	Vascular cell adhesion protein 1	647	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	461-466		
+GRLQSL	8	A0A5F4D7V4	A0A5F4D7V4_CANLF [tr]	ACB domain-containing protein	323	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	268-273		
+GRLQSL	9	E2RTI9	E2RTI9_CANLF [tr]	ACB domain-containing protein	302	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	247-252		
+GRLQSL	10	F1PCD0	F1PCD0_CANLF [tr]	Vascular cell adhesion protein 1	823	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	637-642	Pride	
+GRLQSL	11	F1PNX9	F1PNX9_CANLF [tr]	Neuron navigator 3	2347	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1602-1607		
+GRLQSL	12	F1PNY1	F1PNY1_CANLF [tr]	Neuron navigator 3	2354	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1602-1607		
+GRLQSL	13	Q28260	VCAM1_CANLF [sp]	Vascular cell adhesion protein 1 precursor	739	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	553-558	Pride	
+LREFVF	1	A0A5F4CFC2	A0A5F4CFC2_CANLF [tr]	39S ribosomal protein L35, mitochondrial	167	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	141-146		
+LREFVF	2	E2R757	E2R757_CANLF [tr]	39S ribosomal protein L35, mitochondrial	185	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	141-146		
+DDSEPV	1	A0A5F4C0J4	A0A5F4C0J4_CANLF [tr]	G3BP stress granule assembly factor 2	449	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	347-352		568342
+DDSEPV	2	A0A5F4CJL3	A0A5F4CJL3_CANLF [tr]	G3BP stress granule assembly factor 1	461	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	385-390		
+DDSEPV	3	A0A5F4CK38	A0A5F4CK38_CANLF [tr]	G3BP stress granule assembly factor 1	445	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	385-390		
+DDSEPV	4	A0A5F4CMZ8	A0A5F4CMZ8_CANLF [tr]	G3BP stress granule assembly factor 1	448	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	385-390		
+DDSEPV	5	A0A5F4D7I2	A0A5F4D7I2_CANLF [tr]	G3BP stress granule assembly factor 1	438	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	385-390		
+DDSEPV	6	E2RN45	E2RN45_CANLF [tr]	G3BP stress granule assembly factor 1	441	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	385-390	Pride	
+DDSEPV	7	F6XCI1	F6XCI1_CANLF [tr]	G3BP stress granule assembly factor 2 (Fragment)	482	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	380-385		862161
+SFELLH	1	A0A5F4CDM2	A0A5F4CDM2_CANLF [tr]	DNA damage-binding protein 1	1029	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	573-578		
+SFELLH	2	A0A5F4DFF8	A0A5F4DFF8_CANLF [tr]	DNA damage-binding protein 1	971	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	460-465		
+SFELLH	3	E2R9E3	E2R9E3_CANLF [tr]	DNA damage-binding protein 1	1140	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	573-578		568539
+SFELLH	4	J9NVR7	J9NVR7_CANLF [tr]	DNA damage-binding protein 1	1084	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	573-578	Pride	
+PCSFGG	1	F1P6A9	F1P6A9_CANLF [tr]	Uncharacterized protein	1171	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	765-770		
+AHFPRE	1	F1P8H1	F1P8H1_CANLF [tr]	Serine/threonine-protein kinase 11-interacting protein	1099	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1092-1097		
+LPFQQF	1	A0A5F4CRC1	A0A5F4CRC1_CANLF [tr]	Alpha-S1-casein	169	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	117-122		
+LPFQQF	2	J9P7W6	J9P7W6_CANLF [tr]	Alpha-S1-casein	177	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	125-130		
+GDSSSG	1	A0A5F4BWX0	A0A5F4BWX0_CANLF [tr]	RALY heterogeneous nuclear ribonucleoprotein	301	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	209-214		
+GDSSSG	2	A0A5F4BXL5	A0A5F4BXL5_CANLF [tr]	RALY heterogeneous nuclear ribonucleoprotein	293	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	225-230		
+GDSSSG	3	A0A5F4C062	A0A5F4C062_CANLF [tr]	RALY heterogeneous nuclear ribonucleoprotein	285	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	209-214		
+GDSSSG	4	A0A5F4C8G5	A0A5F4C8G5_CANLF [tr]	Sphingolipid transporter 1 (putative)	476	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	93-98		
+GDSSSG	5	A0A5F4CP46	A0A5F4CP46_CANLF [tr]	Sphingolipid transporter 1 (putative)	585	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	126-131		
+GDSSSG	6	A0A5F4CQL4	A0A5F4CQL4_CANLF [tr]	ASXL transcriptional regulator 2	1446	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1178-1183		
+GDSSSG	7	A0A5F4CTF3	A0A5F4CTF3_CANLF [tr]	ASXL transcriptional regulator 2	1461	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1185-1190		
+GDSSSG	8	A0A5F4D4A1	A0A5F4D4A1_CANLF [tr]	Sphingolipid transporter 1 (putative)	842	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	407-412		
+GDSSSG	9	E2R552	E2R552_CANLF [tr]	RALY heterogeneous nuclear ribonucleoprotein	317	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	225-230	Pride	
+GDSSSG	10	E2R8P3	E2R8P3_CANLF [tr]	Signal induced proliferation associated 1 like 3	1757	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1174-1179		
+GDSSSG	11	E2RBY9	E2RBY9_CANLF [tr]	Sphingolipid transporter 1 (putative)	573	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	138-143		
+GDSSSG	12	E2RR41	E2RR41_CANLF [tr]	ASXL transcriptional regulator 2	1454	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1185-1190		
+GDSSSG	13	M9PLJ9	M9PLJ9_CANLF [tr]	RNA-binding protein Raly long isoform (Fragment)	280	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	216-221		
+GDSSSG	14	M9PM25	M9PM25_CANLF [tr]	RNA-binding protein Raly short isoform	277	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	209-214		
+VFQTRA	1	A0A5F4BTI2	A0A5F4BTI2_CANLF [tr]	Eukaryotic translation initiation factor 4E nuclear import factor 1	811	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	395-400		
+VFQTRA	2	A0A5F4DJZ3	A0A5F4DJZ3_CANLF [tr]	Eukaryotic translation initiation factor 4E nuclear import factor 1	994	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	579-584		
+VFQTRA	3	E2RPZ2	E2RPZ2_CANLF [tr]	Eukaryotic translation initiation factor 4E nuclear import factor 1	986	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	570-575		
+TQLPPA	1	A0A5F4CFZ7	A0A5F4CFZ7_CANLF [tr]	NIMA related kinase 10	1172	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1046-1051		
+TQLPPA	2	A0A5F4CXT5	A0A5F4CXT5_CANLF [tr]	NIMA related kinase 10	1115	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	989-994		
+TQLPPA	3	E2R902	E2R902_CANLF [tr]	NIMA related kinase 10	1162	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1036-1041		
+SVITPG	1	A0A5F4C3T7	A0A5F4C3T7_CANLF [tr]	Uncharacterized protein	538	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	437-442		
+SVITPG	2	A0A5F4DBP2	A0A5F4DBP2_CANLF [tr]	Uncharacterized protein	511	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	437-442		
+NTFVSG	1	A0A5F4BR69	A0A5F4BR69_CANLF [tr]	G protein subunit beta 5	279	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	136-141		
+NTFVSG	2	E2RHY4	E2RHY4_CANLF [tr]	G protein subunit beta 5	391	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	248-253		
+NTFVSG	3	J9P7H7	J9P7H7_CANLF [tr]	G protein subunit beta 5	342	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	199-204		
+LTGTGV	1	F1PZX1	F1PZX1_CANLF [tr]	Uncharacterized protein	1552	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1257-1262		
+LTGTGV	2	F1Q338	F1Q338_CANLF [tr]	Uncharacterized protein	1640	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1345-1350		
+LSFELL	1	A0A5F4BNY1	A0A5F4BNY1_CANLF [tr]	NBR1 autophagy cargo receptor	906	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	560-565		
+LSFELL	2	A0A5F4C5U8	A0A5F4C5U8_CANLF [tr]	NBR1 autophagy cargo receptor	824	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	539-544		
+LSFELL	3	A0A5F4CYE7	A0A5F4CYE7_CANLF [tr]	Solute carrier family 25 member 19	318	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	98-103		
+LSFELL	4	A0A5F4CZ90	A0A5F4CZ90_CANLF [tr]	NBR1 autophagy cargo receptor	899	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	560-565		
+LSFELL	5	A0A5F4DEK3	A0A5F4DEK3_CANLF [tr]	NBR1 autophagy cargo receptor	932	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	560-565		
+LSFELL	6	E2RFK6	E2RFK6_CANLF [tr]	Solute carrier family 25 member 19	338	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	98-103		
+LSFELL	7	E2RL96	E2RL96_CANLF [tr]	NBR1 autophagy cargo receptor	928	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	560-565		
+LSFELL	8	J9NUB8	J9NUB8_CANLF [tr]	NBR1 autophagy cargo receptor	917	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	560-565		
+KEELDK	1	A0A240DXG8	A0A240DXG8_CANLF [tr]	N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D	392	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	97-102		
+KEELDK	2	A0A5F4BR68	A0A5F4BR68_CANLF [tr]	Transcription initiation factor TFIID 150 kDa subunit	1258	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	396-401		
+KEELDK	3	A0A5F4C9F3	A0A5F4C9F3_CANLF [tr]	Transcription initiation factor TFIID 150 kDa subunit	1199	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	396-401		
+KEELDK	4	A0A5F4D8B9	A0A5F4D8B9_CANLF [tr]	N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D	357	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	97-102		
+KEELDK	5	F1PJI3	F1PJI3_CANLF [tr]	N-acyl phosphatidylethanolamine phospholipase D	428	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	97-102		
+KEELDK	6	F6UTN8	F6UTN8_CANLF [tr]	Transcription initiation factor TFIID 150 kDa subunit	1206	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	396-401		
+RKRISN	1	A0A5F4BZP8	A0A5F4BZP8_CANLF [tr]	Coronin	536	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	488-493		
+RKRISN	2	E2R5Q2	E2R5Q2_CANLF [tr]	Katanin regulatory subunit B1 like 1	304	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	26-31		
+NFKNLR	1	E2RFS2	E2RFS2_CANLF [tr]	Leucine rich repeat containing 36	754	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	48-53		
+SNLKPF	1	F1PFQ6	F1PFQ6_CANLF [tr]	Maestro heat like repeat family member 2A	1669	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	880-885		
+PDPSKP	1	A0A5F4CZS3	A0A5F4CZS3_CANLF [tr]	Branched-chain-amino-acid aminotransferase	592	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	148-153		
+PDPSKP	2	E2RRP9	E2RRP9_CANLF [tr]	Branched-chain-amino-acid aminotransferase	405	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	49-54	Pride	
+SVLYNS	1	A0A5F4C020	A0A5F4C020_CANLF [tr]	BPI fold containing family C	616	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	287-292		
+SVLYNS	2	A0A5F4CFJ9	A0A5F4CFJ9_CANLF [tr]	BPI fold containing family C	617	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	287-292		
+SVLYNS	3	E2RCF5	E2RCF5_CANLF [tr]	BPI fold containing family C	546	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	217-222		
+LKSFTV	1	A0A5F4CST3	A0A5F4CST3_CANLF [tr]	Filamin A interacting protein 1	1203	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	527-532		
+LKSFTV	2	F6XPA4	F6XPA4_CANLF [tr]	Filamin A interacting protein 1	1177	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	501-506		
+SANLAA	1	A0A5F4C3D9	A0A5F4C3D9_CANLF [tr]	Neurotrophic receptor tyrosine kinase 2	553	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	198-203		
+SANLAA	2	A0A5F4CQT2	A0A5F4CQT2_CANLF [tr]	Neurotrophic receptor tyrosine kinase 2	477	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	198-203		
+SANLAA	3	A0A5F4DEH6	A0A5F4DEH6_CANLF [tr]	Tyrosine-protein kinase receptor	838	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	198-203		
+SANLAA	4	E2RKA1	E2RKA1_CANLF [tr]	Tyrosine-protein kinase receptor	822	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	198-203		
+FNGLTV	1	A0A5F4BXM8	A0A5F4BXM8_CANLF [tr]	COPI coat complex subunit gamma 2	1064	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	723-728		
+FNGLTV	2	A0A5F4CCS6	A0A5F4CCS6_CANLF [tr]	Coatomer subunit gamma	1024	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	683-688		
+FNGLTV	3	A0A5F4CVM9	A0A5F4CVM9_CANLF [tr]	Coatomer subunit gamma	792	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	485-490		
+FNGLTV	4	A0A5F4DFH7	A0A5F4DFH7_CANLF [tr]	Coatomer subunit gamma	877	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	554-559		
+FNGLTV	5	A0A5F4DJJ6	A0A5F4DJJ6_CANLF [tr]	Coatomer subunit gamma	822	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	485-490		
+FNGLTV	6	E2R1X3	E2R1X3_CANLF [tr]	ANK_REP_REGION domain-containing protein	294	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	287-292		
+FNGLTV	7	F1PHS7	F1PHS7_CANLF [tr]	COPI coat complex subunit gamma 2	1093	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	752-757	Pride	
+IAQYTS	1	J9NX08	J9NX08_CANLF [tr]	Kinesin-like protein	1000	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	361-366		
+TGSNVF	1	F1PSU1	F1PSU1_CANLF [tr]	OTU deubiquitinase with linear linkage specificity like	362	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	197-202		
+TGSNVF	2	F1PSU2	F1PSU2_CANLF [tr]	OTU deubiquitinase with linear linkage specificity like	343	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	178-183		
+YVSQPF	1	E2R1B4	E2R1B4_CANLF [tr]	Retroelement silencing factor 1	1739	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	289-294		
+NIQKEI	1	E2QW31	E2QW31_CANLF [tr]	Glucocorticoid modulatory element binding protein 1	563	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	265-270		
+FLVLLP	1	A0A5F4CIM7	A0A5F4CIM7_CANLF [tr]	RNAse_Pc domain-containing protein	222	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	77-82		
+FLVLLP	2	E2R8I7	E2R8I7_CANLF [tr]	Progestin and adipoQ receptor family member 4	273	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	62-67		
+FLVLLP	3	G3FJC0	G3FJC0_CANLF [tr]	Olfactory receptor	318	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	154-159		
+FLVLLP	4	W0UTI2	W0UTI2_CANLF [tr]	Pancreatic ribonuclease	151	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	6-11		
+NFTISV	1	A0A5F4BXM5	A0A5F4BXM5_CANLF [tr]	Interleukin 3 receptor subunit alpha	430	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	79-84		
+NFTISV	2	A0A5F4CDA7	A0A5F4CDA7_CANLF [tr]	Interleukin 3 receptor subunit alpha	419	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	68-73		
+NFTISV	3	A0A5F4CL56	A0A5F4CL56_CANLF [tr]	Interleukin 3 receptor subunit alpha	445	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	94-99		
+NFTISV	4	F1Q187	F1Q187_CANLF [tr]	Interleukin 3 receptor subunit alpha	489	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	193-198		
+TLLALH	1	F1PG09	F1PG09_CANLF [tr]	Interferon regulatory factor 2 binding protein 2	593	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	314-319	Pride	
+TLLALH	2	J9P6V2	J9P6V2_CANLF [tr]	Zinc finger protein 142	1849	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	116-121		
+LQDVVN	1	A0A5F4BWF1	A0A5F4BWF1_CANLF [tr]	EF-hand domain-containing protein	677	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	358-363		
+LQDVVN	2	A0A5F4CM55	A0A5F4CM55_CANLF [tr]	Uncharacterized protein	555	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	232-237		
+LQDVVN	3	A0A5F4D3H4	A0A5F4D3H4_CANLF [tr]	EF-hand domain-containing protein	695	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	358-363		
+LQDVVN	4	J9NVG5	J9NVG5_CANLF [tr]	EF-hand domain-containing protein	549	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	232-237		
+LQDVVN	5	J9NVL2	J9NVL2_CANLF [tr]	EF-hand domain-containing protein	554	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	217-222		
+QLPPAY	1	E2RAV6	E2RAV6_CANLF [tr]	Ankyrin and armadillo repeat containing	1365	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	133-138		
+TFVSGN	1	F1PGX1	F1PGX1_CANLF [tr]	Desmoglein 2	1107	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	297-302		
+TFVSGN	2	F1PGX2	F1PGX2_CANLF [tr]	Desmoglein 2	1119	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	309-314		
+SALGKL	1	A0A5F4C5K1	A0A5F4C5K1_CANLF [tr]	DOP1 leucine zipper like protein A	2475	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	39-44		
+SALGKL	2	A0A5F4CT07	A0A5F4CT07_CANLF [tr]	Gap junction protein	388	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	11-16		
+SALGKL	3	A0A654IEC4	A0A654IEC4_CANLF [tr]	Connexin-43	382	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	5-10		
+SALGKL	4	F1Q0C1	F1Q0C1_CANLF [tr]	DOP1 leucine zipper like protein A	2465	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	39-44		
+SALGKL	5	F6XZ53	F6XZ53_CANLF [tr]	DOP1 leucine zipper like protein A	2485	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	39-44		
+SALGKL	6	J9P7X9	J9P7X9_CANLF [tr]	Gap junction protein	397	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	20-25	Pride	
+QTGKIA	1	A0A5F4BX68	A0A5F4BX68_CANLF [tr]	CAAT box DNA-binding protein subunit B	163	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	72-77		
+QTGKIA	2	E2RDU1	E2RDU1_CANLF [tr]	CAAT box DNA-binding protein subunit B	207	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	74-79		
+LLHAPA	1	A0A5F4C9T0	A0A5F4C9T0_CANLF [tr]	Spermatogenesis associated serine rich 2 like	589	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	18-23		
+ANLAAT	1	A0A0A7MB49	A0A0A7MB49_CANLF [tr]	Kisspeptin receptor Kiss1R	382	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	83-88		
+ANLAAT	2	A0A5F4BY60	A0A5F4BY60_CANLF [tr]	KISS1 receptor	228	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	83-88		
+ANLAAT	3	A0A5F4BYW0	A0A5F4BYW0_CANLF [tr]	Anillin actin binding protein	1139	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	203-208		
+ANLAAT	4	A0A5F4CQQ9	A0A5F4CQQ9_CANLF [tr]	Anillin actin binding protein	1084	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	203-208		
+ANLAAT	5	A0A5F4DDB3	A0A5F4DDB3_CANLF [tr]	Anillin actin binding protein	1103	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	203-208		
+ANLAAT	6	F1PDC6	F1PDC6_CANLF [tr]	KISS1 receptor	382	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	83-88		
+ANLAAT	7	F1PZ90	F1PZ90_CANLF [tr]	Anillin actin binding protein	1121	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	203-208		862195
+IVRFPN	1	A0A0G2Y7A6	A0A0G2Y7A6_CANLF [tr]	Ubiquitinyl hydrolase 1	2529	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	894-899		
+IVRFPN	2	A0A5F4BUH8	A0A5F4BUH8_CANLF [tr]	Ubiquitinyl hydrolase 1	1882	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	894-899		567737
+IVRFPN	3	A0A5F4CZ08	A0A5F4CZ08_CANLF [tr]	Ubiquitinyl hydrolase 1	1895	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	889-894		
+IVRFPN	4	A0A5F4DBX6	A0A5F4DBX6_CANLF [tr]	Ubiquitinyl hydrolase 1	1881	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	889-894		
+IVRFPN	5	E2RBU9	E2RBU9_CANLF [tr]	USP domain-containing protein	1698	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	889-894	Pride	
+IVRFPN	6	J9NUN1	J9NUN1_CANLF [tr]	Uncharacterized protein	1871	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	889-894		
+IVRFPN	7	S5TR69	S5TR69_CANLF [tr]	Ubiquitinyl hydrolase 1	2529	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	894-899		
+DLFLPF	1	A0A5F4CBS1	A0A5F4CBS1_CANLF [tr]	AP-5 complex subunit beta-1	1007	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	894-899		
+DLFLPF	2	E2R780	E2R780_CANLF [tr]	AP-5 complex subunit beta-1	876	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	763-768		
+EVPVAI	1	A0A286R219	A0A286R219_CANLF [tr]	Receptor protein-tyrosine kinase	975	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	639-644		
+EVPVAI	2	A0A5F4D0D2	A0A5F4D0D2_CANLF [tr]	Receptor protein-tyrosine kinase	1089	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	607-612		
+EVPVAI	3	F1PX14	F1PX14_CANLF [tr]	Receptor protein-tyrosine kinase	1121	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	639-644		
+EVPVAI	4	F1Q4C5	F1Q4C5_CANLF [tr]	Receptor protein-tyrosine kinase	923	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	639-644		
+LVKQLS	1	A0A5F4C9J0	A0A5F4C9J0_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2658	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2616-2621		
+LVKQLS	2	A0A5F4CGY7	A0A5F4CGY7_CANLF [tr]	Cell division cycle associated 3	182	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	89-94		
+LVKQLS	3	A0A5F4CQ15	A0A5F4CQ15_CANLF [tr]	Cell division cycle associated 3	218	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	89-94		
+LVKQLS	4	A0A5F4D2J0	A0A5F4D2J0_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2602	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2560-2565		
+LVKQLS	5	A0A5F4DAU5	A0A5F4DAU5_CANLF [tr]	Protein inhibitor of activated STAT 1	653	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	286-291		
+LVKQLS	6	A0A5F4DC07	A0A5F4DC07_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2444	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2402-2407		
+LVKQLS	7	A0A5F4DE93	A0A5F4DE93_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2643	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2601-2606		
+LVKQLS	8	A0A5F4DGC9	A0A5F4DGC9_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2670	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2628-2633		
+LVKQLS	9	A0A5F4DGX4	A0A5F4DGX4_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2554	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2512-2517		
+LVKQLS	10	A0A5F4DLJ5	A0A5F4DLJ5_CANLF [tr]	Protein inhibitor of activated STAT 1	655	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	288-293		
+LVKQLS	11	E2RFD7	E2RFD7_CANLF [tr]	Cell division cycle associated 3	268	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	89-94		
+LVKQLS	12	F1PQ60	F1PQ60_CANLF [tr]	Protein inhibitor of activated STAT 1	651	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	284-289		
+LVKQLS	13	F1Q0H6	F1Q0H6_CANLF [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2701	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2659-2664		
+LVKQLS	14	F6XDS1	F6XDS1_CANLF [tr]	MHC class I region proline-rich protein CAT53	940	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	116-121		
+IRAAEI	1	A0A5F4C0W3	A0A5F4C0W3_CANLF [tr]	Mannosidase alpha class 2A member 1	1023	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	477-482		
+IRAAEI	2	A0A5F4C0X2	A0A5F4C0X2_CANLF [tr]	Myosin XVIIIA	2658	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1585-1590		
+IRAAEI	3	A0A5F4C3J8	A0A5F4C3J8_CANLF [tr]	Myosin XVIIIA	2384	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1311-1316		
+IRAAEI	4	A0A5F4C773	A0A5F4C773_CANLF [tr]	Myosin XVIIIA	2422	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1349-1354		
+IRAAEI	5	A0A5F4CQI6	A0A5F4CQI6_CANLF [tr]	Alpha-mannosidase	1038	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	419-424		
+IRAAEI	6	A0A5F4CVY9	A0A5F4CVY9_CANLF [tr]	Myosin XVIIIA	2704	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1631-1636		
+IRAAEI	7	A0A5F4CX99	A0A5F4CX99_CANLF [tr]	Myosin XVIIIA	2294	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1593-1598		
+IRAAEI	8	A0A5F4D0Q1	A0A5F4D0Q1_CANLF [tr]	Myosin XVIIIA	2317	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1631-1636		
+IRAAEI	9	A0A5F4D920	A0A5F4D920_CANLF [tr]	Alpha-mannosidase	1068	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	486-491		
+IRAAEI	10	A0A5F4DCF7	A0A5F4DCF7_CANLF [tr]	Myosin XVIIIA	2684	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1611-1616		
+IRAAEI	11	A0A5F4DG16	A0A5F4DG16_CANLF [tr]	Myosin XVIIIA	2426	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1353-1358		
+IRAAEI	12	F1P9C4	F1P9C4_CANLF [tr]	Alpha-mannosidase	1106	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	486-491		
+IRAAEI	13	F6Y037	F6Y037_CANLF [tr]	Myosin XVIIIA	2077	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1391-1396		
+IRAAEI	14	J9NRT0	J9NRT0_CANLF [tr]	Alpha-mannosidase	1105	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	486-491	Pride	
+IRAAEI	15	J9P992	J9P992_CANLF [tr]	Myosin XVIIIA	2332	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1631-1636	Pride	
+EPQIIT	1	E2QYT6	E2QYT6_CANLF [tr]	Pleiotropic regulator 1	515	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	343-348	Pride	
+EPQIIT	2	J9NVI3	J9NVI3_CANLF [tr]	Pleiotropic regulator 1	472	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	300-305		
+GAGICA	1	A0A5F4CK40	A0A5F4CK40_CANLF [tr]	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase like 1	390	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	346-351		
+LLKYNE	1	A0A5F4BSU6	A0A5F4BSU6_CANLF [tr]	LON peptidase N-terminal domain and ring finger 3	797	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	290-295		
+LLKYNE	2	A0A5F4C7P3	A0A5F4C7P3_CANLF [tr]	LON peptidase N-terminal domain and ring finger 3	838	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	290-295		
+LLKYNE	3	A0A5F4CD23	A0A5F4CD23_CANLF [tr]	LON peptidase N-terminal domain and ring finger 3	745	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	290-295		
+LLKYNE	4	A0A5F4DEC2	A0A5F4DEC2_CANLF [tr]	LON peptidase N-terminal domain and ring finger 3	785	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	290-295		
+LLKYNE	5	F1PSB6	F1PSB6_CANLF [tr]	LON peptidase N-terminal domain and ring finger 3	786	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	290-295		
+LHSTQD	1	E2RDF7	E2RDF7_CANLF [tr]	Peroxisomal biogenesis factor 6	980	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	836-841		
+LLAGTI	1	A0A5F4CFC1	A0A5F4CFC1_CANLF [tr]	Kinesin family member 1A	1719	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1700-1705		
+LLAGTI	2	A0A5F4CLA9	A0A5F4CLA9_CANLF [tr]	Kinesin family member 1A	1696	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1677-1682		
+LLAGTI	3	A0A5F4CNZ3	A0A5F4CNZ3_CANLF [tr]	Kinesin family member 1B	1809	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1783-1788		
+LLAGTI	4	A0A5F4CRJ4	A0A5F4CRJ4_CANLF [tr]	Kinesin family member 1B	1823	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1797-1802		
+LLAGTI	5	A0A5F4CTG0	A0A5F4CTG0_CANLF [tr]	Kinesin family member 1A	1663	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1643-1648		
+LLAGTI	6	A0A5F4CZE9	A0A5F4CZE9_CANLF [tr]	Kinesin family member 1A	1783	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1764-1769		
+LLAGTI	7	A0A5F4D343	A0A5F4D343_CANLF [tr]	Kinesin family member 1A	1791	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1772-1777		
+LLAGTI	8	D0FHK7	D0FHK7_CANLF [tr]	KIF1A	1690	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1671-1676		
+LLAGTI	9	E2R9C4	E2R9C4_CANLF [tr]	Kinesin family member 1B	1816	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1797-1802		
+LLAGTI	10	E2RN64	E2RN64_CANLF [tr]	Kinesin family member 1A	1774	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1755-1760		
+LLAGTI	11	H9GWG2	H9GWG2_CANLF [tr]	Kinesin family member 1A	1702	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1683-1688		
+LLAGTI	12	J9NTH3	J9NTH3_CANLF [tr]	PH domain-containing protein	208	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	188-193		
+LLAGTI	13	J9NUM7	J9NUM7_CANLF [tr]	Kinesin family member 1B	1770	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1751-1756		
+NLVRDL	1	F1Q3J0	F1Q3J0_CANLF [tr]	Rho GTPase activating protein 22	670	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	207-212		
+NLVRDL	2	J9NSP3	J9NSP3_CANLF [tr]	Rho GTPase activating protein 22	680	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	217-222		
+YLQPRT	1	A0A5F4BPP0	A0A5F4BPP0_CANLF [tr]	Olfactory receptor	315	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	259-264		
+YLQPRT	2	A0A5F4CTU4	A0A5F4CTU4_CANLF [tr]	Olfactory receptor	315	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	259-264		
+YLQPRT	3	A0A5F4CWN1	A0A5F4CWN1_CANLF [tr]	Xylulose kinase	586	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	93-98		
+YLQPRT	4	Q6W6U6	Q6W6U6_CANLF [tr]	Olfactory receptor family 8 subfamily J (Fragment)	214	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	183-188		
+YLQPRT	5	Q70ZD7	Q70ZD7_CANLF [tr]	Olfactory receptor (Fragment)	156	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	132-137		
+VYSTGS	1	E2R7N6	E2R7N6_CANLF [tr]	Cell adhesion molecule L1 like	1225	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	357-362	Pride	
+VYSTGS	2	J9NTX6	J9NTX6_CANLF [tr]	Cell adhesion molecule L1 like	1209	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	341-346		
+VYSTGS	3	J9NVL5	J9NVL5_CANLF [tr]	Cell adhesion molecule L1 like	1171	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	357-362		
+DEVRQI	1	E2RGW4	E2RGW4_CANLF [tr]	Syntaxin-18	332	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	252-257		
+DEVRQI	2	F1P7W6	F1P7W6_CANLF [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4833	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	4452-4457		
+DEVRQI	3	J9P4H8	J9P4H8_CANLF [tr]	Syntaxin-18	336	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	252-257		
+SSNFGA	1	E2REP7	E2REP7_CANLF [tr]	Zinc finger with KRAB and SCAN domains 2	969	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	817-822		
+EPLVDL	1	A0A5F4CTF5	A0A5F4CTF5_CANLF [tr]	LIM and cysteine rich domains 1	251	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	166-171		
+EPLVDL	2	A0A5F4D6H5	A0A5F4D6H5_CANLF [tr]	LIM and cysteine rich domains 1	516	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	431-436		
+EPLVDL	3	F1PR20	F1PR20_CANLF [tr]	Unc-80 homolog, NALCN channel complex subunit	3216	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1347-1352	Pride	
+EPLVDL	4	F1PR53	F1PR53_CANLF [tr]	Unc-80 homolog, NALCN channel complex subunit	3240	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1352-1357		
+EPLVDL	5	F1PWF5	F1PWF5_CANLF [tr]	LIM and cysteine rich domains 1	363	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	278-283	Pride	
+VKQLSS	1	A0A5F4CB52	A0A5F4CB52_CANLF [tr]	Wolframin ER transmembrane glycoprotein	1116	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	389-394		
+VKQLSS	2	A0A5F4CN26	A0A5F4CN26_CANLF [tr]	Wolframin ER transmembrane glycoprotein	1045	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	84-89		
+VKQLSS	3	A0A5F4CR02	A0A5F4CR02_CANLF [tr]	Wolframin ER transmembrane glycoprotein	911	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	184-189		
+VKQLSS	4	A0A5F4DAU5	A0A5F4DAU5_CANLF [tr]	Protein inhibitor of activated STAT 1	653	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	287-292		
+VKQLSS	5	A0A5F4DLJ5	A0A5F4DLJ5_CANLF [tr]	Protein inhibitor of activated STAT 1	655	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	289-294		
+VKQLSS	6	E2RCD8	E2RCD8_CANLF [tr]	Wolframin ER transmembrane glycoprotein	1117	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	156-161	Pride	
+VKQLSS	7	F1PQ60	F1PQ60_CANLF [tr]	Protein inhibitor of activated STAT 1	651	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	285-290		
+LVLLPL	1	A0A5F4BPM0	A0A5F4BPM0_CANLF [tr]	RNA polymerase II associated protein 1	1364	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1202-1207		
+LVLLPL	2	A0A5F4BPX4	A0A5F4BPX4_CANLF [tr]	Corticotropin releasing hormone receptor 2	435	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	337-342		
+LVLLPL	3	A0A5F4BQY7	A0A5F4BQY7_CANLF [tr]	Na(+)-dependent phosphate cotransporter 2A	341	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	232-237		
+LVLLPL	4	A0A5F4BRD7	A0A5F4BRD7_CANLF [tr]	G_PROTEIN_RECEP_F2_4 domain-containing protein	375	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	277-282		
+LVLLPL	5	A0A5F4BU82	A0A5F4BU82_CANLF [tr]	RAB11 family interacting protein 5	1307	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1159-1164		
+LVLLPL	6	A0A5F4BVZ4	A0A5F4BVZ4_CANLF [tr]	Corticotropin releasing hormone receptor 2	387	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	313-318		
+LVLLPL	7	A0A5F4BWB3	A0A5F4BWB3_CANLF [tr]	Corticotropin releasing hormone receptor 2	411	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	313-318		
+LVLLPL	8	A0A5F4CC55	A0A5F4CC55_CANLF [tr]	RNA polymerase II associated protein 1	1361	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1199-1204		
+LVLLPL	9	A0A5F4CIM7	A0A5F4CIM7_CANLF [tr]	RNAse_Pc domain-containing protein	222	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	78-83		
+LVLLPL	10	A0A5F4CLC2	A0A5F4CLC2_CANLF [tr]	RAB11 family interacting protein 5	1268	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1177-1182		
+LVLLPL	11	A0A5F4CR60	A0A5F4CR60_CANLF [tr]	RNA polymerase II associated protein 1	1299	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1137-1142		
+LVLLPL	12	A0A5F4CSH2	A0A5F4CSH2_CANLF [tr]	RNA polymerase II associated protein 1	1349	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1187-1192		
+LVLLPL	13	A0A5F4CT10	A0A5F4CT10_CANLF [tr]	RAB11 family interacting protein 5	1282	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1177-1182		
+LVLLPL	14	A0A5F4D5G6	A0A5F4D5G6_CANLF [tr]	G_PROTEIN_RECEP_F2_4 domain-containing protein	314	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	216-221		
+LVLLPL	15	A0A5F4DD94	A0A5F4DD94_CANLF [tr]	RNA polymerase II associated protein 1	1269	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1107-1112		
+LVLLPL	16	A0A5F4DJ14	A0A5F4DJ14_CANLF [tr]	Corticotropin releasing hormone receptor 2	423	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	339-344		
+LVLLPL	17	E2R4R1	E2R4R1_CANLF [tr]	Corticotropin releasing hormone receptor 2	437	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	339-344		
+LVLLPL	18	E2R9A7	E2R9A7_CANLF [tr]	Corticotropin-releasing factor receptor 1	401	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	317-322		
+LVLLPL	19	E2R9H5	E2R9H5_CANLF [tr]	Na(+)-dependent phosphate cotransporter 2B	724	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	258-263		
+LVLLPL	20	E2R9H6	E2R9H6_CANLF [tr]	Na(+)-dependent phosphate cotransporter 2A	639	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	232-237		
+LVLLPL	21	E2REL8	E2REL8_CANLF [tr]	Cerberus 1, DAN family BMP antagonist	264	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	9-14		
+LVLLPL	22	F1PH41	F1PH41_CANLF [tr]	Pyroglutamylated RFamide peptide	136	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	10-15		
+LVLLPL	23	F1PHP2	F1PHP2_CANLF [tr]	RNA polymerase II associated protein 1	1394	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1232-1237		
+LVLLPL	24	F1PKC2	F1PKC2_CANLF [tr]	Uncharacterized protein	1557	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1426-1431		
+LVLLPL	25	F1PZC5	F1PZC5_CANLF [tr]	Corticotropin-releasing factor receptor 1	415	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	317-322		
+LVLLPL	26	F6XGI7	F6XGI7_CANLF [tr]	Solute carrier family 13 member 1	595	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	21-26		
+LVLLPL	27	J9NUB2	J9NUB2_CANLF [tr]	Uncharacterized protein	1650	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1519-1524		
+LVLLPL	28	J9NZ05	J9NZ05_CANLF [tr]	RAB11 family interacting protein 5	1220	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1072-1077		
+LVLLPL	29	W0UTI2	W0UTI2_CANLF [tr]	Pancreatic ribonuclease	151	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	7-12		
+AIPTNF	1	A0A5F4CJL9	A0A5F4CJL9_CANLF [tr]	LIM domain only 4	362	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	214-219		
+AIPTNF	2	A0A5F4CX25	A0A5F4CX25_CANLF [tr]	LIM domain only 4	405	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	214-219		
+DEDDSE	1	A0A5F4CJZ1	A0A5F4CJZ1_CANLF [tr]	CAP-ZIP_m domain-containing protein	1253	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	483-488		
+DEDDSE	2	A0A5F4CSC0	A0A5F4CSC0_CANLF [tr]	Nucleolin	725	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	214-219		
+DEDDSE	3	A0A5F4D489	A0A5F4D489_CANLF [tr]	CAP-ZIP_m domain-containing protein	1270	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	539-544		
+DEDDSE	4	A0A5F4D5R5	A0A5F4D5R5_CANLF [tr]	CAP-ZIP_m domain-containing protein	1235	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	515-520		
+DEDDSE	5	E2RMY7	E2RMY7_CANLF [tr]	CAP-ZIP_m domain-containing protein	1332	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	539-544		
+DEDDSE	6	F1P8D2	F1P8D2_CANLF [tr]	Glutamate metabotropic receptor 1	1195	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1099-1104		
+DEDDSE	7	F1Q0B0	F1Q0B0_CANLF [tr]	Nucleolin	715	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	204-209	Pride	
+DEDDSE	8	J9NVL6	J9NVL6_CANLF [tr]	CAP-ZIP_m domain-containing protein	1311	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	539-544		
+SNQVAV	1	A0A5F4CD27	A0A5F4CD27_CANLF [tr]	N-alpha-acetyltransferase 20, NatB catalytic subunit	165	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	102-107		
+SNQVAV	2	A0A5F4DC22	A0A5F4DC22_CANLF [tr]	N-alpha-acetyltransferase 20, NatB catalytic subunit	246	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	183-188		
+SNQVAV	3	J9P2S9	J9P2S9_CANLF [tr]	N-alpha-acetyltransferase 20, NatB catalytic subunit	178	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	115-120		568124
+NGLTGT	1	E2R942	E2R942_CANLF [tr]	Chromosome 18 C11orf24 homolog	395	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	155-160		
+SVASQS	1	A0A5F4C3L4	A0A5F4C3L4_CANLF [tr]	Pecanex-like protein	2202	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1983-1988		
+SVASQS	2	A0A5F4CFD4	A0A5F4CFD4_CANLF [tr]	Pecanex-like protein	2300	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2081-2086		
+SVASQS	3	A0A5F4CMK6	A0A5F4CMK6_CANLF [tr]	Pecanex-like protein	2225	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2006-2011		
+SVASQS	4	A0A5F4CXC0	A0A5F4CXC0_CANLF [tr]	Pecanex-like protein	2317	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2098-2103		
+SVASQS	5	A0A5F4CZR2	A0A5F4CZR2_CANLF [tr]	CD5 molecule	475	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	99-104		
+SVASQS	6	A0A5F4D0S9	A0A5F4D0S9_CANLF [tr]	Pecanex-like protein	2194	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1975-1980		
+SVASQS	7	A0A5F4D1P6	A0A5F4D1P6_CANLF [tr]	CD5 molecule	490	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	135-140		
+SVASQS	8	A0A5F4D940	A0A5F4D940_CANLF [tr]	Pecanex-like protein	2332	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2098-2103		
+SVASQS	9	A0A5F4D9D1	A0A5F4D9D1_CANLF [tr]	Pecanex-like protein	2122	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1888-1893		
+SVASQS	10	A0A5F4DB72	A0A5F4DB72_CANLF [tr]	Pecanex-like protein	2289	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2070-2075		
+SVASQS	11	A0A5F4DIZ4	A0A5F4DIZ4_CANLF [tr]	Pecanex-like protein	2230	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2011-2016		
+SVASQS	12	E2QZ63	E2QZ63_CANLF [tr]	CD5 molecule	511	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	135-140		
+SVASQS	13	F1PI29	F1PI29_CANLF [tr]	Pecanex-like protein	2274	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	2081-2086		
+SVASQS	14	F1PJU1	F1PJU1_CANLF [tr]	CD5 molecule	498	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	122-127		
+QGFSAL	1	A0A5F4C317	A0A5F4C317_CANLF [tr]	Netrin 4	571	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	495-500		
+QGFSAL	2	A0A5F4C5K0	A0A5F4C5K0_CANLF [tr]	Netrin 4	605	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	495-500		
+QGFSAL	3	A0A5F4C7V4	A0A5F4C7V4_CANLF [tr]	Netrin 4	583	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	450-455		
+QGFSAL	4	A0A5F4DH25	A0A5F4DH25_CANLF [tr]	Netrin 4	649	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	516-521		
+QGFSAL	5	E2QZY0	E2QZY0_CANLF [tr]	Netrin 4	628	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	495-500		
+ISNCVA	1	J9NVJ7	J9NVJ7_CANLF [tr]	Lysophosphatidic acid receptor 6	345	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	34-39		
+SLGAEN	1	A0A5F4D7E3	A0A5F4D7E3_CANLF [tr]	Leishmanolysin-like peptidase	721	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	437-442		
+SLGAEN	2	J9NT62	J9NT62_CANLF [tr]	Uncharacterized protein	2851	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1911-1916		
+SLGAEN	3	J9NWN5	J9NWN5_CANLF [tr]	Uncharacterized protein	2797	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	1857-1862		
+AVDCAL	1	A0A5F4C1Z2	A0A5F4C1Z2_CANLF [tr]	Bromodomain and PHD finger containing 1	1107	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	327-332		
+AVDCAL	2	A0A5F4C2N6	A0A5F4C2N6_CANLF [tr]	Bromodomain and PHD finger containing 1	1124	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	327-332		
+AVDCAL	3	A0A5F4CZ75	A0A5F4CZ75_CANLF [tr]	Bromodomain and PHD finger containing 1	1220	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	327-332		
+AVDCAL	4	E2RH23	E2RH23_CANLF [tr]	Bromodomain and PHD finger containing 1	1152	Canis lupus familiaris (Dog) (Canis familiaris) [9615]	327-332		

@@ -1,0 +1,1069 @@
+#Query Peptide	Rank	Protein AC	Protein ID	Protein Name	Length	Organism	Matched Range(s)	Proteomic Databases	IEDB
+VSSQCV	1	M3W4T5	M3W4T5_FELCA [tr]	GLE1-like protein	697	Felis catus (Cat) (Felis silvestris catus) [9685]	395-400		
+VEGFNC	1	M3WXS7	M3WXS7_FELCA [tr]	Laminin subunit gamma 1	1608	Felis catus (Cat) (Felis silvestris catus) [9685]	468-473		
+SLLIVN	1	A0A337STC9	A0A337STC9_FELCA [tr]	E3 ubiquitin protein ligase	899	Felis catus (Cat) (Felis silvestris catus) [9685]	89-94		
+SLLIVN	2	M3VWL4	M3VWL4_FELCA [tr]	E3 ubiquitin protein ligase	975	Felis catus (Cat) (Felis silvestris catus) [9685]	89-94		
+VTLADA	1	A0A5F5XMR2	A0A5F5XMR2_FELCA [tr]	Autophagy-related protein 9	831	Felis catus (Cat) (Felis silvestris catus) [9685]	167-172		
+VTLADA	2	M3WIE1	M3WIE1_FELCA [tr]	Autophagy-related protein 9	920	Felis catus (Cat) (Felis silvestris catus) [9685]	256-261		
+TRFQTL	1	A0A2I2U8U3	A0A2I2U8U3_FELCA [tr]	Dishevelled associated activator of morphogenesis 2	1067	Felis catus (Cat) (Felis silvestris catus) [9685]	251-256		
+TRFQTL	2	A0A2I2U978	A0A2I2U978_FELCA [tr]	Dishevelled associated activator of morphogenesis 1	1078	Felis catus (Cat) (Felis silvestris catus) [9685]	255-260		
+TRFQTL	3	A0A2I2UBY3	A0A2I2UBY3_FELCA [tr]	DNA topoisomerase	987	Felis catus (Cat) (Felis silvestris catus) [9685]	219-224		
+TRFQTL	4	A0A2I2UN71	A0A2I2UN71_FELCA [tr]	Dishevelled associated activator of morphogenesis 2	1047	Felis catus (Cat) (Felis silvestris catus) [9685]	251-256		
+TRFQTL	5	A0A5F5XJ13	A0A5F5XJ13_FELCA [tr]	DNA topoisomerase	917	Felis catus (Cat) (Felis silvestris catus) [9685]	149-154		
+TRFQTL	6	A0A5F5XQM6	A0A5F5XQM6_FELCA [tr]	DNA topoisomerase	962	Felis catus (Cat) (Felis silvestris catus) [9685]	219-224		
+TRFQTL	7	A0A5F5XY64	A0A5F5XY64_FELCA [tr]	DNA topoisomerase	967	Felis catus (Cat) (Felis silvestris catus) [9685]	199-204		
+TRFQTL	8	M3W5V5	M3W5V5_FELCA [tr]	Dishevelled associated activator of morphogenesis 2	1075	Felis catus (Cat) (Felis silvestris catus) [9685]	251-256		
+TRFQTL	9	M3WN01	M3WN01_FELCA [tr]	Dishevelled associated activator of morphogenesis 1	1068	Felis catus (Cat) (Felis silvestris catus) [9685]	255-260		
+TRFQTL	10	M3XAE4	M3XAE4_FELCA [tr]	Ring finger protein 215	455	Felis catus (Cat) (Felis silvestris catus) [9685]	145-150		
+EIDRLN	1	A0A337RU36	A0A337RU36_FELCA [tr]	SET nuclear proto-oncogene	269	Felis catus (Cat) (Felis silvestris catus) [9685]	34-39		
+EIDRLN	2	A0A337SUX6	A0A337SUX6_FELCA [tr]	SET nuclear proto-oncogene	276	Felis catus (Cat) (Felis silvestris catus) [9685]	41-46		
+EIDRLN	3	A0A5F5XDZ6	A0A5F5XDZ6_FELCA [tr]	Protein SET	272	Felis catus (Cat) (Felis silvestris catus) [9685]	53-58		
+EIDRLN	4	M3W4T8	M3W4T8_FELCA [tr]	SET nuclear proto-oncogene	288	Felis catus (Cat) (Felis silvestris catus) [9685]	53-58		
+KVGGNY	1	A0A5F5XIJ8	A0A5F5XIJ8_FELCA [tr]	Branched-chain-amino-acid aminotransferase	392	Felis catus (Cat) (Felis silvestris catus) [9685]	229-234		
+KVGGNY	2	A0A5F5XWF2	A0A5F5XWF2_FELCA [tr]	Branched-chain-amino-acid aminotransferase	312	Felis catus (Cat) (Felis silvestris catus) [9685]	137-142		
+KVGGNY	3	M3W7L8	M3W7L8_FELCA [tr]	Branched-chain-amino-acid aminotransferase	404	Felis catus (Cat) (Felis silvestris catus) [9685]	229-234		
+KVEAEV	1	A0A2I2UAJ7	A0A2I2UAJ7_FELCA [tr]	Structural maintenance of chromosomes protein	1288	Felis catus (Cat) (Felis silvestris catus) [9685]	879-884		
+KVEAEV	2	A0A5F5XM03	A0A5F5XM03_FELCA [tr]	Elastin microfibril interfacer 3	713	Felis catus (Cat) (Felis silvestris catus) [9685]	583-588		
+KVEAEV	3	A0A5F5XUS4	A0A5F5XUS4_FELCA [tr]	Periaxin	1446	Felis catus (Cat) (Felis silvestris catus) [9685]	341-346		
+KVEAEV	4	A0A5F5Y1I2	A0A5F5Y1I2_FELCA [tr]	Structural maintenance of chromosomes protein	1184	Felis catus (Cat) (Felis silvestris catus) [9685]	775-780		
+KVEAEV	5	A0A5F5Y361	A0A5F5Y361_FELCA [tr]	Periaxin	1482	Felis catus (Cat) (Felis silvestris catus) [9685]	341-346		
+KVEAEV	6	M3W0K1	M3W0K1_FELCA [tr]	Elastin microfibril interfacer 3	754	Felis catus (Cat) (Felis silvestris catus) [9685]	624-629		
+KVEAEV	7	M3WX33	M3WX33_FELCA [tr]	Structural maintenance of chromosomes protein	1230	Felis catus (Cat) (Felis silvestris catus) [9685]	879-884		
+GIAVEQ	1	A0A2I2UD99	A0A2I2UD99_FELCA [tr]	Chloride channel protein	839	Felis catus (Cat) (Felis silvestris catus) [9685]	515-520		
+GIAVEQ	2	A0A2I2UQQ6	A0A2I2UQQ6_FELCA [tr]	Chloride channel protein	866	Felis catus (Cat) (Felis silvestris catus) [9685]	542-547		
+GIAVEQ	3	M3VVD9	M3VVD9_FELCA [tr]	Chloride channel protein	818	Felis catus (Cat) (Felis silvestris catus) [9685]	542-547		
+ALLAGT	1	A0A2I2V5F3	A0A2I2V5F3_FELCA [tr]	Ankyrin repeat domain 13C	546	Felis catus (Cat) (Felis silvestris catus) [9685]	98-103		
+ALLAGT	2	A0A337STR5	A0A337STR5_FELCA [tr]	COMM domain-containing protein 5	224	Felis catus (Cat) (Felis silvestris catus) [9685]	84-89		
+ALLAGT	3	A0A5F5XIR9	A0A5F5XIR9_FELCA [tr]	Fas activated serine/threonine kinase	569	Felis catus (Cat) (Felis silvestris catus) [9685]	559-564		
+ALLAGT	4	A0A5F5Y301	A0A5F5Y301_FELCA [tr]	Ankyrin repeat domain 13C	513	Felis catus (Cat) (Felis silvestris catus) [9685]	98-103		
+ALLAGT	5	M3W7T8	M3W7T8_FELCA [tr]	Nucleoporin 210	1887	Felis catus (Cat) (Felis silvestris catus) [9685]	1816-1821		
+ALLAGT	6	M3WGZ0	M3WGZ0_FELCA [tr]	Ankyrin repeat domain 13C	511	Felis catus (Cat) (Felis silvestris catus) [9685]	98-103		
+LTVLPP	1	A0A337S2I6	A0A337S2I6_FELCA [tr]	Formin homology 2 domain containing 3	1470	Felis catus (Cat) (Felis silvestris catus) [9685]	1010-1015		
+LTVLPP	2	A0A337SFM8	A0A337SFM8_FELCA [tr]	Formin homology 2 domain containing 3	1577	Felis catus (Cat) (Felis silvestris catus) [9685]	1128-1133		
+LTVLPP	3	A0A337SMV3	A0A337SMV3_FELCA [tr]	Formin homology 2 domain containing 3	1417	Felis catus (Cat) (Felis silvestris catus) [9685]	968-973		
+LTVLPP	4	A0A5F5XMV4	A0A5F5XMV4_FELCA [tr]	Ras suppressor protein 1	293	Felis catus (Cat) (Felis silvestris catus) [9685]	192-197		
+LTVLPP	5	A0A5F5XNF3	A0A5F5XNF3_FELCA [tr]	Formin homology 2 domain containing 3	1453	Felis catus (Cat) (Felis silvestris catus) [9685]	985-990		
+LTVLPP	6	M3WA94	M3WA94_FELCA [tr]	Formin homology 2 domain containing 3	1311	Felis catus (Cat) (Felis silvestris catus) [9685]	862-867		
+LTVLPP	7	M3WJ24	M3WJ24_FELCA [tr]	Ras suppressor protein 1	281	Felis catus (Cat) (Felis silvestris catus) [9685]	192-197		
+AALQIP	1	A0A337SBY7	A0A337SBY7_FELCA [tr]	Cyclin D binding myb like transcription factor 1	761	Felis catus (Cat) (Felis silvestris catus) [9685]	459-464		
+AALQIP	2	M3WJF3	M3WJF3_FELCA [tr]	Cyclin D binding myb like transcription factor 1	695	Felis catus (Cat) (Felis silvestris catus) [9685]	393-398		
+VLLPLV	1	A0A2I2V223	A0A2I2V223_FELCA [tr]	Tumor necrosis factor receptor 1	433	Felis catus (Cat) (Felis silvestris catus) [9685]	201-206		
+VLLPLV	2	A0A5F5XCY7	A0A5F5XCY7_FELCA [tr]	Regulating synaptic membrane exocytosis 3	311	Felis catus (Cat) (Felis silvestris catus) [9685]	284-289		
+VLLPLV	3	A0A5F5XD37	A0A5F5XD37_FELCA [tr]	TNF receptor superfamily member 1A	401	Felis catus (Cat) (Felis silvestris catus) [9685]	169-174		
+VLLPLV	4	A0A5F5XX83	A0A5F5XX83_FELCA [tr]	Mitogen-activated protein kinase kinase kinase	1272	Felis catus (Cat) (Felis silvestris catus) [9685]	303-308		
+VLLPLV	5	M3W6M7	M3W6M7_FELCA [tr]	Tumor necrosis factor receptor 1	444	Felis catus (Cat) (Felis silvestris catus) [9685]	212-217		
+VLLPLV	6	M3W8J0	M3W8J0_FELCA [tr]	Mitogen-activated protein kinase kinase kinase	1307	Felis catus (Cat) (Felis silvestris catus) [9685]	338-343		
+VLLPLV	7	M3WLZ7	M3WLZ7_FELCA [tr]	Transmembrane channel-like protein	723	Felis catus (Cat) (Felis silvestris catus) [9685]	135-140		
+VLLPLV	8	M3X743	M3X743_FELCA [tr]	Ryanodine receptor 3	4859	Felis catus (Cat) (Felis silvestris catus) [9685]	2861-2866		
+VLLPLV	9	Q95ND3	Q95ND3_FELCA [tr]	Tumor necrosis factor receptor 1	446	Felis catus (Cat) (Felis silvestris catus) [9685]	212-217		
+GTITDA	1	A0A5F5XPA1	A0A5F5XPA1_FELCA [tr]	Annexin	598	Felis catus (Cat) (Felis silvestris catus) [9685]	192-197		
+GTITDA	2	M3XFZ3	M3XFZ3_FELCA [tr]	Annexin	505	Felis catus (Cat) (Felis silvestris catus) [9685]	192-197		
+IAPGQT	1	M3W7G5	M3W7G5_FELCA [tr]	Stabilin 2	2551	Felis catus (Cat) (Felis silvestris catus) [9685]	341-346		
+GIGVTQ	1	A0A2I2U1W1	A0A2I2U1W1_FELCA [tr]	Solute carrier family 30 member 6	433	Felis catus (Cat) (Felis silvestris catus) [9685]	404-409		
+GIGVTQ	2	A0A337RT82	A0A337RT82_FELCA [tr]	Solute carrier family 30 member 6	439	Felis catus (Cat) (Felis silvestris catus) [9685]	410-415		
+GIGVTQ	3	M3WWR5	M3WWR5_FELCA [tr]	Solute carrier family 30 member 6	462	Felis catus (Cat) (Felis silvestris catus) [9685]	433-438		
+YNYLYR	1	A0A337S439	A0A337S439_FELCA [tr]	Chromosome F1 C1orf43 homolog	338	Felis catus (Cat) (Felis silvestris catus) [9685]	126-131		
+YNYLYR	2	A0A337SNJ3	A0A337SNJ3_FELCA [tr]	Chromosome F1 C1orf43 homolog	171	Felis catus (Cat) (Felis silvestris catus) [9685]	98-103		
+YNYLYR	3	A0A337SUC1	A0A337SUC1_FELCA [tr]	Chromosome F1 C1orf43 homolog	219	Felis catus (Cat) (Felis silvestris catus) [9685]	64-69		
+YNYLYR	4	A0A5F5Y1H2	A0A5F5Y1H2_FELCA [tr]	Chromosome F1 C1orf43 homolog	297	Felis catus (Cat) (Felis silvestris catus) [9685]	126-131		
+YNYLYR	5	M3WH87	M3WH87_FELCA [tr]	Chromosome F1 C1orf43 homolog	253	Felis catus (Cat) (Felis silvestris catus) [9685]	98-103		
+VFLVLL	1	M3X6M9	M3X6M9_FELCA [tr]	Syndecan 4	201	Felis catus (Cat) (Felis silvestris catus) [9685]	165-170		
+SFIEDL	1	M3WBK8	M3WBK8_FELCA [tr]	Coiled-coil domain containing 61	152	Felis catus (Cat) (Felis silvestris catus) [9685]	57-62		
+LFLPFF	1	A0A5F5XKL5	A0A5F5XKL5_FELCA [tr]	Uncharacterized protein	229	Felis catus (Cat) (Felis silvestris catus) [9685]	184-189		
+QDVVNQ	1	A0A337S7M3	A0A337S7M3_FELCA [tr]	Gametocyte specific factor 1	329	Felis catus (Cat) (Felis silvestris catus) [9685]	244-249		
+QDVVNQ	2	M3WCS9	M3WCS9_FELCA [tr]	Gametocyte specific factor 1	167	Felis catus (Cat) (Felis silvestris catus) [9685]	79-84		
+AGTITS	1	A0A337RWF8	A0A337RWF8_FELCA [tr]	TEA domain transcription factor 4	651	Felis catus (Cat) (Felis silvestris catus) [9685]	265-270		
+AGTITS	2	A0A337SC40	A0A337SC40_FELCA [tr]	TEA domain transcription factor 4	694	Felis catus (Cat) (Felis silvestris catus) [9685]	265-270		
+AARDLI	1	M3WIZ3	M3WIZ3_FELCA [tr]	Granzyme B-like	292	Felis catus (Cat) (Felis silvestris catus) [9685]	283-288		
+AARDLI	2	M3XAP8	M3XAP8_FELCA [tr]	Sulfotransferase	362	Felis catus (Cat) (Felis silvestris catus) [9685]	93-98		
+FRSSVL	1	A0A2I2U548	A0A2I2U548_FELCA [tr]	Myosin ID	482	Felis catus (Cat) (Felis silvestris catus) [9685]	469-474		
+ILSRLD	1	A0A5F5XTK4	A0A5F5XTK4_FELCA [tr]	Ciliogenesis and planar polarity effector 1	3021	Felis catus (Cat) (Felis silvestris catus) [9685]	2992-2997		
+ILSRLD	2	A0A5F5XZI3	A0A5F5XZI3_FELCA [tr]	Voltage-dependent L-type calcium channel subunit alpha	1918	Felis catus (Cat) (Felis silvestris catus) [9685]	1899-1904		
+ILSRLD	3	A0A5F5Y2Q0	A0A5F5Y2Q0_FELCA [tr]	Voltage-dependent L-type calcium channel subunit alpha	1977	Felis catus (Cat) (Felis silvestris catus) [9685]	1958-1963		
+ILSRLD	4	M3W116	M3W116_FELCA [tr]	Voltage-dependent L-type calcium channel subunit alpha	1984	Felis catus (Cat) (Felis silvestris catus) [9685]	1965-1970		
+ILSRLD	5	M3WGH0	M3WGH0_FELCA [tr]	CYCLIN domain-containing protein	192	Felis catus (Cat) (Felis silvestris catus) [9685]	89-94		
+ILSRLD	6	M3WJM5	M3WJM5_FELCA [tr]	Ciliogenesis and planar polarity effector 1	3086	Felis catus (Cat) (Felis silvestris catus) [9685]	3057-3062		
+GTKRFD	1	A0A337SBG2	A0A337SBG2_FELCA [tr]	Proteasome 26S subunit, ATPase 3	439	Felis catus (Cat) (Felis silvestris catus) [9685]	292-297		
+GTKRFD	2	A0A337SHH6	A0A337SHH6_FELCA [tr]	Proteasome 26S subunit, ATPase 3	397	Felis catus (Cat) (Felis silvestris catus) [9685]	250-255		
+HSTQDL	1	A0A2I2V2G7	A0A2I2V2G7_FELCA [tr]	Zinc finger protein 132	704	Felis catus (Cat) (Felis silvestris catus) [9685]	227-232		
+HSTQDL	2	A0A337S8R2	A0A337S8R2_FELCA [tr]	Zinc finger protein 132	732	Felis catus (Cat) (Felis silvestris catus) [9685]	255-260		
+KSFTVE	1	A0A5F5XCV6	A0A5F5XCV6_FELCA [tr]	Kinetochore scaffold 1	2183	Felis catus (Cat) (Felis silvestris catus) [9685]	772-777		
+PAICHD	1	A0A2I2UGA3	A0A2I2UGA3_FELCA [tr]	Dynein axonemal assembly factor 5	867	Felis catus (Cat) (Felis silvestris catus) [9685]	373-378		
+PAICHD	2	A0A5F5XJQ8	A0A5F5XJQ8_FELCA [tr]	Dynein axonemal assembly factor 5	880	Felis catus (Cat) (Felis silvestris catus) [9685]	373-378		
+VDFCGK	1	M3X4S7	M3X4S7_FELCA [tr]	Leucine rich repeat containing 58	371	Felis catus (Cat) (Felis silvestris catus) [9685]	316-321		
+FLGVYY	1	M3W141	M3W141_FELCA [tr]	Solute carrier family 35 member G2	412	Felis catus (Cat) (Felis silvestris catus) [9685]	332-337		
+WTAGAA	1	A0A2I2UR70	A0A2I2UR70_FELCA [tr]	alpha-1,2-Mannosidase	947	Felis catus (Cat) (Felis silvestris catus) [9685]	38-43		
+WTAGAA	2	A0A337RZR6	A0A337RZR6_FELCA [tr]	alpha-1,2-Mannosidase	931	Felis catus (Cat) (Felis silvestris catus) [9685]	38-43		
+WTAGAA	3	A0A5F5XJY9	A0A5F5XJY9_FELCA [tr]	Long-chain-fatty-acid--CoA ligase ACSBG2	483	Felis catus (Cat) (Felis silvestris catus) [9685]	63-68		
+WTAGAA	4	A0A5F5Y2R4	A0A5F5Y2R4_FELCA [tr]	alpha-1,2-Mannosidase	869	Felis catus (Cat) (Felis silvestris catus) [9685]	38-43		
+WTAGAA	5	M3W7T1	M3W7T1_FELCA [tr]	alpha-1,2-Mannosidase	902	Felis catus (Cat) (Felis silvestris catus) [9685]	38-43		
+WTAGAA	6	M3WH29	M3WH29_FELCA [tr]	Long-chain-fatty-acid--CoA ligase ACSBG2	671	Felis catus (Cat) (Felis silvestris catus) [9685]	251-256		
+GVYYPD	1	C8C1R7	C8C1R7_FELCA [tr]	Enamelin (Fragment)	922	Felis catus (Cat) (Felis silvestris catus) [9685]	387-392		
+GVYYPD	2	M3X473	M3X473_FELCA [tr]	Enamelin	1151	Felis catus (Cat) (Felis silvestris catus) [9685]	600-605		
+DPFLGV	1	M3WIF2	M3WIF2_FELCA [tr]	Hexosyltransferase	780	Felis catus (Cat) (Felis silvestris catus) [9685]	548-553		
+GTNTSN	1	A0A2I2UUE1	A0A2I2UUE1_FELCA [tr]	Dual-specificity kinase	529	Felis catus (Cat) (Felis silvestris catus) [9685]	486-491		
+GTNTSN	2	A0A337RZ15	A0A337RZ15_FELCA [tr]	Dual-specificity kinase	763	Felis catus (Cat) (Felis silvestris catus) [9685]	486-491		
+QTLEIL	1	A0A2I2UZL7	A0A2I2UZL7_FELCA [tr]	Uncharacterized protein	321	Felis catus (Cat) (Felis silvestris catus) [9685]	162-167		
+QTLEIL	2	A0A337RT99	A0A337RT99_FELCA [tr]	S-adenosylmethionine decarboxylase proenzyme	334	Felis catus (Cat) (Felis silvestris catus) [9685]	175-180		
+QTLEIL	3	A0A337SDN6	A0A337SDN6_FELCA [tr]	Prefoldin subunit 3	192	Felis catus (Cat) (Felis silvestris catus) [9685]	78-83		
+QTLEIL	4	A0A5F5Y6F5	A0A5F5Y6F5_FELCA [tr]	Prefoldin subunit 3	160	Felis catus (Cat) (Felis silvestris catus) [9685]	46-51		
+QTLEIL	5	M3WX04	M3WX04_FELCA [tr]	Prefoldin subunit 3	197	Felis catus (Cat) (Felis silvestris catus) [9685]	83-88		
+QTLEIL	6	M3X3B6	M3X3B6_FELCA [tr]	Adenosylmethionine decarboxylase 1	214	Felis catus (Cat) (Felis silvestris catus) [9685]	55-60		
+SLSSTA	1	A0A2I2U8S7	A0A2I2U8S7_FELCA [tr]	FAT atypical cadherin 3	4612	Felis catus (Cat) (Felis silvestris catus) [9685]	2926-2931		
+SLSSTA	2	A0A2I2UI51	A0A2I2UI51_FELCA [tr]	FAT atypical cadherin 3	4589	Felis catus (Cat) (Felis silvestris catus) [9685]	2903-2908		
+SLSSTA	3	A0A337S352	A0A337S352_FELCA [tr]	SRY-box transcription factor 5	764	Felis catus (Cat) (Felis silvestris catus) [9685]	147-152		
+SLSSTA	4	A0A337SAH6	A0A337SAH6_FELCA [tr]	SRY-box transcription factor 5	738	Felis catus (Cat) (Felis silvestris catus) [9685]	147-152		
+SLSSTA	5	A0A337SI40	A0A337SI40_FELCA [tr]	SRY-box transcription factor 5	787	Felis catus (Cat) (Felis silvestris catus) [9685]	147-152		
+SLSSTA	6	A0A337SUG3	A0A337SUG3_FELCA [tr]	SRY-box transcription factor 5	255	Felis catus (Cat) (Felis silvestris catus) [9685]	113-118		
+SLSSTA	7	A0A5F5XIU1	A0A5F5XIU1_FELCA [tr]	Laminin subunit alpha 4	1856	Felis catus (Cat) (Felis silvestris catus) [9685]	976-981		
+SLSSTA	8	M3VV47	M3VV47_FELCA [tr]	Actin filament associated protein 1 like 2	810	Felis catus (Cat) (Felis silvestris catus) [9685]	25-30		
+SLSSTA	9	M3VXT1	M3VXT1_FELCA [tr]	SRY-box transcription factor 5	647	Felis catus (Cat) (Felis silvestris catus) [9685]	75-80		
+SLSSTA	10	M3W5N5	M3W5N5_FELCA [tr]	Laminin subunit alpha 4	1855	Felis catus (Cat) (Felis silvestris catus) [9685]	983-988		
+SLSSTA	11	M3X7L3	M3X7L3_FELCA [tr]	FAT atypical cadherin 3	4580	Felis catus (Cat) (Felis silvestris catus) [9685]	2926-2931		
+SLSSTA	12	M3XEE6	M3XEE6_FELCA [tr]	Protocadherin gamma-C4	944	Felis catus (Cat) (Felis silvestris catus) [9685]	655-660		
+PGDSSS	1	M3VVC4	M3VVC4_FELCA [tr]	ADAMTS like 4	1061	Felis catus (Cat) (Felis silvestris catus) [9685]	255-260		
+DSFKEE	1	A0A2I2U083	A0A2I2U083_FELCA [tr]	Cancer antigen 1	831	Felis catus (Cat) (Felis silvestris catus) [9685]	200-205		
+DSFKEE	2	A0A2I2U2M3	A0A2I2U2M3_FELCA [tr]	Cancer antigen 1	847	Felis catus (Cat) (Felis silvestris catus) [9685]	200-205		
+DSFKEE	3	M3W2T3	M3W2T3_FELCA [tr]	Cancer antigen 1	847	Felis catus (Cat) (Felis silvestris catus) [9685]	161-166		
+YEPQII	1	M3WTC5	M3WTC5_FELCA [tr]	C3a anaphylatoxin chemotactic receptor	475	Felis catus (Cat) (Felis silvestris catus) [9685]	19-24		
+VLYNSA	1	A0A337SDV9	A0A337SDV9_FELCA [tr]	Cilia and flagella associated protein 92 (putative)	1088	Felis catus (Cat) (Felis silvestris catus) [9685]	750-755		
+VLYNSA	2	M3W9Z4	M3W9Z4_FELCA [tr]	Cilia and flagella associated protein 92 (putative)	1078	Felis catus (Cat) (Felis silvestris catus) [9685]	750-755		
+LEPLVD	1	M3WNH7	M3WNH7_FELCA [tr]	MutS homolog 4	935	Felis catus (Cat) (Felis silvestris catus) [9685]	355-360		
+VGYLQP	1	M3WP01	M3WP01_FELCA [tr]	Non-specific serine/threonine protein kinase	2643	Felis catus (Cat) (Felis silvestris catus) [9685]	188-193		
+GLTVLP	1	A0A337S2I6	A0A337S2I6_FELCA [tr]	Formin homology 2 domain containing 3	1470	Felis catus (Cat) (Felis silvestris catus) [9685]	1009-1014		
+GLTVLP	2	A0A337SFM8	A0A337SFM8_FELCA [tr]	Formin homology 2 domain containing 3	1577	Felis catus (Cat) (Felis silvestris catus) [9685]	1127-1132		
+GLTVLP	3	A0A337SMV3	A0A337SMV3_FELCA [tr]	Formin homology 2 domain containing 3	1417	Felis catus (Cat) (Felis silvestris catus) [9685]	967-972		
+GLTVLP	4	A0A5F5XNF3	A0A5F5XNF3_FELCA [tr]	Formin homology 2 domain containing 3	1453	Felis catus (Cat) (Felis silvestris catus) [9685]	984-989		
+GLTVLP	5	M3WA94	M3WA94_FELCA [tr]	Formin homology 2 domain containing 3	1311	Felis catus (Cat) (Felis silvestris catus) [9685]	861-866		
+DSEPVL	1	A0A337SSQ2	A0A337SSQ2_FELCA [tr]	Huntingtin interacting protein 1	1036	Felis catus (Cat) (Felis silvestris catus) [9685]	322-327		
+DSEPVL	2	M3W1G8	M3W1G8_FELCA [tr]	Huntingtin interacting protein 1	985	Felis catus (Cat) (Felis silvestris catus) [9685]	322-327		
+ASALGK	1	A0A2I2UWB8	A0A2I2UWB8_FELCA [tr]	Fucose-1-phosphate guanylyltransferase	591	Felis catus (Cat) (Felis silvestris catus) [9685]	116-121		
+ASALGK	2	A0A337S173	A0A337S173_FELCA [tr]	Fucose-1-phosphate guanylyltransferase	599	Felis catus (Cat) (Felis silvestris catus) [9685]	124-129		
+ASALGK	3	A0A337S4Q0	A0A337S4Q0_FELCA [tr]	Fucose-1-phosphate guanylyltransferase	568	Felis catus (Cat) (Felis silvestris catus) [9685]	93-98		
+ASALGK	4	M3WPG6	M3WPG6_FELCA [tr]	Apolipoprotein A1	295	Felis catus (Cat) (Felis silvestris catus) [9685]	58-63	Pride	
+STNLVK	1	M3VV09	M3VV09_FELCA [tr]	Chromosome 3 open reading frame 49	294	Felis catus (Cat) (Felis silvestris catus) [9685]	48-53		
+KVTLAD	1	A0A5F5XMR2	A0A5F5XMR2_FELCA [tr]	Autophagy-related protein 9	831	Felis catus (Cat) (Felis silvestris catus) [9685]	166-171		
+KVTLAD	2	M3WIE1	M3WIE1_FELCA [tr]	Autophagy-related protein 9	920	Felis catus (Cat) (Felis silvestris catus) [9685]	255-260		
+TGRLQS	1	A0A2I2UL51	A0A2I2UL51_FELCA [tr]	Neuron navigator 3	2205	Felis catus (Cat) (Felis silvestris catus) [9685]	1459-1464		
+TGRLQS	2	A0A337SBX6	A0A337SBX6_FELCA [tr]	Neuron navigator 3	2385	Felis catus (Cat) (Felis silvestris catus) [9685]	1610-1615		
+TGRLQS	3	A0A337SN55	A0A337SN55_FELCA [tr]	Neuron navigator 3	2363	Felis catus (Cat) (Felis silvestris catus) [9685]	1610-1615		
+TGRLQS	4	A0A5F5XS02	A0A5F5XS02_FELCA [tr]	Neuron navigator 3	1841	Felis catus (Cat) (Felis silvestris catus) [9685]	1095-1100		
+TGRLQS	5	M3WAR9	M3WAR9_FELCA [tr]	Bromodomain containing 7	652	Felis catus (Cat) (Felis silvestris catus) [9685]	375-380		
+TGRLQS	6	M3WIA0	M3WIA0_FELCA [tr]	Neuron navigator 3	2219	Felis catus (Cat) (Felis silvestris catus) [9685]	1473-1478		
+ASYQTQ	1	M3WUN5	M3WUN5_FELCA [tr]	TIA1 cytotoxic granule associated RNA binding protein like 1	392	Felis catus (Cat) (Felis silvestris catus) [9685]	387-392		
+DPLSET	1	M3W8Z4	M3W8Z4_FELCA [tr]	Polypeptide N-acetylgalactosaminyltransferase	601	Felis catus (Cat) (Felis silvestris catus) [9685]	574-579		
+LNESLI	1	A0A2I2U1W7	A0A2I2U1W7_FELCA [tr]	NHS like 1	1579	Felis catus (Cat) (Felis silvestris catus) [9685]	699-704		
+LNESLI	2	A0A5F5XGK4	A0A5F5XGK4_FELCA [tr]	NHS like 1	1575	Felis catus (Cat) (Felis silvestris catus) [9685]	695-700		
+LNESLI	3	A0A5F5Y271	A0A5F5Y271_FELCA [tr]	NHS like 1	1623	Felis catus (Cat) (Felis silvestris catus) [9685]	743-748		
+LNESLI	4	M3WYV3	M3WYV3_FELCA [tr]	NHS like 1	1517	Felis catus (Cat) (Felis silvestris catus) [9685]	637-642		
+SVAYSN	1	M3X2T2	M3X2T2_FELCA [tr]	Phospholipase A2 receptor 1	1463	Felis catus (Cat) (Felis silvestris catus) [9685]	1039-1044		
+YTNSFT	1	A0A2I2U9V0	A0A2I2U9V0_FELCA [tr]	Elongin-C	115	Felis catus (Cat) (Felis silvestris catus) [9685]	87-92		
+NDILSR	1	M3XEQ4	M3XEQ4_FELCA [tr]	NK6 homeobox 1	367	Felis catus (Cat) (Felis silvestris catus) [9685]	99-104		
+DPSKPS	1	M3WN33	M3WN33_FELCA [tr]	Twinkle mtDNA helicase	684	Felis catus (Cat) (Felis silvestris catus) [9685]	678-683		
+DVVIGI	1	M3WB84	M3WB84_FELCA [tr]	Trifunctional purine biosynthetic protein adenosine-3	1009	Felis catus (Cat) (Felis silvestris catus) [9685]	609-614		
+SNLLLQ	1	A0A2I2U9F4	A0A2I2U9F4_FELCA [tr]	SMG5 nonsense mediated mRNA decay factor	1012	Felis catus (Cat) (Felis silvestris catus) [9685]	584-589		
+SKTQSL	1	A0A2I2U045	A0A2I2U045_FELCA [tr]	Family with sequence similarity 184 member A	1108	Felis catus (Cat) (Felis silvestris catus) [9685]	429-434		
+SKTQSL	2	A0A2I2UD81	A0A2I2UD81_FELCA [tr]	Family with sequence similarity 184 member A	1122	Felis catus (Cat) (Felis silvestris catus) [9685]	429-434		
+SKTQSL	3	A0A2I2UQR8	A0A2I2UQR8_FELCA [tr]	Family with sequence similarity 184 member A	1143	Felis catus (Cat) (Felis silvestris catus) [9685]	429-434		
+SKTQSL	4	A0A5F5XQV9	A0A5F5XQV9_FELCA [tr]	Family with sequence similarity 184 member A	1157	Felis catus (Cat) (Felis silvestris catus) [9685]	429-434		
+SKTQSL	5	A0A5F5XVB3	A0A5F5XVB3_FELCA [tr]	Family with sequence similarity 184 member A	1078	Felis catus (Cat) (Felis silvestris catus) [9685]	429-434		
+SKTQSL	6	A0A5F5XYM5	A0A5F5XYM5_FELCA [tr]	Family with sequence similarity 184 member A	1123	Felis catus (Cat) (Felis silvestris catus) [9685]	429-434		
+SKTQSL	7	M3WNJ7	M3WNJ7_FELCA [tr]	Family with sequence similarity 184 member A	1119	Felis catus (Cat) (Felis silvestris catus) [9685]	429-434		
+QPTNGV	1	A0A5F5XR05	A0A5F5XR05_FELCA [tr]	Pitrilysin metalloproteinase 1	978	Felis catus (Cat) (Felis silvestris catus) [9685]	536-541		
+QPTNGV	2	A0A5F5XWB5	A0A5F5XWB5_FELCA [tr]	Pitrilysin metalloproteinase 1	1043	Felis catus (Cat) (Felis silvestris catus) [9685]	623-628		
+QPTNGV	3	A0A5F5Y1W2	A0A5F5Y1W2_FELCA [tr]	Pitrilysin metalloproteinase 1	1030	Felis catus (Cat) (Felis silvestris catus) [9685]	588-593		
+QPTNGV	4	M3VZZ9	M3VZZ9_FELCA [tr]	Pitrilysin metalloproteinase 1	1002	Felis catus (Cat) (Felis silvestris catus) [9685]	577-582		
+PSKRSF	1	M3W9R3	M3W9R3_FELCA [tr]	Leucine rich repeat containing 6	471	Felis catus (Cat) (Felis silvestris catus) [9685]	424-429		
+FTTAPA	1	A0A5F5XV40	A0A5F5XV40_FELCA [tr]	G protein-coupled receptor 182	381	Felis catus (Cat) (Felis silvestris catus) [9685]	15-20		
+TESNKK	1	M3WU61	M3WU61_FELCA [tr]	Kinesin-like protein	963	Felis catus (Cat) (Felis silvestris catus) [9685]	616-621		
+LSSTAS	1	A0A2I2V3K8	A0A2I2V3K8_FELCA [tr]	Carnosine synthase 1	951	Felis catus (Cat) (Felis silvestris catus) [9685]	874-879		
+LSSTAS	2	A0A5F5XHC6	A0A5F5XHC6_FELCA [tr]	Carnosine synthase 1	802	Felis catus (Cat) (Felis silvestris catus) [9685]	725-730		
+LSSTAS	3	A0A5K1VNJ1	A0A5K1VNJ1_FELCA [tr]	Carnosine synthase 1	925	Felis catus (Cat) (Felis silvestris catus) [9685]	848-853		
+LSSTAS	4	M3W098	M3W098_FELCA [tr]	Carnosine synthase 1	967	Felis catus (Cat) (Felis silvestris catus) [9685]	890-895		
+SFKEEL	1	M3X2D8	M3X2D8_FELCA [tr]	Tripartite motif containing 35	493	Felis catus (Cat) (Felis silvestris catus) [9685]	14-19		
+GWIFGT	1	A0A2I2U850	A0A2I2U850_FELCA [tr]	C-X-C chemokine receptor type 2	357	Felis catus (Cat) (Felis silvestris catus) [9685]	108-113		
+GWIFGT	2	M3XFH4	M3XFH4_FELCA [tr]	C-X-C chemokine receptor type 2	401	Felis catus (Cat) (Felis silvestris catus) [9685]	152-157		
+PGQTGK	1	A0A337S373	A0A337S373_FELCA [tr]	Phosphatidylinositol-4-phosphate 5-kinase type 1 gamma	818	Felis catus (Cat) (Felis silvestris catus) [9685]	678-683		
+PGQTGK	2	A0A337SKE8	A0A337SKE8_FELCA [tr]	Phosphatidylinositol-4-phosphate 5-kinase type 1 gamma	761	Felis catus (Cat) (Felis silvestris catus) [9685]	678-683		
+EELDKY	1	M3VUH3	M3VUH3_FELCA [tr]	Keratin 18	430	Felis catus (Cat) (Felis silvestris catus) [9685]	265-270		
+EELDKY	2	Q6BDL5	Q6BDL5_FELCA [tr]	Keratin 18 (Fragment)	245	Felis catus (Cat) (Felis silvestris catus) [9685]	90-95		
+RVVVLS	1	A0A5F5XRJ1	A0A5F5XRJ1_FELCA [tr]	Helicase with zinc finger 2	2928	Felis catus (Cat) (Felis silvestris catus) [9685]	1116-1121		
+RVVVLS	2	A0A5F5Y5P4	A0A5F5Y5P4_FELCA [tr]	Helicase with zinc finger 2	2884	Felis catus (Cat) (Felis silvestris catus) [9685]	1116-1121		
+RVVVLS	3	M3WWL3	M3WWL3_FELCA [tr]	Cytochrome P450 2F5	498	Felis catus (Cat) (Felis silvestris catus) [9685]	81-86		
+VLPPLL	1	A0A2I2UGN8	A0A2I2UGN8_FELCA [tr]	Potassium two pore domain channel subfamily K member 2	422	Felis catus (Cat) (Felis silvestris catus) [9685]	391-396		
+VLPPLL	2	A0A2I2UIS0	A0A2I2UIS0_FELCA [tr]	Adenosine receptor A1	326	Felis catus (Cat) (Felis silvestris catus) [9685]	189-194		
+VLPPLL	3	A0A337S7A1	A0A337S7A1_FELCA [tr]	Runt-related transcription factor	354	Felis catus (Cat) (Felis silvestris catus) [9685]	310-315		
+VLPPLL	4	A0A5F5XZE5	A0A5F5XZE5_FELCA [tr]	Potassium two pore domain channel subfamily K member 2	299	Felis catus (Cat) (Felis silvestris catus) [9685]	268-273		
+VLPPLL	5	A0A5F5Y7L2	A0A5F5Y7L2_FELCA [tr]	RUNX family transcription factor 2	521	Felis catus (Cat) (Felis silvestris catus) [9685]	382-387		
+VLPPLL	6	M3VWY8	M3VWY8_FELCA [tr]	Leucine rich repeat containing 10	279	Felis catus (Cat) (Felis silvestris catus) [9685]	269-274		
+VLPPLL	7	M3VZ99	M3VZ99_FELCA [tr]	Myeloid cell surface antigen CD33-like	235	Felis catus (Cat) (Felis silvestris catus) [9685]	1-6		
+VLPPLL	8	M3WVE0	M3WVE0_FELCA [tr]	Potassium two pore domain channel subfamily K member 2	426	Felis catus (Cat) (Felis silvestris catus) [9685]	395-400		
+LFNKVT	1	A0A2I2U4E0	A0A2I2U4E0_FELCA [tr]	Tight junction protein 1	2008	Felis catus (Cat) (Felis silvestris catus) [9685]	189-194		
+LFNKVT	2	A0A2I2UYL0	A0A2I2UYL0_FELCA [tr]	Tight junction protein 1	1991	Felis catus (Cat) (Felis silvestris catus) [9685]	189-194		
+LFNKVT	3	M3WG89	M3WG89_FELCA [tr]	Tight junction protein 1	1928	Felis catus (Cat) (Felis silvestris catus) [9685]	189-194		
+NASVVN	1	A0A2I2U0N4	A0A2I2U0N4_FELCA [tr]	Glutamine and serine rich 1	1759	Felis catus (Cat) (Felis silvestris catus) [9685]	342-347		
+NASVVN	2	A0A337ST90	A0A337ST90_FELCA [tr]	Glutamine and serine rich 1	1854	Felis catus (Cat) (Felis silvestris catus) [9685]	342-347		
+NASVVN	3	A0A5F5XH27	A0A5F5XH27_FELCA [tr]	Glutamine and serine rich 1	1615	Felis catus (Cat) (Felis silvestris catus) [9685]	219-224		
+NASVVN	4	A0A5F5XI02	A0A5F5XI02_FELCA [tr]	Integrin subunit alpha 4	198	Felis catus (Cat) (Felis silvestris catus) [9685]	82-87		
+NASVVN	5	A0A5F5XY11	A0A5F5XY11_FELCA [tr]	Glutamine and serine rich 1	1738	Felis catus (Cat) (Felis silvestris catus) [9685]	342-347		
+NASVVN	6	M3WE16	M3WE16_FELCA [tr]	Integrin subunit alpha 4	1036	Felis catus (Cat) (Felis silvestris catus) [9685]	82-87		
+NASVVN	7	M3WM60	M3WM60_FELCA [tr]	Glutamine and serine rich 1	1800	Felis catus (Cat) (Felis silvestris catus) [9685]	288-293		
+AATKMS	1	A0A2I2UIR6	A0A2I2UIR6_FELCA [tr]	Pyruvate carboxylase	1139	Felis catus (Cat) (Felis silvestris catus) [9685]	439-444		
+AATKMS	2	A0A2I2UTX2	A0A2I2UTX2_FELCA [tr]	Pyruvate carboxylase	1178	Felis catus (Cat) (Felis silvestris catus) [9685]	439-444		
+AATKMS	3	A0A2I2UW96	A0A2I2UW96_FELCA [tr]	Pyruvate carboxylase	1236	Felis catus (Cat) (Felis silvestris catus) [9685]	497-502		
+AATKMS	4	A0A5F5XNP7	A0A5F5XNP7_FELCA [tr]	Pyruvate carboxylase	1190	Felis catus (Cat) (Felis silvestris catus) [9685]	497-502		
+AATKMS	5	M3W7N8	M3W7N8_FELCA [tr]	Pyruvate carboxylase	1179	Felis catus (Cat) (Felis silvestris catus) [9685]	440-445		
+ICHDGK	1	A0A2I2U5S1	A0A2I2U5S1_FELCA [tr]	Serine/threonine-protein phosphatase with EF-hands	660	Felis catus (Cat) (Felis silvestris catus) [9685]	420-425		
+RSSVLH	1	M3X7Q3	M3X7Q3_FELCA [tr]	Zinc finger protein 214	682	Felis catus (Cat) (Felis silvestris catus) [9685]	445-450		
+EVRQIA	1	M3W9X6	M3W9X6_FELCA [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4884	Felis catus (Cat) (Felis silvestris catus) [9685]	4504-4509		
+HADQLT	1	A0A2I2UBI3	A0A2I2UBI3_FELCA [tr]	Ankyrin repeat domain 17	2491	Felis catus (Cat) (Felis silvestris catus) [9685]	726-731		
+HADQLT	2	M3WJT3	M3WJT3_FELCA [tr]	Ankyrin repeat domain 17	2608	Felis catus (Cat) (Felis silvestris catus) [9685]	843-848		
+SSVLND	1	A0A5F5XP03	A0A5F5XP03_FELCA [tr]	M-phase phosphoprotein 8	878	Felis catus (Cat) (Felis silvestris catus) [9685]	269-274		
+SSVLND	2	M3VYD3	M3VYD3_FELCA [tr]	M-phase phosphoprotein 8	862	Felis catus (Cat) (Felis silvestris catus) [9685]	269-274		
+SALLAG	1	A0A2I2UE59	A0A2I2UE59_FELCA [tr]	Sortilin related VPS10 domain containing receptor 1	1203	Felis catus (Cat) (Felis silvestris catus) [9685]	15-20		
+SALLAG	2	A0A337SVG5	A0A337SVG5_FELCA [tr]	Sortilin related VPS10 domain containing receptor 1	1168	Felis catus (Cat) (Felis silvestris catus) [9685]	15-20		
+SALLAG	3	A0A5F5XNE5	A0A5F5XNE5_FELCA [tr]	Abhydrolase domain containing 10, depalmitoylase	205	Felis catus (Cat) (Felis silvestris catus) [9685]	32-37		
+SALLAG	4	A0A5F5XNS5	A0A5F5XNS5_FELCA [tr]	Sortilin related VPS10 domain containing receptor 1	1141	Felis catus (Cat) (Felis silvestris catus) [9685]	15-20		
+SALLAG	5	A0A5F5Y4B9	A0A5F5Y4B9_FELCA [tr]	Sortilin related VPS10 domain containing receptor 1	1179	Felis catus (Cat) (Felis silvestris catus) [9685]	15-20		
+SALLAG	6	M3VZ25	M3VZ25_FELCA [tr]	Solute carrier family 27 member 3	816	Felis catus (Cat) (Felis silvestris catus) [9685]	807-812		
+SALLAG	7	M3X2J4	M3X2J4_FELCA [tr]	Abhydrolase domain containing 10, depalmitoylase	375	Felis catus (Cat) (Felis silvestris catus) [9685]	101-106		
+IAARDL	1	A0A5F5XLC6	A0A5F5XLC6_FELCA [tr]	Plakophilin 3	841	Felis catus (Cat) (Felis silvestris catus) [9685]	818-823		
+IAARDL	2	M3W7Z1	M3W7Z1_FELCA [tr]	Plakophilin 3	795	Felis catus (Cat) (Felis silvestris catus) [9685]	732-737		
+EVAKNL	1	A0A337S1F4	A0A337S1F4_FELCA [tr]	Ectonucleoside triphosphate diphosphohydrolase 4	632	Felis catus (Cat) (Felis silvestris catus) [9685]	296-301		
+EVAKNL	2	A0A337S8L9	A0A337S8L9_FELCA [tr]	Ectonucleoside triphosphate diphosphohydrolase 4	625	Felis catus (Cat) (Felis silvestris catus) [9685]	307-312		
+EVAKNL	3	A0A5F5XJI7	A0A5F5XJI7_FELCA [tr]	Ectonucleoside triphosphate diphosphohydrolase 4	614	Felis catus (Cat) (Felis silvestris catus) [9685]	296-301		
+EVAKNL	4	A0A5F5XMS3	A0A5F5XMS3_FELCA [tr]	Ubiquitin like modifier activating enzyme 7	981	Felis catus (Cat) (Felis silvestris catus) [9685]	46-51		
+EVAKNL	5	G3XKQ8	G3XKQ8_FELCA [tr]	Ubiquitin-activating enzyme E1-like protein	1012	Felis catus (Cat) (Felis silvestris catus) [9685]	46-51		
+EVAKNL	6	M3W410	M3W410_FELCA [tr]	Ectonucleoside triphosphate diphosphohydrolase 4	570	Felis catus (Cat) (Felis silvestris catus) [9685]	288-293		
+EVAKNL	7	M3WDQ3	M3WDQ3_FELCA [tr]	Ubiquitin like modifier activating enzyme 7	1012	Felis catus (Cat) (Felis silvestris catus) [9685]	46-51		
+STASAL	1	A0A2I2U4A9	A0A2I2U4A9_FELCA [tr]	40S ribosomal protein S13	151	Felis catus (Cat) (Felis silvestris catus) [9685]	144-149		
+STASAL	2	A0A5F5XK91	A0A5F5XK91_FELCA [tr]	40S ribosomal protein S13	195	Felis catus (Cat) (Felis silvestris catus) [9685]	188-193		
+STASAL	3	M3W6R3	M3W6R3_FELCA [tr]	HECT-type E3 ubiquitin transferase	4374	Felis catus (Cat) (Felis silvestris catus) [9685]	1100-1105		
+STASAL	4	M3WLB4	M3WLB4_FELCA [tr]	Nuclear RNA export factor 1	618	Felis catus (Cat) (Felis silvestris catus) [9685]	166-171		
+GVLTES	1	A0A2I2V0W9	A0A2I2V0W9_FELCA [tr]	Vacuolar protein sorting 13 homolog B	3994	Felis catus (Cat) (Felis silvestris catus) [9685]	1629-1634		
+GVLTES	2	M3WEE0	M3WEE0_FELCA [tr]	Vacuolar protein sorting 13 homolog B	4019	Felis catus (Cat) (Felis silvestris catus) [9685]	1654-1659		
+SSVLHS	1	A0A2I2U1M7	A0A2I2U1M7_FELCA [tr]	FYVE, RhoGEF and PH domain containing 6	1423	Felis catus (Cat) (Felis silvestris catus) [9685]	1298-1303		
+SSVLHS	2	A0A5F5XL88	A0A5F5XL88_FELCA [tr]	FYVE, RhoGEF and PH domain containing 6	1380	Felis catus (Cat) (Felis silvestris catus) [9685]	1298-1303		
+SSVLHS	3	A0A5F5XQM0	A0A5F5XQM0_FELCA [tr]	FYVE, RhoGEF and PH domain containing 6	1339	Felis catus (Cat) (Felis silvestris catus) [9685]	1298-1303		
+SSVLHS	4	A0A5F5XRZ0	A0A5F5XRZ0_FELCA [tr]	FYVE, RhoGEF and PH domain containing 6	1406	Felis catus (Cat) (Felis silvestris catus) [9685]	1281-1286		
+SSVLHS	5	A0A5F5Y029	A0A5F5Y029_FELCA [tr]	FYVE, RhoGEF and PH domain containing 6	1400	Felis catus (Cat) (Felis silvestris catus) [9685]	1275-1280		
+SSVLHS	6	A0A5F5Y6C8	A0A5F5Y6C8_FELCA [tr]	FYVE, RhoGEF and PH domain containing 6	1390	Felis catus (Cat) (Felis silvestris catus) [9685]	1265-1270		
+SPRRAR	1	A0A2I2UBM8	A0A2I2UBM8_FELCA [tr]	Zinc finger protein 462	2503	Felis catus (Cat) (Felis silvestris catus) [9685]	171-176		
+SPRRAR	2	A0A337S6N2	A0A337S6N2_FELCA [tr]	GRB2 associated regulator of MAPK1 subtype 2	869	Felis catus (Cat) (Felis silvestris catus) [9685]	372-377		
+SPRRAR	3	A0A337SPY8	A0A337SPY8_FELCA [tr]	NTR domain-containing protein	352	Felis catus (Cat) (Felis silvestris catus) [9685]	121-126		
+SPRRAR	4	A0A5F5XF09	A0A5F5XF09_FELCA [tr]	NIPA like domain containing 2	610	Felis catus (Cat) (Felis silvestris catus) [9685]	86-91		
+SPRRAR	5	A0A5F5XG96	A0A5F5XG96_FELCA [tr]	NTR domain-containing protein	460	Felis catus (Cat) (Felis silvestris catus) [9685]	245-250		
+SPRRAR	6	A0A5F5XGG4	A0A5F5XGG4_FELCA [tr]	Uncharacterized protein	410	Felis catus (Cat) (Felis silvestris catus) [9685]	121-126		
+SPRRAR	7	A0A5F5XI00	A0A5F5XI00_FELCA [tr]	Uncharacterized protein	399	Felis catus (Cat) (Felis silvestris catus) [9685]	110-115		
+SPRRAR	8	A0A5F5XZ35	A0A5F5XZ35_FELCA [tr]	Uncharacterized protein	451	Felis catus (Cat) (Felis silvestris catus) [9685]	162-167		
+SPRRAR	9	A0A5F5XZ46	A0A5F5XZ46_FELCA [tr]	Uncharacterized protein	460	Felis catus (Cat) (Felis silvestris catus) [9685]	171-176		
+SPRRAR	10	A0A5F5Y389	A0A5F5Y389_FELCA [tr]	Uncharacterized protein	458	Felis catus (Cat) (Felis silvestris catus) [9685]	169-174		
+SPRRAR	11	A0A5F5Y3E8	A0A5F5Y3E8_FELCA [tr]	Uncharacterized protein	534	Felis catus (Cat) (Felis silvestris catus) [9685]	245-250		
+SPRRAR	12	M3W1T5	M3W1T5_FELCA [tr]	Zinc finger protein 462	2471	Felis catus (Cat) (Felis silvestris catus) [9685]	171-176		
+KRSFIE	1	M3WEI4	M3WEI4_FELCA [tr]	Tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1	1864	Felis catus (Cat) (Felis silvestris catus) [9685]	1856-1861		
+LSSNFG	1	A0A2I2UY10	A0A2I2UY10_FELCA [tr]	Replication timing regulatory factor 1	2453	Felis catus (Cat) (Felis silvestris catus) [9685]	413-418		
+LSSNFG	2	M3WQB4	M3WQB4_FELCA [tr]	Replication timing regulatory factor 1	2479	Felis catus (Cat) (Felis silvestris catus) [9685]	413-418		
+ARSVAS	1	A0A5F5XKB4	A0A5F5XKB4_FELCA [tr]	Ubiquilin-3-like	539	Felis catus (Cat) (Felis silvestris catus) [9685]	295-300		
+AYRFNG	1	A0A5F5XDK1	A0A5F5XDK1_FELCA [tr]	AT-hook containing transcription factor 1	2239	Felis catus (Cat) (Felis silvestris catus) [9685]	66-71		
+AYRFNG	2	A0A5F5XFP4	A0A5F5XFP4_FELCA [tr]	AT-hook containing transcription factor 1	2286	Felis catus (Cat) (Felis silvestris catus) [9685]	66-71		
+AYRFNG	3	A0A5F5XM67	A0A5F5XM67_FELCA [tr]	AT-hook containing transcription factor 1	2196	Felis catus (Cat) (Felis silvestris catus) [9685]	66-71		
+AYRFNG	4	A0A5F5XU82	A0A5F5XU82_FELCA [tr]	AT-hook containing transcription factor 1	2361	Felis catus (Cat) (Felis silvestris catus) [9685]	66-71		
+AYRFNG	5	M3WKM7	M3WKM7_FELCA [tr]	AT-hook containing transcription factor 1	2321	Felis catus (Cat) (Felis silvestris catus) [9685]	66-71		
+LSRLDK	1	M3W874	M3W874_FELCA [tr]	Occludin	521	Felis catus (Cat) (Felis silvestris catus) [9685]	456-461		
+LSRLDK	2	M3WBL4	M3WBL4_FELCA [tr]	4'-phosphopantetheine phosphatase	771	Felis catus (Cat) (Felis silvestris catus) [9685]	700-705		
+SFPQSA	1	M3WNT5	M3WNT5_FELCA [tr]	Leucine rich repeats and IQ motif containing 3	265	Felis catus (Cat) (Felis silvestris catus) [9685]	249-254		
+GKIQDS	1	A0A2I2UHD0	A0A2I2UHD0_FELCA [tr]	Acyl-CoA synthetase long chain family member 5	661	Felis catus (Cat) (Felis silvestris catus) [9685]	381-386		
+GKIQDS	2	A0A5F5XEA2	A0A5F5XEA2_FELCA [tr]	Acyl-CoA synthetase long chain family member 5	670	Felis catus (Cat) (Felis silvestris catus) [9685]	390-395		
+GKIQDS	3	A0A5F5XEF8	A0A5F5XEF8_FELCA [tr]	Acyl-CoA synthetase long chain family member 5	650	Felis catus (Cat) (Felis silvestris catus) [9685]	389-394		
+GKIQDS	4	A0A5F5XN56	A0A5F5XN56_FELCA [tr]	Acyl-CoA synthetase long chain family member 5	521	Felis catus (Cat) (Felis silvestris catus) [9685]	262-267		
+GKIQDS	5	A0A5F5XQB3	A0A5F5XQB3_FELCA [tr]	Acyl-CoA synthetase long chain family member 5	571	Felis catus (Cat) (Felis silvestris catus) [9685]	291-296		
+GKIQDS	6	A0A5F5XZQ0	A0A5F5XZQ0_FELCA [tr]	Acyl-CoA synthetase long chain family member 5	603	Felis catus (Cat) (Felis silvestris catus) [9685]	389-394		
+GKIQDS	7	A0A5F5Y2V4	A0A5F5Y2V4_FELCA [tr]	Acyl-CoA synthetase long chain family member 5	538	Felis catus (Cat) (Felis silvestris catus) [9685]	258-263		
+GKIQDS	8	A0A5F5Y4D1	A0A5F5Y4D1_FELCA [tr]	Acyl-CoA synthetase long chain family member 5	584	Felis catus (Cat) (Felis silvestris catus) [9685]	304-309		
+GKIQDS	9	A0A5F5Y6A3	A0A5F5Y6A3_FELCA [tr]	Acyl-CoA synthetase long chain family member 5	574	Felis catus (Cat) (Felis silvestris catus) [9685]	294-299		
+GKIQDS	10	M3VZW9	M3VZW9_FELCA [tr]	Acyl-CoA synthetase long chain family member 5	656	Felis catus (Cat) (Felis silvestris catus) [9685]	376-381		
+LADAGF	1	A0A337SEA4	A0A337SEA4_FELCA [tr]	Lipase	399	Felis catus (Cat) (Felis silvestris catus) [9685]	120-125		
+LADAGF	2	A0A5F5XEJ9	A0A5F5XEJ9_FELCA [tr]	Lipase	407	Felis catus (Cat) (Felis silvestris catus) [9685]	104-109		
+LADAGF	3	M3W798	M3W798_FELCA [tr]	Lipase	415	Felis catus (Cat) (Felis silvestris catus) [9685]	112-117		
+MTKTSV	1	A0A5F5Y027	A0A5F5Y027_FELCA [tr]	WASH complex subunit 4	1239	Felis catus (Cat) (Felis silvestris catus) [9685]	571-576		
+MTKTSV	2	M3VWP4	M3VWP4_FELCA [tr]	WASH complex subunit 4	1173	Felis catus (Cat) (Felis silvestris catus) [9685]	469-474		
+RRARSV	1	A0A5F5XDA7	A0A5F5XDA7_FELCA [tr]	Apoptosis inducing factor mitochondria associated 2	491	Felis catus (Cat) (Felis silvestris catus) [9685]	258-263		
+RRARSV	2	A0A5F5XXY9	A0A5F5XXY9_FELCA [tr]	Apoptosis inducing factor mitochondria associated 2	404	Felis catus (Cat) (Felis silvestris catus) [9685]	140-145		
+RRARSV	3	M3VW88	M3VW88_FELCA [tr]	Apoptosis inducing factor mitochondria associated 2	373	Felis catus (Cat) (Felis silvestris catus) [9685]	140-145		
+SGINAS	1	A0A5F5XRA1	A0A5F5XRA1_FELCA [tr]	SH3 domain-containing protein	2672	Felis catus (Cat) (Felis silvestris catus) [9685]	779-784		
+SGINAS	2	A0A5F5XXR5	A0A5F5XXR5_FELCA [tr]	SH3 domain-containing protein	2636	Felis catus (Cat) (Felis silvestris catus) [9685]	682-687		
+SGINAS	3	A0A5F5Y3Y7	A0A5F5Y3Y7_FELCA [tr]	SH3 domain-containing protein	2870	Felis catus (Cat) (Felis silvestris catus) [9685]	947-952		
+SGINAS	4	M3WZB1	M3WZB1_FELCA [tr]	Corepressor interacting with RBPJ, CIR1	471	Felis catus (Cat) (Felis silvestris catus) [9685]	149-154		
+DAVDCA	1	A0A2I2V4P1	A0A2I2V4P1_FELCA [tr]	Dynein light chain	89	Felis catus (Cat) (Felis silvestris catus) [9685]	20-25		
+DAVDCA	2	A0A5F5XUC4	A0A5F5XUC4_FELCA [tr]	Armadillo repeat containing X-linked 4	2655	Felis catus (Cat) (Felis silvestris catus) [9685]	788-793		
+IDRLNE	1	A0A337RU36	A0A337RU36_FELCA [tr]	SET nuclear proto-oncogene	269	Felis catus (Cat) (Felis silvestris catus) [9685]	35-40		
+IDRLNE	2	A0A337SUX6	A0A337SUX6_FELCA [tr]	SET nuclear proto-oncogene	276	Felis catus (Cat) (Felis silvestris catus) [9685]	42-47		
+IDRLNE	3	A0A5F5XDZ6	A0A5F5XDZ6_FELCA [tr]	Protein SET	272	Felis catus (Cat) (Felis silvestris catus) [9685]	54-59		
+IDRLNE	4	M3W4T8	M3W4T8_FELCA [tr]	SET nuclear proto-oncogene	288	Felis catus (Cat) (Felis silvestris catus) [9685]	54-59		
+LPPLLT	1	A0A5F5XJX0	A0A5F5XJX0_FELCA [tr]	Tudor domain containing 12	1317	Felis catus (Cat) (Felis silvestris catus) [9685]	471-476		
+GAALQI	1	A0A5F5XD73	A0A5F5XD73_FELCA [tr]	Phosphatidylethanolamine binding protein 1	226	Felis catus (Cat) (Felis silvestris catus) [9685]	212-217		
+LLFNKV	1	A0A337SEE0	A0A337SEE0_FELCA [tr]	Surfeit 6	407	Felis catus (Cat) (Felis silvestris catus) [9685]	192-197		
+FFSNVT	1	M3WJB9	M3WJB9_FELCA [tr]	Sialic acid-binding Ig-like lectin 14	391	Felis catus (Cat) (Felis silvestris catus) [9685]	241-246		
+VYDPLQ	1	A0A337SQ74	A0A337SQ74_FELCA [tr]	Insulin growth factor-like family member 3	116	Felis catus (Cat) (Felis silvestris catus) [9685]	47-52		
+NSASFS	1	A0A2I2UA41	A0A2I2UA41_FELCA [tr]	Neuron navigator 1	1949	Felis catus (Cat) (Felis silvestris catus) [9685]	984-989		
+NSASFS	2	A0A2I2UZ71	A0A2I2UZ71_FELCA [tr]	Neuron navigator 1	1482	Felis catus (Cat) (Felis silvestris catus) [9685]	460-465		
+NSASFS	3	A0A5F5XLL4	A0A5F5XLL4_FELCA [tr]	Neuron navigator 1	2025	Felis catus (Cat) (Felis silvestris catus) [9685]	1011-1016		
+NSASFS	4	A0A5F5XW58	A0A5F5XW58_FELCA [tr]	Neuron navigator 1	2033	Felis catus (Cat) (Felis silvestris catus) [9685]	1011-1016		
+NSASFS	5	M3VUS2	M3VUS2_FELCA [tr]	Neuron navigator 1	1877	Felis catus (Cat) (Felis silvestris catus) [9685]	852-857		
+SKRSFI	1	M3WNK9	M3WNK9_FELCA [tr]	Gamma-aminobutyric acid type A receptor subunit rho3	493	Felis catus (Cat) (Felis silvestris catus) [9685]	174-179		
+SKRSFI	2	M3XEV9	M3XEV9_FELCA [tr]	GABA(C) receptor	462	Felis catus (Cat) (Felis silvestris catus) [9685]	146-151		
+LLALHR	1	A0A2I2UA10	A0A2I2UA10_FELCA [tr]	Myosin XVB	1432	Felis catus (Cat) (Felis silvestris catus) [9685]	302-307		
+LLALHR	2	A0A5F5XG37	A0A5F5XG37_FELCA [tr]	Myosin XVB	1374	Felis catus (Cat) (Felis silvestris catus) [9685]	288-293		
+LLALHR	3	A0A5F5XT94	A0A5F5XT94_FELCA [tr]	Myosin XVB	1461	Felis catus (Cat) (Felis silvestris catus) [9685]	1245-1250		
+LLALHR	4	A0A5F5XV81	A0A5F5XV81_FELCA [tr]	Apoptosis associated tyrosine kinase	1411	Felis catus (Cat) (Felis silvestris catus) [9685]	1374-1379		
+LLALHR	5	A0A5F5XXT9	A0A5F5XXT9_FELCA [tr]	Myosin XVB	2846	Felis catus (Cat) (Felis silvestris catus) [9685]	1262-1267		
+LLALHR	6	M3W2S1	M3W2S1_FELCA [tr]	Sidekick cell adhesion molecule 2	2174	Felis catus (Cat) (Felis silvestris catus) [9685]	9-14		
+LLALHR	7	M3X3X8	M3X3X8_FELCA [tr]	Apoptosis associated tyrosine kinase	1414	Felis catus (Cat) (Felis silvestris catus) [9685]	1377-1382		
+TQDLFL	1	A0A2I2UDU9	A0A2I2UDU9_FELCA [tr]	Ring finger protein 213	5273	Felis catus (Cat) (Felis silvestris catus) [9685]	2796-2801		
+TQDLFL	2	A0A5F5XM73	A0A5F5XM73_FELCA [tr]	Ring finger protein 213	5223	Felis catus (Cat) (Felis silvestris catus) [9685]	2746-2751		
+TQDLFL	3	M3VVP9	M3VVP9_FELCA [tr]	Ring finger protein 213	5225	Felis catus (Cat) (Felis silvestris catus) [9685]	2748-2753		
+VVLSFE	1	A0A5F5XWR4	A0A5F5XWR4_FELCA [tr]	CST complex subunit CTC1	1188	Felis catus (Cat) (Felis silvestris catus) [9685]	1126-1131		
+VVLSFE	2	M3VX21	M3VX21_FELCA [tr]	CST complex subunit CTC1	1218	Felis catus (Cat) (Felis silvestris catus) [9685]	1156-1161		
+TAGAAA	1	A0A2I2URI4	A0A2I2URI4_FELCA [tr]	Cache domain containing 1	1290	Felis catus (Cat) (Felis silvestris catus) [9685]	10-15		
+TAGAAA	2	A0A5F5XJY9	A0A5F5XJY9_FELCA [tr]	Long-chain-fatty-acid--CoA ligase ACSBG2	483	Felis catus (Cat) (Felis silvestris catus) [9685]	64-69		
+TAGAAA	3	A0A5F5XS55	A0A5F5XS55_FELCA [tr]	Aspartylglucosaminidase	326	Felis catus (Cat) (Felis silvestris catus) [9685]	250-255		
+TAGAAA	4	M3WH29	M3WH29_FELCA [tr]	Long-chain-fatty-acid--CoA ligase ACSBG2	671	Felis catus (Cat) (Felis silvestris catus) [9685]	252-257		
+TAGAAA	5	M3X0F1	M3X0F1_FELCA [tr]	Aspartylglucosaminidase	346	Felis catus (Cat) (Felis silvestris catus) [9685]	250-255		
+AYSNNS	1	A0A5F5XE10	A0A5F5XE10_FELCA [tr]	Milk fat globule EGF and factor V/VIII domain containing	388	Felis catus (Cat) (Felis silvestris catus) [9685]	323-328		
+AYSNNS	2	A0A5F5Y4V5	A0A5F5Y4V5_FELCA [tr]	Milk fat globule EGF and factor V/VIII domain containing	344	Felis catus (Cat) (Felis silvestris catus) [9685]	279-284		
+AYSNNS	3	M3W678	M3W678_FELCA [tr]	Milk fat globule EGF and factor V/VIII domain containing	430	Felis catus (Cat) (Felis silvestris catus) [9685]	365-370		
+ESEFRV	1	A0A2I2UQK8	A0A2I2UQK8_FELCA [tr]	PML nuclear body scaffold	830	Felis catus (Cat) (Felis silvestris catus) [9685]	585-590		
+ESEFRV	2	M3VZQ0	M3VZQ0_FELCA [tr]	PML nuclear body scaffold	876	Felis catus (Cat) (Felis silvestris catus) [9685]	631-636		
+LDSKTQ	1	A0A337RY17	A0A337RY17_FELCA [tr]	C-type lectin domain family 4 member F	609	Felis catus (Cat) (Felis silvestris catus) [9685]	410-415		
+LDSKTQ	2	A0A5F5Y151	A0A5F5Y151_FELCA [tr]	C-type lectin domain family 4 member F	570	Felis catus (Cat) (Felis silvestris catus) [9685]	371-376		
+LDSKTQ	3	M3WXH4	M3WXH4_FELCA [tr]	C-type lectin domain family 4 member F	566	Felis catus (Cat) (Felis silvestris catus) [9685]	410-415		
+IYKTPP	1	A0A2I2UGM1	A0A2I2UGM1_FELCA [tr]	BCL6 corepressor	1802	Felis catus (Cat) (Felis silvestris catus) [9685]	148-153		
+IYKTPP	2	A0A337S9Z2	A0A337S9Z2_FELCA [tr]	BCL6 corepressor	1799	Felis catus (Cat) (Felis silvestris catus) [9685]	148-153		
+IYKTPP	3	A0A5F5XCG1	A0A5F5XCG1_FELCA [tr]	BCL6 corepressor	1759	Felis catus (Cat) (Felis silvestris catus) [9685]	148-153		
+IYKTPP	4	A0A5F5XF71	A0A5F5XF71_FELCA [tr]	BCL6 corepressor	1778	Felis catus (Cat) (Felis silvestris catus) [9685]	148-153		
+IYKTPP	5	M3W2Z6	M3W2Z6_FELCA [tr]	BCL6 corepressor	1765	Felis catus (Cat) (Felis silvestris catus) [9685]	148-153		
+LNEVAK	1	A0A337S4Y7	A0A337S4Y7_FELCA [tr]	Apoptosis inducing factor mitochondria associated 1	326	Felis catus (Cat) (Felis silvestris catus) [9685]	314-319		
+LNEVAK	2	A0A337SKT2	A0A337SKT2_FELCA [tr]	Apoptosis inducing factor mitochondria associated 1	609	Felis catus (Cat) (Felis silvestris catus) [9685]	597-602		
+LNEVAK	3	K7ZRL2	K7ZRL2_FELCA [tr]	Tripartite motif 8	551	Felis catus (Cat) (Felis silvestris catus) [9685]	334-339		
+LNEVAK	4	M3W9M2	M3W9M2_FELCA [tr]	Apoptosis inducing factor mitochondria associated 1	613	Felis catus (Cat) (Felis silvestris catus) [9685]	601-606		
+LNEVAK	5	M3WQP2	M3WQP2_FELCA [tr]	Tripartite motif containing 8	510	Felis catus (Cat) (Felis silvestris catus) [9685]	293-298		
+LNEVAK	6	Q005U5	Q005U5_FELCA [tr]	PDCD8 (Fragment)	587	Felis catus (Cat) (Felis silvestris catus) [9685]	575-580		
+KNLREF	1	A0A337RYK1	A0A337RYK1_FELCA [tr]	Laminin subunit gamma 2	1152	Felis catus (Cat) (Felis silvestris catus) [9685]	951-956		
+KNLREF	2	M3WDJ4	M3WDJ4_FELCA [tr]	Laminin subunit gamma 2	1191	Felis catus (Cat) (Felis silvestris catus) [9685]	951-956		
+IDLQEL	1	A0A5F5XBU3	A0A5F5XBU3_FELCA [tr]	Anaphase-promoting complex subunit 2	845	Felis catus (Cat) (Felis silvestris catus) [9685]	786-791		
+IDLQEL	2	A0A5F5XNB1	A0A5F5XNB1_FELCA [tr]	Anaphase-promoting complex subunit 2	989	Felis catus (Cat) (Felis silvestris catus) [9685]	930-935		
+IDLQEL	3	M3WCY6	M3WCY6_FELCA [tr]	Anaphase-promoting complex subunit 2	1031	Felis catus (Cat) (Felis silvestris catus) [9685]	930-935		
+AGAALQ	1	A0A5F5XD73	A0A5F5XD73_FELCA [tr]	Phosphatidylethanolamine binding protein 1	226	Felis catus (Cat) (Felis silvestris catus) [9685]	211-216		
+AGAALQ	2	M3W6S3	M3W6S3_FELCA [tr]	Kelch like family member 33	799	Felis catus (Cat) (Felis silvestris catus) [9685]	725-730		
+TRTQLP	1	A0A5F5XJU8	A0A5F5XJU8_FELCA [tr]	Transient receptor potential cation channel subfamily C member 4 associated protein	735	Felis catus (Cat) (Felis silvestris catus) [9685]	309-314		
+TRTQLP	2	A0A5F5XXJ7	A0A5F5XXJ7_FELCA [tr]	Transient receptor potential cation channel subfamily C member 4 associated protein	728	Felis catus (Cat) (Felis silvestris catus) [9685]	302-307		
+TRTQLP	3	M3VYA0	M3VYA0_FELCA [tr]	Transient receptor potential cation channel subfamily C member 4 associated protein	797	Felis catus (Cat) (Felis silvestris catus) [9685]	371-376		
+TRTQLP	4	M3XFE7	M3XFE7_FELCA [tr]	Bardet-Biedl syndrome 4	519	Felis catus (Cat) (Felis silvestris catus) [9685]	8-13		
+DPLQPE	1	A0A2I2V4E7	A0A2I2V4E7_FELCA [tr]	Growth arrest specific 2 like 2	879	Felis catus (Cat) (Felis silvestris catus) [9685]	869-874		
+GFIAGL	1	M3WUC4	M3WUC4_FELCA [tr]	Polyamine oxidase	510	Felis catus (Cat) (Felis silvestris catus) [9685]	382-387		
+TGIAVE	1	A0A5F5XCY7	A0A5F5XCY7_FELCA [tr]	Regulating synaptic membrane exocytosis 3	311	Felis catus (Cat) (Felis silvestris catus) [9685]	89-94		
+TGIAVE	2	A0A5F5Y582	A0A5F5Y582_FELCA [tr]	Regulating synaptic membrane exocytosis 3	293	Felis catus (Cat) (Felis silvestris catus) [9685]	89-94		
+TGIAVE	3	A0A5K1VMJ8	A0A5K1VMJ8_FELCA [tr]	URB2 ribosome biogenesis homolog	1521	Felis catus (Cat) (Felis silvestris catus) [9685]	635-640		
+TGIAVE	4	M3VZD5	M3VZD5_FELCA [tr]	Regulating synaptic membrane exocytosis 3	308	Felis catus (Cat) (Felis silvestris catus) [9685]	89-94		
+TGIAVE	5	M3W848	M3W848_FELCA [tr]	URB2 ribosome biogenesis homolog	1484	Felis catus (Cat) (Felis silvestris catus) [9685]	635-640		
+TTDNTF	1	A0A2I2UUK2	A0A2I2UUK2_FELCA [tr]	HAUS augmin like complex subunit 1	123	Felis catus (Cat) (Felis silvestris catus) [9685]	97-102		
+ESLIDL	1	M3VUQ0	M3VUQ0_FELCA [tr]	Zinc finger BED-type containing 5	694	Felis catus (Cat) (Felis silvestris catus) [9685]	594-599		
+LGFIAG	1	A0A5F5XEZ2	A0A5F5XEZ2_FELCA [tr]	Tubulin-specific chaperone E	279	Felis catus (Cat) (Felis silvestris catus) [9685]	248-253		
+SNFRVQ	1	A0A337S8S2	A0A337S8S2_FELCA [tr]	CDK-activating kinase assembly factor MAT1	267	Felis catus (Cat) (Felis silvestris catus) [9685]	56-61		
+SNFRVQ	2	M3X1W4	M3X1W4_FELCA [tr]	CDK-activating kinase assembly factor MAT1	309	Felis catus (Cat) (Felis silvestris catus) [9685]	56-61		
+RLQSLQ	1	A0A337SBB8	A0A337SBB8_FELCA [tr]	Protein-serine/threonine kinase	412	Felis catus (Cat) (Felis silvestris catus) [9685]	385-390		
+RLQSLQ	2	A0A5F5XVX4	A0A5F5XVX4_FELCA [tr]	Polycystin 1, transient receptor potential channel interacting	4299	Felis catus (Cat) (Felis silvestris catus) [9685]	4243-4248		
+RLQSLQ	3	A0A5F5Y430	A0A5F5Y430_FELCA [tr]	Polycystin 1, transient receptor potential channel interacting	4270	Felis catus (Cat) (Felis silvestris catus) [9685]	4214-4219		
+RLQSLQ	4	B1PKW5	B1PKW5_FELCA [tr]	Polycystic kidney disease 1 (Fragment)	369	Felis catus (Cat) (Felis silvestris catus) [9685]	313-318		
+RLQSLQ	5	M3W2X0	M3W2X0_FELCA [tr]	Solute carrier family 25 member 22	323	Felis catus (Cat) (Felis silvestris catus) [9685]	252-257		
+LALHRS	1	A0A2I2UA10	A0A2I2UA10_FELCA [tr]	Myosin XVB	1432	Felis catus (Cat) (Felis silvestris catus) [9685]	303-308		
+LALHRS	2	A0A5F5XG37	A0A5F5XG37_FELCA [tr]	Myosin XVB	1374	Felis catus (Cat) (Felis silvestris catus) [9685]	289-294		
+LALHRS	3	A0A5F5XT94	A0A5F5XT94_FELCA [tr]	Myosin XVB	1461	Felis catus (Cat) (Felis silvestris catus) [9685]	1246-1251		
+LALHRS	4	A0A5F5XXT9	A0A5F5XXT9_FELCA [tr]	Myosin XVB	2846	Felis catus (Cat) (Felis silvestris catus) [9685]	1263-1268		
+GTTLDS	1	A0A337RZD5	A0A337RZD5_FELCA [tr]	Collagen type XIV alpha 1 chain	1739	Felis catus (Cat) (Felis silvestris catus) [9685]	711-716		
+GTTLDS	2	A0A5F5XEG5	A0A5F5XEG5_FELCA [tr]	Collagen type XIV alpha 1 chain	1781	Felis catus (Cat) (Felis silvestris catus) [9685]	711-716		
+GTTLDS	3	M3VWP6	M3VWP6_FELCA [tr]	Collagen type XIV alpha 1 chain	1797	Felis catus (Cat) (Felis silvestris catus) [9685]	711-716		
+NLAATK	1	A0A2I2UFY1	A0A2I2UFY1_FELCA [tr]	Crystallin beta-gamma domain containing 3	2978	Felis catus (Cat) (Felis silvestris catus) [9685]	522-527		
+NLAATK	2	A0A5F5XH26	A0A5F5XH26_FELCA [tr]	Glycine N-acyltransferase-like protein	295	Felis catus (Cat) (Felis silvestris catus) [9685]	116-121		
+NLAATK	3	A0A5F5XSH5	A0A5F5XSH5_FELCA [tr]	Glycine N-acyltransferase-like protein	295	Felis catus (Cat) (Felis silvestris catus) [9685]	116-121		
+NLAATK	4	A0A5F5Y6I4	A0A5F5Y6I4_FELCA [tr]	Crystallin beta-gamma domain containing 3	2870	Felis catus (Cat) (Felis silvestris catus) [9685]	467-472		
+NLAATK	5	A0A5F5Y7B2	A0A5F5Y7B2_FELCA [tr]	Glycine N-acyltransferase-like protein	363	Felis catus (Cat) (Felis silvestris catus) [9685]	184-189		
+NLAATK	6	M3W7I5	M3W7I5_FELCA [tr]	Crystallin beta-gamma domain containing 3	2967	Felis catus (Cat) (Felis silvestris catus) [9685]	522-527		
+NLAATK	7	M3WPY7	M3WPY7_FELCA [tr]	Glycine N-acyltransferase-like protein	361	Felis catus (Cat) (Felis silvestris catus) [9685]	182-187		
+NLAATK	8	M3WSA4	M3WSA4_FELCA [tr]	Crystallin beta-gamma domain containing 3	2911	Felis catus (Cat) (Felis silvestris catus) [9685]	467-472		
+SSGWTA	1	A0A5F5XKY8	A0A5F5XKY8_FELCA [tr]	BHLH domain-containing protein	262	Felis catus (Cat) (Felis silvestris catus) [9685]	139-144		
+SSGWTA	2	A0A5F5XXQ4	A0A5F5XXQ4_FELCA [tr]	Ankyrin repeat domain 24	1131	Felis catus (Cat) (Felis silvestris catus) [9685]	146-151		
+SSGWTA	3	M3X355	M3X355_FELCA [tr]	KIAA1109	4993	Felis catus (Cat) (Felis silvestris catus) [9685]	766-771		
+LLLQYG	1	A0A5F5XCP3	A0A5F5XCP3_FELCA [tr]	Palmitoyltransferase	582	Felis catus (Cat) (Felis silvestris catus) [9685]	134-139		
+LLLQYG	2	M3WDR7	M3WDR7_FELCA [tr]	Palmitoyltransferase	622	Felis catus (Cat) (Felis silvestris catus) [9685]	134-139		
+DLGDIS	1	A0A2I2V124	A0A2I2V124_FELCA [tr]	Tumor protein p53 binding protein 1	1927	Felis catus (Cat) (Felis silvestris catus) [9685]	1302-1307		
+DLGDIS	2	M3WYM9	M3WYM9_FELCA [tr]	Tumor protein p53 binding protein 1	1977	Felis catus (Cat) (Felis silvestris catus) [9685]	1302-1307		
+GAISSV	1	A0A337RUQ0	A0A337RUQ0_FELCA [tr]	SRY-box transcription factor 17	406	Felis catus (Cat) (Felis silvestris catus) [9685]	385-390		
+SCCSCL	1	A0A5F5XYS2	A0A5F5XYS2_FELCA [tr]	Cilia and flagella associated protein 45	625	Felis catus (Cat) (Felis silvestris catus) [9685]	600-605		
+SCCSCL	2	M3WL89	M3WL89_FELCA [tr]	Fibroblast growth factor receptor substrate 3	495	Felis catus (Cat) (Felis silvestris catus) [9685]	3-8		
+QTRAGC	1	A0A337SCF9	A0A337SCF9_FELCA [tr]	Proline rich 14 like	2146	Felis catus (Cat) (Felis silvestris catus) [9685]	1804-1809		
+PVLPFN	1	A0A337SNW7	A0A337SNW7_FELCA [tr]	N-acetylated alpha-linked acidic dipeptidase like 2	795	Felis catus (Cat) (Felis silvestris catus) [9685]	645-650		
+PVLPFN	2	A0A337SUL5	A0A337SUL5_FELCA [tr]	N-acetylated alpha-linked acidic dipeptidase like 2	786	Felis catus (Cat) (Felis silvestris catus) [9685]	636-641		
+PVLPFN	3	A0A5F5Y4S3	A0A5F5Y4S3_FELCA [tr]	N-acetylated alpha-linked acidic dipeptidase like 2	738	Felis catus (Cat) (Felis silvestris catus) [9685]	588-593		
+RFQTLL	1	A0A2I2U8U3	A0A2I2U8U3_FELCA [tr]	Dishevelled associated activator of morphogenesis 2	1067	Felis catus (Cat) (Felis silvestris catus) [9685]	252-257		
+RFQTLL	2	A0A2I2UN71	A0A2I2UN71_FELCA [tr]	Dishevelled associated activator of morphogenesis 2	1047	Felis catus (Cat) (Felis silvestris catus) [9685]	252-257		
+RFQTLL	3	M3W5V5	M3W5V5_FELCA [tr]	Dishevelled associated activator of morphogenesis 2	1075	Felis catus (Cat) (Felis silvestris catus) [9685]	252-257		
+QALNTL	1	A0A2I2U853	A0A2I2U853_FELCA [tr]	Armadillo repeat containing 12	367	Felis catus (Cat) (Felis silvestris catus) [9685]	156-161		
+QALNTL	2	A0A337RXY1	A0A337RXY1_FELCA [tr]	Taxilin gamma	591	Felis catus (Cat) (Felis silvestris catus) [9685]	144-149		
+QALNTL	3	A0A337S833	A0A337S833_FELCA [tr]	Taxilin gamma	520	Felis catus (Cat) (Felis silvestris catus) [9685]	144-149		
+QALNTL	4	A0A337S891	A0A337S891_FELCA [tr]	Mediator of RNA polymerase II transcription subunit 1	1583	Felis catus (Cat) (Felis silvestris catus) [9685]	901-906		
+QALNTL	5	A0A337SR85	A0A337SR85_FELCA [tr]	Taxilin gamma	543	Felis catus (Cat) (Felis silvestris catus) [9685]	144-149		
+QALNTL	6	A0A337SR89	A0A337SR89_FELCA [tr]	Solute carrier family 38 member 10	1032	Felis catus (Cat) (Felis silvestris catus) [9685]	245-250		
+QALNTL	7	A0A337SRH6	A0A337SRH6_FELCA [tr]	Solute carrier family 38 member 10	1089	Felis catus (Cat) (Felis silvestris catus) [9685]	294-299		
+QALNTL	8	A0A5F5XD07	A0A5F5XD07_FELCA [tr]	Taxilin gamma	551	Felis catus (Cat) (Felis silvestris catus) [9685]	144-149		
+QALNTL	9	A0A5F5XS83	A0A5F5XS83_FELCA [tr]	Taxilin gamma	495	Felis catus (Cat) (Felis silvestris catus) [9685]	144-149		
+QALNTL	10	M3W622	M3W622_FELCA [tr]	Taxilin gamma	531	Felis catus (Cat) (Felis silvestris catus) [9685]	144-149		
+QALNTL	11	M3W7Y8	M3W7Y8_FELCA [tr]	Solute carrier family 38 member 10	1040	Felis catus (Cat) (Felis silvestris catus) [9685]	245-250		
+CSNLLL	1	A0A5F5XH33	A0A5F5XH33_FELCA [tr]	Reverse transcriptase domain-containing protein	740	Felis catus (Cat) (Felis silvestris catus) [9685]	455-460		
+TPPIKD	1	A0A2I2UZX4	A0A2I2UZX4_FELCA [tr]	Splicing factor 3b subunit 1	1308	Felis catus (Cat) (Felis silvestris catus) [9685]	1014-1019		
+TPPIKD	2	M3W3C6	M3W3C6_FELCA [tr]	Splicing factor 3b subunit 1	1304	Felis catus (Cat) (Felis silvestris catus) [9685]	1010-1015		
+TASALG	1	M3VXW8	M3VXW8_FELCA [tr]	Cadherin EGF LAG seven-pass G-type receptor 3	3427	Felis catus (Cat) (Felis silvestris catus) [9685]	3394-3399		
+TASALG	2	M3W3D6	M3W3D6_FELCA [tr]	RCR-type E3 ubiquitin transferase	4675	Felis catus (Cat) (Felis silvestris catus) [9685]	1704-1709		
+TASALG	3	M3W4A0	M3W4A0_FELCA [tr]	Transcription factor-like 1	364	Felis catus (Cat) (Felis silvestris catus) [9685]	335-340		
+TASALG	4	M3WCK9	M3WCK9_FELCA [tr]	Zinc finger protein 503	651	Felis catus (Cat) (Felis silvestris catus) [9685]	644-649		
+VKQIYK	1	A0A2I2V000	A0A2I2V000_FELCA [tr]	Transformation/transcription domain associated protein	3847	Felis catus (Cat) (Felis silvestris catus) [9685]	158-163		
+VKQIYK	2	A0A5F5XDL6	A0A5F5XDL6_FELCA [tr]	Transformation/transcription domain associated protein	3872	Felis catus (Cat) (Felis silvestris catus) [9685]	158-163		
+VKQIYK	3	M3WLV3	M3WLV3_FELCA [tr]	Transformation/transcription domain associated protein	3865	Felis catus (Cat) (Felis silvestris catus) [9685]	158-163		
+TGTGVL	1	A0A337SFV6	A0A337SFV6_FELCA [tr]	SEL1L2 adaptor subunit of ERAD E3 ligase	575	Felis catus (Cat) (Felis silvestris catus) [9685]	455-460		
+TGTGVL	2	A0A5F5Y2Q7	A0A5F5Y2Q7_FELCA [tr]	SEL1L2 adaptor subunit of ERAD E3 ligase	445	Felis catus (Cat) (Felis silvestris catus) [9685]	324-329		
+TGTGVL	3	M3VVN0	M3VVN0_FELCA [tr]	SEL1L2 adaptor subunit of ERAD E3 ligase	685	Felis catus (Cat) (Felis silvestris catus) [9685]	451-456		
+ISSVLN	1	A0A2I2U7R0	A0A2I2U7R0_FELCA [tr]	UTP--glucose-1-phosphate uridylyltransferase	508	Felis catus (Cat) (Felis silvestris catus) [9685]	101-106		
+ISSVLN	2	A0A337RXP4	A0A337RXP4_FELCA [tr]	UTP--glucose-1-phosphate uridylyltransferase	485	Felis catus (Cat) (Felis silvestris catus) [9685]	78-83		
+ISSVLN	3	M3WNV6	M3WNV6_FELCA [tr]	UTP--glucose-1-phosphate uridylyltransferase	517	Felis catus (Cat) (Felis silvestris catus) [9685]	110-115		
+LTESNK	1	M3WBK9	M3WBK9_FELCA [tr]	Potassium voltage-gated channel subfamily B member 1	857	Felis catus (Cat) (Felis silvestris catus) [9685]	279-284		
+LTESNK	2	M3WH41	M3WH41_FELCA [tr]	Potassium voltage-gated channel subfamily B member 2	911	Felis catus (Cat) (Felis silvestris catus) [9685]	283-288		
+ALDPLS	1	A0A2I2U6K7	A0A2I2U6K7_FELCA [tr]	Spalt like transcription factor 3	1331	Felis catus (Cat) (Felis silvestris catus) [9685]	406-411		
+ALDPLS	2	A0A2I2UEA5	A0A2I2UEA5_FELCA [tr]	Spalt like transcription factor 3	1259	Felis catus (Cat) (Felis silvestris catus) [9685]	406-411		
+ALDPLS	3	M3XC42	M3XC42_FELCA [tr]	Spalt like transcription factor 3	1308	Felis catus (Cat) (Felis silvestris catus) [9685]	406-411		
+TLEILD	1	A0A337SAI4	A0A337SAI4_FELCA [tr]	Titin	26916	Felis catus (Cat) (Felis silvestris catus) [9685]	25920-25925		
+TLEILD	2	A0A337SBS9	A0A337SBS9_FELCA [tr]	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	1138	Felis catus (Cat) (Felis silvestris catus) [9685]	902-907		
+TLEILD	3	A0A337SRE2	A0A337SRE2_FELCA [tr]	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	1455	Felis catus (Cat) (Felis silvestris catus) [9685]	1208-1213		
+TLEILD	4	A0A337SXB6	A0A337SXB6_FELCA [tr]	Titin	27041	Felis catus (Cat) (Felis silvestris catus) [9685]	26045-26050		
+TLEILD	5	A0A5F5XCP9	A0A5F5XCP9_FELCA [tr]	Titin	27108	Felis catus (Cat) (Felis silvestris catus) [9685]	26112-26117		
+TLEILD	6	A0A5F5XUP9	A0A5F5XUP9_FELCA [tr]	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	1210	Felis catus (Cat) (Felis silvestris catus) [9685]	963-968		
+TLEILD	7	M3WGM7	M3WGM7_FELCA [tr]	NLR family CARD domain containing 3	1060	Felis catus (Cat) (Felis silvestris catus) [9685]	970-975		
+TLEILD	8	M3WIE0	M3WIE0_FELCA [tr]	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	1199	Felis catus (Cat) (Felis silvestris catus) [9685]	963-968		
+TLEILD	9	M3X0I5	M3X0I5_FELCA [tr]	Toll-like receptor 2	784	Felis catus (Cat) (Felis silvestris catus) [9685]	458-463		
+TLEILD	10	Q66WK0	Q66WK0_FELCA [tr]	Toll-like receptor 2 (Fragment)	259	Felis catus (Cat) (Felis silvestris catus) [9685]	55-60		
+GLIAIV	1	A0A2I2U4J2	A0A2I2U4J2_FELCA [tr]	Proline rich transmembrane protein 1B	266	Felis catus (Cat) (Felis silvestris catus) [9685]	208-213		
+TNFTIS	1	M3WLX7	M3WLX7_FELCA [tr]	Heart development protein with EGF like domains 1	1374	Felis catus (Cat) (Felis silvestris catus) [9685]	182-187		
+GCLIGA	1	A0A337SEF1	A0A337SEF1_FELCA [tr]	Junctional adhesion molecule 3	259	Felis catus (Cat) (Felis silvestris catus) [9685]	26-31		
+GCLIGA	2	A0A5F5XX70	A0A5F5XX70_FELCA [tr]	Junctional adhesion molecule 3	297	Felis catus (Cat) (Felis silvestris catus) [9685]	13-18		
+GCLIGA	3	M3XF23	M3XF23_FELCA [tr]	Junctional adhesion molecule 3	310	Felis catus (Cat) (Felis silvestris catus) [9685]	26-31		
+VSNGTH	1	A0A337SIK5	A0A337SIK5_FELCA [tr]	Oncoprotein induced transcript 3	546	Felis catus (Cat) (Felis silvestris catus) [9685]	297-302		
+VSNGTH	2	M3W6C5	M3W6C5_FELCA [tr]	Oncoprotein induced transcript 3	321	Felis catus (Cat) (Felis silvestris catus) [9685]	297-302		
+SFGGVS	1	A0A5F5XDK5	A0A5F5XDK5_FELCA [tr]	Proline rich coiled-coil 2B	2105	Felis catus (Cat) (Felis silvestris catus) [9685]	1767-1772		
+SFGGVS	2	A0A5F5XQ64	A0A5F5XQ64_FELCA [tr]	Proline rich coiled-coil 2B	2202	Felis catus (Cat) (Felis silvestris catus) [9685]	1833-1838		
+SFGGVS	3	A0A5F5XUI9	A0A5F5XUI9_FELCA [tr]	Proline rich coiled-coil 2B	2142	Felis catus (Cat) (Felis silvestris catus) [9685]	1804-1809		
+SFGGVS	4	A0A5F5XZ57	A0A5F5XZ57_FELCA [tr]	Proline rich coiled-coil 2B	2171	Felis catus (Cat) (Felis silvestris catus) [9685]	1833-1838		
+SFGGVS	5	A0A5F5XZF7	A0A5F5XZF7_FELCA [tr]	Proline rich coiled-coil 2B	1483	Felis catus (Cat) (Felis silvestris catus) [9685]	1145-1150		
+LQELGK	1	A0A2I2UHJ3	A0A2I2UHJ3_FELCA [tr]	Vir like m6A methyltransferase associated	1812	Felis catus (Cat) (Felis silvestris catus) [9685]	888-893		
+LQELGK	2	A0A2I2UQB3	A0A2I2UQB3_FELCA [tr]	Glutaminase	672	Felis catus (Cat) (Felis silvestris catus) [9685]	80-85		
+LQELGK	3	A0A337S1P9	A0A337S1P9_FELCA [tr]	Glutaminase	601	Felis catus (Cat) (Felis silvestris catus) [9685]	80-85		
+LQELGK	4	A0A337SFT3	A0A337SFT3_FELCA [tr]	Pleckstrin homology and RhoGEF domain containing G2	578	Felis catus (Cat) (Felis silvestris catus) [9685]	247-252		
+LQELGK	5	A0A5F5XLY7	A0A5F5XLY7_FELCA [tr]	Glutaminase	627	Felis catus (Cat) (Felis silvestris catus) [9685]	80-85		
+LQELGK	6	M3WDU6	M3WDU6_FELCA [tr]	Pleckstrin homology and RhoGEF domain containing G2	1409	Felis catus (Cat) (Felis silvestris catus) [9685]	247-252		
+LQELGK	7	M3WUN6	M3WUN6_FELCA [tr]	Vir like m6A methyltransferase associated	1761	Felis catus (Cat) (Felis silvestris catus) [9685]	888-893		
+LQELGK	8	M3XC69	M3XC69_FELCA [tr]	Glutaminase	641	Felis catus (Cat) (Felis silvestris catus) [9685]	80-85		
+SALEPL	1	A0A5F5Y0N9	A0A5F5Y0N9_FELCA [tr]	SH3 domain and tetratricopeptide repeats 2	1243	Felis catus (Cat) (Felis silvestris catus) [9685]	186-191		
+SALEPL	2	A0A5F5Y525	A0A5F5Y525_FELCA [tr]	SH3 domain and tetratricopeptide repeats 2	1268	Felis catus (Cat) (Felis silvestris catus) [9685]	211-216		
+SALEPL	3	M3W8P8	M3W8P8_FELCA [tr]	SH3 domain and tetratricopeptide repeats 2	1290	Felis catus (Cat) (Felis silvestris catus) [9685]	233-238		
+RSVASQ	1	A0A2I2UYD9	A0A2I2UYD9_FELCA [tr]	Symplekin	1273	Felis catus (Cat) (Felis silvestris catus) [9685]	12-17		
+RSVASQ	2	A0A5F5XF73	A0A5F5XF73_FELCA [tr]	Symplekin	1276	Felis catus (Cat) (Felis silvestris catus) [9685]	12-17		
+RSVASQ	3	A0A5F5XUQ2	A0A5F5XUQ2_FELCA [tr]	Symplekin	1331	Felis catus (Cat) (Felis silvestris catus) [9685]	12-17		
+RSVASQ	4	M3W7J5	M3W7J5_FELCA [tr]	Symplekin	1357	Felis catus (Cat) (Felis silvestris catus) [9685]	12-17		
+SFTVEK	1	A0A2I2U9W5	A0A2I2U9W5_FELCA [tr]	Pleckstrin homology domain containing A1	404	Felis catus (Cat) (Felis silvestris catus) [9685]	336-341		
+TRAGCL	1	M3WP42	M3WP42_FELCA [tr]	RAD54 like 2	1467	Felis catus (Cat) (Felis silvestris catus) [9685]	816-821		
+NVLYEN	1	A0A0P0GH12	A0A0P0GH12_FELCA [tr]	Receptor protein-tyrosine kinase (Fragment)	1111	Felis catus (Cat) (Felis silvestris catus) [9685]	14-19		
+NVLYEN	2	A0A337S424	A0A337S424_FELCA [tr]	Receptor protein-tyrosine kinase	1209	Felis catus (Cat) (Felis silvestris catus) [9685]	110-115		
+NVLYEN	3	A0A337S7U7	A0A337S7U7_FELCA [tr]	Receptor protein-tyrosine kinase	1164	Felis catus (Cat) (Felis silvestris catus) [9685]	110-115		
+NVLYEN	4	A0A5F5XGM1	A0A5F5XGM1_FELCA [tr]	Dynein cytoplasmic 1 heavy chain 1	4670	Felis catus (Cat) (Felis silvestris catus) [9685]	3838-3843		
+NVLYEN	5	M3WAH7	M3WAH7_FELCA [tr]	Dynein cytoplasmic 1 heavy chain 1	4646	Felis catus (Cat) (Felis silvestris catus) [9685]	3838-3843		
+NVLYEN	6	M3WMN1	M3WMN1_FELCA [tr]	Receptor protein-tyrosine kinase	1132	Felis catus (Cat) (Felis silvestris catus) [9685]	35-40		
+KIQDSL	1	A0A2I2UHD0	A0A2I2UHD0_FELCA [tr]	Acyl-CoA synthetase long chain family member 5	661	Felis catus (Cat) (Felis silvestris catus) [9685]	382-387		
+KIQDSL	2	A0A2I2UPF2	A0A2I2UPF2_FELCA [tr]	Par-3 family cell polarity regulator	1358	Felis catus (Cat) (Felis silvestris catus) [9685]	1043-1048		
+KIQDSL	3	A0A2I2UTB5	A0A2I2UTB5_FELCA [tr]	Par-3 family cell polarity regulator	1342	Felis catus (Cat) (Felis silvestris catus) [9685]	1027-1032		
+KIQDSL	4	A0A337S090	A0A337S090_FELCA [tr]	Par-3 family cell polarity regulator	1298	Felis catus (Cat) (Felis silvestris catus) [9685]	983-988		
+KIQDSL	5	A0A337SMA4	A0A337SMA4_FELCA [tr]	Par-3 family cell polarity regulator	1327	Felis catus (Cat) (Felis silvestris catus) [9685]	1012-1017		
+KIQDSL	6	A0A5F5XEA2	A0A5F5XEA2_FELCA [tr]	Acyl-CoA synthetase long chain family member 5	670	Felis catus (Cat) (Felis silvestris catus) [9685]	391-396		
+KIQDSL	7	A0A5F5XEF8	A0A5F5XEF8_FELCA [tr]	Acyl-CoA synthetase long chain family member 5	650	Felis catus (Cat) (Felis silvestris catus) [9685]	390-395		
+KIQDSL	8	A0A5F5XJL8	A0A5F5XJL8_FELCA [tr]	Par-3 family cell polarity regulator	1417	Felis catus (Cat) (Felis silvestris catus) [9685]	1102-1107		
+KIQDSL	9	A0A5F5XN56	A0A5F5XN56_FELCA [tr]	Acyl-CoA synthetase long chain family member 5	521	Felis catus (Cat) (Felis silvestris catus) [9685]	263-268		
+KIQDSL	10	A0A5F5XQB3	A0A5F5XQB3_FELCA [tr]	Acyl-CoA synthetase long chain family member 5	571	Felis catus (Cat) (Felis silvestris catus) [9685]	292-297		
+KIQDSL	11	A0A5F5XZQ0	A0A5F5XZQ0_FELCA [tr]	Acyl-CoA synthetase long chain family member 5	603	Felis catus (Cat) (Felis silvestris catus) [9685]	390-395		
+KIQDSL	12	A0A5F5Y092	A0A5F5Y092_FELCA [tr]	Par-3 family cell polarity regulator	1264	Felis catus (Cat) (Felis silvestris catus) [9685]	949-954		
+KIQDSL	13	A0A5F5Y2V4	A0A5F5Y2V4_FELCA [tr]	Acyl-CoA synthetase long chain family member 5	538	Felis catus (Cat) (Felis silvestris catus) [9685]	259-264		
+KIQDSL	14	A0A5F5Y4D1	A0A5F5Y4D1_FELCA [tr]	Acyl-CoA synthetase long chain family member 5	584	Felis catus (Cat) (Felis silvestris catus) [9685]	305-310		
+KIQDSL	15	A0A5F5Y6A3	A0A5F5Y6A3_FELCA [tr]	Acyl-CoA synthetase long chain family member 5	574	Felis catus (Cat) (Felis silvestris catus) [9685]	295-300		
+KIQDSL	16	M3VZW9	M3VZW9_FELCA [tr]	Acyl-CoA synthetase long chain family member 5	656	Felis catus (Cat) (Felis silvestris catus) [9685]	377-382		
+KIQDSL	17	M3WAT5	M3WAT5_FELCA [tr]	Par-3 family cell polarity regulator	1340	Felis catus (Cat) (Felis silvestris catus) [9685]	1025-1030		
+IVNNAT	1	A0A2I2UTW7	A0A2I2UTW7_FELCA [tr]	DNA helicase B	1074	Felis catus (Cat) (Felis silvestris catus) [9685]	649-654		
+IVNNAT	2	A0A5F5XSP1	A0A5F5XSP1_FELCA [tr]	DNA helicase B	1054	Felis catus (Cat) (Felis silvestris catus) [9685]	649-654		
+ENGTIT	1	M3W202	M3W202_FELCA [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2701	Felis catus (Cat) (Felis silvestris catus) [9685]	460-465		
+VNNTVY	1	A0A2I2UP91	A0A2I2UP91_FELCA [tr]	Eukaryotic translation initiation factor 3 subunit J	207	Felis catus (Cat) (Felis silvestris catus) [9685]	87-92		
+VNNTVY	2	A0A337SFB5	A0A337SFB5_FELCA [tr]	Eukaryotic translation initiation factor 3 subunit J	256	Felis catus (Cat) (Felis silvestris catus) [9685]	136-141		
+LPDDFT	1	A0A2I2UC26	A0A2I2UC26_FELCA [tr]	Diacylglycerol kinase	820	Felis catus (Cat) (Felis silvestris catus) [9685]	75-80		
+LPDDFT	2	A0A2I2V2E4	A0A2I2V2E4_FELCA [tr]	Diacylglycerol kinase	813	Felis catus (Cat) (Felis silvestris catus) [9685]	68-73		
+LPDDFT	3	A0A337SXK4	A0A337SXK4_FELCA [tr]	Diacylglycerol kinase	783	Felis catus (Cat) (Felis silvestris catus) [9685]	75-80		
+LPDDFT	4	A0A5F5XFS9	A0A5F5XFS9_FELCA [tr]	Diacylglycerol kinase	764	Felis catus (Cat) (Felis silvestris catus) [9685]	68-73		
+LPDDFT	5	A0A5F5XXV4	A0A5F5XXV4_FELCA [tr]	Diacylglycerol kinase	772	Felis catus (Cat) (Felis silvestris catus) [9685]	75-80		
+LPDDFT	6	A0A5F5Y3D0	A0A5F5Y3D0_FELCA [tr]	Diacylglycerol kinase	760	Felis catus (Cat) (Felis silvestris catus) [9685]	75-80		
+LPDDFT	7	M3WAT1	M3WAT1_FELCA [tr]	Diacylglycerol kinase	751	Felis catus (Cat) (Felis silvestris catus) [9685]	68-73		
+NSFTRG	1	A0A337S7L1	A0A337S7L1_FELCA [tr]	Uncharacterized protein	787	Felis catus (Cat) (Felis silvestris catus) [9685]	264-269		
+NSFTRG	2	A0A5F5XZJ8	A0A5F5XZJ8_FELCA [tr]	Uncharacterized protein	766	Felis catus (Cat) (Felis silvestris catus) [9685]	216-221		
+SNKKFL	1	M3WCU8	M3WCU8_FELCA [tr]	Protein-arginine deiminase	663	Felis catus (Cat) (Felis silvestris catus) [9685]	317-322		
+DSLSST	1	A0A337SS77	A0A337SS77_FELCA [tr]	KIAA0586	1524	Felis catus (Cat) (Felis silvestris catus) [9685]	1270-1275		
+DSLSST	2	A0A337SXZ3	A0A337SXZ3_FELCA [tr]	KIAA0586	1487	Felis catus (Cat) (Felis silvestris catus) [9685]	1239-1244		
+DSLSST	3	A0A5F5XDE5	A0A5F5XDE5_FELCA [tr]	Maestro heat like repeat family member 7	1344	Felis catus (Cat) (Felis silvestris catus) [9685]	472-477		
+DSLSST	4	A0A5F5XP43	A0A5F5XP43_FELCA [tr]	KIAA0586	1399	Felis catus (Cat) (Felis silvestris catus) [9685]	1239-1244		
+DSLSST	5	M3W1C4	M3W1C4_FELCA [tr]	Maestro heat like repeat family member 7	1328	Felis catus (Cat) (Felis silvestris catus) [9685]	472-477		
+DSLSST	6	M3WE02	M3WE02_FELCA [tr]	KIAA0586	1436	Felis catus (Cat) (Felis silvestris catus) [9685]	1160-1165		
+DSLSST	7	M3X355	M3X355_FELCA [tr]	KIAA1109	4993	Felis catus (Cat) (Felis silvestris catus) [9685]	3708-3713		
+LDKYFK	1	A0A337S130	A0A337S130_FELCA [tr]	Follistatin-like protein 1	328	Felis catus (Cat) (Felis silvestris catus) [9685]	148-153		
+LDKYFK	2	A0A337SFY3	A0A337SFY3_FELCA [tr]	Follistatin like 1	271	Felis catus (Cat) (Felis silvestris catus) [9685]	112-117		
+LDKYFK	3	A0A337STG6	A0A337STG6_FELCA [tr]	Follistatin-like protein 1	328	Felis catus (Cat) (Felis silvestris catus) [9685]	148-153		
+LDKYFK	4	M3X0V6	M3X0V6_FELCA [tr]	Follistatin-like protein 1	307	Felis catus (Cat) (Felis silvestris catus) [9685]	148-153		
+SASFST	1	A0A337S4W7	A0A337S4W7_FELCA [tr]	Syntaxin binding protein 1	594	Felis catus (Cat) (Felis silvestris catus) [9685]	507-512		
+SASFST	2	A0A337SWE3	A0A337SWE3_FELCA [tr]	Syntaxin binding protein 1	603	Felis catus (Cat) (Felis silvestris catus) [9685]	507-512		
+SASFST	3	M3VWR0	M3VWR0_FELCA [tr]	Syntaxin binding protein 1	578	Felis catus (Cat) (Felis silvestris catus) [9685]	507-512		
+VVIGIV	1	A0A2I2UQX8	A0A2I2UQX8_FELCA [tr]	Basic leucine zipper and W2 domains 1	443	Felis catus (Cat) (Felis silvestris catus) [9685]	291-296		
+VVIGIV	2	A0A2I2V066	A0A2I2V066_FELCA [tr]	Basic leucine zipper and W2 domains 1	427	Felis catus (Cat) (Felis silvestris catus) [9685]	291-296		
+VVIGIV	3	A0A5F5XFL3	A0A5F5XFL3_FELCA [tr]	Basic leucine zipper and W2 domains 1	423	Felis catus (Cat) (Felis silvestris catus) [9685]	295-300		
+VVIGIV	4	A0A5F5Y3A9	A0A5F5Y3A9_FELCA [tr]	Basic leucine zipper and W2 domains 1	451	Felis catus (Cat) (Felis silvestris catus) [9685]	323-328		
+VVIGIV	5	M3VZK2	M3VZK2_FELCA [tr]	Ring finger protein 175	334	Felis catus (Cat) (Felis silvestris catus) [9685]	319-324		
+SSTASA	1	A0A2I2U3V1	A0A2I2U3V1_FELCA [tr]	Hydroxyacyl-CoA dehydrogenase	176	Felis catus (Cat) (Felis silvestris catus) [9685]	15-20		
+SSTASA	2	A0A2I2U4A9	A0A2I2U4A9_FELCA [tr]	40S ribosomal protein S13	151	Felis catus (Cat) (Felis silvestris catus) [9685]	143-148		
+SSTASA	3	A0A2I2UI67	A0A2I2UI67_FELCA [tr]	DDB1 and CUL4 associated factor 6	879	Felis catus (Cat) (Felis silvestris catus) [9685]	414-419		
+SSTASA	4	A0A2I2UT83	A0A2I2UT83_FELCA [tr]	Cramped chromatin regulator homolog 1	1284	Felis catus (Cat) (Felis silvestris catus) [9685]	766-771		
+SSTASA	5	A0A337S115	A0A337S115_FELCA [tr]	DDB1 and CUL4 associated factor 6	948	Felis catus (Cat) (Felis silvestris catus) [9685]	414-419		
+SSTASA	6	A0A337S3V5	A0A337S3V5_FELCA [tr]	DDB1 and CUL4 associated factor 6	917	Felis catus (Cat) (Felis silvestris catus) [9685]	383-388		
+SSTASA	7	A0A337S5I3	A0A337S5I3_FELCA [tr]	N-acetylglucosaminyldiphosphodolichol N-acetylglucosaminyltransferase	567	Felis catus (Cat) (Felis silvestris catus) [9685]	318-323		
+SSTASA	8	A0A337SQ75	A0A337SQ75_FELCA [tr]	Autophagy related 2A	1914	Felis catus (Cat) (Felis silvestris catus) [9685]	1767-1772		
+SSTASA	9	A0A5F5XHV2	A0A5F5XHV2_FELCA [tr]	Cramped chromatin regulator homolog 1	1197	Felis catus (Cat) (Felis silvestris catus) [9685]	679-684		
+SSTASA	10	A0A5F5XK91	A0A5F5XK91_FELCA [tr]	40S ribosomal protein S13	195	Felis catus (Cat) (Felis silvestris catus) [9685]	187-192		
+SSTASA	11	A0A5F5XNP9	A0A5F5XNP9_FELCA [tr]	Cramped chromatin regulator homolog 1	1238	Felis catus (Cat) (Felis silvestris catus) [9685]	766-771		
+SSTASA	12	A0A5F5Y373	A0A5F5Y373_FELCA [tr]	Hydroxyacyl-CoA dehydrogenase	219	Felis catus (Cat) (Felis silvestris catus) [9685]	15-20		
+SSTASA	13	A0A5F5Y5E7	A0A5F5Y5E7_FELCA [tr]	Hydroxyacyl-CoA dehydrogenase	338	Felis catus (Cat) (Felis silvestris catus) [9685]	15-20		
+SSTASA	14	M3WGK5	M3WGK5_FELCA [tr]	Autophagy related 2A	1928	Felis catus (Cat) (Felis silvestris catus) [9685]	1781-1786		
+SSTASA	15	M3WLU2	M3WLU2_FELCA [tr]	DDB1 and CUL4 associated factor 6	859	Felis catus (Cat) (Felis silvestris catus) [9685]	414-419		
+SSTASA	16	M3X423	M3X423_FELCA [tr]	Hydroxyacyl-CoA dehydrogenase	314	Felis catus (Cat) (Felis silvestris catus) [9685]	15-20		
+CPFGEV	1	A0A5F5XWU1	A0A5F5XWU1_FELCA [tr]	CUB domain containing protein 1	824	Felis catus (Cat) (Felis silvestris catus) [9685]	102-107		
+CPFGEV	2	M3X665	M3X665_FELCA [tr]	CUB domain containing protein 1	829	Felis catus (Cat) (Felis silvestris catus) [9685]	102-107		
+NLVKNK	1	M3XFM7	M3XFM7_FELCA [tr]	N-alpha-acetyltransferase 15, NatA auxiliary subunit	866	Felis catus (Cat) (Felis silvestris catus) [9685]	666-671		
+STQDLF	1	A0A2I2V2G7	A0A2I2V2G7_FELCA [tr]	Zinc finger protein 132	704	Felis catus (Cat) (Felis silvestris catus) [9685]	228-233		
+STQDLF	2	A0A337S8R2	A0A337S8R2_FELCA [tr]	Zinc finger protein 132	732	Felis catus (Cat) (Felis silvestris catus) [9685]	256-261		
+LPLVSS	1	A0A5F5XVC1	A0A5F5XVC1_FELCA [tr]	Perilipin	447	Felis catus (Cat) (Felis silvestris catus) [9685]	19-24		
+LPLVSS	2	M3VYW9	M3VYW9_FELCA [tr]	Perilipin	436	Felis catus (Cat) (Felis silvestris catus) [9685]	19-24		
+LITGRL	1	M3VYH8	M3VYH8_FELCA [tr]	Solute carrier family 5 member 4	660	Felis catus (Cat) (Felis silvestris catus) [9685]	423-428		
+RLFRKS	1	A0A5F5XGJ3	A0A5F5XGJ3_FELCA [tr]	Uncharacterized protein	156	Felis catus (Cat) (Felis silvestris catus) [9685]	140-145		
+SFSTFK	1	A0A5F5Y7M2	A0A5F5Y7M2_FELCA [tr]	Uncharacterized protein	240	Felis catus (Cat) (Felis silvestris catus) [9685]	221-226		
+ASANLA	1	A0A337SBZ2	A0A337SBZ2_FELCA [tr]	Canopy FGF signaling regulator 1	153	Felis catus (Cat) (Felis silvestris catus) [9685]	138-143		
+ASANLA	2	A0A5F5XBX1	A0A5F5XBX1_FELCA [tr]	CASK interacting protein 1	1385	Felis catus (Cat) (Felis silvestris catus) [9685]	900-905		
+ASANLA	3	A0A5F5XHJ0	A0A5F5XHJ0_FELCA [tr]	CASK interacting protein 1	1508	Felis catus (Cat) (Felis silvestris catus) [9685]	1023-1028		
+ASANLA	4	A0A5F5XQN5	A0A5F5XQN5_FELCA [tr]	CASK interacting protein 1	1456	Felis catus (Cat) (Felis silvestris catus) [9685]	971-976		
+FGAGAA	1	A0A2I2UJG2	A0A2I2UJG2_FELCA [tr]	CutA divalent cation tolerance homolog	177	Felis catus (Cat) (Felis silvestris catus) [9685]	11-16		
+FGAGAA	2	A0A337S3M6	A0A337S3M6_FELCA [tr]	DAZ-associated protein 2	198	Felis catus (Cat) (Felis silvestris catus) [9685]	146-151		
+FGAGAA	3	A0A337STA6	A0A337STA6_FELCA [tr]	DAZ-associated protein 2	154	Felis catus (Cat) (Felis silvestris catus) [9685]	116-121		
+FGAGAA	4	A0A5F5XHE0	A0A5F5XHE0_FELCA [tr]	Secernin 2	483	Felis catus (Cat) (Felis silvestris catus) [9685]	379-384		
+FGAGAA	5	A0A5F5Y2S8	A0A5F5Y2S8_FELCA [tr]	Nuclear receptor subfamily 2 group F member 6	384	Felis catus (Cat) (Felis silvestris catus) [9685]	188-193		
+FGAGAA	6	M3VVT5	M3VVT5_FELCA [tr]	Nuclear receptor subfamily 2 group F member 6	414	Felis catus (Cat) (Felis silvestris catus) [9685]	188-193		
+FGAGAA	7	M3WBA3	M3WBA3_FELCA [tr]	Secernin 2	437	Felis catus (Cat) (Felis silvestris catus) [9685]	333-338		
+FGAGAA	8	M3WJ88	M3WJ88_FELCA [tr]	CutA divalent cation tolerance homolog	154	Felis catus (Cat) (Felis silvestris catus) [9685]	11-16		
+SNNSIA	1	A0A337SAD4	A0A337SAD4_FELCA [tr]	TSC22 domain family member 1	1080	Felis catus (Cat) (Felis silvestris catus) [9685]	128-133		
+SNNSIA	2	M3WUL4	M3WUL4_FELCA [tr]	TSC22 domain family member 1	1063	Felis catus (Cat) (Felis silvestris catus) [9685]	128-133		
+VFNATR	1	A0A5F5XC66	A0A5F5XC66_FELCA [tr]	Ubiquitin specific peptidase 43	1102	Felis catus (Cat) (Felis silvestris catus) [9685]	752-757		
+DKYFKN	1	A0A337S130	A0A337S130_FELCA [tr]	Follistatin-like protein 1	328	Felis catus (Cat) (Felis silvestris catus) [9685]	149-154		
+DKYFKN	2	A0A337SFY3	A0A337SFY3_FELCA [tr]	Follistatin like 1	271	Felis catus (Cat) (Felis silvestris catus) [9685]	113-118		
+DKYFKN	3	A0A337STG6	A0A337STG6_FELCA [tr]	Follistatin-like protein 1	328	Felis catus (Cat) (Felis silvestris catus) [9685]	149-154		
+DKYFKN	4	M3X0V6	M3X0V6_FELCA [tr]	Follistatin-like protein 1	307	Felis catus (Cat) (Felis silvestris catus) [9685]	149-154		
+KLQDVV	1	M3W202	M3W202_FELCA [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2701	Felis catus (Cat) (Felis silvestris catus) [9685]	1605-1610		
+KLQDVV	2	M3W8F7	M3W8F7_FELCA [tr]	cGMP-dependent protein kinase	762	Felis catus (Cat) (Felis silvestris catus) [9685]	81-86		
+VAYSNN	1	A0A5F5XE10	A0A5F5XE10_FELCA [tr]	Milk fat globule EGF and factor V/VIII domain containing	388	Felis catus (Cat) (Felis silvestris catus) [9685]	322-327		
+VAYSNN	2	A0A5F5Y4V5	A0A5F5Y4V5_FELCA [tr]	Milk fat globule EGF and factor V/VIII domain containing	344	Felis catus (Cat) (Felis silvestris catus) [9685]	278-283		
+VAYSNN	3	M3W678	M3W678_FELCA [tr]	Milk fat globule EGF and factor V/VIII domain containing	430	Felis catus (Cat) (Felis silvestris catus) [9685]	364-369		
+HVTYVP	1	M3WE65	M3WE65_FELCA [tr]	Piwi like RNA-mediated gene silencing 4	844	Felis catus (Cat) (Felis silvestris catus) [9685]	119-124		
+SKVGGN	1	A0A337SIR7	A0A337SIR7_FELCA [tr]	Leucine rich repeat containing 31	510	Felis catus (Cat) (Felis silvestris catus) [9685]	131-136		
+SKVGGN	2	A0A337SNE9	A0A337SNE9_FELCA [tr]	Leucine rich repeat containing 31	449	Felis catus (Cat) (Felis silvestris catus) [9685]	187-192		
+SKVGGN	3	M3W243	M3W243_FELCA [tr]	Leucine rich repeat containing 31	566	Felis catus (Cat) (Felis silvestris catus) [9685]	187-192		
+IADTTD	1	A0A2I2UQX8	A0A2I2UQX8_FELCA [tr]	Basic leucine zipper and W2 domains 1	443	Felis catus (Cat) (Felis silvestris catus) [9685]	436-441		
+ALTGIA	1	A0A5K1VMJ8	A0A5K1VMJ8_FELCA [tr]	URB2 ribosome biogenesis homolog	1521	Felis catus (Cat) (Felis silvestris catus) [9685]	633-638		
+ALTGIA	2	M3W848	M3W848_FELCA [tr]	URB2 ribosome biogenesis homolog	1484	Felis catus (Cat) (Felis silvestris catus) [9685]	633-638		
+QIITTD	1	A0A337S637	A0A337S637_FELCA [tr]	ADAM metallopeptidase with thrombospondin type 1 motif 9	1911	Felis catus (Cat) (Felis silvestris catus) [9685]	1814-1819		
+QIITTD	2	M3VWV5	M3VWV5_FELCA [tr]	ADAM metallopeptidase with thrombospondin type 1 motif 9	1939	Felis catus (Cat) (Felis silvestris catus) [9685]	1842-1847		
+EDDSEP	1	A0A2I2U6R5	A0A2I2U6R5_FELCA [tr]	PACAP-related peptide	176	Felis catus (Cat) (Felis silvestris catus) [9685]	122-127		
+EDDSEP	2	A0A5F5XGN8	A0A5F5XGN8_FELCA [tr]	Origin recognition complex subunit 1	747	Felis catus (Cat) (Felis silvestris catus) [9685]	73-78		
+EDDSEP	3	A0A5F5XXB4	A0A5F5XXB4_FELCA [tr]	PACAP-related peptide	318	Felis catus (Cat) (Felis silvestris catus) [9685]	264-269		
+EDDSEP	4	M3VYN2	M3VYN2_FELCA [tr]	Origin recognition complex subunit 1	851	Felis catus (Cat) (Felis silvestris catus) [9685]	73-78		
+LNTLVK	1	A0A5F5XCU1	A0A5F5XCU1_FELCA [tr]	LARGE xylosyl- and glucuronyltransferase 2	658	Felis catus (Cat) (Felis silvestris catus) [9685]	86-91		
+LNTLVK	2	M3WRW4	M3WRW4_FELCA [tr]	LARGE xylosyl- and glucuronyltransferase 2	693	Felis catus (Cat) (Felis silvestris catus) [9685]	86-91		
+FEYVSQ	1	A0A337SMM3	A0A337SMM3_FELCA [tr]	Striatin interacting protein 2	812	Felis catus (Cat) (Felis silvestris catus) [9685]	571-576		
+FEYVSQ	2	M3WSE1	M3WSE1_FELCA [tr]	Striatin interacting protein 2	834	Felis catus (Cat) (Felis silvestris catus) [9685]	593-598		
+NKVTLA	1	M3WE16	M3WE16_FELCA [tr]	Integrin subunit alpha 4	1036	Felis catus (Cat) (Felis silvestris catus) [9685]	765-770		
+LQPELD	1	A0A2I2UA99	A0A2I2UA99_FELCA [tr]	Golgin B1	3260	Felis catus (Cat) (Felis silvestris catus) [9685]	1384-1389		
+LQPELD	2	A0A5F5XC33	A0A5F5XC33_FELCA [tr]	Golgin B1	3209	Felis catus (Cat) (Felis silvestris catus) [9685]	1384-1389		
+LQPELD	3	A0A5F5XML9	A0A5F5XML9_FELCA [tr]	Golgin B1	3212	Felis catus (Cat) (Felis silvestris catus) [9685]	1341-1346		
+LQPELD	4	M3WZ29	M3WZ29_FELCA [tr]	Uncharacterized protein	72	Felis catus (Cat) (Felis silvestris catus) [9685]	58-63		
+LQPELD	5	M3XFQ2	M3XFQ2_FELCA [tr]	Golgin B1	3214	Felis catus (Cat) (Felis silvestris catus) [9685]	1343-1348		
+SLQTYV	1	A0A337SFD4	A0A337SFD4_FELCA [tr]	Uncharacterized protein	184	Felis catus (Cat) (Felis silvestris catus) [9685]	90-95		
+CSCLKG	1	A0A2I2UTI9	A0A2I2UTI9_FELCA [tr]	Adhesion G protein-coupled receptor F5	1347	Felis catus (Cat) (Felis silvestris catus) [9685]	152-157		
+CSCLKG	2	A0A5F5XC59	A0A5F5XC59_FELCA [tr]	Adhesion G protein-coupled receptor F5	1387	Felis catus (Cat) (Felis silvestris catus) [9685]	152-157		
+CSCLKG	3	A0A5F5XQR0	A0A5F5XQR0_FELCA [tr]	Adhesion G protein-coupled receptor F5	1335	Felis catus (Cat) (Felis silvestris catus) [9685]	152-157		
+CSCLKG	4	A0A5F5XX21	A0A5F5XX21_FELCA [tr]	Adhesion G protein-coupled receptor F5	1380	Felis catus (Cat) (Felis silvestris catus) [9685]	152-157		
+GVFVSN	1	A0A5F5XCV6	A0A5F5XCV6_FELCA [tr]	Kinetochore scaffold 1	2183	Felis catus (Cat) (Felis silvestris catus) [9685]	713-718		
+LTGIAV	1	A0A5K1VMJ8	A0A5K1VMJ8_FELCA [tr]	URB2 ribosome biogenesis homolog	1521	Felis catus (Cat) (Felis silvestris catus) [9685]	634-639		
+LTGIAV	2	M3W848	M3W848_FELCA [tr]	URB2 ribosome biogenesis homolog	1484	Felis catus (Cat) (Felis silvestris catus) [9685]	634-639		
+NIIRGW	1	A0A2I2UFU1	A0A2I2UFU1_FELCA [tr]	Chromatin modification-related protein MEAF6	190	Felis catus (Cat) (Felis silvestris catus) [9685]	56-61		
+NIIRGW	2	A0A2I2V1Y9	A0A2I2V1Y9_FELCA [tr]	Chromatin modification-related protein MEAF6	190	Felis catus (Cat) (Felis silvestris catus) [9685]	56-61		
+NIIRGW	3	A0A337RX50	A0A337RX50_FELCA [tr]	Chromatin modification-related protein MEAF6	200	Felis catus (Cat) (Felis silvestris catus) [9685]	56-61		
+NIIRGW	4	A0A5F5XIW1	A0A5F5XIW1_FELCA [tr]	Chromatin modification-related protein MEAF6	180	Felis catus (Cat) (Felis silvestris catus) [9685]	56-61		
+NIIRGW	5	A0A5F5XV30	A0A5F5XV30_FELCA [tr]	Chromatin modification-related protein MEAF6	187	Felis catus (Cat) (Felis silvestris catus) [9685]	56-61		
+NSNNLD	1	A0A337S7S5	A0A337S7S5_FELCA [tr]	Zinc finger E-box binding homeobox 2	1162	Felis catus (Cat) (Felis silvestris catus) [9685]	871-876		
+NSNNLD	2	A0A337S7Y5	A0A337S7Y5_FELCA [tr]	Zinc finger E-box binding homeobox 2	1210	Felis catus (Cat) (Felis silvestris catus) [9685]	864-869		
+NSNNLD	3	A0A337SL53	A0A337SL53_FELCA [tr]	Zinc finger E-box binding homeobox 2	1111	Felis catus (Cat) (Felis silvestris catus) [9685]	871-876		
+NSNNLD	4	A0A337SPJ8	A0A337SPJ8_FELCA [tr]	Zinc finger E-box binding homeobox 2	1193	Felis catus (Cat) (Felis silvestris catus) [9685]	847-852		
+NSNNLD	5	M3WMT1	M3WMT1_FELCA [tr]	Zinc finger E-box binding homeobox 2	1217	Felis catus (Cat) (Felis silvestris catus) [9685]	871-876		
+LAGTIT	1	A0A2I2U127	A0A2I2U127_FELCA [tr]	Teneurin transmembrane protein 2	2535	Felis catus (Cat) (Felis silvestris catus) [9685]	1556-1561		
+LAGTIT	2	A0A2I2U1K4	A0A2I2U1K4_FELCA [tr]	Teneurin transmembrane protein 2	2774	Felis catus (Cat) (Felis silvestris catus) [9685]	1795-1800		
+LAGTIT	3	A0A2I2UDB1	A0A2I2UDB1_FELCA [tr]	Teneurin transmembrane protein 2	2533	Felis catus (Cat) (Felis silvestris catus) [9685]	1554-1559		
+LAGTIT	4	A0A2I2UIG7	A0A2I2UIG7_FELCA [tr]	Teneurin transmembrane protein 2	2603	Felis catus (Cat) (Felis silvestris catus) [9685]	1624-1629		
+LAGTIT	5	A0A2I2UQ09	A0A2I2UQ09_FELCA [tr]	Teneurin transmembrane protein 2	2541	Felis catus (Cat) (Felis silvestris catus) [9685]	1562-1567		
+LAGTIT	6	A0A5F5XQP8	A0A5F5XQP8_FELCA [tr]	Teneurin transmembrane protein 2	2596	Felis catus (Cat) (Felis silvestris catus) [9685]	1617-1622		
+LAGTIT	7	A0A5F5XSX4	A0A5F5XSX4_FELCA [tr]	Teneurin transmembrane protein 2	2616	Felis catus (Cat) (Felis silvestris catus) [9685]	1637-1642		
+LAGTIT	8	M3W725	M3W725_FELCA [tr]	Teneurin transmembrane protein 2	2653	Felis catus (Cat) (Felis silvestris catus) [9685]	1674-1679		
+IADYNY	1	M3XAR0	M3XAR0_FELCA [tr]	Synaptopodin 2	1263	Felis catus (Cat) (Felis silvestris catus) [9685]	1248-1253		
+VNQNAQ	1	A0A5F5XFB6	A0A5F5XFB6_FELCA [tr]	SIX homeobox 4	784	Felis catus (Cat) (Felis silvestris catus) [9685]	587-592		
+VNQNAQ	2	M3WSX2	M3WSX2_FELCA [tr]	SIX homeobox 4	776	Felis catus (Cat) (Felis silvestris catus) [9685]	579-584		
+FVTQRN	1	A0A2I2U4F7	A0A2I2U4F7_FELCA [tr]	Glutamate receptor	869	Felis catus (Cat) (Felis silvestris catus) [9685]	744-749		
+FVTQRN	2	A0A2I2U739	A0A2I2U739_FELCA [tr]	Glutamate receptor	893	Felis catus (Cat) (Felis silvestris catus) [9685]	744-749		
+FVTQRN	3	A0A2I2V5F7	A0A2I2V5F7_FELCA [tr]	Glutamate receptor	857	Felis catus (Cat) (Felis silvestris catus) [9685]	695-700		
+FVTQRN	4	A0A337S2R5	A0A337S2R5_FELCA [tr]	Glutamate receptor	908	Felis catus (Cat) (Felis silvestris catus) [9685]	744-749		
+FVTQRN	5	M3WFW1	M3WFW1_FELCA [tr]	Glutamate receptor	844	Felis catus (Cat) (Felis silvestris catus) [9685]	695-700		
+DPQTLE	1	M3W832	M3W832_FELCA [tr]	Integrator complex subunit 1	2186	Felis catus (Cat) (Felis silvestris catus) [9685]	1272-1277		
+LGKLQD	1	A0A337S948	A0A337S948_FELCA [tr]	V-set and transmembrane domain-containing protein 1	234	Felis catus (Cat) (Felis silvestris catus) [9685]	60-65		
+APHGVV	1	A0A5F5Y5W3	A0A5F5Y5W3_FELCA [tr]	Interleukin 27 receptor subunit alpha	693	Felis catus (Cat) (Felis silvestris catus) [9685]	317-322		
+APHGVV	2	M3W0V0	M3W0V0_FELCA [tr]	Interleukin 27 receptor subunit alpha	651	Felis catus (Cat) (Felis silvestris catus) [9685]	317-322		
+PLVSSQ	1	A0A2I2UDD2	A0A2I2UDD2_FELCA [tr]	Leucine rich repeat containing 46	322	Felis catus (Cat) (Felis silvestris catus) [9685]	281-286		
+PLVSSQ	2	A0A5F5XWM5	A0A5F5XWM5_FELCA [tr]	Zinc finger protein 335	1436	Felis catus (Cat) (Felis silvestris catus) [9685]	376-381		
+PLVSSQ	3	A0A5F5XYC0	A0A5F5XYC0_FELCA [tr]	Zinc finger protein 335	1446	Felis catus (Cat) (Felis silvestris catus) [9685]	376-381		
+PLVSSQ	4	M3WVB7	M3WVB7_FELCA [tr]	Zinc finger protein 335	1345	Felis catus (Cat) (Felis silvestris catus) [9685]	376-381		
+PLVSSQ	5	M3X304	M3X304_FELCA [tr]	Spectrin beta, non-erythrocytic 5	3515	Felis catus (Cat) (Felis silvestris catus) [9685]	1599-1604		
+IAGLIA	1	A0A5F5XHK8	A0A5F5XHK8_FELCA [tr]	GP41 domain-containing protein	396	Felis catus (Cat) (Felis silvestris catus) [9685]	179-184		
+FNGIGV	1	A0A5F5Y1Z6	A0A5F5Y1Z6_FELCA [tr]	DEP domain containing 5, GATOR1 subcomplex subunit	1557	Felis catus (Cat) (Felis silvestris catus) [9685]	314-319		
+ALNTLV	1	A0A2I2U5F1	A0A2I2U5F1_FELCA [tr]	Lysosomal-associated transmembrane protein 4B	337	Felis catus (Cat) (Felis silvestris catus) [9685]	224-229		
+PRTFLL	1	A0A5F5XQJ6	A0A5F5XQJ6_FELCA [tr]	Reelin	3460	Felis catus (Cat) (Felis silvestris catus) [9685]	8-13		
+PRTFLL	2	A0A5F5XU10	A0A5F5XU10_FELCA [tr]	Reelin	3460	Felis catus (Cat) (Felis silvestris catus) [9685]	8-13		
+PRTFLL	3	M3VV52	M3VV52_FELCA [tr]	Reelin	3458	Felis catus (Cat) (Felis silvestris catus) [9685]	8-13		
+AAEIRA	1	A0A2I2U630	A0A2I2U630_FELCA [tr]	Exocyst complex component 3 like 4	735	Felis catus (Cat) (Felis silvestris catus) [9685]	188-193		
+AAEIRA	2	A0A5F5XDN1	A0A5F5XDN1_FELCA [tr]	Exocyst complex component 3 like 4	698	Felis catus (Cat) (Felis silvestris catus) [9685]	188-193		
+AAEIRA	3	A0A5F5XQY9	A0A5F5XQY9_FELCA [tr]	Exocyst complex component 3 like 4	736	Felis catus (Cat) (Felis silvestris catus) [9685]	188-193		
+AAEIRA	4	M3WVK6	M3WVK6_FELCA [tr]	HID1 domain containing	792	Felis catus (Cat) (Felis silvestris catus) [9685]	52-57		
+LDPLSE	1	A0A5F5XCY8	A0A5F5XCY8_FELCA [tr]	Uncharacterized protein	334	Felis catus (Cat) (Felis silvestris catus) [9685]	220-225		
+DLEGKQ	1	A0A5F5XH84	A0A5F5XH84_FELCA [tr]	Uncharacterized protein	465	Felis catus (Cat) (Felis silvestris catus) [9685]	438-443		
+VLSFEL	1	A0A5F5XWR4	A0A5F5XWR4_FELCA [tr]	CST complex subunit CTC1	1188	Felis catus (Cat) (Felis silvestris catus) [9685]	1127-1132		
+VLSFEL	2	M3VX21	M3VX21_FELCA [tr]	CST complex subunit CTC1	1218	Felis catus (Cat) (Felis silvestris catus) [9685]	1157-1162		
+NQKLIA	1	A0A5F5XFA3	A0A5F5XFA3_FELCA [tr]	WD repeat domain 11	1333	Felis catus (Cat) (Felis silvestris catus) [9685]	837-842		
+NQKLIA	2	M3WKH2	M3WKH2_FELCA [tr]	WD repeat domain 11	1294	Felis catus (Cat) (Felis silvestris catus) [9685]	837-842		
+PRRARS	1	A0A337SPY8	A0A337SPY8_FELCA [tr]	NTR domain-containing protein	352	Felis catus (Cat) (Felis silvestris catus) [9685]	122-127		
+PRRARS	2	A0A5F5XDF8	A0A5F5XDF8_FELCA [tr]	Serine/arginine repetitive matrix 5	692	Felis catus (Cat) (Felis silvestris catus) [9685]	436-441		
+PRRARS	3	A0A5F5XG96	A0A5F5XG96_FELCA [tr]	NTR domain-containing protein	460	Felis catus (Cat) (Felis silvestris catus) [9685]	246-251		
+PRRARS	4	A0A5F5XGG4	A0A5F5XGG4_FELCA [tr]	Uncharacterized protein	410	Felis catus (Cat) (Felis silvestris catus) [9685]	122-127		
+PRRARS	5	A0A5F5XI00	A0A5F5XI00_FELCA [tr]	Uncharacterized protein	399	Felis catus (Cat) (Felis silvestris catus) [9685]	111-116		
+PRRARS	6	A0A5F5XZ35	A0A5F5XZ35_FELCA [tr]	Uncharacterized protein	451	Felis catus (Cat) (Felis silvestris catus) [9685]	163-168		
+PRRARS	7	A0A5F5XZ46	A0A5F5XZ46_FELCA [tr]	Uncharacterized protein	460	Felis catus (Cat) (Felis silvestris catus) [9685]	172-177		
+PRRARS	8	A0A5F5Y389	A0A5F5Y389_FELCA [tr]	Uncharacterized protein	458	Felis catus (Cat) (Felis silvestris catus) [9685]	170-175		
+PRRARS	9	A0A5F5Y3E8	A0A5F5Y3E8_FELCA [tr]	Uncharacterized protein	534	Felis catus (Cat) (Felis silvestris catus) [9685]	246-251		
+LIVNNA	1	A0A2I2UTW7	A0A2I2UTW7_FELCA [tr]	DNA helicase B	1074	Felis catus (Cat) (Felis silvestris catus) [9685]	648-653		
+LIVNNA	2	A0A5F5XSP1	A0A5F5XSP1_FELCA [tr]	DNA helicase B	1054	Felis catus (Cat) (Felis silvestris catus) [9685]	648-653		
+YECDIP	1	M3W5B5	M3W5B5_FELCA [tr]	LDL receptor related protein 2	4646	Felis catus (Cat) (Felis silvestris catus) [9685]	1390-1395		
+APGQTG	1	A0A337S373	A0A337S373_FELCA [tr]	Phosphatidylinositol-4-phosphate 5-kinase type 1 gamma	818	Felis catus (Cat) (Felis silvestris catus) [9685]	677-682		
+APGQTG	2	A0A337SKE8	A0A337SKE8_FELCA [tr]	Phosphatidylinositol-4-phosphate 5-kinase type 1 gamma	761	Felis catus (Cat) (Felis silvestris catus) [9685]	677-682		
+GQTGKI	1	A0A2I2UH38	A0A2I2UH38_FELCA [tr]	Scavenger receptor class B member 1	509	Felis catus (Cat) (Felis silvestris catus) [9685]	401-406		
+GQTGKI	2	A0A2I2V2X5	A0A2I2V2X5_FELCA [tr]	Electron transfer flavoprotein subunit alpha	284	Felis catus (Cat) (Felis silvestris catus) [9685]	215-220		
+GQTGKI	3	A0A2I2V440	A0A2I2V440_FELCA [tr]	Electron transfer flavoprotein subunit alpha	348	Felis catus (Cat) (Felis silvestris catus) [9685]	264-269		
+GQTGKI	4	A0A337S6I4	A0A337S6I4_FELCA [tr]	Scavenger receptor class B member 1	506	Felis catus (Cat) (Felis silvestris catus) [9685]	401-406		
+GQTGKI	5	A0A337SAQ8	A0A337SAQ8_FELCA [tr]	Electron transfer flavoprotein subunit alpha	229	Felis catus (Cat) (Felis silvestris catus) [9685]	160-165		
+GQTGKI	6	A0A337SXN7	A0A337SXN7_FELCA [tr]	KIF-binding protein	620	Felis catus (Cat) (Felis silvestris catus) [9685]	281-286		
+GQTGKI	7	A0A5F5XMG6	A0A5F5XMG6_FELCA [tr]	Electron transfer flavoprotein subunit alpha	418	Felis catus (Cat) (Felis silvestris catus) [9685]	349-354		
+GQTGKI	8	M3W5A7	M3W5A7_FELCA [tr]	Electron transfer flavoprotein subunit alpha	333	Felis catus (Cat) (Felis silvestris catus) [9685]	264-269		
+GQTGKI	9	M3WKY6	M3WKY6_FELCA [tr]	Scavenger receptor class B member 1	471	Felis catus (Cat) (Felis silvestris catus) [9685]	401-406		
+GQTGKI	10	M3WSM5	M3WSM5_FELCA [tr]	KIF-binding protein	296	Felis catus (Cat) (Felis silvestris catus) [9685]	281-286		
+LQSLQT	1	A0A2I2UKZ8	A0A2I2UKZ8_FELCA [tr]	C-type lectin domain family 1 member A	270	Felis catus (Cat) (Felis silvestris catus) [9685]	100-105		
+LQSLQT	2	A0A2I2V3R4	A0A2I2V3R4_FELCA [tr]	Tandem C2 domains, nuclear	490	Felis catus (Cat) (Felis silvestris catus) [9685]	299-304		
+LQSLQT	3	A0A5F5XS09	A0A5F5XS09_FELCA [tr]	PH domain and leucine rich repeat protein phosphatase 1	1641	Felis catus (Cat) (Felis silvestris catus) [9685]	673-678		
+LQSLQT	4	A0A5F5XYM9	A0A5F5XYM9_FELCA [tr]	Tandem C2 domains, nuclear	481	Felis catus (Cat) (Felis silvestris catus) [9685]	299-304		
+LQSLQT	5	A0A5F5Y6P7	A0A5F5Y6P7_FELCA [tr]	Tandem C2 domains, nuclear	489	Felis catus (Cat) (Felis silvestris catus) [9685]	299-304		
+LQSLQT	6	M3X485	M3X485_FELCA [tr]	Tandem C2 domains, nuclear	449	Felis catus (Cat) (Felis silvestris catus) [9685]	267-272		
+LLQYGS	1	A0A337S749	A0A337S749_FELCA [tr]	Matrilin 2	957	Felis catus (Cat) (Felis silvestris catus) [9685]	99-104		
+LLQYGS	2	A0A5F5XG51	A0A5F5XG51_FELCA [tr]	Matrilin 2	902	Felis catus (Cat) (Felis silvestris catus) [9685]	99-104		
+LLQYGS	3	A0A5F5XM51	A0A5F5XM51_FELCA [tr]	Matrilin 2	943	Felis catus (Cat) (Felis silvestris catus) [9685]	99-104		
+LLQYGS	4	A0A5F5Y2N7	A0A5F5Y2N7_FELCA [tr]	Matrilin 2	902	Felis catus (Cat) (Felis silvestris catus) [9685]	99-104		
+LLQYGS	5	A0A5F5Y760	A0A5F5Y760_FELCA [tr]	Matrilin 2	964	Felis catus (Cat) (Felis silvestris catus) [9685]	120-125		
+LLQYGS	6	M3VY10	M3VY10_FELCA [tr]	Matrilin 2	916	Felis catus (Cat) (Felis silvestris catus) [9685]	99-104		
+LLPLVS	1	A0A5F5XE19	A0A5F5XE19_FELCA [tr]	Podocalyxin	578	Felis catus (Cat) (Felis silvestris catus) [9685]	177-182		
+LLPLVS	2	A0A5F5XZW1	A0A5F5XZW1_FELCA [tr]	Catenin alpha like 1	178	Felis catus (Cat) (Felis silvestris catus) [9685]	35-40		
+LLPLVS	3	A0A5F5Y467	A0A5F5Y467_FELCA [tr]	Podocalyxin	594	Felis catus (Cat) (Felis silvestris catus) [9685]	193-198		
+LLPLVS	4	M3WI94	M3WI94_FELCA [tr]	Podocalyxin	578	Felis catus (Cat) (Felis silvestris catus) [9685]	177-182		
+LLPLVS	5	M3X6F2	M3X6F2_FELCA [tr]	Catenin alpha like 1	728	Felis catus (Cat) (Felis silvestris catus) [9685]	35-40		
+LIRAAE	1	A0A2I2U437	A0A2I2U437_FELCA [tr]	Myosin XVIIIA	2050	Felis catus (Cat) (Felis silvestris catus) [9685]	1348-1353		
+LIRAAE	2	A0A2I2UHK9	A0A2I2UHK9_FELCA [tr]	Myosin XVIIIA	2042	Felis catus (Cat) (Felis silvestris catus) [9685]	1355-1360		
+LIRAAE	3	A0A2I2UJT0	A0A2I2UJT0_FELCA [tr]	Myosin XVIIIA	2054	Felis catus (Cat) (Felis silvestris catus) [9685]	1352-1357		
+LIRAAE	4	A0A2I2URK3	A0A2I2URK3_FELCA [tr]	Myosin XVIIIA	2057	Felis catus (Cat) (Felis silvestris catus) [9685]	1355-1360		
+LIRAAE	5	M3W6Z9	M3W6Z9_FELCA [tr]	Myosin XVIIIA	2002	Felis catus (Cat) (Felis silvestris catus) [9685]	1352-1357		
+LIRAAE	6	M3X8C8	M3X8C8_FELCA [tr]	Myosin XVIIIA	2066	Felis catus (Cat) (Felis silvestris catus) [9685]	1364-1369		
+DRLNEV	1	M3W1C4	M3W1C4_FELCA [tr]	Maestro heat like repeat family member 7	1328	Felis catus (Cat) (Felis silvestris catus) [9685]	1240-1245		
+SSSGWT	1	M3X355	M3X355_FELCA [tr]	KIAA1109	4993	Felis catus (Cat) (Felis silvestris catus) [9685]	765-770		
+LHRSYL	1	A0A2I2USB3	A0A2I2USB3_FELCA [tr]	DNA topoisomerase II binding protein 1	1449	Felis catus (Cat) (Felis silvestris catus) [9685]	1257-1262		
+LHRSYL	2	A0A5F5Y4G4	A0A5F5Y4G4_FELCA [tr]	DNA topoisomerase II binding protein 1	1551	Felis catus (Cat) (Felis silvestris catus) [9685]	1359-1364		
+LHRSYL	3	M3W3K2	M3W3K2_FELCA [tr]	DNA topoisomerase II binding protein 1	1513	Felis catus (Cat) (Felis silvestris catus) [9685]	1321-1326		
+TEVPVA	1	A0A2I2U249	A0A2I2U249_FELCA [tr]	Intersectin 2	1672	Felis catus (Cat) (Felis silvestris catus) [9685]	1626-1631		
+TEVPVA	2	A0A5F5XMH6	A0A5F5XMH6_FELCA [tr]	Intersectin 2	1662	Felis catus (Cat) (Felis silvestris catus) [9685]	1616-1621		
+TEVPVA	3	M3W1Z1	M3W1Z1_FELCA [tr]	Intersectin 2	1689	Felis catus (Cat) (Felis silvestris catus) [9685]	1643-1648		
+FKNLRE	1	A0A5F5XKU0	A0A5F5XKU0_FELCA [tr]	Ras protein specific guanine nucleotide releasing factor 1	1312	Felis catus (Cat) (Felis silvestris catus) [9685]	1211-1216		
+FKNLRE	2	A0A5F5Y6H0	A0A5F5Y6H0_FELCA [tr]	Ras protein specific guanine nucleotide releasing factor 2	1145	Felis catus (Cat) (Felis silvestris catus) [9685]	1044-1049		
+FKNLRE	3	M3WGI3	M3WGI3_FELCA [tr]	Ras protein specific guanine nucleotide releasing factor 1	1260	Felis catus (Cat) (Felis silvestris catus) [9685]	1159-1164		
+FKNLRE	4	M3X8L5	M3X8L5_FELCA [tr]	Ras protein specific guanine nucleotide releasing factor 2	1239	Felis catus (Cat) (Felis silvestris catus) [9685]	1138-1143		
+PLLTDE	1	A0A337S9S4	A0A337S9S4_FELCA [tr]	Mono-ADP ribosylhydrolase 1	325	Felis catus (Cat) (Felis silvestris catus) [9685]	193-198		
+LTDEMI	1	M3WEX9	M3WEX9_FELCA [tr]	Proteoglycan 3	225	Felis catus (Cat) (Felis silvestris catus) [9685]	52-57		
+QQLIRA	1	M3X2A7	M3X2A7_FELCA [tr]	Sorting nexin 13	1182	Felis catus (Cat) (Felis silvestris catus) [9685]	1027-1032		
+HVSGTN	1	A0A337S496	A0A337S496_FELCA [tr]	Collagen type XI alpha 1 chain	1767	Felis catus (Cat) (Felis silvestris catus) [9685]	285-290		
+HVSGTN	2	A0A337S6Y6	A0A337S6Y6_FELCA [tr]	Collagen type XI alpha 1 chain	1806	Felis catus (Cat) (Felis silvestris catus) [9685]	324-329		
+HVSGTN	3	A0A337SHF4	A0A337SHF4_FELCA [tr]	Collagen type XI alpha 1 chain	1818	Felis catus (Cat) (Felis silvestris catus) [9685]	336-341		
+HVSGTN	4	A0A5F5Y0W8	A0A5F5Y0W8_FELCA [tr]	Collagen type XI alpha 1 chain	781	Felis catus (Cat) (Felis silvestris catus) [9685]	375-380		
+EGVFVS	1	A0A2I2UXH0	A0A2I2UXH0_FELCA [tr]	NHS actin remodeling regulator	1538	Felis catus (Cat) (Felis silvestris catus) [9685]	1316-1321		
+EGVFVS	2	A0A337SQB3	A0A337SQB3_FELCA [tr]	NHS actin remodeling regulator	1624	Felis catus (Cat) (Felis silvestris catus) [9685]	1402-1407		
+EGVFVS	3	M3VU89	M3VU89_FELCA [tr]	NHS actin remodeling regulator	1474	Felis catus (Cat) (Felis silvestris catus) [9685]	1252-1257		
+KQLSSN	1	A0A337S845	A0A337S845_FELCA [tr]	Mediator complex subunit 12L	2138	Felis catus (Cat) (Felis silvestris catus) [9685]	2118-2123		
+KQLSSN	2	A0A5F5XBN5	A0A5F5XBN5_FELCA [tr]	Adenylate cyclase 9	1249	Felis catus (Cat) (Felis silvestris catus) [9685]	35-40		
+KQLSSN	3	M3WD69	M3WD69_FELCA [tr]	Mediator complex subunit 12L	1810	Felis catus (Cat) (Felis silvestris catus) [9685]	1790-1795		
+KQLSSN	4	M3WWD4	M3WWD4_FELCA [tr]	Adenylate cyclase 9	1352	Felis catus (Cat) (Felis silvestris catus) [9685]	35-40		
+VEKGIY	1	A0A2I2UKX1	A0A2I2UKX1_FELCA [tr]	Laminin subunit alpha 3	1726	Felis catus (Cat) (Felis silvestris catus) [9685]	1548-1553		
+VEKGIY	2	A0A2I2UWD4	A0A2I2UWD4_FELCA [tr]	Laminin subunit alpha 3	3276	Felis catus (Cat) (Felis silvestris catus) [9685]	3098-3103		
+VEKGIY	3	M3WBR0	M3WBR0_FELCA [tr]	Laminin subunit alpha 3	3332	Felis catus (Cat) (Felis silvestris catus) [9685]	3154-3159		
+SKPSKR	1	A0A337SDS2	A0A337SDS2_FELCA [tr]	ABI family member 3 binding protein	1771	Felis catus (Cat) (Felis silvestris catus) [9685]	654-659		
+SKPSKR	2	A0A5F5XBT0	A0A5F5XBT0_FELCA [tr]	ABI family member 3 binding protein	997	Felis catus (Cat) (Felis silvestris catus) [9685]	654-659		
+SKPSKR	3	A0A5F5XLN6	A0A5F5XLN6_FELCA [tr]	ABI family member 3 binding protein	769	Felis catus (Cat) (Felis silvestris catus) [9685]	152-157		
+QSIIAY	1	M3W182	M3W182_FELCA [tr]	Coatomer subunit alpha	1233	Felis catus (Cat) (Felis silvestris catus) [9685]	632-637		
+FDEDDS	1	A0A337SEM1	A0A337SEM1_FELCA [tr]	Uncharacterized LOC101086002	1744	Felis catus (Cat) (Felis silvestris catus) [9685]	1067-1072		
+FDEDDS	2	M3WLR9	M3WLR9_FELCA [tr]	Uncharacterized LOC101086002	1782	Felis catus (Cat) (Felis silvestris catus) [9685]	1124-1129		
+NLTTRT	1	A0A5F5XSN3	A0A5F5XSN3_FELCA [tr]	Family with sequence similarity 71 member A	595	Felis catus (Cat) (Felis silvestris catus) [9685]	539-544		
+RALTGI	1	A0A5F5XHR0	A0A5F5XHR0_FELCA [tr]	Grancalcin	246	Felis catus (Cat) (Felis silvestris catus) [9685]	186-191		
+EIYQAG	1	A0A5F5XM31	A0A5F5XM31_FELCA [tr]	Dolichyl-phosphate-mannose--protein mannosyltransferase	884	Felis catus (Cat) (Felis silvestris catus) [9685]	605-610		
+EIYQAG	2	A0A5F5XQC4	A0A5F5XQC4_FELCA [tr]	Dolichyl-phosphate-mannose--protein mannosyltransferase	908	Felis catus (Cat) (Felis silvestris catus) [9685]	629-634		
+EIYQAG	3	M3WTH9	M3WTH9_FELCA [tr]	Dolichyl-phosphate-mannose--protein mannosyltransferase	946	Felis catus (Cat) (Felis silvestris catus) [9685]	667-672		
+LVRDLP	1	A0A5F5XUT3	A0A5F5XUT3_FELCA [tr]	Ectonucleoside triphosphate diphosphohydrolase 7	641	Felis catus (Cat) (Felis silvestris catus) [9685]	192-197		
+LVRDLP	2	M3WKL5	M3WKL5_FELCA [tr]	Ectonucleoside triphosphate diphosphohydrolase 7	604	Felis catus (Cat) (Felis silvestris catus) [9685]	192-197		
+AISSVL	1	A0A337S925	A0A337S925_FELCA [tr]	Germ cell associated 1	382	Felis catus (Cat) (Felis silvestris catus) [9685]	225-230		
+AISSVL	2	A0A337SMC1	A0A337SMC1_FELCA [tr]	Germ cell associated 1	325	Felis catus (Cat) (Felis silvestris catus) [9685]	168-173		
+AISSVL	3	M3WKJ1	M3WKJ1_FELCA [tr]	Transforming growth factor-beta-induced protein ig-h3	683	Felis catus (Cat) (Felis silvestris catus) [9685]	627-632		
+AISSVL	4	M3WT89	M3WT89_FELCA [tr]	Ribosome biogenesis protein WDR12	423	Felis catus (Cat) (Felis silvestris catus) [9685]	259-264		
+AISSVL	5	M3WUC2	M3WUC2_FELCA [tr]	Germ cell associated 1	328	Felis catus (Cat) (Felis silvestris catus) [9685]	171-176		
+RSYLTP	1	A0A2I2U7C8	A0A2I2U7C8_FELCA [tr]	Protein phosphatase 1 regulatory subunit	994	Felis catus (Cat) (Felis silvestris catus) [9685]	666-671		
+RSYLTP	2	A0A2I2UGC7	A0A2I2UGC7_FELCA [tr]	Protein phosphatase 1 regulatory subunit	973	Felis catus (Cat) (Felis silvestris catus) [9685]	610-615		
+RSYLTP	3	A0A2I2UR59	A0A2I2UR59_FELCA [tr]	Protein phosphatase 1 regulatory subunit	884	Felis catus (Cat) (Felis silvestris catus) [9685]	607-612		
+RSYLTP	4	A0A337S3Q2	A0A337S3Q2_FELCA [tr]	Protein phosphatase 1 regulatory subunit 12B	1156	Felis catus (Cat) (Felis silvestris catus) [9685]	773-778		
+RSYLTP	5	A0A5F5XG21	A0A5F5XG21_FELCA [tr]	Protein phosphatase 1 regulatory subunit	863	Felis catus (Cat) (Felis silvestris catus) [9685]	705-710		
+RSYLTP	6	A0A5F5XI62	A0A5F5XI62_FELCA [tr]	Protein phosphatase 1 regulatory subunit	1107	Felis catus (Cat) (Felis silvestris catus) [9685]	716-721		
+RSYLTP	7	A0A5F5XRW5	A0A5F5XRW5_FELCA [tr]	Protein phosphatase 1 regulatory subunit	1095	Felis catus (Cat) (Felis silvestris catus) [9685]	712-717		
+RSYLTP	8	A0A5F5XSC1	A0A5F5XSC1_FELCA [tr]	Protein phosphatase 1 regulatory subunit	982	Felis catus (Cat) (Felis silvestris catus) [9685]	705-710		
+RSYLTP	9	A0A5F5Y2T4	A0A5F5Y2T4_FELCA [tr]	Protein phosphatase 1 regulatory subunit 12B	1140	Felis catus (Cat) (Felis silvestris catus) [9685]	773-778		
+RSYLTP	10	M3VUT0	M3VUT0_FELCA [tr]	Protein phosphatase 1 regulatory subunit	1042	Felis catus (Cat) (Felis silvestris catus) [9685]	712-717		
+RSYLTP	11	M3WZI4	M3WZI4_FELCA [tr]	Protein phosphatase 1 regulatory subunit	1029	Felis catus (Cat) (Felis silvestris catus) [9685]	666-671		
+AAAYYV	1	M3VY15	M3VY15_FELCA [tr]	URB1 ribosome biogenesis homolog	2269	Felis catus (Cat) (Felis silvestris catus) [9685]	1683-1688		
+LVDLPI	1	A0A337S0K9	A0A337S0K9_FELCA [tr]	HECT-type E3 ubiquitin transferase	2610	Felis catus (Cat) (Felis silvestris catus) [9685]	2261-2266		
+LVDLPI	2	M3VX66	M3VX66_FELCA [tr]	HECT-type E3 ubiquitin transferase	2549	Felis catus (Cat) (Felis silvestris catus) [9685]	2200-2205		
+TSALLA	1	A0A337RXE6	A0A337RXE6_FELCA [tr]	Solute carrier family 9 member B2	492	Felis catus (Cat) (Felis silvestris catus) [9685]	218-223		
+TSALLA	2	M3X5X0	M3X5X0_FELCA [tr]	Solute carrier family 9 member B2	547	Felis catus (Cat) (Felis silvestris catus) [9685]	218-223		
+FVFLVL	1	A0A2I2UZL4	A0A2I2UZL4_FELCA [tr]	Prostacyclin synthase	500	Felis catus (Cat) (Felis silvestris catus) [9685]	454-459		
+FVFLVL	2	M3X7F8	M3X7F8_FELCA [tr]	Olfactory receptor	327	Felis catus (Cat) (Felis silvestris catus) [9685]	42-47		
+PTNFTI	1	A0A337SCE9	A0A337SCE9_FELCA [tr]	Interleukin 5 receptor subunit alpha	325	Felis catus (Cat) (Felis silvestris catus) [9685]	33-38		
+PTNFTI	2	A0A5F5XBX7	A0A5F5XBX7_FELCA [tr]	Interleukin 5 receptor subunit alpha	391	Felis catus (Cat) (Felis silvestris catus) [9685]	30-35		
+PTNFTI	3	A0A5F5Y026	A0A5F5Y026_FELCA [tr]	Interleukin 5 receptor subunit alpha	414	Felis catus (Cat) (Felis silvestris catus) [9685]	30-35		
+PTNFTI	4	M3VV63	M3VV63_FELCA [tr]	Interleukin 5 receptor subunit alpha	420	Felis catus (Cat) (Felis silvestris catus) [9685]	33-38		
+DYSVLY	1	A0A2I2UBW6	A0A2I2UBW6_FELCA [tr]	Transmembrane protein with EGF like and two follistatin like domains 2	394	Felis catus (Cat) (Felis silvestris catus) [9685]	324-329		
+DYSVLY	2	A0A337SSB3	A0A337SSB3_FELCA [tr]	Transmembrane protein with EGF like and two follistatin like domains 2	346	Felis catus (Cat) (Felis silvestris catus) [9685]	304-309		
+DYSVLY	3	M3WHB6	M3WHB6_FELCA [tr]	Transmembrane protein with EGF like and two follistatin like domains 2	369	Felis catus (Cat) (Felis silvestris catus) [9685]	304-309		
+YSTGSN	1	A0A337RWJ4	A0A337RWJ4_FELCA [tr]	Zinc finger protein 573	612	Felis catus (Cat) (Felis silvestris catus) [9685]	423-428		
+TDAVDC	1	M3W0D9	M3W0D9_FELCA [tr]	F-box protein 34	764	Felis catus (Cat) (Felis silvestris catus) [9685]	482-487		
+AENSVA	1	A0A337SLR0	A0A337SLR0_FELCA [tr]	Hedgehog protein	460	Felis catus (Cat) (Felis silvestris catus) [9685]	186-191		
+AENSVA	2	A0A5F5Y3P3	A0A5F5Y3P3_FELCA [tr]	Hedgehog protein	556	Felis catus (Cat) (Felis silvestris catus) [9685]	282-287		
+LDKVEA	1	M3VU76	M3VU76_FELCA [tr]	AT-hook transcription factor	1405	Felis catus (Cat) (Felis silvestris catus) [9685]	817-822		
+LDKVEA	2	M3WCK3	M3WCK3_FELCA [tr]	Desmoplakin	2884	Felis catus (Cat) (Felis silvestris catus) [9685]	810-815		
+LDKVEA	3	M3X192	M3X192_FELCA [tr]	DNA topoisomerase 2	1621	Felis catus (Cat) (Felis silvestris catus) [9685]	1194-1199		
+LEILDI	1	A0A2I2V4U6	A0A2I2V4U6_FELCA [tr]	Toll like receptor 7	1071	Felis catus (Cat) (Felis silvestris catus) [9685]	590-595		
+LEILDI	2	A0A337RYA3	A0A337RYA3_FELCA [tr]	Protein phosphatase 1 regulatory subunit 7	317	Felis catus (Cat) (Felis silvestris catus) [9685]	101-106		
+LEILDI	3	A1XC22	A1XC22_FELCA [tr]	Toll-like receptor 7	1050	Felis catus (Cat) (Felis silvestris catus) [9685]	569-574		
+LEILDI	4	M3WDA6	M3WDA6_FELCA [tr]	Protein phosphatase 1 regulatory subunit 7	360	Felis catus (Cat) (Felis silvestris catus) [9685]	144-149		
+LEILDI	5	M3X0I5	M3X0I5_FELCA [tr]	Toll-like receptor 2	784	Felis catus (Cat) (Felis silvestris catus) [9685]	459-464		
+LEILDI	6	Q66WK0	Q66WK0_FELCA [tr]	Toll-like receptor 2 (Fragment)	259	Felis catus (Cat) (Felis silvestris catus) [9685]	56-61		
+GAGAAL	1	A0A2I2UAN7	A0A2I2UAN7_FELCA [tr]	Rho GTPase activating protein 45	1117	Felis catus (Cat) (Felis silvestris catus) [9685]	994-999		
+GAGAAL	2	A0A2I2UJG2	A0A2I2UJG2_FELCA [tr]	CutA divalent cation tolerance homolog	177	Felis catus (Cat) (Felis silvestris catus) [9685]	12-17		
+GAGAAL	3	A0A5F5XGG0	A0A5F5XGG0_FELCA [tr]	Upstream transcription factor 2, c-fos interacting	367	Felis catus (Cat) (Felis silvestris catus) [9685]	27-32		
+GAGAAL	4	A0A5F5XGR2	A0A5F5XGR2_FELCA [tr]	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	563	Felis catus (Cat) (Felis silvestris catus) [9685]	468-473		
+GAGAAL	5	A0A5F5Y0H2	A0A5F5Y0H2_FELCA [tr]	Rho GTPase activating protein 45	752	Felis catus (Cat) (Felis silvestris catus) [9685]	629-634		
+GAGAAL	6	A0A5F5Y2T8	A0A5F5Y2T8_FELCA [tr]	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	606	Felis catus (Cat) (Felis silvestris catus) [9685]	468-473		
+GAGAAL	7	A0A5F5Y3B9	A0A5F5Y3B9_FELCA [tr]	Sphingomyelin phosphodiesterase 5	474	Felis catus (Cat) (Felis silvestris catus) [9685]	66-71		
+GAGAAL	8	M3W7I1	M3W7I1_FELCA [tr]	Rho GTPase activating protein 45	1123	Felis catus (Cat) (Felis silvestris catus) [9685]	1000-1005		
+GAGAAL	9	M3WJ88	M3WJ88_FELCA [tr]	CutA divalent cation tolerance homolog	154	Felis catus (Cat) (Felis silvestris catus) [9685]	12-17		
+CTLKSF	1	A0A5F5Y1P4	A0A5F5Y1P4_FELCA [tr]	Ubiquitin like modifier activating enzyme 6	1111	Felis catus (Cat) (Felis silvestris catus) [9685]	684-689		
+CTLKSF	2	M3W5E9	M3W5E9_FELCA [tr]	Ubiquitin like modifier activating enzyme 6	1052	Felis catus (Cat) (Felis silvestris catus) [9685]	625-630		
+QDSLSS	1	A0A337SAV5	A0A337SAV5_FELCA [tr]	Squalene synthase	472	Felis catus (Cat) (Felis silvestris catus) [9685]	88-93		
+QDSLSS	2	A0A337SWU6	A0A337SWU6_FELCA [tr]	Squalene synthase	374	Felis catus (Cat) (Felis silvestris catus) [9685]	33-38		
+QDSLSS	3	A0A5F5XJR5	A0A5F5XJR5_FELCA [tr]	Golgin A3	1381	Felis catus (Cat) (Felis silvestris catus) [9685]	454-459		
+QDSLSS	4	M3VYM4	M3VYM4_FELCA [tr]	Golgin A3	1489	Felis catus (Cat) (Felis silvestris catus) [9685]	454-459		
+QDSLSS	5	M3WGU2	M3WGU2_FELCA [tr]	Macrophage-expressed gene 1 protein	717	Felis catus (Cat) (Felis silvestris catus) [9685]	227-232		
+QDSLSS	6	M3WLT9	M3WLT9_FELCA [tr]	Squalene synthase	463	Felis catus (Cat) (Felis silvestris catus) [9685]	79-84		
+QDSLSS	7	M3WQP6	M3WQP6_FELCA [tr]	Spalt like transcription factor 1	1238	Felis catus (Cat) (Felis silvestris catus) [9685]	840-845		
+RGWIFG	1	A0A5F5XC91	A0A5F5XC91_FELCA [tr]	ATP binding cassette subfamily C member 6	1457	Felis catus (Cat) (Felis silvestris catus) [9685]	988-993		
+RGWIFG	2	M3WB38	M3WB38_FELCA [tr]	ABC-type glutathione-S-conjugate transporter	1504	Felis catus (Cat) (Felis silvestris catus) [9685]	988-993		
+DILSRL	1	M3W869	M3W869_FELCA [tr]	Flotillin	427	Felis catus (Cat) (Felis silvestris catus) [9685]	399-404		
+GRLQSL	1	A0A2I2UL51	A0A2I2UL51_FELCA [tr]	Neuron navigator 3	2205	Felis catus (Cat) (Felis silvestris catus) [9685]	1460-1465		
+GRLQSL	2	A0A2I2V029	A0A2I2V029_FELCA [tr]	ERCC excision repair 1, endonuclease non-catalytic subunit	274	Felis catus (Cat) (Felis silvestris catus) [9685]	155-160		
+GRLQSL	3	A0A337S255	A0A337S255_FELCA [tr]	ERCC excision repair 1, endonuclease non-catalytic subunit	213	Felis catus (Cat) (Felis silvestris catus) [9685]	155-160		
+GRLQSL	4	A0A337S359	A0A337S359_FELCA [tr]	ERCC excision repair 1, endonuclease non-catalytic subunit	226	Felis catus (Cat) (Felis silvestris catus) [9685]	83-88		
+GRLQSL	5	A0A337S5E6	A0A337S5E6_FELCA [tr]	ERCC excision repair 1, endonuclease non-catalytic subunit	329	Felis catus (Cat) (Felis silvestris catus) [9685]	151-156		
+GRLQSL	6	A0A337SBX6	A0A337SBX6_FELCA [tr]	Neuron navigator 3	2385	Felis catus (Cat) (Felis silvestris catus) [9685]	1611-1616		
+GRLQSL	7	A0A337SN55	A0A337SN55_FELCA [tr]	Neuron navigator 3	2363	Felis catus (Cat) (Felis silvestris catus) [9685]	1611-1616		
+GRLQSL	8	A0A5F5XS02	A0A5F5XS02_FELCA [tr]	Neuron navigator 3	1841	Felis catus (Cat) (Felis silvestris catus) [9685]	1096-1101		
+GRLQSL	9	M3W7Q7	M3W7Q7_FELCA [tr]	ERCC excision repair 1, endonuclease non-catalytic subunit	298	Felis catus (Cat) (Felis silvestris catus) [9685]	155-160		
+GRLQSL	10	M3WIA0	M3WIA0_FELCA [tr]	Neuron navigator 3	2219	Felis catus (Cat) (Felis silvestris catus) [9685]	1474-1479		
+LREFVF	1	A0A2I2V4H0	A0A2I2V4H0_FELCA [tr]	39S ribosomal protein L35, mitochondrial	173	Felis catus (Cat) (Felis silvestris catus) [9685]	144-149		
+LREFVF	2	A0A337SMX6	A0A337SMX6_FELCA [tr]	39S ribosomal protein L35, mitochondrial	188	Felis catus (Cat) (Felis silvestris catus) [9685]	144-149		
+DDSEPV	1	A0A2I2UP15	A0A2I2UP15_FELCA [tr]	G3BP stress granule assembly factor 2	449	Felis catus (Cat) (Felis silvestris catus) [9685]	347-352		
+DDSEPV	2	A0A337SFA0	A0A337SFA0_FELCA [tr]	G3BP stress granule assembly factor 1	465	Felis catus (Cat) (Felis silvestris catus) [9685]	385-390		
+DDSEPV	3	A0A5F5XTJ1	A0A5F5XTJ1_FELCA [tr]	V-set and immunoglobulin domain containing 10	501	Felis catus (Cat) (Felis silvestris catus) [9685]	59-64		
+DDSEPV	4	M3VY76	M3VY76_FELCA [tr]	V-set and immunoglobulin domain containing 10	538	Felis catus (Cat) (Felis silvestris catus) [9685]	59-64		
+DDSEPV	5	M3W553	M3W553_FELCA [tr]	G3BP stress granule assembly factor 1	421	Felis catus (Cat) (Felis silvestris catus) [9685]	385-390		
+DDSEPV	6	M3WRA6	M3WRA6_FELCA [tr]	G3BP stress granule assembly factor 2	482	Felis catus (Cat) (Felis silvestris catus) [9685]	380-385		
+SFELLH	1	M3XDV7	M3XDV7_FELCA [tr]	DNA damage-binding protein 1	1140	Felis catus (Cat) (Felis silvestris catus) [9685]	573-578		
+YGSFCT	1	A0A337S7C5	A0A337S7C5_FELCA [tr]	Adhesion G protein-coupled receptor E1	755	Felis catus (Cat) (Felis silvestris catus) [9685]	340-345		
+YGSFCT	2	A0A337SJS5	A0A337SJS5_FELCA [tr]	Adhesion G protein-coupled receptor E1	679	Felis catus (Cat) (Felis silvestris catus) [9685]	199-204		
+YGSFCT	3	M3W3D7	M3W3D7_FELCA [tr]	Adhesion G protein-coupled receptor E1	820	Felis catus (Cat) (Felis silvestris catus) [9685]	340-345		
+PCSFGG	1	A0A5F5XFY4	A0A5F5XFY4_FELCA [tr]	Uncharacterized protein	1256	Felis catus (Cat) (Felis silvestris catus) [9685]	825-830		
+LPFQQF	1	A0A2I2U2V0	A0A2I2U2V0_FELCA [tr]	Family with sequence similarity 111 member B	777	Felis catus (Cat) (Felis silvestris catus) [9685]	483-488		
+LPFQQF	2	A0A337S0Z8	A0A337S0Z8_FELCA [tr]	Alpha-S1-casein	170	Felis catus (Cat) (Felis silvestris catus) [9685]	118-123		
+LPFQQF	3	A0A337SN74	A0A337SN74_FELCA [tr]	Alpha-S1-casein	183	Felis catus (Cat) (Felis silvestris catus) [9685]	131-136		
+LPFQQF	4	A0A337SX97	A0A337SX97_FELCA [tr]	Alpha-S1-casein	175	Felis catus (Cat) (Felis silvestris catus) [9685]	123-128		
+GDSSSG	1	A0A2I2V044	A0A2I2V044_FELCA [tr]	Peroxidase	1502	Felis catus (Cat) (Felis silvestris catus) [9685]	1472-1477		
+GDSSSG	2	A0A337SC56	A0A337SC56_FELCA [tr]	Sphingolipid transporter 1 (putative)	476	Felis catus (Cat) (Felis silvestris catus) [9685]	93-98		
+GDSSSG	3	A0A5F5XC01	A0A5F5XC01_FELCA [tr]	ASXL transcriptional regulator 2	1441	Felis catus (Cat) (Felis silvestris catus) [9685]	1175-1180		
+GDSSSG	4	A0A5F5XVC8	A0A5F5XVC8_FELCA [tr]	Sphingolipid transporter 1 (putative)	1024	Felis catus (Cat) (Felis silvestris catus) [9685]	589-594		
+GDSSSG	5	A0A5F5Y2R9	A0A5F5Y2R9_FELCA [tr]	Signal induced proliferation associated 1 like 3	1702	Felis catus (Cat) (Felis silvestris catus) [9685]	1194-1199		
+GDSSSG	6	A0A5F5Y4F7	A0A5F5Y4F7_FELCA [tr]	Peroxidase	1497	Felis catus (Cat) (Felis silvestris catus) [9685]	1467-1472		
+GDSSSG	7	M3VZQ7	M3VZQ7_FELCA [tr]	Sphingolipid transporter 1 (putative)	573	Felis catus (Cat) (Felis silvestris catus) [9685]	138-143		
+GDSSSG	8	M3W124	M3W124_FELCA [tr]	ASXL transcriptional regulator 2	1448	Felis catus (Cat) (Felis silvestris catus) [9685]	1182-1187		
+GDSSSG	9	M3W9E0	M3W9E0_FELCA [tr]	Peroxidase	1473	Felis catus (Cat) (Felis silvestris catus) [9685]	1443-1448		
+GDSSSG	10	M3WKT0	M3WKT0_FELCA [tr]	Signal induced proliferation associated 1 like 3	1776	Felis catus (Cat) (Felis silvestris catus) [9685]	1194-1199		
+VFQTRA	1	A0A2I2U3M2	A0A2I2U3M2_FELCA [tr]	Eukaryotic translation initiation factor 4E nuclear import factor 1	963	Felis catus (Cat) (Felis silvestris catus) [9685]	546-551		
+VFQTRA	2	A0A2I2UHA1	A0A2I2UHA1_FELCA [tr]	Eukaryotic translation initiation factor 4E nuclear import factor 1	813	Felis catus (Cat) (Felis silvestris catus) [9685]	395-400		
+VFQTRA	3	A0A337SJX0	A0A337SJX0_FELCA [tr]	Eukaryotic translation initiation factor 4E nuclear import factor 1	1026	Felis catus (Cat) (Felis silvestris catus) [9685]	609-614		
+TQLPPA	1	A0A2I2UZJ2	A0A2I2UZJ2_FELCA [tr]	Tudor domain-containing protein 5	980	Felis catus (Cat) (Felis silvestris catus) [9685]	877-882		
+TQLPPA	2	A0A337S3Q7	A0A337S3Q7_FELCA [tr]	NIMA related kinase 10	454	Felis catus (Cat) (Felis silvestris catus) [9685]	328-333		
+TQLPPA	3	A0A337SHQ5	A0A337SHQ5_FELCA [tr]	Pleckstrin homology and RUN domain containing M2	1222	Felis catus (Cat) (Felis silvestris catus) [9685]	733-738		
+TQLPPA	4	A0A337SIB8	A0A337SIB8_FELCA [tr]	NIMA related kinase 10	501	Felis catus (Cat) (Felis silvestris catus) [9685]	375-380		
+TQLPPA	5	A0A5F5XEY3	A0A5F5XEY3_FELCA [tr]	Pleckstrin homology and RUN domain containing M2	985	Felis catus (Cat) (Felis silvestris catus) [9685]	496-501		
+TQLPPA	6	M3VXB3	M3VXB3_FELCA [tr]	Tudor domain-containing protein 5	1034	Felis catus (Cat) (Felis silvestris catus) [9685]	931-936		
+TQLPPA	7	M3VZR9	M3VZR9_FELCA [tr]	NIMA related kinase 10	1173	Felis catus (Cat) (Felis silvestris catus) [9685]	1047-1052		
+TQLPPA	8	M3WFC9	M3WFC9_FELCA [tr]	Pleckstrin homology and RUN domain containing M2	1242	Felis catus (Cat) (Felis silvestris catus) [9685]	753-758		
+NTFVSG	1	A0A337SPY9	A0A337SPY9_FELCA [tr]	G protein subunit beta 5	397	Felis catus (Cat) (Felis silvestris catus) [9685]	254-259		
+NTFVSG	2	A0A5F5XLZ2	A0A5F5XLZ2_FELCA [tr]	G protein subunit beta 5	353	Felis catus (Cat) (Felis silvestris catus) [9685]	210-215		
+NTFVSG	3	A0A5F5XZA8	A0A5F5XZA8_FELCA [tr]	G protein subunit beta 5	403	Felis catus (Cat) (Felis silvestris catus) [9685]	210-215		
+NTFVSG	4	M3WH70	M3WH70_FELCA [tr]	G protein subunit beta 5	283	Felis catus (Cat) (Felis silvestris catus) [9685]	140-145		
+LSFELL	1	A0A2I2UCC1	A0A2I2UCC1_FELCA [tr]	NBR1 autophagy cargo receptor	838	Felis catus (Cat) (Felis silvestris catus) [9685]	540-545		
+LSFELL	2	A0A2I2UFK8	A0A2I2UFK8_FELCA [tr]	NBR1 autophagy cargo receptor	968	Felis catus (Cat) (Felis silvestris catus) [9685]	561-566		
+LSFELL	3	M3WIB1	M3WIB1_FELCA [tr]	NBR1 autophagy cargo receptor	940	Felis catus (Cat) (Felis silvestris catus) [9685]	561-566		
+LSFELL	4	M3WKU9	M3WKU9_FELCA [tr]	Solute carrier family 25 member 19	320	Felis catus (Cat) (Felis silvestris catus) [9685]	98-103		
+KEELDK	1	A0A5F5XED8	A0A5F5XED8_FELCA [tr]	Transcription initiation factor TFIID 150 kDa subunit	1251	Felis catus (Cat) (Felis silvestris catus) [9685]	396-401		
+KEELDK	2	A0A5F5XEK3	A0A5F5XEK3_FELCA [tr]	N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D	394	Felis catus (Cat) (Felis silvestris catus) [9685]	97-102		
+KEELDK	3	A0A5F5XRX5	A0A5F5XRX5_FELCA [tr]	Transcription initiation factor TFIID 150 kDa subunit	1186	Felis catus (Cat) (Felis silvestris catus) [9685]	396-401		
+KEELDK	4	M3WCA6	M3WCA6_FELCA [tr]	Myosin VB	1849	Felis catus (Cat) (Felis silvestris catus) [9685]	1370-1375		
+KEELDK	5	M3WDP4	M3WDP4_FELCA [tr]	Calpain catalytic domain-containing protein	380	Felis catus (Cat) (Felis silvestris catus) [9685]	314-319		
+KEELDK	6	M3WQ77	M3WQ77_FELCA [tr]	N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D	388	Felis catus (Cat) (Felis silvestris catus) [9685]	97-102		
+KEELDK	7	M3X4Q8	M3X4Q8_FELCA [tr]	Transcription initiation factor TFIID 150 kDa subunit	1199	Felis catus (Cat) (Felis silvestris catus) [9685]	396-401		
+RKRISN	1	M3WP70	M3WP70_FELCA [tr]	Katanin regulatory subunit B1 like 1	304	Felis catus (Cat) (Felis silvestris catus) [9685]	26-31		
+NFKNLR	1	M3WB47	M3WB47_FELCA [tr]	Leucine rich repeat containing 36	753	Felis catus (Cat) (Felis silvestris catus) [9685]	48-53		
+NSVAYS	1	A0A5F5XLI3	A0A5F5XLI3_FELCA [tr]	Calcium-transporting ATPase	1102	Felis catus (Cat) (Felis silvestris catus) [9685]	7-12		
+NSVAYS	2	M3W822	M3W822_FELCA [tr]	Calcium-transporting ATPase	1220	Felis catus (Cat) (Felis silvestris catus) [9685]	7-12		
+NSVAYS	3	M3WT38	M3WT38_FELCA [tr]	Calcium-transporting ATPase	1176	Felis catus (Cat) (Felis silvestris catus) [9685]	7-12		
+PDPSKP	1	A0A5F5XIJ8	A0A5F5XIJ8_FELCA [tr]	Branched-chain-amino-acid aminotransferase	392	Felis catus (Cat) (Felis silvestris catus) [9685]	49-54		
+PDPSKP	2	A0A5F5XT40	A0A5F5XT40_FELCA [tr]	CD3e molecule	233	Felis catus (Cat) (Felis silvestris catus) [9685]	211-216		
+PDPSKP	3	M3W7L8	M3W7L8_FELCA [tr]	Branched-chain-amino-acid aminotransferase	404	Felis catus (Cat) (Felis silvestris catus) [9685]	49-54		
+PDPSKP	4	M3WN33	M3WN33_FELCA [tr]	Twinkle mtDNA helicase	684	Felis catus (Cat) (Felis silvestris catus) [9685]	677-682		
+SVLYNS	1	M3WC54	M3WC54_FELCA [tr]	BPI fold containing family C	507	Felis catus (Cat) (Felis silvestris catus) [9685]	177-182		
+LKSFTV	1	A0A2I2UDY3	A0A2I2UDY3_FELCA [tr]	Filamin A interacting protein 1	1186	Felis catus (Cat) (Felis silvestris catus) [9685]	510-515		
+LKSFTV	2	A0A2I2UG04	A0A2I2UG04_FELCA [tr]	Filamin A interacting protein 1	1213	Felis catus (Cat) (Felis silvestris catus) [9685]	501-506		
+LKSFTV	3	A0A337SGX7	A0A337SGX7_FELCA [tr]	Filamin A interacting protein 1	1134	Felis catus (Cat) (Felis silvestris catus) [9685]	516-521		
+LKSFTV	4	A0A5F5XTR8	A0A5F5XTR8_FELCA [tr]	Filamin A interacting protein 1	1102	Felis catus (Cat) (Felis silvestris catus) [9685]	501-506		
+LKSFTV	5	A0A5F5Y3Z3	A0A5F5Y3Z3_FELCA [tr]	Filamin A interacting protein 1	1236	Felis catus (Cat) (Felis silvestris catus) [9685]	560-565		
+LKSFTV	6	M3WC48	M3WC48_FELCA [tr]	Filamin A interacting protein 1	1192	Felis catus (Cat) (Felis silvestris catus) [9685]	516-521		
+SANLAA	1	A0A2I2UVY0	A0A2I2UVY0_FELCA [tr]	Neurotrophic receptor tyrosine kinase 2	553	Felis catus (Cat) (Felis silvestris catus) [9685]	198-203		
+SANLAA	2	A0A2I2UW08	A0A2I2UW08_FELCA [tr]	Tyrosine-protein kinase receptor	822	Felis catus (Cat) (Felis silvestris catus) [9685]	198-203		
+SANLAA	3	A0A337SM92	A0A337SM92_FELCA [tr]	Neurotrophic receptor tyrosine kinase 2	477	Felis catus (Cat) (Felis silvestris catus) [9685]	198-203		
+SANLAA	4	M3WAS3	M3WAS3_FELCA [tr]	Tyrosine-protein kinase receptor	838	Felis catus (Cat) (Felis silvestris catus) [9685]	198-203		
+PAQEKN	1	A0A337STJ1	A0A337STJ1_FELCA [tr]	Leiomodin 1	270	Felis catus (Cat) (Felis silvestris catus) [9685]	230-235		
+PAQEKN	2	M3VUS5	M3VUS5_FELCA [tr]	Leiomodin 1	579	Felis catus (Cat) (Felis silvestris catus) [9685]	539-544		
+IAQYTS	1	A0A5F5XGW8	A0A5F5XGW8_FELCA [tr]	Kinesin-like protein	960	Felis catus (Cat) (Felis silvestris catus) [9685]	321-326		
+IAQYTS	2	A0A5F5XV58	A0A5F5XV58_FELCA [tr]	Kinesin-like protein	996	Felis catus (Cat) (Felis silvestris catus) [9685]	357-362		
+IAQYTS	3	M3WUG6	M3WUG6_FELCA [tr]	Kinesin-like protein	1000	Felis catus (Cat) (Felis silvestris catus) [9685]	361-366		
+TGSNVF	1	M3WTW2	M3WTW2_FELCA [tr]	OTU deubiquitinase with linear linkage specificity like	337	Felis catus (Cat) (Felis silvestris catus) [9685]	172-177		
+NIQKEI	1	M3WNM5	M3WNM5_FELCA [tr]	Glucocorticoid modulatory element binding protein 1	563	Felis catus (Cat) (Felis silvestris catus) [9685]	265-270		
+FLVLLP	1	A0A337SAX5	A0A337SAX5_FELCA [tr]	Progestin and adipoQ receptor family member 4	273	Felis catus (Cat) (Felis silvestris catus) [9685]	62-67		
+FLVLLP	2	M3WD63	M3WD63_FELCA [tr]	Peroxisome assembly protein 12	359	Felis catus (Cat) (Felis silvestris catus) [9685]	119-124		
+FLVLLP	3	M3XAS1	M3XAS1_FELCA [tr]	Olfactory receptor	316	Felis catus (Cat) (Felis silvestris catus) [9685]	154-159		
+TLLALH	1	A0A337SWJ3	A0A337SWJ3_FELCA [tr]	Interferon regulatory factor 2 binding protein 2	575	Felis catus (Cat) (Felis silvestris catus) [9685]	312-317		
+TLLALH	2	M3W2S1	M3W2S1_FELCA [tr]	Sidekick cell adhesion molecule 2	2174	Felis catus (Cat) (Felis silvestris catus) [9685]	8-13		
+TLLALH	3	M3WVK5	M3WVK5_FELCA [tr]	Zinc finger protein 142	1847	Felis catus (Cat) (Felis silvestris catus) [9685]	116-121		
+TLLALH	4	M3WWK8	M3WWK8_FELCA [tr]	Midasin	5578	Felis catus (Cat) (Felis silvestris catus) [9685]	2343-2348		
+LQDVVN	1	M3WS57	M3WS57_FELCA [tr]	Protein phosphatase 2 regulatory subunit B''beta	579	Felis catus (Cat) (Felis silvestris catus) [9685]	242-247		
+QLPPAY	1	M3WNL5	M3WNL5_FELCA [tr]	Ankyrin and armadillo repeat containing	1433	Felis catus (Cat) (Felis silvestris catus) [9685]	133-138		
+QTLLAL	1	A0A2I2UPA0	A0A2I2UPA0_FELCA [tr]	Small integral membrane protein 23	161	Felis catus (Cat) (Felis silvestris catus) [9685]	30-35		
+SALGKL	1	A0A2I2U9V7	A0A2I2U9V7_FELCA [tr]	DOP1 leucine zipper like protein A	2475	Felis catus (Cat) (Felis silvestris catus) [9685]	39-44		
+SALGKL	2	A0A2I2UM74	A0A2I2UM74_FELCA [tr]	DOP1 leucine zipper like protein A	2485	Felis catus (Cat) (Felis silvestris catus) [9685]	39-44		
+SALGKL	3	A0A337SFK6	A0A337SFK6_FELCA [tr]	DOP1 leucine zipper like protein A	2404	Felis catus (Cat) (Felis silvestris catus) [9685]	39-44		
+SALGKL	4	M3W4K2	M3W4K2_FELCA [tr]	DOP1 leucine zipper like protein A	2465	Felis catus (Cat) (Felis silvestris catus) [9685]	39-44		
+SALGKL	5	M3X8Y2	M3X8Y2_FELCA [tr]	Gap junction protein	382	Felis catus (Cat) (Felis silvestris catus) [9685]	5-10		
+QTGKIA	1	A0A2I2U0F1	A0A2I2U0F1_FELCA [tr]	CAAT box DNA-binding protein subunit B	205	Felis catus (Cat) (Felis silvestris catus) [9685]	72-77		
+QTGKIA	2	A0A2I2UR54	A0A2I2UR54_FELCA [tr]	CAAT box DNA-binding protein subunit B	207	Felis catus (Cat) (Felis silvestris catus) [9685]	74-79		
+QTGKIA	3	M3XFA4	M3XFA4_FELCA [tr]	CAAT box DNA-binding protein subunit B	200	Felis catus (Cat) (Felis silvestris catus) [9685]	72-77		
+LLHAPA	1	A0A337RYF9	A0A337RYF9_FELCA [tr]	Histone-lysine N-methyltransferase, H3 lysine-79 specific	1522	Felis catus (Cat) (Felis silvestris catus) [9685]	435-440		
+LLHAPA	2	A0A5F5XS58	A0A5F5XS58_FELCA [tr]	Histone-lysine N-methyltransferase, H3 lysine-79 specific	1493	Felis catus (Cat) (Felis silvestris catus) [9685]	399-404		
+LLHAPA	3	A0A5F5XYT6	A0A5F5XYT6_FELCA [tr]	Histone-lysine N-methyltransferase, H3 lysine-79 specific	1817	Felis catus (Cat) (Felis silvestris catus) [9685]	560-565		
+LLHAPA	4	M3W9W1	M3W9W1_FELCA [tr]	Histone-lysine N-methyltransferase, H3 lysine-79 specific	1692	Felis catus (Cat) (Felis silvestris catus) [9685]	435-440		
+ANLAAT	1	A0A2I2UIY6	A0A2I2UIY6_FELCA [tr]	Anillin actin binding protein	1129	Felis catus (Cat) (Felis silvestris catus) [9685]	203-208		
+ANLAAT	2	A0A337S1I5	A0A337S1I5_FELCA [tr]	Anillin actin binding protein	1147	Felis catus (Cat) (Felis silvestris catus) [9685]	203-208		
+ANLAAT	3	A0A337SBA0	A0A337SBA0_FELCA [tr]	Anillin actin binding protein	1093	Felis catus (Cat) (Felis silvestris catus) [9685]	203-208		
+ANLAAT	4	A0A337SNB5	A0A337SNB5_FELCA [tr]	KISS1 receptor	227	Felis catus (Cat) (Felis silvestris catus) [9685]	82-87		
+ANLAAT	5	M3W821	M3W821_FELCA [tr]	Anillin actin binding protein	1092	Felis catus (Cat) (Felis silvestris catus) [9685]	203-208		
+ANLAAT	6	M3X286	M3X286_FELCA [tr]	KISS1 receptor	391	Felis catus (Cat) (Felis silvestris catus) [9685]	82-87		
+IVRFPN	1	A0A0G2YAU5	A0A0G2YAU5_FELCA [tr]	Ubiquitinyl hydrolase 1	2557	Felis catus (Cat) (Felis silvestris catus) [9685]	893-898		
+IVRFPN	2	A0A2I2U2V7	A0A2I2U2V7_FELCA [tr]	Ubiquitinyl hydrolase 1	2554	Felis catus (Cat) (Felis silvestris catus) [9685]	889-894		
+IVRFPN	3	A0A2I2UY22	A0A2I2UY22_FELCA [tr]	Cytochrome c oxidase subunit 4	201	Felis catus (Cat) (Felis silvestris catus) [9685]	5-10		
+DLFLPF	1	M3X408	M3X408_FELCA [tr]	AP-5 complex subunit beta-1	878	Felis catus (Cat) (Felis silvestris catus) [9685]	765-770		
+EVPVAI	1	M3WCU0	M3WCU0_FELCA [tr]	Receptor protein-tyrosine kinase	936	Felis catus (Cat) (Felis silvestris catus) [9685]	600-605		
+LVKQLS	1	A0A2I2UI78	A0A2I2UI78_FELCA [tr]	Rho GTPase activating protein 25	646	Felis catus (Cat) (Felis silvestris catus) [9685]	274-279		
+LVKQLS	2	A0A337S3L4	A0A337S3L4_FELCA [tr]	Protein inhibitor of activated STAT 1	645	Felis catus (Cat) (Felis silvestris catus) [9685]	278-283		
+LVKQLS	3	A0A337S3N2	A0A337S3N2_FELCA [tr]	Tetratricopeptide repeat domain 7B	878	Felis catus (Cat) (Felis silvestris catus) [9685]	29-34		
+LVKQLS	4	A0A337S506	A0A337S506_FELCA [tr]	Tetratricopeptide repeat domain 7B	933	Felis catus (Cat) (Felis silvestris catus) [9685]	29-34		
+LVKQLS	5	A0A337S636	A0A337S636_FELCA [tr]	Tetratricopeptide repeat domain 7B	923	Felis catus (Cat) (Felis silvestris catus) [9685]	29-34		
+LVKQLS	6	A0A5F5XLJ0	A0A5F5XLJ0_FELCA [tr]	Protein inhibitor of activated STAT 1	664	Felis catus (Cat) (Felis silvestris catus) [9685]	297-302		
+LVKQLS	7	A0A5F5XPD4	A0A5F5XPD4_FELCA [tr]	Tetratricopeptide repeat domain 7B	950	Felis catus (Cat) (Felis silvestris catus) [9685]	29-34		
+LVKQLS	8	A0A5F5XTA8	A0A5F5XTA8_FELCA [tr]	Protein inhibitor of activated STAT 1	655	Felis catus (Cat) (Felis silvestris catus) [9685]	288-293		
+LVKQLS	9	A0A5F5XW44	A0A5F5XW44_FELCA [tr]	Protein inhibitor of activated STAT 1	651	Felis catus (Cat) (Felis silvestris catus) [9685]	284-289		
+LVKQLS	10	A0A5F5XX06	A0A5F5XX06_FELCA [tr]	Tetratricopeptide repeat domain 7B	796	Felis catus (Cat) (Felis silvestris catus) [9685]	29-34		
+LVKQLS	11	A0A5F5XXG2	A0A5F5XXG2_FELCA [tr]	Tetratricopeptide repeat domain 7B	793	Felis catus (Cat) (Felis silvestris catus) [9685]	29-34		
+LVKQLS	12	M3VWW9	M3VWW9_FELCA [tr]	Tetratricopeptide repeat domain 7B	895	Felis catus (Cat) (Felis silvestris catus) [9685]	29-34		
+LVKQLS	13	M3W202	M3W202_FELCA [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2701	Felis catus (Cat) (Felis silvestris catus) [9685]	2659-2664		
+LVKQLS	14	M3W802	M3W802_FELCA [tr]	Rho GTPase activating protein 25	607	Felis catus (Cat) (Felis silvestris catus) [9685]	235-240		
+LVKQLS	15	M3W857	M3W857_FELCA [tr]	MHC class I region proline-rich protein CAT53	955	Felis catus (Cat) (Felis silvestris catus) [9685]	116-121		
+LVKQLS	16	M3WNG9	M3WNG9_FELCA [tr]	Protein inhibitor of activated STAT 1	644	Felis catus (Cat) (Felis silvestris catus) [9685]	277-282		
+EILPVS	1	A0A337SD10	A0A337SD10_FELCA [tr]	Histone acetyltransferase	2012	Felis catus (Cat) (Felis silvestris catus) [9685]	1179-1184		
+EILPVS	2	A0A5F5XFU5	A0A5F5XFU5_FELCA [tr]	Histone acetyltransferase	1944	Felis catus (Cat) (Felis silvestris catus) [9685]	1111-1116		
+EILPVS	3	M3WRM8	M3WRM8_FELCA [tr]	Histone acetyltransferase	1974	Felis catus (Cat) (Felis silvestris catus) [9685]	1141-1146		
+IRAAEI	1	A0A2I2U437	A0A2I2U437_FELCA [tr]	Myosin XVIIIA	2050	Felis catus (Cat) (Felis silvestris catus) [9685]	1349-1354		
+IRAAEI	2	A0A2I2UHK9	A0A2I2UHK9_FELCA [tr]	Myosin XVIIIA	2042	Felis catus (Cat) (Felis silvestris catus) [9685]	1356-1361		
+IRAAEI	3	A0A2I2UJT0	A0A2I2UJT0_FELCA [tr]	Myosin XVIIIA	2054	Felis catus (Cat) (Felis silvestris catus) [9685]	1353-1358		
+IRAAEI	4	A0A2I2URK3	A0A2I2URK3_FELCA [tr]	Myosin XVIIIA	2057	Felis catus (Cat) (Felis silvestris catus) [9685]	1356-1361		
+IRAAEI	5	M3W6Z9	M3W6Z9_FELCA [tr]	Myosin XVIIIA	2002	Felis catus (Cat) (Felis silvestris catus) [9685]	1353-1358		
+IRAAEI	6	M3X8C8	M3X8C8_FELCA [tr]	Myosin XVIIIA	2066	Felis catus (Cat) (Felis silvestris catus) [9685]	1365-1370		
+NATRFA	1	A0A5F5XE50	A0A5F5XE50_FELCA [tr]	Myosin XVIIIB	2584	Felis catus (Cat) (Felis silvestris catus) [9685]	729-734		
+NATRFA	2	A0A5F5XGH0	A0A5F5XGH0_FELCA [tr]	Myosin XVIIIB	2545	Felis catus (Cat) (Felis silvestris catus) [9685]	689-694		
+QLTPTW	1	A0A5F5Y746	A0A5F5Y746_FELCA [tr]	Uncharacterized protein	120	Felis catus (Cat) (Felis silvestris catus) [9685]	43-48		
+EPQIIT	1	A0A5F5XJ22	A0A5F5XJ22_FELCA [tr]	Pleiotropic regulator 1	472	Felis catus (Cat) (Felis silvestris catus) [9685]	300-305		
+EPQIIT	2	M3WPW2	M3WPW2_FELCA [tr]	Pleiotropic regulator 1	515	Felis catus (Cat) (Felis silvestris catus) [9685]	343-348		
+LLKYNE	1	A0A337S5B2	A0A337S5B2_FELCA [tr]	LON peptidase N-terminal domain and ring finger 3	862	Felis catus (Cat) (Felis silvestris catus) [9685]	371-376		
+LLKYNE	2	A0A337SE18	A0A337SE18_FELCA [tr]	LON peptidase N-terminal domain and ring finger 3	821	Felis catus (Cat) (Felis silvestris catus) [9685]	371-376		
+LLKYNE	3	A0A337SE49	A0A337SE49_FELCA [tr]	LON peptidase N-terminal domain and ring finger 3	914	Felis catus (Cat) (Felis silvestris catus) [9685]	371-376		
+LLKYNE	4	A0A337SJL2	A0A337SJL2_FELCA [tr]	LON peptidase N-terminal domain and ring finger 3	873	Felis catus (Cat) (Felis silvestris catus) [9685]	371-376		
+CKFDED	1	A0A5F5XTZ0	A0A5F5XTZ0_FELCA [tr]	Cilia and flagella associated protein 47	3117	Felis catus (Cat) (Felis silvestris catus) [9685]	2872-2877		
+CKFDED	2	A0A5F5Y696	A0A5F5Y696_FELCA [tr]	Cilia and flagella associated protein 47	3202	Felis catus (Cat) (Felis silvestris catus) [9685]	2957-2962		
+CKFDED	3	M3WP98	M3WP98_FELCA [tr]	Cilia and flagella associated protein 47	3157	Felis catus (Cat) (Felis silvestris catus) [9685]	2912-2917		
+LLAGTI	1	A0A2I2U695	A0A2I2U695_FELCA [tr]	Kinesin family member 1B	1776	Felis catus (Cat) (Felis silvestris catus) [9685]	1757-1762		
+LLAGTI	2	A0A2I2UAV2	A0A2I2UAV2_FELCA [tr]	Kinesin family member 1A	1783	Felis catus (Cat) (Felis silvestris catus) [9685]	1764-1769		
+LLAGTI	3	A0A2I2UGK2	A0A2I2UGK2_FELCA [tr]	Kinesin family member 1B	1790	Felis catus (Cat) (Felis silvestris catus) [9685]	1771-1776		
+LLAGTI	4	A0A2I2UM63	A0A2I2UM63_FELCA [tr]	Kinesin family member 1B	1816	Felis catus (Cat) (Felis silvestris catus) [9685]	1797-1802		
+LLAGTI	5	A0A2I2UMQ6	A0A2I2UMQ6_FELCA [tr]	Kinesin family member 1B	1825	Felis catus (Cat) (Felis silvestris catus) [9685]	1806-1811		
+LLAGTI	6	A0A2I2UX05	A0A2I2UX05_FELCA [tr]	Kinesin family member 1B	1665	Felis catus (Cat) (Felis silvestris catus) [9685]	1646-1651		
+LLAGTI	7	A0A5F5XNJ4	A0A5F5XNJ4_FELCA [tr]	PH domain-containing protein	190	Felis catus (Cat) (Felis silvestris catus) [9685]	171-176		
+LLAGTI	8	A0A5F5XR85	A0A5F5XR85_FELCA [tr]	Kinesin family member 1A	1718	Felis catus (Cat) (Felis silvestris catus) [9685]	1699-1704		
+LLAGTI	9	A0A5F5XS11	A0A5F5XS11_FELCA [tr]	Kinesin family member 1A	1774	Felis catus (Cat) (Felis silvestris catus) [9685]	1755-1760		
+LLAGTI	10	A0A5F5Y273	A0A5F5Y273_FELCA [tr]	Kinesin family member 1A	1791	Felis catus (Cat) (Felis silvestris catus) [9685]	1772-1777		
+LLAGTI	11	M3WD93	M3WD93_FELCA [tr]	Kinesin family member 1A	1701	Felis catus (Cat) (Felis silvestris catus) [9685]	1682-1687		
+LLAGTI	12	M3WKZ1	M3WKZ1_FELCA [tr]	Kinesin family member 1B	1810	Felis catus (Cat) (Felis silvestris catus) [9685]	1791-1796		
+NLVRDL	1	A0A2I2V3S0	A0A2I2V3S0_FELCA [tr]	Rho GTPase activating protein 22	713	Felis catus (Cat) (Felis silvestris catus) [9685]	206-211		
+NLVRDL	2	A0A337RV22	A0A337RV22_FELCA [tr]	Rho GTPase activating protein 22	670	Felis catus (Cat) (Felis silvestris catus) [9685]	163-168		
+VYSTGS	1	A0A337SU79	A0A337SU79_FELCA [tr]	Cell adhesion molecule L1 like	1223	Felis catus (Cat) (Felis silvestris catus) [9685]	355-360		
+VYSTGS	2	M3WEH2	M3WEH2_FELCA [tr]	Cell adhesion molecule L1 like	1169	Felis catus (Cat) (Felis silvestris catus) [9685]	355-360		
+VYSTGS	3	M3WWB9	M3WWB9_FELCA [tr]	Cell adhesion molecule L1 like	1207	Felis catus (Cat) (Felis silvestris catus) [9685]	339-344		
+DEVRQI	1	A0A2I2UZK7	A0A2I2UZK7_FELCA [tr]	Syntaxin-18	387	Felis catus (Cat) (Felis silvestris catus) [9685]	251-256		
+DEVRQI	2	A0A337SA69	A0A337SA69_FELCA [tr]	Syntaxin-18	332	Felis catus (Cat) (Felis silvestris catus) [9685]	251-256		
+DEVRQI	3	A0A5F5XI22	A0A5F5XI22_FELCA [tr]	Syntaxin 18	423	Felis catus (Cat) (Felis silvestris catus) [9685]	241-246		
+DEVRQI	4	A0A5F5XXK9	A0A5F5XXK9_FELCA [tr]	Syntaxin-18	324	Felis catus (Cat) (Felis silvestris catus) [9685]	251-256		
+DEVRQI	5	A0A5F5XZE7	A0A5F5XZE7_FELCA [tr]	Syntaxin-18	331	Felis catus (Cat) (Felis silvestris catus) [9685]	251-256		
+DEVRQI	6	A0A5F5Y0W3	A0A5F5Y0W3_FELCA [tr]	Syntaxin-18	376	Felis catus (Cat) (Felis silvestris catus) [9685]	251-256		
+DEVRQI	7	A0A5F5Y5Z8	A0A5F5Y5Z8_FELCA [tr]	Syntaxin-18	336	Felis catus (Cat) (Felis silvestris catus) [9685]	252-257		
+DEVRQI	8	M3W9X6	M3W9X6_FELCA [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4884	Felis catus (Cat) (Felis silvestris catus) [9685]	4503-4508		
+DEVRQI	9	M3WMS2	M3WMS2_FELCA [tr]	Syntaxin-18	387	Felis catus (Cat) (Felis silvestris catus) [9685]	251-256		
+DEVRQI	10	M3XAH6	M3XAH6_FELCA [tr]	Syntaxin-18	335	Felis catus (Cat) (Felis silvestris catus) [9685]	251-256		
+SSNFGA	1	M3WMA3	M3WMA3_FELCA [tr]	Zinc finger with KRAB and SCAN domains 2	969	Felis catus (Cat) (Felis silvestris catus) [9685]	817-822		
+EPLVDL	1	A0A2I2V050	A0A2I2V050_FELCA [tr]	Unc-80 homolog, NALCN channel complex subunit	3237	Felis catus (Cat) (Felis silvestris catus) [9685]	1367-1372		
+EPLVDL	2	A0A337SU89	A0A337SU89_FELCA [tr]	LIM and cysteine rich domains 1	251	Felis catus (Cat) (Felis silvestris catus) [9685]	166-171		
+EPLVDL	3	M3WL80	M3WL80_FELCA [tr]	LIM and cysteine rich domains 1	362	Felis catus (Cat) (Felis silvestris catus) [9685]	277-282		
+EPLVDL	4	M3X8J9	M3X8J9_FELCA [tr]	Unc-80 homolog, NALCN channel complex subunit	3261	Felis catus (Cat) (Felis silvestris catus) [9685]	1372-1377		
+VKQLSS	1	A0A337S3L4	A0A337S3L4_FELCA [tr]	Protein inhibitor of activated STAT 1	645	Felis catus (Cat) (Felis silvestris catus) [9685]	279-284		
+VKQLSS	2	A0A5F5XLJ0	A0A5F5XLJ0_FELCA [tr]	Protein inhibitor of activated STAT 1	664	Felis catus (Cat) (Felis silvestris catus) [9685]	298-303		
+VKQLSS	3	A0A5F5XTA8	A0A5F5XTA8_FELCA [tr]	Protein inhibitor of activated STAT 1	655	Felis catus (Cat) (Felis silvestris catus) [9685]	289-294		
+VKQLSS	4	A0A5F5XW44	A0A5F5XW44_FELCA [tr]	Protein inhibitor of activated STAT 1	651	Felis catus (Cat) (Felis silvestris catus) [9685]	285-290		
+VKQLSS	5	M3WNG9	M3WNG9_FELCA [tr]	Protein inhibitor of activated STAT 1	644	Felis catus (Cat) (Felis silvestris catus) [9685]	278-283		
+LVLLPL	1	A0A2I2UMZ9	A0A2I2UMZ9_FELCA [tr]	Na(+)-dependent phosphate cotransporter 2B	724	Felis catus (Cat) (Felis silvestris catus) [9685]	259-264		
+LVLLPL	2	A0A337S2P7	A0A337S2P7_FELCA [tr]	RAB11 family interacting protein 5	1314	Felis catus (Cat) (Felis silvestris catus) [9685]	1166-1171		
+LVLLPL	3	A0A337S3W7	A0A337S3W7_FELCA [tr]	Corticotropin releasing hormone receptor 1	375	Felis catus (Cat) (Felis silvestris catus) [9685]	277-282		
+LVLLPL	4	A0A337S5H6	A0A337S5H6_FELCA [tr]	Glucose transporter type 4, insulin-responsive	510	Felis catus (Cat) (Felis silvestris catus) [9685]	217-222		
+LVLLPL	5	A0A337SCM4	A0A337SCM4_FELCA [tr]	Corticotropin-releasing factor receptor 1	415	Felis catus (Cat) (Felis silvestris catus) [9685]	317-322		
+LVLLPL	6	A0A337SGW2	A0A337SGW2_FELCA [tr]	Solute carrier family 13 member 1	595	Felis catus (Cat) (Felis silvestris catus) [9685]	21-26		
+LVLLPL	7	A0A337SH92	A0A337SH92_FELCA [tr]	Corticotropin releasing hormone receptor 2	437	Felis catus (Cat) (Felis silvestris catus) [9685]	339-344		
+LVLLPL	8	A0A337SLD6	A0A337SLD6_FELCA [tr]	Corticotropin releasing hormone receptor 1	314	Felis catus (Cat) (Felis silvestris catus) [9685]	216-221		
+LVLLPL	9	A0A337SRV2	A0A337SRV2_FELCA [tr]	Cerberus 1, DAN family BMP antagonist	270	Felis catus (Cat) (Felis silvestris catus) [9685]	9-14		
+LVLLPL	10	A0A5F5XIC0	A0A5F5XIC0_FELCA [tr]	Na(+)-dependent phosphate cotransporter 2B	703	Felis catus (Cat) (Felis silvestris catus) [9685]	238-243		
+LVLLPL	11	A0A5F5XRB7	A0A5F5XRB7_FELCA [tr]	RAB11 family interacting protein 5	1198	Felis catus (Cat) (Felis silvestris catus) [9685]	1062-1067		
+LVLLPL	12	A0A5F5Y5W3	A0A5F5Y5W3_FELCA [tr]	Interleukin 27 receptor subunit alpha	693	Felis catus (Cat) (Felis silvestris catus) [9685]	15-20		
+LVLLPL	13	A0A5F5Y842	A0A5F5Y842_FELCA [tr]	WASH complex subunit 1	454	Felis catus (Cat) (Felis silvestris catus) [9685]	417-422		
+LVLLPL	14	A9NJ41	A9NJ41_FELCA [tr]	Glucose transporter type 4, insulin-responsive (Fragment)	495	Felis catus (Cat) (Felis silvestris catus) [9685]	217-222		
+LVLLPL	15	M3VWU4	M3VWU4_FELCA [tr]	Na(+)-dependent phosphate cotransporter 2A	639	Felis catus (Cat) (Felis silvestris catus) [9685]	232-237		
+LVLLPL	16	M3VZM9	M3VZM9_FELCA [tr]	Glucose transporter type 4, insulin-responsive	585	Felis catus (Cat) (Felis silvestris catus) [9685]	292-297		
+LVLLPL	17	M3W0V0	M3W0V0_FELCA [tr]	Interleukin 27 receptor subunit alpha	651	Felis catus (Cat) (Felis silvestris catus) [9685]	15-20		
+LVLLPL	18	M3WF29	M3WF29_FELCA [tr]	Corticotropin releasing hormone receptor 2	411	Felis catus (Cat) (Felis silvestris catus) [9685]	313-318		
+LVLLPL	19	M3WH98	M3WH98_FELCA [tr]	RNA polymerase II associated protein 1	1394	Felis catus (Cat) (Felis silvestris catus) [9685]	1232-1237		
+LVLLPL	20	M3WJ46	M3WJ46_FELCA [tr]	Solute carrier family 13 member 1	541	Felis catus (Cat) (Felis silvestris catus) [9685]	21-26		
+LVLLPL	21	M3XB52	M3XB52_FELCA [tr]	Corticotropin-releasing factor receptor 1	401	Felis catus (Cat) (Felis silvestris catus) [9685]	317-322		
+LVLLPL	22	M3XCY1	M3XCY1_FELCA [tr]	Na(+)-dependent phosphate cotransporter 2B	693	Felis catus (Cat) (Felis silvestris catus) [9685]	228-233		
+DEDDSE	1	M3WDB2	M3WDB2_FELCA [tr]	Glutamate metabotropic receptor 1	1190	Felis catus (Cat) (Felis silvestris catus) [9685]	1094-1099		
+SNQVAV	1	A0A337SDG7	A0A337SDG7_FELCA [tr]	N-alpha-acetyltransferase 20, NatB catalytic subunit	178	Felis catus (Cat) (Felis silvestris catus) [9685]	115-120		
+SNQVAV	2	A0A5F5XZI5	A0A5F5XZI5_FELCA [tr]	N-alpha-acetyltransferase 20, NatB catalytic subunit	182	Felis catus (Cat) (Felis silvestris catus) [9685]	119-124		
+SNQVAV	3	M3XDJ0	M3XDJ0_FELCA [tr]	N-alpha-acetyltransferase 20, NatB catalytic subunit	166	Felis catus (Cat) (Felis silvestris catus) [9685]	103-108		
+FNFSQI	1	A0A337S6D0	A0A337S6D0_FELCA [tr]	CYCLIN domain-containing protein	263	Felis catus (Cat) (Felis silvestris catus) [9685]	72-77		
+AQALNT	1	M3XCA4	M3XCA4_FELCA [tr]	FAT atypical cadherin 2	4352	Felis catus (Cat) (Felis silvestris catus) [9685]	1960-1965		
+SVASQS	1	A0A2I2UUH1	A0A2I2UUH1_FELCA [tr]	Pecanex-like protein	2244	Felis catus (Cat) (Felis silvestris catus) [9685]	2017-2022		
+SVASQS	2	A0A2I2V2Z2	A0A2I2V2Z2_FELCA [tr]	Pecanex-like protein	2350	Felis catus (Cat) (Felis silvestris catus) [9685]	2123-2128		
+SVASQS	3	A0A5F5XNV5	A0A5F5XNV5_FELCA [tr]	Pecanex-like protein	2273	Felis catus (Cat) (Felis silvestris catus) [9685]	2046-2051		
+SVASQS	4	A0A5F5XYD8	A0A5F5XYD8_FELCA [tr]	Pecanex-like protein	2339	Felis catus (Cat) (Felis silvestris catus) [9685]	2112-2117		
+SVASQS	5	M3W1R1	M3W1R1_FELCA [tr]	Pecanex-like protein	2312	Felis catus (Cat) (Felis silvestris catus) [9685]	2093-2098		
+QGFSAL	1	A0A337S1P0	A0A337S1P0_FELCA [tr]	Netrin 4	628	Felis catus (Cat) (Felis silvestris catus) [9685]	495-500		
+QGFSAL	2	A0A5F5XJW2	A0A5F5XJW2_FELCA [tr]	Netrin 4	570	Felis catus (Cat) (Felis silvestris catus) [9685]	494-499		
+QGFSAL	3	M3WUD5	M3WUD5_FELCA [tr]	Netrin 4	605	Felis catus (Cat) (Felis silvestris catus) [9685]	495-500		
+ISNCVA	1	A0A5F5XLZ8	A0A5F5XLZ8_FELCA [tr]	Lysophosphatidic acid receptor 6	344	Felis catus (Cat) (Felis silvestris catus) [9685]	33-38		
+ISNCVA	2	G9JVS7	G9JVS7_FELCA [tr]	Lysophosphatidic acid receptor 6	344	Felis catus (Cat) (Felis silvestris catus) [9685]	33-38		
+PLSETK	1	A0A2I2UZS1	A0A2I2UZS1_FELCA [tr]	WASH complex subunit 2	1273	Felis catus (Cat) (Felis silvestris catus) [9685]	522-527		
+PLSETK	2	A0A337RZW0	A0A337RZW0_FELCA [tr]	WASH complex subunit 2	1315	Felis catus (Cat) (Felis silvestris catus) [9685]	522-527		
+PLSETK	3	A0A337S6V1	A0A337S6V1_FELCA [tr]	WASH complex subunit 2	1257	Felis catus (Cat) (Felis silvestris catus) [9685]	466-471		
+PLSETK	4	A0A337SH49	A0A337SH49_FELCA [tr]	WASH complex subunit 2	1240	Felis catus (Cat) (Felis silvestris catus) [9685]	498-503		
+PLSETK	5	M3WPI2	M3WPI2_FELCA [tr]	WASH complex subunit 2	1234	Felis catus (Cat) (Felis silvestris catus) [9685]	518-523		
+SLGAEN	1	A0A2I2UBQ6	A0A2I2UBQ6_FELCA [tr]	Highly divergent homeobox	634	Felis catus (Cat) (Felis silvestris catus) [9685]	277-282		
+SLGAEN	2	A0A2I2UKB2	A0A2I2UKB2_FELCA [tr]	Highly divergent homeobox	674	Felis catus (Cat) (Felis silvestris catus) [9685]	335-340		
+SLGAEN	3	A0A5F5XMX4	A0A5F5XMX4_FELCA [tr]	Highly divergent homeobox	664	Felis catus (Cat) (Felis silvestris catus) [9685]	335-340		
+SLGAEN	4	M3W4P7	M3W4P7_FELCA [tr]	Highly divergent homeobox	692	Felis catus (Cat) (Felis silvestris catus) [9685]	335-340		
+AVDCAL	1	A0A2I2UUY4	A0A2I2UUY4_FELCA [tr]	Bromodomain and PHD finger containing 1	1220	Felis catus (Cat) (Felis silvestris catus) [9685]	327-332		
+AVDCAL	2	M3WK91	M3WK91_FELCA [tr]	Bromodomain and PHD finger containing 1	1119	Felis catus (Cat) (Felis silvestris catus) [9685]	327-332		

@@ -1,0 +1,1116 @@
+#Query Peptide	Rank	Protein AC	Protein ID	Protein Name	Length	Organism	Matched Range(s)	Proteomic Databases	IEDB
+VSSQCV	1	G1T324	G1T324_RABIT [tr]	GLE1-like protein	698	Oryctolagus cuniculus (Rabbit) [9986]	396-401		
+SLLIVN	1	A0A5F9D2H2	A0A5F9D2H2_RABIT [tr]	E3 ubiquitin protein ligase	962	Oryctolagus cuniculus (Rabbit) [9986]	89-94		
+SLLIVN	2	A0A5F9DUE7	A0A5F9DUE7_RABIT [tr]	E3 ubiquitin protein ligase	933	Oryctolagus cuniculus (Rabbit) [9986]	89-94		
+SLLIVN	3	G1T2G3	G1T2G3_RABIT [tr]	E3 ubiquitin protein ligase	921	Oryctolagus cuniculus (Rabbit) [9986]	89-94		
+SLLIVN	4	G1U5V2	G1U5V2_RABIT [tr]	E3 ubiquitin protein ligase	975	Oryctolagus cuniculus (Rabbit) [9986]	89-94		
+TRFQTL	1	A0A5F9C339	A0A5F9C339_RABIT [tr]	Dishevelled associated activator of morphogenesis 2	1132	Oryctolagus cuniculus (Rabbit) [9986]	251-256		
+TRFQTL	2	A0A5F9C6H7	A0A5F9C6H7_RABIT [tr]	DNA topoisomerase	774	Oryctolagus cuniculus (Rabbit) [9986]	194-199		
+TRFQTL	3	A0A5F9CND1	A0A5F9CND1_RABIT [tr]	Dishevelled associated activator of morphogenesis 1	1078	Oryctolagus cuniculus (Rabbit) [9986]	255-260		
+TRFQTL	4	A0A5F9CVE2	A0A5F9CVE2_RABIT [tr]	Dishevelled associated activator of morphogenesis 2	1104	Oryctolagus cuniculus (Rabbit) [9986]	287-292		
+TRFQTL	5	A0A5F9DEZ5	A0A5F9DEZ5_RABIT [tr]	Dishevelled associated activator of morphogenesis 1	1034	Oryctolagus cuniculus (Rabbit) [9986]	255-260		
+TRFQTL	6	A0A5F9DH63	A0A5F9DH63_RABIT [tr]	DNA topoisomerase	890	Oryctolagus cuniculus (Rabbit) [9986]	220-225		
+TRFQTL	7	A0A5F9DMZ3	A0A5F9DMZ3_RABIT [tr]	DNA topoisomerase	863	Oryctolagus cuniculus (Rabbit) [9986]	220-225		
+TRFQTL	8	A0A5F9DNB1	A0A5F9DNB1_RABIT [tr]	DNA topoisomerase	941	Oryctolagus cuniculus (Rabbit) [9986]	220-225		
+TRFQTL	9	A0A5F9DSN6	A0A5F9DSN6_RABIT [tr]	DNA topoisomerase	691	Oryctolagus cuniculus (Rabbit) [9986]	194-199		
+TRFQTL	10	G1SQY7	G1SQY7_RABIT [tr]	DNA topoisomerase	978	Oryctolagus cuniculus (Rabbit) [9986]	220-225		
+TRFQTL	11	G1SRG1	G1SRG1_RABIT [tr]	Dishevelled associated activator of morphogenesis 2	1113	Oryctolagus cuniculus (Rabbit) [9986]	287-292		
+TRFQTL	12	G1TV76	G1TV76_RABIT [tr]	Dishevelled associated activator of morphogenesis 1	1068	Oryctolagus cuniculus (Rabbit) [9986]	255-260		
+EIDRLN	1	A0A5F9C870	A0A5F9C870_RABIT [tr]	Uncharacterized protein	281	Oryctolagus cuniculus (Rabbit) [9986]	45-50		
+EIDRLN	2	A0A5F9CBD1	A0A5F9CBD1_RABIT [tr]	Leucine, glutamate and lysine rich 1	702	Oryctolagus cuniculus (Rabbit) [9986]	222-227		
+EIDRLN	3	A0A5F9CCT7	A0A5F9CCT7_RABIT [tr]	A-kinase anchor protein 9	3568	Oryctolagus cuniculus (Rabbit) [9986]	1957-1962		
+EIDRLN	4	A0A5F9CDW9	A0A5F9CDW9_RABIT [tr]	Uncharacterized protein	297	Oryctolagus cuniculus (Rabbit) [9986]	61-66		
+EIDRLN	5	A0A5F9CEJ9	A0A5F9CEJ9_RABIT [tr]	A-kinase anchor protein 9	3851	Oryctolagus cuniculus (Rabbit) [9986]	2240-2245		
+EIDRLN	6	A0A5F9CJY2	A0A5F9CJY2_RABIT [tr]	Leucine, glutamate and lysine rich 1	628	Oryctolagus cuniculus (Rabbit) [9986]	222-227		
+EIDRLN	7	A0A5F9CTV4	A0A5F9CTV4_RABIT [tr]	Leucine, glutamate and lysine rich 1	629	Oryctolagus cuniculus (Rabbit) [9986]	123-128		
+EIDRLN	8	A0A5F9DMM0	A0A5F9DMM0_RABIT [tr]	Uncharacterized protein	279	Oryctolagus cuniculus (Rabbit) [9986]	41-46		
+EIDRLN	9	A0A5F9DQA8	A0A5F9DQA8_RABIT [tr]	Leucine, glutamate and lysine rich 1	614	Oryctolagus cuniculus (Rabbit) [9986]	108-113		
+EIDRLN	10	G1SM01	G1SM01_RABIT [tr]	A-kinase anchor protein 9	3855	Oryctolagus cuniculus (Rabbit) [9986]	2244-2249		
+EIDRLN	11	G1ST68	G1ST68_RABIT [tr]	Uncharacterized protein	289	Oryctolagus cuniculus (Rabbit) [9986]	53-58		
+EIDRLN	12	G1T0J9	G1T0J9_RABIT [tr]	Leucine, glutamate and lysine rich 1	728	Oryctolagus cuniculus (Rabbit) [9986]	222-227		
+EIDRLN	13	Q28628	AKAP9_RABIT [sp]	A-kinase anchor protein 9 (Fragment)	1087	Oryctolagus cuniculus (Rabbit) [9986]	310-315	Pride	
+KVEAEV	1	G1T372	G1T372_RABIT [tr]	Elastin microfibril interfacer 3	766	Oryctolagus cuniculus (Rabbit) [9986]	625-630		
+GIAVEQ	1	A0A5F9C5P2	A0A5F9C5P2_RABIT [tr]	Chloride channel protein	866	Oryctolagus cuniculus (Rabbit) [9986]	542-547		
+GIAVEQ	2	A0A5F9CZQ8	A0A5F9CZQ8_RABIT [tr]	Chloride channel protein	839	Oryctolagus cuniculus (Rabbit) [9986]	515-520		
+GIAVEQ	3	A0A5F9DDN6	A0A5F9DDN6_RABIT [tr]	Chloride channel protein	791	Oryctolagus cuniculus (Rabbit) [9986]	515-520		
+GIAVEQ	4	G1SQK4	G1SQK4_RABIT [tr]	Chloride channel protein	839	Oryctolagus cuniculus (Rabbit) [9986]	515-520		
+GIAVEQ	5	O18894	CLCN3_RABIT [sp]	H(+)/Cl(-) exchange transporter 3	818	Oryctolagus cuniculus (Rabbit) [9986]	542-547		
+ALLAGT	1	G1T703	G1T703_RABIT [tr]	Nucleoporin 210	1830	Oryctolagus cuniculus (Rabbit) [9986]	1758-1763		
+LTVLPP	1	A0A5F9C4Q9	A0A5F9C4Q9_RABIT [tr]	Formin homology 2 domain containing 3	1547	Oryctolagus cuniculus (Rabbit) [9986]	1146-1151		
+LTVLPP	2	A0A5F9C896	A0A5F9C896_RABIT [tr]	Formin homology 2 domain containing 3	1471	Oryctolagus cuniculus (Rabbit) [9986]	1024-1029		
+LTVLPP	3	A0A5F9CI41	A0A5F9CI41_RABIT [tr]	Formin homology 2 domain containing 3	1446	Oryctolagus cuniculus (Rabbit) [9986]	991-996		
+LTVLPP	4	A0A5F9CXZ6	A0A5F9CXZ6_RABIT [tr]	Ras suppressor protein 1	277	Oryctolagus cuniculus (Rabbit) [9986]	192-197		
+LTVLPP	5	A0A5F9CZD6	A0A5F9CZD6_RABIT [tr]	Formin homology 2 domain containing 3	1594	Oryctolagus cuniculus (Rabbit) [9986]	1147-1152		
+LTVLPP	6	A0A5F9D242	A0A5F9D242_RABIT [tr]	Formin homology 2 domain containing 3	1399	Oryctolagus cuniculus (Rabbit) [9986]	952-957		
+LTVLPP	7	A0A5F9D803	A0A5F9D803_RABIT [tr]	Formin homology 2 domain containing 3	1372	Oryctolagus cuniculus (Rabbit) [9986]	925-930		
+LTVLPP	8	A0A5F9DDY6	A0A5F9DDY6_RABIT [tr]	Ras suppressor protein 1	295	Oryctolagus cuniculus (Rabbit) [9986]	192-197		
+LTVLPP	9	A0A5F9DGK1	A0A5F9DGK1_RABIT [tr]	Formin homology 2 domain containing 3	1454	Oryctolagus cuniculus (Rabbit) [9986]	1007-1012		
+LTVLPP	10	A0A5F9DK61	A0A5F9DK61_RABIT [tr]	Formin homology 2 domain containing 3	1409	Oryctolagus cuniculus (Rabbit) [9986]	962-967		
+LTVLPP	11	A0A5F9DRM6	A0A5F9DRM6_RABIT [tr]	Ras suppressor protein 1	259	Oryctolagus cuniculus (Rabbit) [9986]	174-179		
+LTVLPP	12	G1SDW2	G1SDW2_RABIT [tr]	Formin homology 2 domain containing 3	1602	Oryctolagus cuniculus (Rabbit) [9986]	1147-1152		
+VLLPLV	1	A0A5F9CEQ5	A0A5F9CEQ5_RABIT [tr]	Uncharacterized protein	4868	Oryctolagus cuniculus (Rabbit) [9986]	2866-2871		
+VLLPLV	2	A0A5F9CUE7	A0A5F9CUE7_RABIT [tr]	Uncharacterized protein	4862	Oryctolagus cuniculus (Rabbit) [9986]	2865-2870		
+VLLPLV	3	A0A5F9CVT6	A0A5F9CVT6_RABIT [tr]	Mitogen-activated protein kinase kinase kinase 6	1268	Oryctolagus cuniculus (Rabbit) [9986]	306-311		
+VLLPLV	4	A0A5F9DFF8	A0A5F9DFF8_RABIT [tr]	Uncharacterized protein	4876	Oryctolagus cuniculus (Rabbit) [9986]	2866-2871		
+VLLPLV	5	A0A5F9DH93	A0A5F9DH93_RABIT [tr]	Tumor necrosis factor receptor 1	472	Oryctolagus cuniculus (Rabbit) [9986]	222-227		
+VLLPLV	6	A0A5F9DHS0	A0A5F9DHS0_RABIT [tr]	Mitogen-activated protein kinase kinase kinase 6	1300	Oryctolagus cuniculus (Rabbit) [9986]	306-311		
+VLLPLV	7	A0A5F9DJK3	A0A5F9DJK3_RABIT [tr]	Tumor necrosis factor receptor 1	418	Oryctolagus cuniculus (Rabbit) [9986]	168-173		
+VLLPLV	8	A0A5F9DLC6	A0A5F9DLC6_RABIT [tr]	Mitogen-activated protein kinase kinase kinase 6	1266	Oryctolagus cuniculus (Rabbit) [9986]	306-311		
+VLLPLV	9	G1SHF8	G1SHF8_RABIT [tr]	Mitogen-activated protein kinase kinase kinase	1261	Oryctolagus cuniculus (Rabbit) [9986]	306-311		
+VLLPLV	10	G1SYP2	G1SYP2_RABIT [tr]	Tumor necrosis factor receptor 1	461	Oryctolagus cuniculus (Rabbit) [9986]	211-216		
+VLLPLV	11	G1T1E2	G1T1E2_RABIT [tr]	Uncharacterized protein	4873	Oryctolagus cuniculus (Rabbit) [9986]	2866-2871		
+VLLPLV	12	Q9TS33	RYR3_RABIT [sp]	Ryanodine receptor 3	4872	Oryctolagus cuniculus (Rabbit) [9986]	2865-2870	Pride	
+VLLPLV	13	Q9TS33-2	RYR3_RABIT [sp]	Ryanodine receptor 3	4843	Oryctolagus cuniculus (Rabbit) [9986]	2865-2870		
+VLLPLV	14	Q9TS33-3	RYR3_RABIT [sp]	Ryanodine receptor 3	4867	Oryctolagus cuniculus (Rabbit) [9986]	2865-2870		
+VLLPLV	15	Q9TS33-4	RYR3_RABIT [sp]	Ryanodine receptor 3	4821	Oryctolagus cuniculus (Rabbit) [9986]	2865-2870		
+GTITDA	1	G1U9U1	G1U9U1_RABIT [tr]	Annexin	503	Oryctolagus cuniculus (Rabbit) [9986]	190-195		
+GTITDA	2	P33477	ANX11_RABIT [sp]	Annexin A11	503	Oryctolagus cuniculus (Rabbit) [9986]	190-195		
+IAPGQT	1	G1TB93	G1TB93_RABIT [tr]	Stabilin 2	2509	Oryctolagus cuniculus (Rabbit) [9986]	341-346		
+RISNCV	1	A0A5F9CME5	A0A5F9CME5_RABIT [tr]	Dedicator of cytokinesis 5	1790	Oryctolagus cuniculus (Rabbit) [9986]	1449-1454		
+RISNCV	2	A0A5F9DRQ1	A0A5F9DRQ1_RABIT [tr]	Dedicator of cytokinesis 5	1800	Oryctolagus cuniculus (Rabbit) [9986]	1459-1464		
+RISNCV	3	G1T6P0	G1T6P0_RABIT [tr]	Dedicator of cytokinesis 5	1853	Oryctolagus cuniculus (Rabbit) [9986]	1512-1517		
+RISNCV	4	G1TQW8	G1TQW8_RABIT [tr]	Dedicator of cytokinesis 5	1848	Oryctolagus cuniculus (Rabbit) [9986]	1507-1512		
+YNYLYR	1	A0A5F9C2L5	A0A5F9C2L5_RABIT [tr]	Chromosome 1 open reading frame 43	253	Oryctolagus cuniculus (Rabbit) [9986]	98-103		
+YNYLYR	2	A0A5F9D5B6	A0A5F9D5B6_RABIT [tr]	Chromosome 1 open reading frame 43	335	Oryctolagus cuniculus (Rabbit) [9986]	98-103		
+YNYLYR	3	A0A5F9D8Q5	A0A5F9D8Q5_RABIT [tr]	Chromosome 1 open reading frame 43	308	Oryctolagus cuniculus (Rabbit) [9986]	98-103		
+YNYLYR	4	G1T222	G1T222_RABIT [tr]	Chromosome 1 open reading frame 43	310	Oryctolagus cuniculus (Rabbit) [9986]	98-103		
+VFLVLL	1	A0A5F9DAV8	A0A5F9DAV8_RABIT [tr]	Peptidase S1 domain-containing protein	459	Oryctolagus cuniculus (Rabbit) [9986]	440-445		
+VFLVLL	2	B8K1B4	B8K1B4_RABIT [tr]	Interleukin-10 receptor beta chain (Predicted) (Fragment)	323	Oryctolagus cuniculus (Rabbit) [9986]	234-239		
+VFLVLL	3	G1SEX2	G1SEX2_RABIT [tr]	Interleukin 10 receptor subunit beta	384	Oryctolagus cuniculus (Rabbit) [9986]	234-239		
+VFLVLL	4	G1SG27	G1SG27_RABIT [tr]	Uncharacterized protein	448	Oryctolagus cuniculus (Rabbit) [9986]	22-27		
+VFLVLL	5	G1SQX2	G1SQX2_RABIT [tr]	Peptidase S1 domain-containing protein	355	Oryctolagus cuniculus (Rabbit) [9986]	336-341		
+VFLVLL	6	G1SUV7	G1SUV7_RABIT [tr]	Peptidase S1 domain-containing protein	356	Oryctolagus cuniculus (Rabbit) [9986]	337-342		
+VFLVLL	7	G1T4I2	G1T4I2_RABIT [tr]	Peptidase S1 domain-containing protein	299	Oryctolagus cuniculus (Rabbit) [9986]	281-286		
+VFLVLL	8	G1U196	G1U196_RABIT [tr]	Interleukin 10 receptor subunit beta	365	Oryctolagus cuniculus (Rabbit) [9986]	215-220		
+QDVVNQ	1	A0A5F9C511	A0A5F9C511_RABIT [tr]	Gametocyte specific factor 1	177	Oryctolagus cuniculus (Rabbit) [9986]	94-99		
+QDVVNQ	2	A0A5F9DDM4	A0A5F9DDM4_RABIT [tr]	Gametocyte specific factor 1	182	Oryctolagus cuniculus (Rabbit) [9986]	94-99		
+QDVVNQ	3	G1TG99	G1TG99_RABIT [tr]	Gametocyte specific factor 1	167	Oryctolagus cuniculus (Rabbit) [9986]	79-84		
+AGTITS	1	A0A5F9D023	A0A5F9D023_RABIT [tr]	Transcriptional enhancer factor TEF-3	434	Oryctolagus cuniculus (Rabbit) [9986]	5-10		
+AGTITS	2	A0A5F9DS58	A0A5F9DS58_RABIT [tr]	TEA domain transcription factor 4	391	Oryctolagus cuniculus (Rabbit) [9986]	5-10		
+FRSSVL	1	G1U265	G1U265_RABIT [tr]	Sulfotransferase	291	Oryctolagus cuniculus (Rabbit) [9986]	192-197		
+ILSRLD	1	G1SNI0	G1SNI0_RABIT [tr]	Calcium voltage-gated channel subunit alpha1 F	1734	Oryctolagus cuniculus (Rabbit) [9986]	1715-1720		
+ILSRLD	2	G1TYS0	G1TYS0_RABIT [tr]	Olfactory receptor	311	Oryctolagus cuniculus (Rabbit) [9986]	47-52		
+NLLLQY	1	A0A5F9CAQ9	A0A5F9CAQ9_RABIT [tr]	Chloride channel protein	815	Oryctolagus cuniculus (Rabbit) [9986]	56-61		
+NLLLQY	2	A0A5F9DF96	A0A5F9DF96_RABIT [tr]	Delta like non-canonical Notch ligand 1	321	Oryctolagus cuniculus (Rabbit) [9986]	290-295		
+NLLLQY	3	A0A5F9DKA7	A0A5F9DKA7_RABIT [tr]	Delta like non-canonical Notch ligand 1	497	Oryctolagus cuniculus (Rabbit) [9986]	462-467		
+NLLLQY	4	G1TY09	G1TY09_RABIT [tr]	Delta like non-canonical Notch ligand 1	304	Oryctolagus cuniculus (Rabbit) [9986]	269-274		
+NLLLQY	5	P51789	CLCN2_RABIT [sp]	Chloride channel protein 2	898	Oryctolagus cuniculus (Rabbit) [9986]	132-137	Pride	
+NLLLQY	6	Q6LD51	Q6LD51_RABIT [tr]	Chloride channel protein	822	Oryctolagus cuniculus (Rabbit) [9986]	56-61		
+LQTYVT	1	A0A5F9C9P6	A0A5F9C9P6_RABIT [tr]	Coiled-coil domain containing 141	1472	Oryctolagus cuniculus (Rabbit) [9986]	561-566		
+LQTYVT	2	G1TCQ3	G1TCQ3_RABIT [tr]	Coiled-coil domain containing 141	1529	Oryctolagus cuniculus (Rabbit) [9986]	561-566		
+GTKRFD	1	A0A5F9C3R7	A0A5F9C3R7_RABIT [tr]	Proteasome 26S subunit, ATPase 3	397	Oryctolagus cuniculus (Rabbit) [9986]	250-255		
+GTKRFD	2	G1TLQ8	G1TLQ8_RABIT [tr]	Proteasome 26S subunit, ATPase 3	439	Oryctolagus cuniculus (Rabbit) [9986]	292-297		
+HSTQDL	1	G1SUW7	G1SUW7_RABIT [tr]	Chymotrypsin like elastase 1	266	Oryctolagus cuniculus (Rabbit) [9986]	15-20		
+DGKAHF	1	G1SYV7	G1SYV7_RABIT [tr]	Bifunctional lysine-specific demethylase and histidyl-hydroxylase	485	Oryctolagus cuniculus (Rabbit) [9986]	136-141		
+VDFCGK	1	G1TWA4	G1TWA4_RABIT [tr]	Leucine rich repeat containing 58	371	Oryctolagus cuniculus (Rabbit) [9986]	316-321		
+FLGVYY	1	A0A5F9CSG3	A0A5F9CSG3_RABIT [tr]	Solute carrier family 35 member G2	341	Oryctolagus cuniculus (Rabbit) [9986]	261-266		
+NTLVKQ	1	A0A5F9C744	A0A5F9C744_RABIT [tr]	Transcription activation suppressor family member 2	2589	Oryctolagus cuniculus (Rabbit) [9986]	383-388		
+NTLVKQ	2	A0A5F9CH94	A0A5F9CH94_RABIT [tr]	Transcription activation suppressor family member 2	2560	Oryctolagus cuniculus (Rabbit) [9986]	438-443		
+NTLVKQ	3	A0A5F9CJ31	A0A5F9CJ31_RABIT [tr]	Transcription activation suppressor family member 2	2546	Oryctolagus cuniculus (Rabbit) [9986]	340-345		
+NTLVKQ	4	A0A5F9CVM5	A0A5F9CVM5_RABIT [tr]	Transcription activation suppressor family member 2	2539	Oryctolagus cuniculus (Rabbit) [9986]	333-338		
+NTLVKQ	5	A0A5F9D0Y8	A0A5F9D0Y8_RABIT [tr]	Transcription activation suppressor family member 2	2644	Oryctolagus cuniculus (Rabbit) [9986]	438-443		
+NTLVKQ	6	A0A5F9DGE1	A0A5F9DGE1_RABIT [tr]	Transcription activation suppressor family member 2	2448	Oryctolagus cuniculus (Rabbit) [9986]	464-469		
+NTLVKQ	7	G1T7C6	G1T7C6_RABIT [tr]	Transcription activation suppressor family member 2	2670	Oryctolagus cuniculus (Rabbit) [9986]	464-469		
+DPFLGV	1	A0A5F9DAZ8	A0A5F9DAZ8_RABIT [tr]	Hexosyltransferase	760	Oryctolagus cuniculus (Rabbit) [9986]	546-551		
+DPFLGV	2	G1SCW9	G1SCW9_RABIT [tr]	Hexosyltransferase	772	Oryctolagus cuniculus (Rabbit) [9986]	540-545		
+DPFLGV	3	G1TZM3	G1TZM3_RABIT [tr]	Hexosyltransferase	743	Oryctolagus cuniculus (Rabbit) [9986]	511-516		
+GTNTSN	1	A0A5F9C6I3	A0A5F9C6I3_RABIT [tr]	Dual-specificity kinase	529	Oryctolagus cuniculus (Rabbit) [9986]	486-491		
+GTNTSN	2	A0A5F9CH10	A0A5F9CH10_RABIT [tr]	Dual-specificity kinase	829	Oryctolagus cuniculus (Rabbit) [9986]	552-557		
+GTNTSN	3	G1SPQ6	G1SPQ6_RABIT [tr]	Dual-specificity kinase	763	Oryctolagus cuniculus (Rabbit) [9986]	486-491		
+TTDAVR	1	A0A5F9CSM9	A0A5F9CSM9_RABIT [tr]	Neurofilament light	300	Oryctolagus cuniculus (Rabbit) [9986]	203-208		
+TTDAVR	2	G1TJK2	G1TJK2_RABIT [tr]	Neurofilament light polypeptide	548	Oryctolagus cuniculus (Rabbit) [9986]	297-302		
+QTLEIL	1	A0A5F9D252	A0A5F9D252_RABIT [tr]	Prefoldin subunit 3	158	Oryctolagus cuniculus (Rabbit) [9986]	46-51		
+QTLEIL	2	A0A5F9D5B8	A0A5F9D5B8_RABIT [tr]	Prefoldin subunit 3	187	Oryctolagus cuniculus (Rabbit) [9986]	73-78		
+QTLEIL	3	A0A5F9DC50	A0A5F9DC50_RABIT [tr]	Uncharacterized protein	302	Oryctolagus cuniculus (Rabbit) [9986]	143-148		
+QTLEIL	4	B7NZR7	B7NZR7_RABIT [tr]	Prefoldin subunit 3	196	Oryctolagus cuniculus (Rabbit) [9986]	82-87		
+QTLEIL	5	G1SJJ7	G1SJJ7_RABIT [tr]	Toll-like receptor 2	784	Oryctolagus cuniculus (Rabbit) [9986]	457-462		
+QTLEIL	6	G1TDQ2	G1TDQ2_RABIT [tr]	VHL binding protein 1	234	Oryctolagus cuniculus (Rabbit) [9986]	120-125		
+QTLEIL	7	G1TH28	G1TH28_RABIT [tr]	Uncharacterized protein	125	Oryctolagus cuniculus (Rabbit) [9986]	82-87		
+QTLEIL	8	Q8MIQ3	Q8MIQ3_RABIT [tr]	Toll-like receptor 2	784	Oryctolagus cuniculus (Rabbit) [9986]	457-462	Pride	
+SLSSTA	1	A0A5F9CZM9	A0A5F9CZM9_RABIT [tr]	FAT atypical cadherin 3	4559	Oryctolagus cuniculus (Rabbit) [9986]	2903-2908		
+SLSSTA	2	G1SXN3	G1SXN3_RABIT [tr]	Laminin subunit alpha 4	1732	Oryctolagus cuniculus (Rabbit) [9986]	860-865		
+SLSSTA	3	G1TS24	G1TS24_RABIT [tr]	FAT atypical cadherin 3	4441	Oryctolagus cuniculus (Rabbit) [9986]	2753-2758		
+PGDSSS	1	A0A5F9DAH2	A0A5F9DAH2_RABIT [tr]	C-Maf inducing protein	809	Oryctolagus cuniculus (Rabbit) [9986]	33-38		
+PGDSSS	2	G1SV31	G1SV31_RABIT [tr]	Dendrin	669	Oryctolagus cuniculus (Rabbit) [9986]	495-500		
+PGDSSS	3	G1TPX9	G1TPX9_RABIT [tr]	Spalt like transcription factor 2	1009	Oryctolagus cuniculus (Rabbit) [9986]	906-911		
+LEPLVD	1	G1TB80	G1TB80_RABIT [tr]	MutS homolog 4	876	Oryctolagus cuniculus (Rabbit) [9986]	354-359		
+VGYLQP	1	G1SD34	G1SD34_RABIT [tr]	Sodium/potassium-transporting ATPase subunit beta	274	Oryctolagus cuniculus (Rabbit) [9986]	219-224		
+VGYLQP	2	Q9GLC3	AT1B3_RABIT [sp]	Sodium/potassium-transporting ATPase subunit beta-3	279	Oryctolagus cuniculus (Rabbit) [9986]	224-229	Pride	
+GLTVLP	1	A0A5F9C4Q9	A0A5F9C4Q9_RABIT [tr]	Formin homology 2 domain containing 3	1547	Oryctolagus cuniculus (Rabbit) [9986]	1145-1150		
+GLTVLP	2	A0A5F9C896	A0A5F9C896_RABIT [tr]	Formin homology 2 domain containing 3	1471	Oryctolagus cuniculus (Rabbit) [9986]	1023-1028		
+GLTVLP	3	A0A5F9CI41	A0A5F9CI41_RABIT [tr]	Formin homology 2 domain containing 3	1446	Oryctolagus cuniculus (Rabbit) [9986]	990-995		
+GLTVLP	4	A0A5F9CZD6	A0A5F9CZD6_RABIT [tr]	Formin homology 2 domain containing 3	1594	Oryctolagus cuniculus (Rabbit) [9986]	1146-1151		
+GLTVLP	5	A0A5F9D242	A0A5F9D242_RABIT [tr]	Formin homology 2 domain containing 3	1399	Oryctolagus cuniculus (Rabbit) [9986]	951-956		
+GLTVLP	6	A0A5F9D803	A0A5F9D803_RABIT [tr]	Formin homology 2 domain containing 3	1372	Oryctolagus cuniculus (Rabbit) [9986]	924-929		
+GLTVLP	7	A0A5F9DGK1	A0A5F9DGK1_RABIT [tr]	Formin homology 2 domain containing 3	1454	Oryctolagus cuniculus (Rabbit) [9986]	1006-1011		
+GLTVLP	8	A0A5F9DK61	A0A5F9DK61_RABIT [tr]	Formin homology 2 domain containing 3	1409	Oryctolagus cuniculus (Rabbit) [9986]	961-966		
+GLTVLP	9	G1SDW2	G1SDW2_RABIT [tr]	Formin homology 2 domain containing 3	1602	Oryctolagus cuniculus (Rabbit) [9986]	1146-1151		
+ASALGK	1	A0A5F9CN20	A0A5F9CN20_RABIT [tr]	Fucokinase domain-containing protein	614	Oryctolagus cuniculus (Rabbit) [9986]	143-148		
+ASALGK	2	A0A5F9DMD4	A0A5F9DMD4_RABIT [tr]	Fucokinase domain-containing protein	645	Oryctolagus cuniculus (Rabbit) [9986]	174-179		
+STNLVK	1	G1TRA2	G1TRA2_RABIT [tr]	Peptidase S1 domain-containing protein	404	Oryctolagus cuniculus (Rabbit) [9986]	305-310		
+FLPFFS	1	G1SSI0	G1SSI0_RABIT [tr]	Ubiquitinyl hydrolase 1	302	Oryctolagus cuniculus (Rabbit) [9986]	188-193		
+TGRLQS	1	A0A5F9CAV5	A0A5F9CAV5_RABIT [tr]	Neuron navigator 3	2338	Oryctolagus cuniculus (Rabbit) [9986]	1592-1597		
+TGRLQS	2	A0A5F9CHQ3	A0A5F9CHQ3_RABIT [tr]	Neuron navigator 3	2184	Oryctolagus cuniculus (Rabbit) [9986]	1438-1443		
+TGRLQS	3	A0A5F9CSU9	A0A5F9CSU9_RABIT [tr]	Neuron navigator 3	1842	Oryctolagus cuniculus (Rabbit) [9986]	1096-1101		
+TGRLQS	4	A0A5F9CX68	A0A5F9CX68_RABIT [tr]	Neuron navigator 3	2368	Oryctolagus cuniculus (Rabbit) [9986]	1615-1620		
+TGRLQS	5	A0A5F9CZU4	A0A5F9CZU4_RABIT [tr]	Neuron navigator 3	2183	Oryctolagus cuniculus (Rabbit) [9986]	1430-1435		
+TGRLQS	6	A0A5F9D0H7	A0A5F9D0H7_RABIT [tr]	Neuron navigator 3	2390	Oryctolagus cuniculus (Rabbit) [9986]	1615-1620		
+TGRLQS	7	A0A5F9D306	A0A5F9D306_RABIT [tr]	Neuron navigator 3	2347	Oryctolagus cuniculus (Rabbit) [9986]	1601-1606		
+TGRLQS	8	A0A5F9DFQ1	A0A5F9DFQ1_RABIT [tr]	Neuron navigator 3	2205	Oryctolagus cuniculus (Rabbit) [9986]	1452-1457		
+TGRLQS	9	G1SJ11	G1SJ11_RABIT [tr]	Bromodomain containing 7	632	Oryctolagus cuniculus (Rabbit) [9986]	375-380		
+TGRLQS	10	G1SMV6	G1SMV6_RABIT [tr]	Neuron navigator 3	2361	Oryctolagus cuniculus (Rabbit) [9986]	1615-1620		
+GDSTEC	1	A0A5F9C7D0	A0A5F9C7D0_RABIT [tr]	Chromosome 4 open reading frame 54	1744	Oryctolagus cuniculus (Rabbit) [9986]	333-338		
+PVLKGV	1	G1U9C4	G1U9C4_RABIT [tr]	Ig-like domain-containing protein	142	Oryctolagus cuniculus (Rabbit) [9986]	12-17		
+ASYQTQ	1	A0A5F9CFU0	A0A5F9CFU0_RABIT [tr]	TIA1 cytotoxic granule associated RNA binding protein like 1	381	Oryctolagus cuniculus (Rabbit) [9986]	376-381		
+LNESLI	1	G1T5E0	G1T5E0_RABIT [tr]	NHS like 1	1243	Oryctolagus cuniculus (Rabbit) [9986]	380-385		
+NDILSR	1	G1TSE7	G1TSE7_RABIT [tr]	NK6 homeobox 1	369	Oryctolagus cuniculus (Rabbit) [9986]	99-104		
+DPSKPS	1	A0A5F9CB30	A0A5F9CB30_RABIT [tr]	Solute carrier family 12 member 2	1111	Oryctolagus cuniculus (Rabbit) [9986]	880-885		
+DPSKPS	2	G1SG63	G1SG63_RABIT [tr]	Solute carrier family 12 member 2	1127	Oryctolagus cuniculus (Rabbit) [9986]	880-885		
+DVVIGI	1	A0A5F9CLM8	A0A5F9CLM8_RABIT [tr]	AIR synthase	963	Oryctolagus cuniculus (Rabbit) [9986]	609-614		
+DVVIGI	2	B8K1B7	B8K1B7_RABIT [tr]	Trifunctional purine biosynthetic protein adenosine-3	1010	Oryctolagus cuniculus (Rabbit) [9986]	609-614		
+DVVIGI	3	G1SKK0	G1SKK0_RABIT [tr]	Trifunctional purine biosynthetic protein adenosine-3	1010	Oryctolagus cuniculus (Rabbit) [9986]	609-614		
+SNLLLQ	1	A0A5F9CC53	A0A5F9CC53_RABIT [tr]	SMG5 nonsense mediated mRNA decay factor	1150	Oryctolagus cuniculus (Rabbit) [9986]	522-527		
+SNLLLQ	2	A0A5F9CP93	A0A5F9CP93_RABIT [tr]	SMG5 nonsense mediated mRNA decay factor	1151	Oryctolagus cuniculus (Rabbit) [9986]	522-527		
+SNLLLQ	3	A0A5F9CRP2	A0A5F9CRP2_RABIT [tr]	SMG5 nonsense mediated mRNA decay factor	927	Oryctolagus cuniculus (Rabbit) [9986]	522-527		
+SNLLLQ	4	G1T4A1	G1T4A1_RABIT [tr]	SMG5 nonsense mediated mRNA decay factor	991	Oryctolagus cuniculus (Rabbit) [9986]	563-568		
+CTFEYV	1	A0A5F9CS95	A0A5F9CS95_RABIT [tr]	Mitochondrial inner membrane protease subunit	166	Oryctolagus cuniculus (Rabbit) [9986]	25-30		
+CTFEYV	2	A0A5F9DVD4	A0A5F9DVD4_RABIT [tr]	Inner mitochondrial membrane peptidase subunit 1	94	Oryctolagus cuniculus (Rabbit) [9986]	25-30		
+CTFEYV	3	U3KNE0	U3KNE0_RABIT [tr]	Mitochondrial inner membrane protease subunit	169	Oryctolagus cuniculus (Rabbit) [9986]	25-30		
+SKTQSL	1	A0A5F9C6A7	A0A5F9C6A7_RABIT [tr]	alpha-1,2-Mannosidase	1585	Oryctolagus cuniculus (Rabbit) [9986]	920-925		
+SKTQSL	2	A0A5F9CHF9	A0A5F9CHF9_RABIT [tr]	FAM184 domain-containing protein	1069	Oryctolagus cuniculus (Rabbit) [9986]	426-431		
+SKTQSL	3	A0A5F9CRB1	A0A5F9CRB1_RABIT [tr]	alpha-1,2-Mannosidase	1568	Oryctolagus cuniculus (Rabbit) [9986]	920-925		
+SKTQSL	4	A0A5F9CU29	A0A5F9CU29_RABIT [tr]	Vacuolar protein sorting 13 homolog B	3979	Oryctolagus cuniculus (Rabbit) [9986]	3444-3449		
+SKTQSL	5	A0A5F9CVE4	A0A5F9CVE4_RABIT [tr]	alpha-1,2-Mannosidase	1634	Oryctolagus cuniculus (Rabbit) [9986]	920-925		
+SKTQSL	6	A0A5F9CYS6	A0A5F9CYS6_RABIT [tr]	FAM184 domain-containing protein	1113	Oryctolagus cuniculus (Rabbit) [9986]	426-431		
+SKTQSL	7	A0A5F9CYZ8	A0A5F9CYZ8_RABIT [tr]	alpha-1,2-Mannosidase	1610	Oryctolagus cuniculus (Rabbit) [9986]	920-925		
+SKTQSL	8	A0A5F9D1D0	A0A5F9D1D0_RABIT [tr]	FAM184 domain-containing protein	1119	Oryctolagus cuniculus (Rabbit) [9986]	426-431		
+SKTQSL	9	G1SPJ4	G1SPJ4_RABIT [tr]	FAM184 domain-containing protein	1154	Oryctolagus cuniculus (Rabbit) [9986]	426-431		
+SKTQSL	10	G1SRI9	G1SRI9_RABIT [tr]	alpha-1,2-Mannosidase	1542	Oryctolagus cuniculus (Rabbit) [9986]	920-925		
+SKTQSL	11	G1SVS9	G1SVS9_RABIT [tr]	Vacuolar protein sorting 13 homolog B	3954	Oryctolagus cuniculus (Rabbit) [9986]	3419-3424		
+SKTQSL	12	U3KM81	U3KM81_RABIT [tr]	FAM184 domain-containing protein	1175	Oryctolagus cuniculus (Rabbit) [9986]	426-431		
+NGVGYQ	1	A0A5F9DLM3	A0A5F9DLM3_RABIT [tr]	Hexosyltransferase	343	Oryctolagus cuniculus (Rabbit) [9986]	105-110		
+NGVGYQ	2	G1SNN0	G1SNN0_RABIT [tr]	Hexosyltransferase	541	Oryctolagus cuniculus (Rabbit) [9986]	105-110		
+SVTTEI	1	G1SLX3	G1SLX3_RABIT [tr]	Coiled-coil domain containing 73	787	Oryctolagus cuniculus (Rabbit) [9986]	225-230		
+KVFRSS	1	A0A5F9C3H3	A0A5F9C3H3_RABIT [tr]	Solute carrier family 26 member 6	692	Oryctolagus cuniculus (Rabbit) [9986]	510-515		
+KVFRSS	2	A0A5F9C3Q5	A0A5F9C3Q5_RABIT [tr]	Solute carrier family 26 member 6	717	Oryctolagus cuniculus (Rabbit) [9986]	541-546		
+KVFRSS	3	A0A5F9C6Y1	A0A5F9C6Y1_RABIT [tr]	Solute carrier family 26 member 6	668	Oryctolagus cuniculus (Rabbit) [9986]	497-502		
+KVFRSS	4	A0A5F9CF33	A0A5F9CF33_RABIT [tr]	Family with sequence similarity 214 member A	1030	Oryctolagus cuniculus (Rabbit) [9986]	518-523		
+KVFRSS	5	A0A5F9CPG2	A0A5F9CPG2_RABIT [tr]	Solute carrier family 26 member 6	729	Oryctolagus cuniculus (Rabbit) [9986]	527-532		
+KVFRSS	6	A0A5F9CT59	A0A5F9CT59_RABIT [tr]	Family with sequence similarity 214 member A	1083	Oryctolagus cuniculus (Rabbit) [9986]	518-523		
+KVFRSS	7	A0A5F9D2R6	A0A5F9D2R6_RABIT [tr]	Solute carrier family 26 member 6	605	Oryctolagus cuniculus (Rabbit) [9986]	409-414		
+KVFRSS	8	A0A5F9D575	A0A5F9D575_RABIT [tr]	Solute carrier family 26 member 6	695	Oryctolagus cuniculus (Rabbit) [9986]	512-517		
+KVFRSS	9	A0A5F9DEH0	A0A5F9DEH0_RABIT [tr]	Solute carrier family 26 member 6	737	Oryctolagus cuniculus (Rabbit) [9986]	533-538		
+KVFRSS	10	A0A5F9DPN9	A0A5F9DPN9_RABIT [tr]	Solute carrier family 26 member 6	733	Oryctolagus cuniculus (Rabbit) [9986]	531-536		
+KVFRSS	11	G1SDQ3	G1SDQ3_RABIT [tr]	Solute carrier family 26 member 6	739	Oryctolagus cuniculus (Rabbit) [9986]	535-540		
+KVFRSS	12	G1U2H0	G1U2H0_RABIT [tr]	Family with sequence similarity 214 member A	1090	Oryctolagus cuniculus (Rabbit) [9986]	525-530		
+TESNKK	1	A0A5F9CBX4	A0A5F9CBX4_RABIT [tr]	Kinesin-like protein	873	Oryctolagus cuniculus (Rabbit) [9986]	560-565		
+TESNKK	2	A0A5F9D8U7	A0A5F9D8U7_RABIT [tr]	Kinesin-like protein	907	Oryctolagus cuniculus (Rabbit) [9986]	560-565		
+TESNKK	3	A0A5F9DI88	A0A5F9DI88_RABIT [tr]	Uncharacterized protein	413	Oryctolagus cuniculus (Rabbit) [9986]	404-409		
+TESNKK	4	A0A5F9DS06	A0A5F9DS06_RABIT [tr]	Kinesin-like protein	875	Oryctolagus cuniculus (Rabbit) [9986]	560-565		
+TESNKK	5	G1TDU0	G1TDU0_RABIT [tr]	Kinesin-like protein	921	Oryctolagus cuniculus (Rabbit) [9986]	574-579		
+LFRKSN	1	G1T9J7	G1T9J7_RABIT [tr]	Tetratricopeptide repeat domain 6	1888	Oryctolagus cuniculus (Rabbit) [9986]	1131-1136		
+LSSTAS	1	A0A5F9C5D7	A0A5F9C5D7_RABIT [tr]	SAM domain-containing protein	2296	Oryctolagus cuniculus (Rabbit) [9986]	1353-1358		
+LSSTAS	2	A0A5F9C6W2	A0A5F9C6W2_RABIT [tr]	SAM domain-containing protein	1715	Oryctolagus cuniculus (Rabbit) [9986]	1449-1454		
+LSSTAS	3	A0A5F9CD76	A0A5F9CD76_RABIT [tr]	Male germ cell associated kinase	584	Oryctolagus cuniculus (Rabbit) [9986]	470-475		
+LSSTAS	4	A0A5F9DN71	A0A5F9DN71_RABIT [tr]	Upstream transcription factor family member 3	2239	Oryctolagus cuniculus (Rabbit) [9986]	964-969		
+LSSTAS	5	A0A5F9DRI9	A0A5F9DRI9_RABIT [tr]	SAM domain-containing protein	2392	Oryctolagus cuniculus (Rabbit) [9986]	1449-1454		
+LSSTAS	6	A0A5F9DRZ8	A0A5F9DRZ8_RABIT [tr]	Male germ cell associated kinase	644	Oryctolagus cuniculus (Rabbit) [9986]	528-533		
+LSSTAS	7	G1TBH9	G1TBH9_RABIT [tr]	Male germ cell associated kinase	649	Oryctolagus cuniculus (Rabbit) [9986]	470-475		
+LSSTAS	8	G1TDT8	G1TDT8_RABIT [tr]	G protein-coupled receptor 26	325	Oryctolagus cuniculus (Rabbit) [9986]	253-258		
+LSSTAS	9	G1TL94	G1TL94_RABIT [tr]	Upstream transcription factor family member 3	2236	Oryctolagus cuniculus (Rabbit) [9986]	961-966		
+LSSTAS	10	G1TLU8	G1TLU8_RABIT [tr]	SAM domain-containing protein	1943	Oryctolagus cuniculus (Rabbit) [9986]	1449-1454		
+LSSTAS	11	U3KNM3	U3KNM3_RABIT [tr]	Male germ cell associated kinase	682	Oryctolagus cuniculus (Rabbit) [9986]	528-533		
+SFKEEL	1	A0A5F9DVU5	A0A5F9DVU5_RABIT [tr]	Tripartite motif containing 35	461	Oryctolagus cuniculus (Rabbit) [9986]	14-19		
+SFKEEL	2	G1STI5	G1STI5_RABIT [tr]	Tripartite motif containing 35	493	Oryctolagus cuniculus (Rabbit) [9986]	14-19		
+SFKEEL	3	G1SZV0	G1SZV0_RABIT [tr]	Gamma-tubulin complex component	1026	Oryctolagus cuniculus (Rabbit) [9986]	375-380		
+TPCSFG	1	G1T4R7	G1T4R7_RABIT [tr]	SEC22 homolog C, vesicle trafficking protein	433	Oryctolagus cuniculus (Rabbit) [9986]	86-91		
+GWIFGT	1	P21109	CXCR1_RABIT [sp]	C-X-C chemokine receptor type 1	355	Oryctolagus cuniculus (Rabbit) [9986]	107-112		
+PGQTGK	1	A0A5F9D9K3	A0A5F9D9K3_RABIT [tr]	Spermatogenesis associated 21	506	Oryctolagus cuniculus (Rabbit) [9986]	10-15		
+GGVSVI	1	G1SLG2	G1SLG2_RABIT [tr]	C-type lectin domain-containing protein	463	Oryctolagus cuniculus (Rabbit) [9986]	387-392		
+EELDKY	1	A0A5F9CL74	A0A5F9CL74_RABIT [tr]	Thyroid hormone receptor interactor 11	1982	Oryctolagus cuniculus (Rabbit) [9986]	832-837		
+EELDKY	2	G1SPG2	G1SPG2_RABIT [tr]	Thyroid hormone receptor interactor 11	1957	Oryctolagus cuniculus (Rabbit) [9986]	807-812		
+EELDKY	3	G1TMP1	G1TMP1_RABIT [tr]	IF rod domain-containing protein	418	Oryctolagus cuniculus (Rabbit) [9986]	253-258		
+EELDKY	4	G1U758	G1U758_RABIT [tr]	IF rod domain-containing protein	431	Oryctolagus cuniculus (Rabbit) [9986]	266-271		
+VLPPLL	1	A0A5F9CR06	A0A5F9CR06_RABIT [tr]	Potassium two pore domain channel subfamily K member 2	469	Oryctolagus cuniculus (Rabbit) [9986]	438-443		
+VLPPLL	2	A0A5F9D079	A0A5F9D079_RABIT [tr]	Potassium two pore domain channel subfamily K member 2	422	Oryctolagus cuniculus (Rabbit) [9986]	391-396		
+VLPPLL	3	A0A5S8I598	A0A5S8I598_RABIT [tr]	Adenosine receptor A2	444	Oryctolagus cuniculus (Rabbit) [9986]	303-308		
+VLPPLL	4	G1SVJ9	G1SVJ9_RABIT [tr]	Potassium two pore domain channel subfamily K member 2	426	Oryctolagus cuniculus (Rabbit) [9986]	395-400		
+VLPPLL	5	P34970	AA1R_RABIT [sp]	Adenosine receptor A1	328	Oryctolagus cuniculus (Rabbit) [9986]	189-194	Pride	
+VLPPLL	6	Q32ZE2	AA2BR_RABIT [sp]	Adenosine receptor A2b	332	Oryctolagus cuniculus (Rabbit) [9986]	191-196	Pride	
+NASVVN	1	A0A5F9C4Y7	A0A5F9C4Y7_RABIT [tr]	Glutamine and serine rich 1	1686	Oryctolagus cuniculus (Rabbit) [9986]	218-223		
+NASVVN	2	A0A5F9D289	A0A5F9D289_RABIT [tr]	Glutamine and serine rich 1	1698	Oryctolagus cuniculus (Rabbit) [9986]	218-223		
+NASVVN	3	A0A5F9DHL5	A0A5F9DHL5_RABIT [tr]	Glutamine and serine rich 1	1737	Oryctolagus cuniculus (Rabbit) [9986]	218-223		
+NASVVN	4	G1T9B6	G1T9B6_RABIT [tr]	Glutamine and serine rich 1	1677	Oryctolagus cuniculus (Rabbit) [9986]	218-223		
+ICHDGK	1	A0A5F9C6F3	A0A5F9C6F3_RABIT [tr]	Serine/threonine-protein phosphatase	595	Oryctolagus cuniculus (Rabbit) [9986]	362-367		
+ICHDGK	2	G1T005	G1T005_RABIT [tr]	Serine/threonine-protein phosphatase	633	Oryctolagus cuniculus (Rabbit) [9986]	413-418		
+RSSVLH	1	K7NB63	K7NB63_RABIT [tr]	Toll-like receptor 5	858	Oryctolagus cuniculus (Rabbit) [9986]	287-292		
+EVRQIA	1	A0A5F9C577	A0A5F9C577_RABIT [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4911	Oryctolagus cuniculus (Rabbit) [9986]	4535-4540		
+EVRQIA	2	A0A5F9D711	A0A5F9D711_RABIT [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4895	Oryctolagus cuniculus (Rabbit) [9986]	4519-4524		
+EVRQIA	3	A0A5F9D7E4	A0A5F9D7E4_RABIT [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4875	Oryctolagus cuniculus (Rabbit) [9986]	4499-4504		
+EVRQIA	4	A0A5F9DB43	A0A5F9DB43_RABIT [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4876	Oryctolagus cuniculus (Rabbit) [9986]	4496-4501		
+EVRQIA	5	A0A5F9DLE5	A0A5F9DLE5_RABIT [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4820	Oryctolagus cuniculus (Rabbit) [9986]	4440-4445		
+EVRQIA	6	A0A5F9DPE2	A0A5F9DPE2_RABIT [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4855	Oryctolagus cuniculus (Rabbit) [9986]	4479-4484		
+EVRQIA	7	A0A5F9DSN5	A0A5F9DSN5_RABIT [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4860	Oryctolagus cuniculus (Rabbit) [9986]	4484-4489		
+EVRQIA	8	G1T152	G1T152_RABIT [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4795	Oryctolagus cuniculus (Rabbit) [9986]	4415-4420		
+HADQLT	1	G1U993	G1U993_RABIT [tr]	Ankyrin repeat domain 17	2493	Oryctolagus cuniculus (Rabbit) [9986]	726-731		
+SALLAG	1	A0A5F9CSM0	A0A5F9CSM0_RABIT [tr]	Solute carrier family 27 member 3	712	Oryctolagus cuniculus (Rabbit) [9986]	703-708		
+SALLAG	2	A0A5F9D1N3	A0A5F9D1N3_RABIT [tr]	Inositol 1,4,5-trisphosphate receptor type 1	2730	Oryctolagus cuniculus (Rabbit) [9986]	1693-1698		
+SALLAG	3	G1SF16	G1SF16_RABIT [tr]	Uncharacterized protein	1175	Oryctolagus cuniculus (Rabbit) [9986]	304-309		
+SALLAG	4	G1T7K1	G1T7K1_RABIT [tr]	Interleukin 27 receptor subunit alpha	634	Oryctolagus cuniculus (Rabbit) [9986]	368-373		
+SALLAG	5	G1TGV6	G1TGV6_RABIT [tr]	Solute carrier family 27 member 3	672	Oryctolagus cuniculus (Rabbit) [9986]	663-668		
+EVAKNL	1	G1SL30	G1SL30_RABIT [tr]	Ectonucleoside triphosphate diphosphohydrolase 4	617	Oryctolagus cuniculus (Rabbit) [9986]	296-301		
+EVAKNL	2	G1SRB4	G1SRB4_RABIT [tr]	E1 ubiquitin-activating enzyme	1008	Oryctolagus cuniculus (Rabbit) [9986]	46-51		
+EVAKNL	3	U3KMS6	U3KMS6_RABIT [tr]	E1 ubiquitin-activating enzyme	1021	Oryctolagus cuniculus (Rabbit) [9986]	59-64		
+STASAL	1	A0A5F9C6N4	A0A5F9C6N4_RABIT [tr]	Solute carrier family 9 member C1	857	Oryctolagus cuniculus (Rabbit) [9986]	244-249		
+STASAL	2	A0A5F9CQW9	A0A5F9CQW9_RABIT [tr]	Nuclear RNA export factor 1	660	Oryctolagus cuniculus (Rabbit) [9986]	200-205		
+STASAL	3	A0A5F9DBN1	A0A5F9DBN1_RABIT [tr]	Solute carrier family 9 member C1	879	Oryctolagus cuniculus (Rabbit) [9986]	234-239		
+STASAL	4	A0A5F9DIY0	A0A5F9DIY0_RABIT [tr]	Nuclear RNA export factor 1	626	Oryctolagus cuniculus (Rabbit) [9986]	166-171		
+STASAL	5	G1SP51	G1SP51_RABIT [tr]	40S ribosomal protein S13	152	Oryctolagus cuniculus (Rabbit) [9986]	145-150		
+STASAL	6	G1SSX2	G1SSX2_RABIT [tr]	HECT-type E3 ubiquitin transferase	4329	Oryctolagus cuniculus (Rabbit) [9986]	1100-1105		
+STASAL	7	G1SXC8	G1SXC8_RABIT [tr]	Nuclear RNA export factor 1	652	Oryctolagus cuniculus (Rabbit) [9986]	200-205		
+STASAL	8	G1SY82	G1SY82_RABIT [tr]	Solute carrier family 9 member C1	1151	Oryctolagus cuniculus (Rabbit) [9986]	456-461		
+STASAL	9	G1TVP1	G1TVP1_RABIT [tr]	FERM and PDZ domain containing 4	1255	Oryctolagus cuniculus (Rabbit) [9986]	1101-1106		
+CLIGAE	1	G1SWG0	G1SWG0_RABIT [tr]	Biorientation of chromosomes in cell division 1 like 1	2960	Oryctolagus cuniculus (Rabbit) [9986]	2378-2383		
+NSAIGK	1	A0A5F9C2A5	A0A5F9C2A5_RABIT [tr]	Membrane spanning 4-domains A12	264	Oryctolagus cuniculus (Rabbit) [9986]	71-76		
+NSAIGK	2	G1SU49	G1SU49_RABIT [tr]	Membrane spanning 4-domains A12	219	Oryctolagus cuniculus (Rabbit) [9986]	71-76		
+SSVLHS	1	A0A5F9C775	A0A5F9C775_RABIT [tr]	Ubiquitin specific peptidase 54	1632	Oryctolagus cuniculus (Rabbit) [9986]	1028-1033		
+SSVLHS	2	A0A5F9CLW6	A0A5F9CLW6_RABIT [tr]	Ubiquitin specific peptidase 54	1642	Oryctolagus cuniculus (Rabbit) [9986]	1085-1090		
+SSVLHS	3	A0A5F9CUL6	A0A5F9CUL6_RABIT [tr]	FYVE, RhoGEF and PH domain containing 6	1644	Oryctolagus cuniculus (Rabbit) [9986]	1519-1524		
+SSVLHS	4	G1SMA0	G1SMA0_RABIT [tr]	FYVE, RhoGEF and PH domain containing 6	1419	Oryctolagus cuniculus (Rabbit) [9986]	1335-1340		
+SSVLHS	5	G1U044	G1U044_RABIT [tr]	Ubiquitin specific peptidase 54	1689	Oryctolagus cuniculus (Rabbit) [9986]	1085-1090		
+SPRRAR	1	A0A5F9DB37	A0A5F9DB37_RABIT [tr]	Zinc finger protein 462	2403	Oryctolagus cuniculus (Rabbit) [9986]	171-176		
+SPRRAR	2	G1T3L7	G1T3L7_RABIT [tr]	Zinc finger protein 462	2463	Oryctolagus cuniculus (Rabbit) [9986]	171-176		
+SPRRAR	3	G1TNG0	G1TNG0_RABIT [tr]	GRB2 associated regulator of MAPK1 subtype 2	648	Oryctolagus cuniculus (Rabbit) [9986]	288-293		
+TYVPAQ	1	A0A5F9C7P9	A0A5F9C7P9_RABIT [tr]	Protein-tyrosine-phosphatase	2014	Oryctolagus cuniculus (Rabbit) [9986]	635-640		
+TYVPAQ	2	G1T4Z5	G1T4Z5_RABIT [tr]	Protein-tyrosine-phosphatase	2272	Oryctolagus cuniculus (Rabbit) [9986]	635-640	Pride	
+TYVPAQ	3	U3KPF7	U3KPF7_RABIT [tr]	Protein-tyrosine-phosphatase	2265	Oryctolagus cuniculus (Rabbit) [9986]	635-640		
+KRSFIE	1	A0A5F9CEH7	A0A5F9CEH7_RABIT [tr]	Tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1	1885	Oryctolagus cuniculus (Rabbit) [9986]	1877-1882		
+KRSFIE	2	A0A5F9CQK6	A0A5F9CQK6_RABIT [tr]	Tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1	1934	Oryctolagus cuniculus (Rabbit) [9986]	1926-1931		
+KRSFIE	3	A0A5F9D7H5	A0A5F9D7H5_RABIT [tr]	Tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1	1899	Oryctolagus cuniculus (Rabbit) [9986]	1891-1896		
+KRSFIE	4	A0A5F9DD48	A0A5F9DD48_RABIT [tr]	Tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1	1661	Oryctolagus cuniculus (Rabbit) [9986]	1653-1658		
+KRSFIE	5	A0A5F9DLZ4	A0A5F9DLZ4_RABIT [tr]	Tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1	1715	Oryctolagus cuniculus (Rabbit) [9986]	1707-1712		
+KRSFIE	6	A0A5F9DPD1	A0A5F9DPD1_RABIT [tr]	Tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1	1846	Oryctolagus cuniculus (Rabbit) [9986]	1838-1843		
+KRSFIE	7	G1T8S0	G1T8S0_RABIT [tr]	Tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1	1746	Oryctolagus cuniculus (Rabbit) [9986]	1738-1743		
+VTYVPA	1	B8K1A7	B8K1A7_RABIT [tr]	Olfactory receptor 655 (Predicted) (Fragment)	309	Oryctolagus cuniculus (Rabbit) [9986]	249-254		
+VTYVPA	2	G1TTQ0	G1TTQ0_RABIT [tr]	G_PROTEIN_RECEP_F1_2 domain-containing protein	299	Oryctolagus cuniculus (Rabbit) [9986]	238-243		
+VTYVPA	3	G1U4F4	G1U4F4_RABIT [tr]	Uncharacterized protein	124	Oryctolagus cuniculus (Rabbit) [9986]	105-110		
+LSRLDK	1	A0A5F9CTR1	A0A5F9CTR1_RABIT [tr]	HepA-related protein	896	Oryctolagus cuniculus (Rabbit) [9986]	531-536		
+LSRLDK	2	A0A5F9DD66	A0A5F9DD66_RABIT [tr]	HepA-related protein	907	Oryctolagus cuniculus (Rabbit) [9986]	531-536		
+LSRLDK	3	G1SMW6	G1SMW6_RABIT [tr]	Occludin	521	Oryctolagus cuniculus (Rabbit) [9986]	456-461		
+LSRLDK	4	G1SY48	G1SY48_RABIT [tr]	HepA-related protein	954	Oryctolagus cuniculus (Rabbit) [9986]	531-536		
+SFPQSA	1	G1SDI1	G1SDI1_RABIT [tr]	Lymphocyte cytosolic protein 2	534	Oryctolagus cuniculus (Rabbit) [9986]	371-376		
+LADAGF	1	A0A5F9CR10	A0A5F9CR10_RABIT [tr]	Lipase	415	Oryctolagus cuniculus (Rabbit) [9986]	112-117		
+LADAGF	2	A0A5F9CR55	A0A5F9CR55_RABIT [tr]	SAM and SH3 domain containing 1	1246	Oryctolagus cuniculus (Rabbit) [9986]	1197-1202		
+LADAGF	3	A0A5F9D1J9	A0A5F9D1J9_RABIT [tr]	Lipase	423	Oryctolagus cuniculus (Rabbit) [9986]	120-125		
+LADAGF	4	A0A5F9D514	A0A5F9D514_RABIT [tr]	Myogenesis regulating glycosidase (putative)	808	Oryctolagus cuniculus (Rabbit) [9986]	473-478		
+LADAGF	5	G1SFN1	G1SFN1_RABIT [tr]	Lipase	409	Oryctolagus cuniculus (Rabbit) [9986]	118-123		
+LADAGF	6	G1SMH1	G1SMH1_RABIT [tr]	Myogenesis regulating glycosidase (putative)	754	Oryctolagus cuniculus (Rabbit) [9986]	419-424		
+LADAGF	7	G1SMP4	G1SMP4_RABIT [tr]	BTB_2 domain-containing protein	292	Oryctolagus cuniculus (Rabbit) [9986]	253-258		
+LADAGF	8	G1T699	G1T699_RABIT [tr]	SAM and SH3 domain containing 1	1240	Oryctolagus cuniculus (Rabbit) [9986]	1191-1196		
+LADAGF	9	G1TWJ4	G1TWJ4_RABIT [tr]	Lipase	433	Oryctolagus cuniculus (Rabbit) [9986]	130-135		
+MTKTSV	1	A0A5F9D1D5	A0A5F9D1D5_RABIT [tr]	Uncharacterized protein	670	Oryctolagus cuniculus (Rabbit) [9986]	603-608		
+MTKTSV	2	G1SN27	G1SN27_RABIT [tr]	WASH complex subunit 4	1077	Oryctolagus cuniculus (Rabbit) [9986]	469-474		
+MTKTSV	3	G1TXY6	G1TXY6_RABIT [tr]	Uncharacterized protein	720	Oryctolagus cuniculus (Rabbit) [9986]	653-658		
+RRARSV	1	G1TC09	G1TC09_RABIT [tr]	Uncharacterized protein	709	Oryctolagus cuniculus (Rabbit) [9986]	320-325		
+GGNYNY	1	U3KPP3	U3KPP3_RABIT [tr]	Chromosome 6 open reading frame 15	312	Oryctolagus cuniculus (Rabbit) [9986]	295-300		
+SGINAS	1	G1TDU6	G1TDU6_RABIT [tr]	Nebulin	6666	Oryctolagus cuniculus (Rabbit) [9986]	4656-4661		
+SGINAS	2	U3KM99	U3KM99_RABIT [tr]	Corepressor interacting with RBPJ, 1	461	Oryctolagus cuniculus (Rabbit) [9986]	149-154		
+DAVDCA	1	G1TBW9	G1TBW9_RABIT [tr]	Dynein light chain	168	Oryctolagus cuniculus (Rabbit) [9986]	99-104		
+DVDLGD	1	A0A5F9CLM8	A0A5F9CLM8_RABIT [tr]	AIR synthase	963	Oryctolagus cuniculus (Rabbit) [9986]	467-472		
+DVDLGD	2	B8K1B7	B8K1B7_RABIT [tr]	Trifunctional purine biosynthetic protein adenosine-3	1010	Oryctolagus cuniculus (Rabbit) [9986]	467-472		
+DVDLGD	3	G1SKK0	G1SKK0_RABIT [tr]	Trifunctional purine biosynthetic protein adenosine-3	1010	Oryctolagus cuniculus (Rabbit) [9986]	467-472		
+IDRLNE	1	A0A5F9C870	A0A5F9C870_RABIT [tr]	Uncharacterized protein	281	Oryctolagus cuniculus (Rabbit) [9986]	46-51		
+IDRLNE	2	A0A5F9CCT7	A0A5F9CCT7_RABIT [tr]	A-kinase anchor protein 9	3568	Oryctolagus cuniculus (Rabbit) [9986]	1958-1963		
+IDRLNE	3	A0A5F9CDW9	A0A5F9CDW9_RABIT [tr]	Uncharacterized protein	297	Oryctolagus cuniculus (Rabbit) [9986]	62-67		
+IDRLNE	4	A0A5F9CEJ9	A0A5F9CEJ9_RABIT [tr]	A-kinase anchor protein 9	3851	Oryctolagus cuniculus (Rabbit) [9986]	2241-2246		
+IDRLNE	5	A0A5F9DMM0	A0A5F9DMM0_RABIT [tr]	Uncharacterized protein	279	Oryctolagus cuniculus (Rabbit) [9986]	42-47		
+IDRLNE	6	G1SM01	G1SM01_RABIT [tr]	A-kinase anchor protein 9	3855	Oryctolagus cuniculus (Rabbit) [9986]	2245-2250		
+IDRLNE	7	G1ST68	G1ST68_RABIT [tr]	Uncharacterized protein	289	Oryctolagus cuniculus (Rabbit) [9986]	54-59		
+IDRLNE	8	G1TKV1	G1TKV1_RABIT [tr]	Uncharacterized protein	262	Oryctolagus cuniculus (Rabbit) [9986]	33-38		
+IDRLNE	9	Q28628	AKAP9_RABIT [sp]	A-kinase anchor protein 9 (Fragment)	1087	Oryctolagus cuniculus (Rabbit) [9986]	311-316	Pride	
+LPPLLT	1	A0A5F9CRN5	A0A5F9CRN5_RABIT [tr]	PR/SET domain 2	1471	Oryctolagus cuniculus (Rabbit) [9986]	755-760		
+LPPLLT	2	A0A5F9DNP4	A0A5F9DNP4_RABIT [tr]	Podocalyxin like 2	760	Oryctolagus cuniculus (Rabbit) [9986]	132-137		
+LPPLLT	3	G1SXJ2	G1SXJ2_RABIT [tr]	PR/SET domain 2	1561	Oryctolagus cuniculus (Rabbit) [9986]	809-814		
+LLFNKV	1	A0A5F9DFZ9	A0A5F9DFZ9_RABIT [tr]	Reverse transcriptase domain-containing protein	523	Oryctolagus cuniculus (Rabbit) [9986]	126-131		
+LLFNKV	2	G1SK84	G1SK84_RABIT [tr]	TIR domain-containing protein	810	Oryctolagus cuniculus (Rabbit) [9986]	247-252		
+LLFNKV	3	M9T1R0	M9T1R0_RABIT [tr]	Toll-like receptor 10	810	Oryctolagus cuniculus (Rabbit) [9986]	247-252		
+NSASFS	1	A0A5F9CAT2	A0A5F9CAT2_RABIT [tr]	Uncharacterized protein	234	Oryctolagus cuniculus (Rabbit) [9986]	210-215		
+NSASFS	2	A0A5F9CWP3	A0A5F9CWP3_RABIT [tr]	Neuron navigator 1	1483	Oryctolagus cuniculus (Rabbit) [9986]	460-465		
+NSASFS	3	A0A5F9DBL2	A0A5F9DBL2_RABIT [tr]	Neuron navigator 1	1752	Oryctolagus cuniculus (Rabbit) [9986]	737-742		
+NSASFS	4	A0A5F9DQ87	A0A5F9DQ87_RABIT [tr]	Neuron navigator 1	1703	Oryctolagus cuniculus (Rabbit) [9986]	737-742		
+NSASFS	5	G1U5Y9	G1U5Y9_RABIT [tr]	Neuron navigator 1	1760	Oryctolagus cuniculus (Rabbit) [9986]	737-742		
+DCALDP	1	G1TIW0	G1TIW0_RABIT [tr]	Uncharacterized protein	919	Oryctolagus cuniculus (Rabbit) [9986]	461-466		
+DCALDP	2	Q28659	Q28659_RABIT [tr]	Fertilin alpha subunit	919	Oryctolagus cuniculus (Rabbit) [9986]	461-466	Pride	
+SKRSFI	1	A0A5F9DB85	A0A5F9DB85_RABIT [tr]	GABA(C) receptor	462	Oryctolagus cuniculus (Rabbit) [9986]	146-151		
+SKRSFI	2	G1SEE5	G1SEE5_RABIT [tr]	GABA(C) receptor	479	Oryctolagus cuniculus (Rabbit) [9986]	163-168		
+SKRSFI	3	G1SEE6	G1SEE6_RABIT [tr]	Gamma-aminobutyric acid type A receptor rho2 subunit	464	Oryctolagus cuniculus (Rabbit) [9986]	142-147		
+SKRSFI	4	G1TIL1	G1TIL1_RABIT [tr]	Gamma-aminobutyric acid type A receptor rho3 subunit (gene/pseudogene)	468	Oryctolagus cuniculus (Rabbit) [9986]	149-154		
+LLALHR	1	G1TLM4	G1TLM4_RABIT [tr]	Vasopressin V1a receptor	418	Oryctolagus cuniculus (Rabbit) [9986]	73-78		
+LTTRTQ	1	G1SUQ4	G1SUQ4_RABIT [tr]	Deoxynucleotidyltransferase terminal interacting protein 2	756	Oryctolagus cuniculus (Rabbit) [9986]	151-156		
+TQDLFL	1	G1T0A6	G1T0A6_RABIT [tr]	Chromosome 16 open reading frame 89	357	Oryctolagus cuniculus (Rabbit) [9986]	248-253		
+TLADAG	1	A0A5F9CLG0	A0A5F9CLG0_RABIT [tr]	Serine/threonine kinase 31	240	Oryctolagus cuniculus (Rabbit) [9986]	187-192		
+TLADAG	2	A0A5F9CR55	A0A5F9CR55_RABIT [tr]	SAM and SH3 domain containing 1	1246	Oryctolagus cuniculus (Rabbit) [9986]	1196-1201		
+TLADAG	3	A0A5F9CZ82	A0A5F9CZ82_RABIT [tr]	Serine/threonine kinase 31	284	Oryctolagus cuniculus (Rabbit) [9986]	245-250		
+TLADAG	4	G1T204	G1T204_RABIT [tr]	Serine/threonine kinase 31	298	Oryctolagus cuniculus (Rabbit) [9986]	245-250		
+TLADAG	5	G1T699	G1T699_RABIT [tr]	SAM and SH3 domain containing 1	1240	Oryctolagus cuniculus (Rabbit) [9986]	1190-1195		
+TAGAAA	1	A0A5F9CNG4	A0A5F9CNG4_RABIT [tr]	Aspartylglucosaminidase	339	Oryctolagus cuniculus (Rabbit) [9986]	250-255		
+TAGAAA	2	A0A5F9D3H6	A0A5F9D3H6_RABIT [tr]	PH domain-containing protein	872	Oryctolagus cuniculus (Rabbit) [9986]	776-781		
+TAGAAA	3	A0A5F9D431	A0A5F9D431_RABIT [tr]	PH domain-containing protein	842	Oryctolagus cuniculus (Rabbit) [9986]	746-751		
+TAGAAA	4	A0A5F9DG49	A0A5F9DG49_RABIT [tr]	PH domain-containing protein	904	Oryctolagus cuniculus (Rabbit) [9986]	808-813		
+TAGAAA	5	A0A5F9DMC8	A0A5F9DMC8_RABIT [tr]	Mitogen-activated protein kinase 13	399	Oryctolagus cuniculus (Rabbit) [9986]	42-47		
+TAGAAA	6	G1SEB3	G1SEB3_RABIT [tr]	Serine/threonine kinase 35	563	Oryctolagus cuniculus (Rabbit) [9986]	75-80		
+TAGAAA	7	G1SGN6	G1SGN6_RABIT [tr]	Aspartylglucosaminidase	346	Oryctolagus cuniculus (Rabbit) [9986]	250-255		
+TAGAAA	8	G1T6C6	G1T6C6_RABIT [tr]	Sperm acrosome associated 4	125	Oryctolagus cuniculus (Rabbit) [9986]	107-112		
+TAGAAA	9	G1TYT9	G1TYT9_RABIT [tr]	Mitogen-activated protein kinase 13	381	Oryctolagus cuniculus (Rabbit) [9986]	42-47		
+IYKTPP	1	A0A5F9DJ45	A0A5F9DJ45_RABIT [tr]	BCL6 corepressor	1708	Oryctolagus cuniculus (Rabbit) [9986]	148-153		
+IYKTPP	2	G1TCX2	G1TCX2_RABIT [tr]	BCL6 corepressor	1760	Oryctolagus cuniculus (Rabbit) [9986]	148-153		
+QNAQAL	1	A0A5F9DSD1	A0A5F9DSD1_RABIT [tr]	Histone deacetylase	615	Oryctolagus cuniculus (Rabbit) [9986]	427-432		
+QNAQAL	2	G1TAP3	G1TAP3_RABIT [tr]	Histone deacetylase	942	Oryctolagus cuniculus (Rabbit) [9986]	485-490		
+LNEVAK	1	A0A5F9CCQ8	A0A5F9CCQ8_RABIT [tr]	Apoptosis inducing factor mitochondria associated 1	326	Oryctolagus cuniculus (Rabbit) [9986]	314-319		
+LNEVAK	2	A0A5F9CUK0	A0A5F9CUK0_RABIT [tr]	Tripartite motif containing 8	386	Oryctolagus cuniculus (Rabbit) [9986]	334-339		
+LNEVAK	3	A0A5F9D8X6	A0A5F9D8X6_RABIT [tr]	Tripartite motif containing 8	571	Oryctolagus cuniculus (Rabbit) [9986]	334-339		
+LNEVAK	4	G1SIM3	G1SIM3_RABIT [tr]	Apoptosis inducing factor mitochondria associated 1	613	Oryctolagus cuniculus (Rabbit) [9986]	601-606		
+LNEVAK	5	G1SPN4	G1SPN4_RABIT [tr]	Tripartite motif containing 8	551	Oryctolagus cuniculus (Rabbit) [9986]	334-339		
+LNEVAK	6	U3KP10	U3KP10_RABIT [tr]	Apoptosis inducing factor mitochondria associated 1	609	Oryctolagus cuniculus (Rabbit) [9986]	597-602		
+KNLREF	1	G1SW97	G1SW97_RABIT [tr]	Butyryl-CoA dehydrogenase	425	Oryctolagus cuniculus (Rabbit) [9986]	77-82		
+IDLQEL	1	A0A5F9C7C8	A0A5F9C7C8_RABIT [tr]	Cysteine desulfurase, mitochondrial	997	Oryctolagus cuniculus (Rabbit) [9986]	179-184		
+IDLQEL	2	A0A5F9CSC4	A0A5F9CSC4_RABIT [tr]	Cysteine desulfurase, mitochondrial	438	Oryctolagus cuniculus (Rabbit) [9986]	165-170		
+IDLQEL	3	A0A5F9DH20	A0A5F9DH20_RABIT [tr]	Copine 1	958	Oryctolagus cuniculus (Rabbit) [9986]	140-145		
+IDLQEL	4	B7NZJ3	B7NZJ3_RABIT [tr]	Cysteine desulfurase, mitochondrial	452	Oryctolagus cuniculus (Rabbit) [9986]	179-184		
+SPDVDL	1	A0A5F9CJ13	A0A5F9CJ13_RABIT [tr]	Uncharacterized protein	1128	Oryctolagus cuniculus (Rabbit) [9986]	298-303		
+SPDVDL	2	A0A5F9CTM9	A0A5F9CTM9_RABIT [tr]	Uncharacterized protein	1915	Oryctolagus cuniculus (Rabbit) [9986]	33-38		
+SPDVDL	3	A0A5F9DNU2	A0A5F9DNU2_RABIT [tr]	Uncharacterized protein	924	Oryctolagus cuniculus (Rabbit) [9986]	298-303		
+AGAALQ	1	A0A5F9CF27	A0A5F9CF27_RABIT [tr]	Histone deacetylase 10	710	Oryctolagus cuniculus (Rabbit) [9986]	133-138		
+AGAALQ	2	A0A5F9CI59	A0A5F9CI59_RABIT [tr]	Histone deacetylase 10	690	Oryctolagus cuniculus (Rabbit) [9986]	107-112		
+AGAALQ	3	A0A5F9CQI1	A0A5F9CQI1_RABIT [tr]	Histone deacetylase 10	653	Oryctolagus cuniculus (Rabbit) [9986]	133-138		
+AGAALQ	4	A0A5F9D8A5	A0A5F9D8A5_RABIT [tr]	Histone deacetylase 10	684	Oryctolagus cuniculus (Rabbit) [9986]	107-112		
+AGAALQ	5	A0A5F9DLT4	A0A5F9DLT4_RABIT [tr]	Histone deacetylase 10	640	Oryctolagus cuniculus (Rabbit) [9986]	107-112		
+AGAALQ	6	A0A5F9DQ24	A0A5F9DQ24_RABIT [tr]	HMG-box containing 3	1263	Oryctolagus cuniculus (Rabbit) [9986]	176-181		
+AGAALQ	7	A0A5F9DSF1	A0A5F9DSF1_RABIT [tr]	Histone deacetylase 10	670	Oryctolagus cuniculus (Rabbit) [9986]	107-112		
+AGAALQ	8	G1SPQ3	G1SPQ3_RABIT [tr]	RB transcriptional corepressor like 1	1068	Oryctolagus cuniculus (Rabbit) [9986]	17-22		
+AGAALQ	9	G1SV58	G1SV58_RABIT [tr]	Early growth response protein	700	Oryctolagus cuniculus (Rabbit) [9986]	394-399		
+AGAALQ	10	G1TUY3	G1TUY3_RABIT [tr]	Histone deacetylase 10	680	Oryctolagus cuniculus (Rabbit) [9986]	107-112		
+AGAALQ	11	Q9MYS3	Q9MYS3_RABIT [tr]	Early growth response protein 1 (Fragment)	126	Oryctolagus cuniculus (Rabbit) [9986]	44-49		
+TRTQLP	1	A0A5F9CZ14	A0A5F9CZ14_RABIT [tr]	Transient receptor potential cation channel subfamily C member 4 associated protein	882	Oryctolagus cuniculus (Rabbit) [9986]	371-376		
+TRTQLP	2	G1T4S4	G1T4S4_RABIT [tr]	Transient receptor potential cation channel subfamily C member 4 associated protein	797	Oryctolagus cuniculus (Rabbit) [9986]	371-376		
+TPGDSS	1	G1SI03	G1SI03_RABIT [tr]	Roundabout guidance receptor 4	985	Oryctolagus cuniculus (Rabbit) [9986]	980-985		
+GFIAGL	1	A0A5F9CJQ2	A0A5F9CJQ2_RABIT [tr]	Caspase recruitment domain family member 6	831	Oryctolagus cuniculus (Rabbit) [9986]	371-376		
+GFIAGL	2	A0A5F9D596	A0A5F9D596_RABIT [tr]	Amino_oxidase domain-containing protein	561	Oryctolagus cuniculus (Rabbit) [9986]	381-386		
+GFIAGL	3	A0A5F9DLY5	A0A5F9DLY5_RABIT [tr]	Amino_oxidase domain-containing protein	437	Oryctolagus cuniculus (Rabbit) [9986]	257-262		
+GFIAGL	4	A0A5F9DPA2	A0A5F9DPA2_RABIT [tr]	Caspase recruitment domain family member 6	843	Oryctolagus cuniculus (Rabbit) [9986]	383-388		
+GFIAGL	5	G1SDD7	G1SDD7_RABIT [tr]	Amino_oxidase domain-containing protein	511	Oryctolagus cuniculus (Rabbit) [9986]	381-386		
+GFIAGL	6	G1SMH2	G1SMH2_RABIT [tr]	Caspase recruitment domain family member 6	898	Oryctolagus cuniculus (Rabbit) [9986]	438-443		
+GFIAGL	7	G1SNT3	G1SNT3_RABIT [tr]	Caspase recruitment domain family member 6	842	Oryctolagus cuniculus (Rabbit) [9986]	382-387		
+INLVRD	1	G1T209	G1T209_RABIT [tr]	RNA binding motif protein X-linked 2	329	Oryctolagus cuniculus (Rabbit) [9986]	65-70		
+TGIAVE	1	G1T6N2	G1T6N2_RABIT [tr]	Regulating synaptic membrane exocytosis 3	307	Oryctolagus cuniculus (Rabbit) [9986]	88-93		
+ESLIDL	1	A0A5F9C6L8	A0A5F9C6L8_RABIT [tr]	VPS50 subunit of EARP/GARPII complex	922	Oryctolagus cuniculus (Rabbit) [9986]	639-644		
+ESLIDL	2	A0A5F9CSV2	A0A5F9CSV2_RABIT [tr]	VPS50 subunit of EARP/GARPII complex	946	Oryctolagus cuniculus (Rabbit) [9986]	663-668		
+ESLIDL	3	A0A5F9DAY4	A0A5F9DAY4_RABIT [tr]	VPS50 subunit of EARP/GARPII complex	952	Oryctolagus cuniculus (Rabbit) [9986]	669-674		
+ESLIDL	4	G1SDQ5	G1SDQ5_RABIT [tr]	VPS50 subunit of EARP/GARPII complex	964	Oryctolagus cuniculus (Rabbit) [9986]	681-686		
+SNFRVQ	1	A0A5F9CEV7	A0A5F9CEV7_RABIT [tr]	CDK-activating kinase assembly factor MAT1	267	Oryctolagus cuniculus (Rabbit) [9986]	56-61		
+SNFRVQ	2	G1T724	G1T724_RABIT [tr]	CDK-activating kinase assembly factor MAT1	309	Oryctolagus cuniculus (Rabbit) [9986]	56-61		
+RLQSLQ	1	A0A5F9CUP7	A0A5F9CUP7_RABIT [tr]	Clusterin associated protein 1	250	Oryctolagus cuniculus (Rabbit) [9986]	67-72		
+RLQSLQ	2	A0A5F9D2W7	A0A5F9D2W7_RABIT [tr]	Clusterin associated protein 1	400	Oryctolagus cuniculus (Rabbit) [9986]	198-203		
+RLQSLQ	3	A0A5F9DIJ3	A0A5F9DIJ3_RABIT [tr]	Clusterin associated protein 1	381	Oryctolagus cuniculus (Rabbit) [9986]	198-203		
+RLQSLQ	4	G1T1X1	G1T1X1_RABIT [tr]	Clusterin associated protein 1	355	Oryctolagus cuniculus (Rabbit) [9986]	198-203		
+FAQVKQ	1	U3KPD1	U3KPD1_RABIT [tr]	Glutathione transferase	544	Oryctolagus cuniculus (Rabbit) [9986]	182-187		
+GCCSCG	1	A0A5F9DKZ6	A0A5F9DKZ6_RABIT [tr]	Zinc finger protein 772	415	Oryctolagus cuniculus (Rabbit) [9986]	89-94		
+GTTLDS	1	A0A5F9CFU1	A0A5F9CFU1_RABIT [tr]	Collagen type XIV alpha 1 chain	1780	Oryctolagus cuniculus (Rabbit) [9986]	710-715		
+GTTLDS	2	A0A5F9DVP3	A0A5F9DVP3_RABIT [tr]	Collagen type XIV alpha 1 chain	1665	Oryctolagus cuniculus (Rabbit) [9986]	710-715		
+GTTLDS	3	G1T933	G1T933_RABIT [tr]	Collagen type XIV alpha 1 chain	1796	Oryctolagus cuniculus (Rabbit) [9986]	710-715		
+SSGWTA	1	G1T861	G1T861_RABIT [tr]	KIAA1109	4998	Oryctolagus cuniculus (Rabbit) [9986]	777-782		
+TSCCSC	1	A0A5F9C0Z8	A0A5F9C0Z8_RABIT [tr]	G protein-coupled receptor 155	844	Oryctolagus cuniculus (Rabbit) [9986]	564-569		
+TSCCSC	2	A0A5F9D942	A0A5F9D942_RABIT [tr]	G protein-coupled receptor 155	785	Oryctolagus cuniculus (Rabbit) [9986]	592-597		
+TSCCSC	3	G1SK76	G1SK76_RABIT [tr]	G protein-coupled receptor 155	872	Oryctolagus cuniculus (Rabbit) [9986]	592-597		
+VVFLHV	1	G1TN18	G1TN18_RABIT [tr]	Vomeronasal type-1 receptor	307	Oryctolagus cuniculus (Rabbit) [9986]	145-150		
+GAISSV	1	A0A5F9CX98	A0A5F9CX98_RABIT [tr]	Sox C-terminal domain-containing protein	123	Oryctolagus cuniculus (Rabbit) [9986]	102-107		
+SCCSCL	1	B7NZK1	B7NZK1_RABIT [tr]	Fibroblast growth factor receptor substrate 3 (Predicted)	494	Oryctolagus cuniculus (Rabbit) [9986]	3-8		
+SCCSCL	2	G1SDF9	G1SDF9_RABIT [tr]	Fibroblast growth factor receptor substrate 3	494	Oryctolagus cuniculus (Rabbit) [9986]	3-8		
+PVLPFN	1	A0A5F9CG96	A0A5F9CG96_RABIT [tr]	N-acetylated alpha-linked acidic dipeptidase like 2	800	Oryctolagus cuniculus (Rabbit) [9986]	650-655		
+PVLPFN	2	A0A5F9CKC4	A0A5F9CKC4_RABIT [tr]	N-acetylated alpha-linked acidic dipeptidase like 2	778	Oryctolagus cuniculus (Rabbit) [9986]	628-633		
+PVLPFN	3	A0A5F9CP37	A0A5F9CP37_RABIT [tr]	N-acetylated alpha-linked acidic dipeptidase like 2	746	Oryctolagus cuniculus (Rabbit) [9986]	596-601		
+PVLPFN	4	A0A5F9DBZ5	A0A5F9DBZ5_RABIT [tr]	N-acetylated alpha-linked acidic dipeptidase like 2	825	Oryctolagus cuniculus (Rabbit) [9986]	675-680		
+PVLPFN	5	A0A5F9DQL6	A0A5F9DQL6_RABIT [tr]	N-acetylated alpha-linked acidic dipeptidase like 2	802	Oryctolagus cuniculus (Rabbit) [9986]	652-657		
+PVLPFN	6	A0A5F9DRP2	A0A5F9DRP2_RABIT [tr]	N-acetylated alpha-linked acidic dipeptidase like 2	777	Oryctolagus cuniculus (Rabbit) [9986]	627-632		
+PVLPFN	7	G1SGP4	G1SGP4_RABIT [tr]	N-acetylated alpha-linked acidic dipeptidase like 2	795	Oryctolagus cuniculus (Rabbit) [9986]	645-650		
+FQTLLA	1	G1TDC9	G1TDC9_RABIT [tr]	Transmembrane and coiled-coil domains 2	181	Oryctolagus cuniculus (Rabbit) [9986]	100-105		
+PLVDLP	1	A0A5F9C5H7	A0A5F9C5H7_RABIT [tr]	SLAM family member 8	176	Oryctolagus cuniculus (Rabbit) [9986]	170-175		
+PLVDLP	2	G1SHB6	G1SHB6_RABIT [tr]	SLAM family member 8	302	Oryctolagus cuniculus (Rabbit) [9986]	296-301		
+NSPRRA	1	A0A5F9C1T4	A0A5F9C1T4_RABIT [tr]	Solute carrier family 22 member 15	565	Oryctolagus cuniculus (Rabbit) [9986]	76-81		
+NSPRRA	2	A0A5F9C778	A0A5F9C778_RABIT [tr]	Solute carrier family 22 member 15	660	Oryctolagus cuniculus (Rabbit) [9986]	76-81		
+NSPRRA	3	A0A5F9D102	A0A5F9D102_RABIT [tr]	Solute carrier family 22 member 15	774	Oryctolagus cuniculus (Rabbit) [9986]	76-81		
+NSPRRA	4	G1T9A4	G1T9A4_RABIT [tr]	Solute carrier family 22 member 15	821	Oryctolagus cuniculus (Rabbit) [9986]	76-81		
+RFQTLL	1	A0A5F9C339	A0A5F9C339_RABIT [tr]	Dishevelled associated activator of morphogenesis 2	1132	Oryctolagus cuniculus (Rabbit) [9986]	252-257		
+RFQTLL	2	A0A5F9CVE2	A0A5F9CVE2_RABIT [tr]	Dishevelled associated activator of morphogenesis 2	1104	Oryctolagus cuniculus (Rabbit) [9986]	288-293		
+RFQTLL	3	G1SRG1	G1SRG1_RABIT [tr]	Dishevelled associated activator of morphogenesis 2	1113	Oryctolagus cuniculus (Rabbit) [9986]	288-293		
+QALNTL	1	G1SDU2	G1SDU2_RABIT [tr]	Taxilin gamma	527	Oryctolagus cuniculus (Rabbit) [9986]	143-148		
+QALNTL	2	G1SP38	G1SP38_RABIT [tr]	Armadillo repeat containing 12	383	Oryctolagus cuniculus (Rabbit) [9986]	129-134		
+QALNTL	3	G1TW10	G1TW10_RABIT [tr]	Mediator of RNA polymerase II transcription subunit 1	1580	Oryctolagus cuniculus (Rabbit) [9986]	901-906		
+QALNTL	4	G1U2K3	G1U2K3_RABIT [tr]	Uncharacterized protein	287	Oryctolagus cuniculus (Rabbit) [9986]	93-98		
+CSNLLL	1	G1TH56	G1TH56_RABIT [tr]	Vomeronasal type-1 receptor	311	Oryctolagus cuniculus (Rabbit) [9986]	142-147		
+TPPIKD	1	G1TVG7	G1TVG7_RABIT [tr]	SF3b1 domain-containing protein	1120	Oryctolagus cuniculus (Rabbit) [9986]	826-831		
+TASALG	1	A0A5F9D8Y3	A0A5F9D8Y3_RABIT [tr]	Cadherin EGF LAG seven-pass G-type receptor 3	3311	Oryctolagus cuniculus (Rabbit) [9986]	3278-3283		
+TASALG	2	B7NZD1	B7NZD1_RABIT [tr]	Transcription factor-like 1	364	Oryctolagus cuniculus (Rabbit) [9986]	335-340		
+TASALG	3	G1SCG1	G1SCG1_RABIT [tr]	Zinc finger protein 503	642	Oryctolagus cuniculus (Rabbit) [9986]	635-640		
+TASALG	4	G1T430	G1T430_RABIT [tr]	SET domain bifurcated histone lysine methyltransferase 1	1292	Oryctolagus cuniculus (Rabbit) [9986]	1026-1031		
+TASALG	5	G1TSE3	G1TSE3_RABIT [tr]	Transcription factor-like 1	326	Oryctolagus cuniculus (Rabbit) [9986]	297-302		
+TASALG	6	G1TVP1	G1TVP1_RABIT [tr]	FERM and PDZ domain containing 4	1255	Oryctolagus cuniculus (Rabbit) [9986]	1102-1107		
+TASALG	7	G1TW62	G1TW62_RABIT [tr]	Cadherin EGF LAG seven-pass G-type receptor 3	3381	Oryctolagus cuniculus (Rabbit) [9986]	3348-3353		
+VKQIYK	1	A0A5F9CC96	A0A5F9CC96_RABIT [tr]	Transformation/transcription domain associated protein	3837	Oryctolagus cuniculus (Rabbit) [9986]	158-163		
+VKQIYK	2	G1U864	G1U864_RABIT [tr]	Transformation/transcription domain associated protein	3848	Oryctolagus cuniculus (Rabbit) [9986]	158-163		
+NQVAVL	1	A0A5F9DJ05	A0A5F9DJ05_RABIT [tr]	WD_REPEATS_REGION domain-containing protein	1069	Oryctolagus cuniculus (Rabbit) [9986]	364-369		
+NQVAVL	2	G1TA88	G1TA88_RABIT [tr]	WD_REPEATS_REGION domain-containing protein	1090	Oryctolagus cuniculus (Rabbit) [9986]	331-336		
+TGTGVL	1	A0A5F9CRH9	A0A5F9CRH9_RABIT [tr]	SEL1L2 adaptor subunit of ERAD E3 ligase	445	Oryctolagus cuniculus (Rabbit) [9986]	324-329		
+TGTGVL	2	A0A5F9CW78	A0A5F9CW78_RABIT [tr]	SEL1L2 adaptor subunit of ERAD E3 ligase	575	Oryctolagus cuniculus (Rabbit) [9986]	455-460		
+TGTGVL	3	G1TKF4	G1TKF4_RABIT [tr]	SEL1L2 adaptor subunit of ERAD E3 ligase	688	Oryctolagus cuniculus (Rabbit) [9986]	455-460		
+ISSVLN	1	A0A5F9C4D8	A0A5F9C4D8_RABIT [tr]	UTP--glucose-1-phosphate uridylyltransferase	513	Oryctolagus cuniculus (Rabbit) [9986]	101-106		
+ISSVLN	2	A0A5F9CV98	A0A5F9CV98_RABIT [tr]	UTP--glucose-1-phosphate uridylyltransferase	497	Oryctolagus cuniculus (Rabbit) [9986]	90-95		
+ISSVLN	3	A0A5F9D785	A0A5F9D785_RABIT [tr]	UTP--glucose-1-phosphate uridylyltransferase	497	Oryctolagus cuniculus (Rabbit) [9986]	114-119		
+ISSVLN	4	G1SKF6	G1SKF6_RABIT [tr]	Taste receptor type 2	297	Oryctolagus cuniculus (Rabbit) [9986]	178-183		
+ISSVLN	5	G1TI71	G1TI71_RABIT [tr]	UTP--glucose-1-phosphate uridylyltransferase	517	Oryctolagus cuniculus (Rabbit) [9986]	110-115		
+TISVTT	1	G1TDR3	G1TDR3_RABIT [tr]	Erythrocyte membrane protein band 4.2	691	Oryctolagus cuniculus (Rabbit) [9986]	103-108		
+LTESNK	1	G1SIB5	G1SIB5_RABIT [tr]	Potassium voltage-gated channel subfamily B member 2	911	Oryctolagus cuniculus (Rabbit) [9986]	283-288		
+LTESNK	2	G1TJT3	G1TJT3_RABIT [tr]	Potassium voltage-gated channel subfamily B member 1	858	Oryctolagus cuniculus (Rabbit) [9986]	279-284		
+LTESNK	3	Q95L11	KCNB2_RABIT [sp]	Potassium voltage-gated channel subfamily B member 2	911	Oryctolagus cuniculus (Rabbit) [9986]	283-288	Pride	
+LTESNK	4	Q9MZ19	KCNB1_RABIT [sp]	Potassium voltage-gated channel subfamily B member 1	858	Oryctolagus cuniculus (Rabbit) [9986]	279-284		
+ALDPLS	1	A0A5F9CWN7	A0A5F9CWN7_RABIT [tr]	RAB11 family interacting protein 5	1311	Oryctolagus cuniculus (Rabbit) [9986]	943-948		
+ALDPLS	2	A0A5F9D2U7	A0A5F9D2U7_RABIT [tr]	RAB11 family interacting protein 5	1299	Oryctolagus cuniculus (Rabbit) [9986]	1047-1052		
+TLEILD	1	G1SJJ7	G1SJJ7_RABIT [tr]	Toll-like receptor 2	784	Oryctolagus cuniculus (Rabbit) [9986]	458-463		
+TLEILD	2	G1TQU9	G1TQU9_RABIT [tr]	Leucine rich repeat neuronal 4	682	Oryctolagus cuniculus (Rabbit) [9986]	206-211		
+TLEILD	3	G1TTF6	G1TTF6_RABIT [tr]	NLR family CARD domain containing 3	992	Oryctolagus cuniculus (Rabbit) [9986]	902-907		
+TLEILD	4	G1U992	G1U992_RABIT [tr]	Uncharacterized protein	679	Oryctolagus cuniculus (Rabbit) [9986]	443-448		
+TLEILD	5	Q8MIQ3	Q8MIQ3_RABIT [tr]	Toll-like receptor 2	784	Oryctolagus cuniculus (Rabbit) [9986]	458-463	Pride	
+RAAEIR	1	G1TDM2	G1TDM2_RABIT [tr]	POP1 homolog, ribonuclease P/MRP subunit	1025	Oryctolagus cuniculus (Rabbit) [9986]	111-116		
+FASTEK	1	G1U3T7	G1U3T7_RABIT [tr]	G_PROTEIN_RECEP_F3_4 domain-containing protein	855	Oryctolagus cuniculus (Rabbit) [9986]	308-313		
+QLIRAA	1	A0A5F9D819	A0A5F9D819_RABIT [tr]	Uncharacterized protein	291	Oryctolagus cuniculus (Rabbit) [9986]	159-164		
+QLIRAA	2	G1T1G0	G1T1G0_RABIT [tr]	Uncharacterized protein	295	Oryctolagus cuniculus (Rabbit) [9986]	119-124		
+GCLIGA	1	A0A5F9CIW9	A0A5F9CIW9_RABIT [tr]	Junctional adhesion molecule 3	259	Oryctolagus cuniculus (Rabbit) [9986]	26-31		
+GCLIGA	2	A0A5F9D4Z7	A0A5F9D4Z7_RABIT [tr]	Junctional adhesion molecule 3	331	Oryctolagus cuniculus (Rabbit) [9986]	48-53		
+GCLIGA	3	A0A5F9DAE5	A0A5F9DAE5_RABIT [tr]	Junctional adhesion molecule 3	405	Oryctolagus cuniculus (Rabbit) [9986]	48-53		
+GCLIGA	4	A0A5F9DL82	A0A5F9DL82_RABIT [tr]	Junctional adhesion molecule 3	332	Oryctolagus cuniculus (Rabbit) [9986]	48-53		
+GCLIGA	5	A0A5F9DM82	A0A5F9DM82_RABIT [tr]	Junctional adhesion molecule 3	366	Oryctolagus cuniculus (Rabbit) [9986]	48-53		
+GCLIGA	6	G1SPC1	G1SPC1_RABIT [tr]	Junctional adhesion molecule 3	321	Oryctolagus cuniculus (Rabbit) [9986]	48-53		
+VSNGTH	1	G1TAR4	G1TAR4_RABIT [tr]	Oncoprotein induced transcript 3	546	Oryctolagus cuniculus (Rabbit) [9986]	297-302		
+SFGGVS	1	A0A5F9CBJ4	A0A5F9CBJ4_RABIT [tr]	Proline rich coiled-coil 2B	2295	Oryctolagus cuniculus (Rabbit) [9986]	1896-1901		
+SFGGVS	2	A0A5F9CCR5	A0A5F9CCR5_RABIT [tr]	Proline rich coiled-coil 2B	1534	Oryctolagus cuniculus (Rabbit) [9986]	1204-1209		
+SFGGVS	3	A0A5F9CIU0	A0A5F9CIU0_RABIT [tr]	Proline rich coiled-coil 2B	2096	Oryctolagus cuniculus (Rabbit) [9986]	1766-1771		
+SFGGVS	4	A0A5F9CTY0	A0A5F9CTY0_RABIT [tr]	Proline rich coiled-coil 2B	2159	Oryctolagus cuniculus (Rabbit) [9986]	1829-1834		
+SFGGVS	5	A0A5F9DC84	A0A5F9DC84_RABIT [tr]	Proline rich coiled-coil 2B	2226	Oryctolagus cuniculus (Rabbit) [9986]	1896-1901		
+SFGGVS	6	G1T029	G1T029_RABIT [tr]	Proline rich coiled-coil 2B	2167	Oryctolagus cuniculus (Rabbit) [9986]	1895-1900		
+SFGGVS	7	G1TEV7	G1TEV7_RABIT [tr]	Ras-GEF domain-containing protein	519	Oryctolagus cuniculus (Rabbit) [9986]	22-27		
+LLTDEM	1	G1U5P6	G1U5P6_RABIT [tr]	Uncharacterized protein	951	Oryctolagus cuniculus (Rabbit) [9986]	537-542		
+LQELGK	1	A0A5F9CZ69	A0A5F9CZ69_RABIT [tr]	Glutaminase	713	Oryctolagus cuniculus (Rabbit) [9986]	195-200		
+LQELGK	2	A0A5F9D6N2	A0A5F9D6N2_RABIT [tr]	Vir like m6A methyltransferase associated	1760	Oryctolagus cuniculus (Rabbit) [9986]	887-892		
+LQELGK	3	G1SHK8	G1SHK8_RABIT [tr]	Glutaminase	784	Oryctolagus cuniculus (Rabbit) [9986]	195-200		
+LQELGK	4	G1TBR6	G1TBR6_RABIT [tr]	Vir like m6A methyltransferase associated	1811	Oryctolagus cuniculus (Rabbit) [9986]	887-892		
+LQELGK	5	G1TP09	G1TP09_RABIT [tr]	DH domain-containing protein	489	Oryctolagus cuniculus (Rabbit) [9986]	249-254		
+LQELGK	6	U3KN28	U3KN28_RABIT [tr]	Vir like m6A methyltransferase associated	1782	Oryctolagus cuniculus (Rabbit) [9986]	858-863		
+RSVASQ	1	A0A5F9CQY0	A0A5F9CQY0_RABIT [tr]	Rho guanine nucleotide exchange factor 26	937	Oryctolagus cuniculus (Rabbit) [9986]	896-901		
+RSVASQ	2	A0A5F9D9L2	A0A5F9D9L2_RABIT [tr]	Rho guanine nucleotide exchange factor 26	912	Oryctolagus cuniculus (Rabbit) [9986]	871-876		
+RSVASQ	3	A0A5F9DNX7	A0A5F9DNX7_RABIT [tr]	Rho guanine nucleotide exchange factor 26	875	Oryctolagus cuniculus (Rabbit) [9986]	834-839		
+RSVASQ	4	A0A5F9DUC7	A0A5F9DUC7_RABIT [tr]	Rho guanine nucleotide exchange factor 26	886	Oryctolagus cuniculus (Rabbit) [9986]	845-850		
+RSVASQ	5	G1SP33	G1SP33_RABIT [tr]	Symplekin	990	Oryctolagus cuniculus (Rabbit) [9986]	12-17		
+AGAAAY	1	A0A5F9CWX4	A0A5F9CWX4_RABIT [tr]	Kruppel like factor 10	472	Oryctolagus cuniculus (Rabbit) [9986]	164-169		
+AGAAAY	2	G1TB01	G1TB01_RABIT [tr]	Kruppel like factor 10	529	Oryctolagus cuniculus (Rabbit) [9986]	221-226		
+PQTLEI	1	G1SJJ7	G1SJJ7_RABIT [tr]	Toll-like receptor 2	784	Oryctolagus cuniculus (Rabbit) [9986]	456-461		
+PQTLEI	2	Q8MIQ3	Q8MIQ3_RABIT [tr]	Toll-like receptor 2	784	Oryctolagus cuniculus (Rabbit) [9986]	456-461	Pride	
+TRAGCL	1	G1TDZ9	G1TDZ9_RABIT [tr]	RAD54 like 2	1467	Oryctolagus cuniculus (Rabbit) [9986]	816-821		
+NVLYEN	1	A0A5F9C1H3	A0A5F9C1H3_RABIT [tr]	Receptor protein-tyrosine kinase	1168	Oryctolagus cuniculus (Rabbit) [9986]	110-115		
+NVLYEN	2	G1SZE4	G1SZE4_RABIT [tr]	Receptor protein-tyrosine kinase	1193	Oryctolagus cuniculus (Rabbit) [9986]	110-115		
+VLNDIL	1	U3KP97	U3KP97_RABIT [tr]	Uncharacterized protein	420	Oryctolagus cuniculus (Rabbit) [9986]	58-63		
+KIQDSL	1	A0A5F9DCR5	A0A5F9DCR5_RABIT [tr]	Ig-like domain-containing protein	304	Oryctolagus cuniculus (Rabbit) [9986]	83-88		
+KIQDSL	2	A0A5F9DSE3	A0A5F9DSE3_RABIT [tr]	Acyl-CoA synthetase long chain family member 5	659	Oryctolagus cuniculus (Rabbit) [9986]	404-409		
+KIQDSL	3	G1SK09	G1SK09_RABIT [tr]	Acyl-CoA synthetase long chain family member 5	662	Oryctolagus cuniculus (Rabbit) [9986]	404-409		
+KIQDSL	4	G1U743	G1U743_RABIT [tr]	Acyl-CoA synthetase long chain family member 5	726	Oryctolagus cuniculus (Rabbit) [9986]	447-452		
+KIQDSL	5	U3KP38	U3KP38_RABIT [tr]	Ig-like domain-containing protein	304	Oryctolagus cuniculus (Rabbit) [9986]	83-88		
+PLQPEL	1	G1TBT6	G1TBT6_RABIT [tr]	Plexin B3	1844	Oryctolagus cuniculus (Rabbit) [9986]	1296-1301		
+ENGTIT	1	A0A5F9D9J0	A0A5F9D9J0_RABIT [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2735	Oryctolagus cuniculus (Rabbit) [9986]	450-455		
+ENGTIT	2	G1SZX4	G1SZX4_RABIT [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2691	Oryctolagus cuniculus (Rabbit) [9986]	450-455		
+SFVIRG	1	G1TET7	G1TET7_RABIT [tr]	Sister chromatid cohesion protein DCC1	390	Oryctolagus cuniculus (Rabbit) [9986]	58-63		
+VNNTVY	1	G1SNT1	G1SNT1_RABIT [tr]	Eukaryotic translation initiation factor 3 subunit J	209	Oryctolagus cuniculus (Rabbit) [9986]	89-94		
+GVSPTK	1	A0A5F9CNS6	A0A5F9CNS6_RABIT [tr]	Ankyrin 2	3805	Oryctolagus cuniculus (Rabbit) [9986]	3410-3415		
+GVSPTK	2	A0A5F9D326	A0A5F9D326_RABIT [tr]	Ankyrin 2	3794	Oryctolagus cuniculus (Rabbit) [9986]	3399-3404		
+GVSPTK	3	G1SZP4	G1SZP4_RABIT [tr]	Ankyrin 2	3803	Oryctolagus cuniculus (Rabbit) [9986]	3408-3413		
+NSFTRG	1	A0A5F9DJ92	A0A5F9DJ92_RABIT [tr]	Uncharacterized protein	829	Oryctolagus cuniculus (Rabbit) [9986]	274-279		
+NSFTRG	2	G1TIW0	G1TIW0_RABIT [tr]	Uncharacterized protein	919	Oryctolagus cuniculus (Rabbit) [9986]	274-279		
+NSFTRG	3	Q28659	Q28659_RABIT [tr]	Fertilin alpha subunit	919	Oryctolagus cuniculus (Rabbit) [9986]	274-279	Pride	
+DSLSST	1	A0A5F9C899	A0A5F9C899_RABIT [tr]	KIAA0586	1417	Oryctolagus cuniculus (Rabbit) [9986]	1211-1216		
+DSLSST	2	A0A5F9C8Q1	A0A5F9C8Q1_RABIT [tr]	Outer dense fiber of sperm tails 2 like	643	Oryctolagus cuniculus (Rabbit) [9986]	216-221		
+DSLSST	3	A0A5F9C962	A0A5F9C962_RABIT [tr]	KIAA0586	1471	Oryctolagus cuniculus (Rabbit) [9986]	1203-1208		
+DSLSST	4	A0A5F9CEZ5	A0A5F9CEZ5_RABIT [tr]	Outer dense fiber of sperm tails 2 like	692	Oryctolagus cuniculus (Rabbit) [9986]	175-180		
+DSLSST	5	A0A5F9CGF0	A0A5F9CGF0_RABIT [tr]	KIAA0586	1448	Oryctolagus cuniculus (Rabbit) [9986]	1180-1185		
+DSLSST	6	A0A5F9CJJ1	A0A5F9CJJ1_RABIT [tr]	KIAA0586	1482	Oryctolagus cuniculus (Rabbit) [9986]	1236-1241		
+DSLSST	7	A0A5F9CMT1	A0A5F9CMT1_RABIT [tr]	KIAA0586	1415	Oryctolagus cuniculus (Rabbit) [9986]	1147-1152		
+DSLSST	8	A0A5F9CRQ2	A0A5F9CRQ2_RABIT [tr]	KIAA0586	1444	Oryctolagus cuniculus (Rabbit) [9986]	1238-1243		
+DSLSST	9	A0A5F9CZ94	A0A5F9CZ94_RABIT [tr]	KIAA0586	1503	Oryctolagus cuniculus (Rabbit) [9986]	1236-1241		
+DSLSST	10	A0A5F9CZU5	A0A5F9CZU5_RABIT [tr]	Outer dense fiber of sperm tails 2 like	694	Oryctolagus cuniculus (Rabbit) [9986]	216-221		
+DSLSST	11	A0A5F9DCZ5	A0A5F9DCZ5_RABIT [tr]	Metalloproteinase inhibitor 2	246	Oryctolagus cuniculus (Rabbit) [9986]	160-165		
+DSLSST	12	A0A5F9DD42	A0A5F9DD42_RABIT [tr]	KIAA0586	1470	Oryctolagus cuniculus (Rabbit) [9986]	1238-1243		
+DSLSST	13	A0A5F9DFE9	A0A5F9DFE9_RABIT [tr]	Metalloproteinase inhibitor 2	265	Oryctolagus cuniculus (Rabbit) [9986]	179-184		
+DSLSST	14	A0A5F9DNS9	A0A5F9DNS9_RABIT [tr]	KIAA0586	1457	Oryctolagus cuniculus (Rabbit) [9986]	1189-1194		
+DSLSST	15	B7NZM1	B7NZM1_RABIT [tr]	Apolipoprotein A-I (Predicted)	266	Oryctolagus cuniculus (Rabbit) [9986]	74-79		
+DSLSST	16	G1SCG4	G1SCG4_RABIT [tr]	Nuclear GTPase, germinal center associated	753	Oryctolagus cuniculus (Rabbit) [9986]	432-437		
+DSLSST	17	G1SG82	G1SG82_RABIT [tr]	Outer dense fiber of sperm tails 2 like	733	Oryctolagus cuniculus (Rabbit) [9986]	216-221		
+DSLSST	18	G1SQC2	G1SQC2_RABIT [tr]	Ubiquitin specific peptidase 36	1218	Oryctolagus cuniculus (Rabbit) [9986]	91-96		
+DSLSST	19	G1SSG0	G1SSG0_RABIT [tr]	KIAA0586	1506	Oryctolagus cuniculus (Rabbit) [9986]	1238-1243		
+DSLSST	20	G1SZV5	G1SZV5_RABIT [tr]	Apolipoprotein A-I	266	Oryctolagus cuniculus (Rabbit) [9986]	74-79		
+DSLSST	21	G1T861	G1T861_RABIT [tr]	KIAA1109	4998	Oryctolagus cuniculus (Rabbit) [9986]	3713-3718		
+DSLSST	22	G1TZZ1	G1TZZ1_RABIT [tr]	LysM domain containing 3	392	Oryctolagus cuniculus (Rabbit) [9986]	235-240		
+DSLSST	23	P09809	APOA1_RABIT [sp]	Apolipoprotein A-I precursor	266	Oryctolagus cuniculus (Rabbit) [9986]	74-79		
+DSLSST	24	Q2PPJ8	Q2PPJ8_RABIT [tr]	Apolipoprotein A-I	266	Oryctolagus cuniculus (Rabbit) [9986]	74-79		
+LDKYFK	1	A0A5F9C1W1	A0A5F9C1W1_RABIT [tr]	Follistatin like 1	425	Oryctolagus cuniculus (Rabbit) [9986]	266-271		
+LDKYFK	2	A0A5F9CND3	A0A5F9CND3_RABIT [tr]	Follistatin like 1	320	Oryctolagus cuniculus (Rabbit) [9986]	147-152		
+LDKYFK	3	A0A5F9D4Y6	A0A5F9D4Y6_RABIT [tr]	Follistatin like 1	271	Oryctolagus cuniculus (Rabbit) [9986]	112-117		
+LDKYFK	4	G1SNI2	G1SNI2_RABIT [tr]	Follistatin like 1	307	Oryctolagus cuniculus (Rabbit) [9986]	148-153		
+SASFST	1	A0A5F9CDM0	A0A5F9CDM0_RABIT [tr]	Syntaxin binding protein 1	557	Oryctolagus cuniculus (Rabbit) [9986]	494-499		
+SASFST	2	A0A5F9D343	A0A5F9D343_RABIT [tr]	G_PROTEIN_RECEP_F1_2 domain-containing protein	310	Oryctolagus cuniculus (Rabbit) [9986]	262-267		
+SASFST	3	A0A5F9D510	A0A5F9D510_RABIT [tr]	G_PROTEIN_RECEP_F1_2 domain-containing protein	312	Oryctolagus cuniculus (Rabbit) [9986]	264-269		
+SASFST	4	A0A5F9D836	A0A5F9D836_RABIT [tr]	G_PROTEIN_RECEP_F1_2 domain-containing protein	326	Oryctolagus cuniculus (Rabbit) [9986]	278-283		
+SASFST	5	A0A5F9DVP2	A0A5F9DVP2_RABIT [tr]	Syntaxin binding protein 1	581	Oryctolagus cuniculus (Rabbit) [9986]	494-499		
+SASFST	6	G1TMP7	G1TMP7_RABIT [tr]	Syntaxin binding protein 1	590	Oryctolagus cuniculus (Rabbit) [9986]	494-499		
+SASFST	7	G1TV29	G1TV29_RABIT [tr]	G_PROTEIN_RECEP_F1_2 domain-containing protein	341	Oryctolagus cuniculus (Rabbit) [9986]	293-298		
+SASFST	8	G1TW99	G1TW99_RABIT [tr]	G_PROTEIN_RECEP_F1_2 domain-containing protein	312	Oryctolagus cuniculus (Rabbit) [9986]	264-269		
+SASFST	9	G1TWP3	G1TWP3_RABIT [tr]	G_PROTEIN_RECEP_F1_2 domain-containing protein	312	Oryctolagus cuniculus (Rabbit) [9986]	264-269		
+SASFST	10	G1TYQ7	G1TYQ7_RABIT [tr]	G_PROTEIN_RECEP_F1_2 domain-containing protein	326	Oryctolagus cuniculus (Rabbit) [9986]	278-283		
+SASFST	11	G1TZ83	G1TZ83_RABIT [tr]	G_PROTEIN_RECEP_F1_2 domain-containing protein	309	Oryctolagus cuniculus (Rabbit) [9986]	261-266		
+SASFST	12	G1U1H8	G1U1H8_RABIT [tr]	G_PROTEIN_RECEP_F1_2 domain-containing protein	326	Oryctolagus cuniculus (Rabbit) [9986]	278-283		
+CGSCCK	1	A0A5F9C2V3	A0A5F9C2V3_RABIT [tr]	C-type lectin domain-containing protein	419	Oryctolagus cuniculus (Rabbit) [9986]	216-221		
+CGSCCK	2	A0A5F9CB28	A0A5F9CB28_RABIT [tr]	C-type lectin domain-containing protein	421	Oryctolagus cuniculus (Rabbit) [9986]	218-223		
+CGSCCK	3	G1TBB7	G1TBB7_RABIT [tr]	C-type lectin domain-containing protein	337	Oryctolagus cuniculus (Rabbit) [9986]	134-139		
+VVIGIV	1	A0A5F9CFY1	A0A5F9CFY1_RABIT [tr]	W2 domain-containing protein	411	Oryctolagus cuniculus (Rabbit) [9986]	283-288		
+VVIGIV	2	A0A5F9CSM8	A0A5F9CSM8_RABIT [tr]	Basic leucine zipper and W2 domains 1	419	Oryctolagus cuniculus (Rabbit) [9986]	291-296		
+VVIGIV	3	A0A5F9DNN3	A0A5F9DNN3_RABIT [tr]	Basic leucine zipper and W2 domains 1	450	Oryctolagus cuniculus (Rabbit) [9986]	322-327		
+VVIGIV	4	G1SZQ7	G1SZQ7_RABIT [tr]	Basic leucine zipper and W2 domains 1	423	Oryctolagus cuniculus (Rabbit) [9986]	295-300		
+SSTASA	1	A0A5F9C105	A0A5F9C105_RABIT [tr]	UV excision repair protein RAD23	407	Oryctolagus cuniculus (Rabbit) [9986]	136-141		
+SSTASA	2	A0A5F9C619	A0A5F9C619_RABIT [tr]	Remodeling and spacing factor 1	1403	Oryctolagus cuniculus (Rabbit) [9986]	1359-1364		
+SSTASA	3	A0A5F9C6K5	A0A5F9C6K5_RABIT [tr]	Hydroxyacyl-CoA dehydrogenase	367	Oryctolagus cuniculus (Rabbit) [9986]	54-59		
+SSTASA	4	A0A5F9CMP1	A0A5F9CMP1_RABIT [tr]	Hydroxyacyl-CoA dehydrogenase	241	Oryctolagus cuniculus (Rabbit) [9986]	15-20		
+SSTASA	5	A0A5F9D5D7	A0A5F9D5D7_RABIT [tr]	Hydroxyacyl-CoA dehydrogenase	315	Oryctolagus cuniculus (Rabbit) [9986]	15-20		
+SSTASA	6	A0A5F9DMH1	A0A5F9DMH1_RABIT [tr]	Hydroxyacyl-CoA dehydrogenase	176	Oryctolagus cuniculus (Rabbit) [9986]	15-20		
+SSTASA	7	G1SCY3	G1SCY3_RABIT [tr]	Ubiquitin protein ligase E3 component n-recognin 4	5180	Oryctolagus cuniculus (Rabbit) [9986]	3340-3345		
+SSTASA	8	G1SP51	G1SP51_RABIT [tr]	40S ribosomal protein S13	152	Oryctolagus cuniculus (Rabbit) [9986]	144-149		
+SSTASA	9	G1T289	G1T289_RABIT [tr]	Remodeling and spacing factor 1	1438	Oryctolagus cuniculus (Rabbit) [9986]	1394-1399		
+SSTASA	10	G1T726	G1T726_RABIT [tr]	Hydroxyacyl-CoA dehydrogenase	314	Oryctolagus cuniculus (Rabbit) [9986]	15-20		
+SSTASA	11	G1TGJ7	G1TGJ7_RABIT [tr]	Uncharacterized protein	364	Oryctolagus cuniculus (Rabbit) [9986]	146-151		
+SSTASA	12	U3KNF4	U3KNF4_RABIT [tr]	Remodeling and spacing factor 1	1454	Oryctolagus cuniculus (Rabbit) [9986]	1410-1415		
+CPFGEV	1	G1SRZ3	G1SRZ3_RABIT [tr]	CUB domain containing protein 1	840	Oryctolagus cuniculus (Rabbit) [9986]	111-116		
+NLVKNK	1	A0A5F9C965	A0A5F9C965_RABIT [tr]	N(alpha)-acetyltransferase 15, NatA auxiliary subunit	817	Oryctolagus cuniculus (Rabbit) [9986]	666-671		
+NLVKNK	2	A0A5F9CKJ4	A0A5F9CKJ4_RABIT [tr]	N(alpha)-acetyltransferase 15, NatA auxiliary subunit	834	Oryctolagus cuniculus (Rabbit) [9986]	634-639		
+NLVKNK	3	A0A5F9DN04	A0A5F9DN04_RABIT [tr]	N(alpha)-acetyltransferase 15, NatA auxiliary subunit	815	Oryctolagus cuniculus (Rabbit) [9986]	615-620		
+NLVKNK	4	G1TTL1	G1TTL1_RABIT [tr]	N(alpha)-acetyltransferase 15, NatA auxiliary subunit	871	Oryctolagus cuniculus (Rabbit) [9986]	666-671		
+LPLVSS	1	A0A5F9C4U9	A0A5F9C4U9_RABIT [tr]	Perilipin 2	109	Oryctolagus cuniculus (Rabbit) [9986]	19-24		
+LPLVSS	2	A0A5F9DSC2	A0A5F9DSC2_RABIT [tr]	Uncharacterized protein	236	Oryctolagus cuniculus (Rabbit) [9986]	227-232		
+LPLVSS	3	G1T2X0	G1T2X0_RABIT [tr]	Perilipin 2	499	Oryctolagus cuniculus (Rabbit) [9986]	82-87		
+SCGSCC	1	A0A5F9CEZ1	A0A5F9CEZ1_RABIT [tr]	Zinc finger protein 282	618	Oryctolagus cuniculus (Rabbit) [9986]	470-475		
+SCGSCC	2	G1TYA8	G1TYA8_RABIT [tr]	Zinc finger protein 282	650	Oryctolagus cuniculus (Rabbit) [9986]	474-479		
+RLFRKS	1	A0A5F9CDJ0	A0A5F9CDJ0_RABIT [tr]	THO complex 5	748	Oryctolagus cuniculus (Rabbit) [9986]	672-677		
+RLFRKS	2	A0A5F9D259	A0A5F9D259_RABIT [tr]	THO complex 5	736	Oryctolagus cuniculus (Rabbit) [9986]	660-665		
+RLFRKS	3	A0A5F9DIN2	A0A5F9DIN2_RABIT [tr]	THO complex 5	700	Oryctolagus cuniculus (Rabbit) [9986]	624-629		
+FGAGAA	1	A0A5F9DN59	A0A5F9DN59_RABIT [tr]	ATP binding cassette subfamily C member 10	1499	Oryctolagus cuniculus (Rabbit) [9986]	1380-1385		
+DKYFKN	1	A0A5F9C1W1	A0A5F9C1W1_RABIT [tr]	Follistatin like 1	425	Oryctolagus cuniculus (Rabbit) [9986]	267-272		
+DKYFKN	2	A0A5F9CND3	A0A5F9CND3_RABIT [tr]	Follistatin like 1	320	Oryctolagus cuniculus (Rabbit) [9986]	148-153		
+DKYFKN	3	A0A5F9D4Y6	A0A5F9D4Y6_RABIT [tr]	Follistatin like 1	271	Oryctolagus cuniculus (Rabbit) [9986]	113-118		
+DKYFKN	4	G1SNI2	G1SNI2_RABIT [tr]	Follistatin like 1	307	Oryctolagus cuniculus (Rabbit) [9986]	149-154		
+KLQDVV	1	A0A5F9C3P2	A0A5F9C3P2_RABIT [tr]	cGMP-dependent protein kinase	741	Oryctolagus cuniculus (Rabbit) [9986]	81-86		
+KLQDVV	2	A0A5F9CN39	A0A5F9CN39_RABIT [tr]	cGMP-dependent protein kinase	720	Oryctolagus cuniculus (Rabbit) [9986]	81-86		
+KLQDVV	3	A0A5F9D843	A0A5F9D843_RABIT [tr]	VPS37C subunit of ESCRT-I	359	Oryctolagus cuniculus (Rabbit) [9986]	152-157		
+KLQDVV	4	A0A5F9D9J0	A0A5F9D9J0_RABIT [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2735	Oryctolagus cuniculus (Rabbit) [9986]	1595-1600		
+KLQDVV	5	A0A5F9DK27	A0A5F9DK27_RABIT [tr]	VPS37C subunit of ESCRT-I	390	Oryctolagus cuniculus (Rabbit) [9986]	183-188		
+KLQDVV	6	G1SMB5	G1SMB5_RABIT [tr]	VPS37C subunit of ESCRT-I	373	Oryctolagus cuniculus (Rabbit) [9986]	166-171		
+KLQDVV	7	G1SV88	G1SV88_RABIT [tr]	cGMP-dependent protein kinase	762	Oryctolagus cuniculus (Rabbit) [9986]	81-86		
+KLQDVV	8	G1SZX4	G1SZX4_RABIT [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2691	Oryctolagus cuniculus (Rabbit) [9986]	1595-1600		
+KLQDVV	9	Q9MYZ8	Q9MYZ8_RABIT [tr]	cGMP-dependent protein kinase II (Fragment)	93	Oryctolagus cuniculus (Rabbit) [9986]	59-64		
+ESNKKF	1	A0A5F9DI88	A0A5F9DI88_RABIT [tr]	Uncharacterized protein	413	Oryctolagus cuniculus (Rabbit) [9986]	405-410		
+ESNKKF	2	G1SQ14	G1SQ14_RABIT [tr]	Arachidonate lipoxygenase 3	712	Oryctolagus cuniculus (Rabbit) [9986]	166-171		
+AEVQID	1	G1TRN1	G1TRN1_RABIT [tr]	Checkpoint protein	262	Oryctolagus cuniculus (Rabbit) [9986]	210-215		
+ALTGIA	1	G1SP54	G1SP54_RABIT [tr]	Leukotriene A(4) hydrolase	611	Oryctolagus cuniculus (Rabbit) [9986]	34-39		
+LPFFSN	1	G1SSI0	G1SSI0_RABIT [tr]	Ubiquitinyl hydrolase 1	302	Oryctolagus cuniculus (Rabbit) [9986]	189-194		
+FEYVSQ	1	G1SUY0	G1SUY0_RABIT [tr]	Striatin interacting protein 2	828	Oryctolagus cuniculus (Rabbit) [9986]	587-592		
+NKVTLA	1	A0A5F9DBS0	A0A5F9DBS0_RABIT [tr]	Integrin subunit alpha 4	1016	Oryctolagus cuniculus (Rabbit) [9986]	747-752		
+NKVTLA	2	G1TY34	G1TY34_RABIT [tr]	Integrin subunit alpha 4	1031	Oryctolagus cuniculus (Rabbit) [9986]	762-767		
+EVFAQV	1	A0A5F9CBK7	A0A5F9CBK7_RABIT [tr]	Uncharacterized protein	2624	Oryctolagus cuniculus (Rabbit) [9986]	182-187		
+EVFAQV	2	A0A5F9CPF4	A0A5F9CPF4_RABIT [tr]	Uncharacterized protein	2740	Oryctolagus cuniculus (Rabbit) [9986]	182-187		
+EVFAQV	3	A0A5F9CXM1	A0A5F9CXM1_RABIT [tr]	VWFD domain-containing protein	2709	Oryctolagus cuniculus (Rabbit) [9986]	120-125		
+EVFAQV	4	A0A5F9DQT9	A0A5F9DQT9_RABIT [tr]	Vitellogenin domain-containing protein	1904	Oryctolagus cuniculus (Rabbit) [9986]	559-564		
+EVFAQV	5	A0A5F9DS28	A0A5F9DS28_RABIT [tr]	Vitellogenin domain-containing protein	1919	Oryctolagus cuniculus (Rabbit) [9986]	574-579		
+EVFAQV	6	A0A5F9DTM1	A0A5F9DTM1_RABIT [tr]	Uncharacterized protein	2771	Oryctolagus cuniculus (Rabbit) [9986]	182-187		
+EVFAQV	7	G1TNQ0	G1TNQ0_RABIT [tr]	Vitellogenin domain-containing protein	1642	Oryctolagus cuniculus (Rabbit) [9986]	559-564		
+ELDSFK	1	A0A5F9C1Y2	A0A5F9C1Y2_RABIT [tr]	Uncharacterized protein	85	Oryctolagus cuniculus (Rabbit) [9986]	8-13		
+ELDSFK	2	G1SJD7	G1SJD7_RABIT [tr]	Uncharacterized protein	431	Oryctolagus cuniculus (Rabbit) [9986]	8-13		
+FKNIDG	1	A0A5F9DHW2	A0A5F9DHW2_RABIT [tr]	Cytochrome P450 2C30	489	Oryctolagus cuniculus (Rabbit) [9986]	233-238		
+FKNIDG	2	G1U7M9	G1U7M9_RABIT [tr]	Cytochrome P450 2C30	489	Oryctolagus cuniculus (Rabbit) [9986]	233-238		
+FKNIDG	3	P00182	CP2C3_RABIT [sp]	Cytochrome P450 2C3	489	Oryctolagus cuniculus (Rabbit) [9986]	233-238	Pride	
+VSGNCD	1	A0A5F9CBL8	A0A5F9CBL8_RABIT [tr]	Transient receptor potential cation channel subfamily V member 3	738	Oryctolagus cuniculus (Rabbit) [9986]	60-65		
+VSGNCD	2	G1T2V3	G1T2V3_RABIT [tr]	Transient receptor potential cation channel subfamily V member 3	768	Oryctolagus cuniculus (Rabbit) [9986]	80-85		
+NIIRGW	1	A0A5F9CHC2	A0A5F9CHC2_RABIT [tr]	Chromatin modification-related protein MEAF6	191	Oryctolagus cuniculus (Rabbit) [9986]	44-49		
+NIIRGW	2	A0A5F9CJM8	A0A5F9CJM8_RABIT [tr]	Chromatin modification-related protein MEAF6	243	Oryctolagus cuniculus (Rabbit) [9986]	70-75		
+NIIRGW	3	A0A5F9CXU1	A0A5F9CXU1_RABIT [tr]	Chromatin modification-related protein MEAF6	169	Oryctolagus cuniculus (Rabbit) [9986]	44-49		
+NIIRGW	4	A0A5F9D9S4	A0A5F9D9S4_RABIT [tr]	Chromatin modification-related protein MEAF6	235	Oryctolagus cuniculus (Rabbit) [9986]	44-49		
+NIIRGW	5	A0A5F9DE43	A0A5F9DE43_RABIT [tr]	Chromatin modification-related protein MEAF6	205	Oryctolagus cuniculus (Rabbit) [9986]	70-75		
+NIIRGW	6	A0A5F9DFB8	A0A5F9DFB8_RABIT [tr]	Chromatin modification-related protein MEAF6	255	Oryctolagus cuniculus (Rabbit) [9986]	70-75		
+NIIRGW	7	G1T046	G1T046_RABIT [tr]	Chromatin modification-related protein MEAF6	215	Oryctolagus cuniculus (Rabbit) [9986]	70-75		
+NSNNLD	1	A0A5F9DMF0	A0A5F9DMF0_RABIT [tr]	Zinc finger E-box binding homeobox 2	1164	Oryctolagus cuniculus (Rabbit) [9986]	822-827		
+NSNNLD	2	G1TF51	G1TF51_RABIT [tr]	Zinc finger E-box binding homeobox 2	1188	Oryctolagus cuniculus (Rabbit) [9986]	846-851		
+LAGTIT	1	A0A5F9C5U0	A0A5F9C5U0_RABIT [tr]	Teneurin transmembrane protein 2	2536	Oryctolagus cuniculus (Rabbit) [9986]	1557-1562		
+LAGTIT	2	A0A5F9C6F9	A0A5F9C6F9_RABIT [tr]	Teneurin transmembrane protein 2	2577	Oryctolagus cuniculus (Rabbit) [9986]	1598-1603		
+LAGTIT	3	A0A5F9C8E2	A0A5F9C8E2_RABIT [tr]	Teneurin transmembrane protein 2	2653	Oryctolagus cuniculus (Rabbit) [9986]	1674-1679		
+LAGTIT	4	A0A5F9CNI1	A0A5F9CNI1_RABIT [tr]	Teneurin transmembrane protein 2	2492	Oryctolagus cuniculus (Rabbit) [9986]	1513-1518		
+LAGTIT	5	A0A5F9CRK1	A0A5F9CRK1_RABIT [tr]	Teneurin transmembrane protein 2	2774	Oryctolagus cuniculus (Rabbit) [9986]	1795-1800		
+LAGTIT	6	A0A5F9CYF9	A0A5F9CYF9_RABIT [tr]	Teneurin transmembrane protein 2	2535	Oryctolagus cuniculus (Rabbit) [9986]	1556-1561		
+LAGTIT	7	A0A5F9DPA8	A0A5F9DPA8_RABIT [tr]	Teneurin transmembrane protein 2	2535	Oryctolagus cuniculus (Rabbit) [9986]	1556-1561		
+LAGTIT	8	A0A5F9DQY6	A0A5F9DQY6_RABIT [tr]	Teneurin transmembrane protein 2	2541	Oryctolagus cuniculus (Rabbit) [9986]	1562-1567		
+LAGTIT	9	G1SJY9	G1SJY9_RABIT [tr]	Teneurin transmembrane protein 2	2605	Oryctolagus cuniculus (Rabbit) [9986]	1626-1631		
+NLDSKV	1	A0A5F9C706	A0A5F9C706_RABIT [tr]	Septin	405	Oryctolagus cuniculus (Rabbit) [9986]	147-152		
+NLDSKV	2	A0A5F9CZK1	A0A5F9CZK1_RABIT [tr]	Septin 10	461	Oryctolagus cuniculus (Rabbit) [9986]	169-174		
+NLDSKV	3	G1SR49	G1SR49_RABIT [tr]	Septin	439	Oryctolagus cuniculus (Rabbit) [9986]	181-186		
+FVTQRN	1	A0A5F9C2Z0	A0A5F9C2Z0_RABIT [tr]	Glutamate receptor	790	Oryctolagus cuniculus (Rabbit) [9986]	626-631		
+FVTQRN	2	A0A5F9CX88	A0A5F9CX88_RABIT [tr]	Glutamate receptor	893	Oryctolagus cuniculus (Rabbit) [9986]	744-749		
+FVTQRN	3	A0A5F9DNI8	A0A5F9DNI8_RABIT [tr]	Glutamate receptor	821	Oryctolagus cuniculus (Rabbit) [9986]	657-662		
+FVTQRN	4	G1SKJ0	G1SKJ0_RABIT [tr]	Glutamate receptor	908	Oryctolagus cuniculus (Rabbit) [9986]	744-749		
+FVTQRN	5	U3KM52	U3KM52_RABIT [tr]	Glutamate receptor	869	Oryctolagus cuniculus (Rabbit) [9986]	744-749		
+FGAISS	1	A0A5F9C276	A0A5F9C276_RABIT [tr]	Sodium/bile acid cotransporter	355	Oryctolagus cuniculus (Rabbit) [9986]	202-207		
+FGAISS	2	A0A5F9CCP9	A0A5F9CCP9_RABIT [tr]	Transmembrane protein 150	218	Oryctolagus cuniculus (Rabbit) [9986]	176-181		
+FGAISS	3	A0A5F9CM95	A0A5F9CM95_RABIT [tr]	Transmembrane protein 150	323	Oryctolagus cuniculus (Rabbit) [9986]	281-286		
+FGAISS	4	A0A5F9CRM3	A0A5F9CRM3_RABIT [tr]	Sodium/bile acid cotransporter	327	Oryctolagus cuniculus (Rabbit) [9986]	189-194		
+FGAISS	5	A0A5F9CTN1	A0A5F9CTN1_RABIT [tr]	Solute carrier family 10 member 7	378	Oryctolagus cuniculus (Rabbit) [9986]	202-207		
+FGAISS	6	A0A5F9DHY1	A0A5F9DHY1_RABIT [tr]	Sodium/bile acid cotransporter	365	Oryctolagus cuniculus (Rabbit) [9986]	227-232		
+FGAISS	7	G1SU58	G1SU58_RABIT [tr]	Transmembrane protein 150	255	Oryctolagus cuniculus (Rabbit) [9986]	213-218		
+FGAISS	8	G1T3K2	G1T3K2_RABIT [tr]	Sodium/bile acid cotransporter	340	Oryctolagus cuniculus (Rabbit) [9986]	202-207		
+VFLHVT	1	G1TEU8	G1TEU8_RABIT [tr]	Tubulin-folding cofactor C	512	Oryctolagus cuniculus (Rabbit) [9986]	437-442		
+VFLHVT	2	G1TN18	G1TN18_RABIT [tr]	Vomeronasal type-1 receptor	307	Oryctolagus cuniculus (Rabbit) [9986]	146-151		
+PATVCG	1	A0A5F9D6I2	A0A5F9D6I2_RABIT [tr]	Mitochondrial pyruvate carrier	174	Oryctolagus cuniculus (Rabbit) [9986]	167-172		
+PLVSSQ	1	G1TAV1	G1TAV1_RABIT [tr]	Zinc finger protein 335	1338	Oryctolagus cuniculus (Rabbit) [9986]	374-379		
+PLVSSQ	2	G1U4K9	G1U4K9_RABIT [tr]	Uncharacterized protein	1237	Oryctolagus cuniculus (Rabbit) [9986]	19-24		
+ALNTLV	1	G1T5X9	G1T5X9_RABIT [tr]	Lysosomal-associated transmembrane protein 4B	226	Oryctolagus cuniculus (Rabbit) [9986]	113-118		
+AAEIRA	1	G1TDM2	G1TDM2_RABIT [tr]	POP1 homolog, ribonuclease P/MRP subunit	1025	Oryctolagus cuniculus (Rabbit) [9986]	112-117		
+LDPLSE	1	G1T1D8	G1T1D8_RABIT [tr]	TNF alpha induced protein 2	650	Oryctolagus cuniculus (Rabbit) [9986]	447-452		
+PKKSTN	1	A0A5F9C9H2	A0A5F9C9H2_RABIT [tr]	Membrane-associated guanylate kinase inverted 3	1455	Oryctolagus cuniculus (Rabbit) [9986]	1232-1237		
+PKKSTN	2	A0A5F9CL56	A0A5F9CL56_RABIT [tr]	ATP/GTP binding protein like 2	840	Oryctolagus cuniculus (Rabbit) [9986]	795-800		
+PKKSTN	3	G1TDW0	G1TDW0_RABIT [tr]	ATP/GTP binding protein like 2	855	Oryctolagus cuniculus (Rabbit) [9986]	810-815		
+PKKSTN	4	G1TN98	G1TN98_RABIT [tr]	ATP/GTP binding protein like 2	837	Oryctolagus cuniculus (Rabbit) [9986]	792-797		
+VLSFEL	1	A0A5F9DJ69	A0A5F9DJ69_RABIT [tr]	2'-5' oligoadenylate synthase	358	Oryctolagus cuniculus (Rabbit) [9986]	134-139		
+NQKLIA	1	A0A5F9CXV1	A0A5F9CXV1_RABIT [tr]	WD repeat domain 11	1161	Oryctolagus cuniculus (Rabbit) [9986]	705-710		
+NQKLIA	2	A0A5F9D3K8	A0A5F9D3K8_RABIT [tr]	WD repeat domain 11	1313	Oryctolagus cuniculus (Rabbit) [9986]	857-862		
+NQKLIA	3	A0A5F9D790	A0A5F9D790_RABIT [tr]	WD repeat domain 11	1229	Oryctolagus cuniculus (Rabbit) [9986]	773-778		
+NQKLIA	4	A0A5F9D866	A0A5F9D866_RABIT [tr]	WD repeat domain 11	1255	Oryctolagus cuniculus (Rabbit) [9986]	864-869		
+NQKLIA	5	A0A5F9DH59	A0A5F9DH59_RABIT [tr]	WD repeat domain 11	1220	Oryctolagus cuniculus (Rabbit) [9986]	764-769		
+NQKLIA	6	A0A5F9DN77	A0A5F9DN77_RABIT [tr]	WD repeat domain 11	1407	Oryctolagus cuniculus (Rabbit) [9986]	801-806		
+NQKLIA	7	G1T6D8	G1T6D8_RABIT [tr]	WD repeat domain 11	1320	Oryctolagus cuniculus (Rabbit) [9986]	864-869		
+VQIDRL	1	G1TKV1	G1TKV1_RABIT [tr]	Uncharacterized protein	262	Oryctolagus cuniculus (Rabbit) [9986]	31-36		
+PRRARS	1	G1TC09	G1TC09_RABIT [tr]	Uncharacterized protein	709	Oryctolagus cuniculus (Rabbit) [9986]	319-324		
+CTEVPV	1	A0A5F9CV42	A0A5F9CV42_RABIT [tr]	G protein-coupled receptor class C group 6 member A	856	Oryctolagus cuniculus (Rabbit) [9986]	103-108		
+CTEVPV	2	G1SYT0	G1SYT0_RABIT [tr]	G protein-coupled receptor class C group 6 member A	927	Oryctolagus cuniculus (Rabbit) [9986]	103-108		
+QSLLIV	1	A0A5F9DEI2	A0A5F9DEI2_RABIT [tr]	Protein kish	51	Oryctolagus cuniculus (Rabbit) [9986]	8-13		
+APGQTG	1	A0A5F9D9K3	A0A5F9D9K3_RABIT [tr]	Spermatogenesis associated 21	506	Oryctolagus cuniculus (Rabbit) [9986]	9-14		
+APGQTG	2	A0A5F9DLN9	A0A5F9DLN9_RABIT [tr]	Acyl-CoA synthetase medium chain family member 1	584	Oryctolagus cuniculus (Rabbit) [9986]	42-47		
+APGQTG	3	G1SKR4	G1SKR4_RABIT [tr]	Collagen type XXIV alpha 1 chain	1694	Oryctolagus cuniculus (Rabbit) [9986]	1115-1120		
+VFAQVK	1	U3KPD1	U3KPD1_RABIT [tr]	Glutathione transferase	544	Oryctolagus cuniculus (Rabbit) [9986]	181-186		
+DAVRDP	1	G1SML8	G1SML8_RABIT [tr]	Solute carrier family 40 member 1	777	Oryctolagus cuniculus (Rabbit) [9986]	93-98		
+GQTGKI	1	A0A5F9C462	A0A5F9C462_RABIT [tr]	Electron transfer flavoprotein subunit alpha	322	Oryctolagus cuniculus (Rabbit) [9986]	271-276		
+GQTGKI	2	A0A5F9CD43	A0A5F9CD43_RABIT [tr]	Scavenger receptor class B member 1	569	Oryctolagus cuniculus (Rabbit) [9986]	461-466		
+GQTGKI	3	A0A5F9CIA0	A0A5F9CIA0_RABIT [tr]	Electron transfer flavoprotein subunit alpha	386	Oryctolagus cuniculus (Rabbit) [9986]	264-269		
+GQTGKI	4	A0A5F9CU54	A0A5F9CU54_RABIT [tr]	Scavenger receptor class B member 1	614	Oryctolagus cuniculus (Rabbit) [9986]	506-511		
+GQTGKI	5	A0A5F9CUS2	A0A5F9CUS2_RABIT [tr]	Electron transfer flavoprotein subunit alpha	337	Oryctolagus cuniculus (Rabbit) [9986]	215-220		
+GQTGKI	6	A0A5F9D798	A0A5F9D798_RABIT [tr]	MDM2 binding protein	907	Oryctolagus cuniculus (Rabbit) [9986]	525-530		
+GQTGKI	7	A0A5F9DDB7	A0A5F9DDB7_RABIT [tr]	Electron transfer flavoprotein subunit alpha	315	Oryctolagus cuniculus (Rabbit) [9986]	264-269		
+GQTGKI	8	A0A5F9DSD7	A0A5F9DSD7_RABIT [tr]	Electron transfer flavoprotein subunit alpha	333	Oryctolagus cuniculus (Rabbit) [9986]	264-269		
+GQTGKI	9	A0A5F9DVU1	A0A5F9DVU1_RABIT [tr]	Electron transfer flavoprotein subunit alpha	229	Oryctolagus cuniculus (Rabbit) [9986]	160-165		
+GQTGKI	10	G1SE12	G1SE12_RABIT [tr]	Electron transfer flavoprotein subunit alpha	329	Oryctolagus cuniculus (Rabbit) [9986]	264-269		
+GQTGKI	11	G1TB48	G1TB48_RABIT [tr]	MDM2 binding protein	906	Oryctolagus cuniculus (Rabbit) [9986]	525-530		
+GQTGKI	12	G1TWS7	G1TWS7_RABIT [tr]	Scavenger receptor class B member 1	521	Oryctolagus cuniculus (Rabbit) [9986]	413-418		
+GQTGKI	13	Q6WIW8	Q6WIW8_RABIT [tr]	Scavenger receptor class B type II	501	Oryctolagus cuniculus (Rabbit) [9986]	401-406	Pride	
+GQTGKI	14	Q6WIW9	Q6WIW9_RABIT [tr]	Scavenger receptor class B type I	509	Oryctolagus cuniculus (Rabbit) [9986]	401-406		
+ILPDPS	1	A0A5F9D7M0	A0A5F9D7M0_RABIT [tr]	DNA damage induced apoptosis suppressor	987	Oryctolagus cuniculus (Rabbit) [9986]	166-171		
+ILPDPS	2	G1STC2	G1STC2_RABIT [tr]	DNA damage induced apoptosis suppressor	933	Oryctolagus cuniculus (Rabbit) [9986]	112-117		
+ILPDPS	3	U3KN96	U3KN96_RABIT [tr]	DNA damage induced apoptosis suppressor	978	Oryctolagus cuniculus (Rabbit) [9986]	157-162		
+LNDILS	1	A0A5F9DTN6	A0A5F9DTN6_RABIT [tr]	Gamma-aminobutyric acid type B receptor subunit 2	831	Oryctolagus cuniculus (Rabbit) [9986]	724-729		
+LNDILS	2	G1TBU3	G1TBU3_RABIT [tr]	Gamma-aminobutyric acid type B receptor subunit 2	880	Oryctolagus cuniculus (Rabbit) [9986]	773-778		
+LQSLQT	1	A0A5F9CZB7	A0A5F9CZB7_RABIT [tr]	Glycosylphosphatidylinositol anchor attachment 1	640	Oryctolagus cuniculus (Rabbit) [9986]	303-308		
+LQSLQT	2	A0A5F9DK80	A0A5F9DK80_RABIT [tr]	Glycosylphosphatidylinositol anchor attachment 1	690	Oryctolagus cuniculus (Rabbit) [9986]	353-358		
+LQSLQT	3	G1SCQ6	G1SCQ6_RABIT [tr]	Glycosylphosphatidylinositol anchor attachment 1	561	Oryctolagus cuniculus (Rabbit) [9986]	224-229		
+LQSLQT	4	G1T742	G1T742_RABIT [tr]	Tandem C2 domains, nuclear	489	Oryctolagus cuniculus (Rabbit) [9986]	298-303		
+LLQYGS	1	A0A5F9D8X3	A0A5F9D8X3_RABIT [tr]	Matrilin 2	956	Oryctolagus cuniculus (Rabbit) [9986]	98-103		
+LLQYGS	2	A0A5F9DGA7	A0A5F9DGA7_RABIT [tr]	Matrilin 2	1156	Oryctolagus cuniculus (Rabbit) [9986]	352-357		
+LLQYGS	3	G1SD89	G1SD89_RABIT [tr]	Uncharacterized protein	425	Oryctolagus cuniculus (Rabbit) [9986]	285-290		
+LLQYGS	4	G1TDK9	G1TDK9_RABIT [tr]	Matrilin 2	1197	Oryctolagus cuniculus (Rabbit) [9986]	352-357		
+LLPLVS	1	A0A5F9CMW7	A0A5F9CMW7_RABIT [tr]	Catenin alpha like 1	182	Oryctolagus cuniculus (Rabbit) [9986]	41-46		
+LLPLVS	2	A0A5F9D767	A0A5F9D767_RABIT [tr]	NAD(P)H oxidase (H(2)O(2)-forming)	1545	Oryctolagus cuniculus (Rabbit) [9986]	607-612		
+LLPLVS	3	A0A5F9DF11	A0A5F9DF11_RABIT [tr]	Catenin alpha like 1	715	Oryctolagus cuniculus (Rabbit) [9986]	41-46		
+LLPLVS	4	A0A5F9DSC2	A0A5F9DSC2_RABIT [tr]	Uncharacterized protein	236	Oryctolagus cuniculus (Rabbit) [9986]	226-231		
+LLPLVS	5	G1SF49	G1SF49_RABIT [tr]	Lymphotoxin beta receptor	414	Oryctolagus cuniculus (Rabbit) [9986]	227-232		
+LLPLVS	6	G1SIB9	G1SIB9_RABIT [tr]	Alpha-1,4 glucan phosphorylase	831	Oryctolagus cuniculus (Rabbit) [9986]	510-515		
+LLPLVS	7	G1SSJ3	G1SSJ3_RABIT [tr]	Solute carrier family 39 member 5	541	Oryctolagus cuniculus (Rabbit) [9986]	534-539		
+LLPLVS	8	G1T730	G1T730_RABIT [tr]	NAD(P)H oxidase (H(2)O(2)-forming)	1545	Oryctolagus cuniculus (Rabbit) [9986]	607-612		
+LLPLVS	9	G1TYJ9	G1TYJ9_RABIT [tr]	Catenin alpha like 1	732	Oryctolagus cuniculus (Rabbit) [9986]	41-46		
+TEKSNI	1	G1SMX2	G1SMX2_RABIT [tr]	Internexin neuronal intermediate filament protein alpha	499	Oryctolagus cuniculus (Rabbit) [9986]	484-489		
+LIRAAE	1	A0A5F9C109	A0A5F9C109_RABIT [tr]	Myosin XVIIIA	1894	Oryctolagus cuniculus (Rabbit) [9986]	1297-1302		
+LIRAAE	2	A0A5F9CHY0	A0A5F9CHY0_RABIT [tr]	Myosin XVIIIA	2420	Oryctolagus cuniculus (Rabbit) [9986]	1351-1356		
+LIRAAE	3	A0A5F9CUJ0	A0A5F9CUJ0_RABIT [tr]	Myosin XVIIIA	1955	Oryctolagus cuniculus (Rabbit) [9986]	1358-1363		
+LIRAAE	4	A0A5F9D4G0	A0A5F9D4G0_RABIT [tr]	Myosin XVIIIA	2435	Oryctolagus cuniculus (Rabbit) [9986]	1351-1356		
+LIRAAE	5	A0A5F9D624	A0A5F9D624_RABIT [tr]	Myosin XVIIIA	2001	Oryctolagus cuniculus (Rabbit) [9986]	1351-1356		
+LIRAAE	6	A0A5F9DIY1	A0A5F9DIY1_RABIT [tr]	Myosin XVIIIA	2378	Oryctolagus cuniculus (Rabbit) [9986]	1294-1299		
+LIRAAE	7	A0A5F9DQS8	A0A5F9DQS8_RABIT [tr]	Myosin XVIIIA	2431	Oryctolagus cuniculus (Rabbit) [9986]	1347-1352		
+LIRAAE	8	G1TXS2	G1TXS2_RABIT [tr]	Myosin XVIIIA	2060	Oryctolagus cuniculus (Rabbit) [9986]	1358-1363		
+DKNTQE	1	A0A5F9CE54	A0A5F9CE54_RABIT [tr]	Growth hormone receptor	582	Oryctolagus cuniculus (Rabbit) [9986]	32-37		
+DRLNEV	1	P18287	APOE_RABIT [sp]	Apolipoprotein E precursor	311	Oryctolagus cuniculus (Rabbit) [9986]	238-243		
+TQSLLI	1	A0A5F9D7B4	A0A5F9D7B4_RABIT [tr]	ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 1	619	Oryctolagus cuniculus (Rabbit) [9986]	440-445		
+TQSLLI	2	G1U2C0	G1U2C0_RABIT [tr]	ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 1	585	Oryctolagus cuniculus (Rabbit) [9986]	406-411		
+SSSGWT	1	G1T861	G1T861_RABIT [tr]	KIAA1109	4998	Oryctolagus cuniculus (Rabbit) [9986]	776-781		
+LHRSYL	1	A0A5F9DGV6	A0A5F9DGV6_RABIT [tr]	DNA topoisomerase II binding protein 1	1408	Oryctolagus cuniculus (Rabbit) [9986]	1216-1221		
+LHRSYL	2	G1T411	G1T411_RABIT [tr]	DNA topoisomerase II binding protein 1	1546	Oryctolagus cuniculus (Rabbit) [9986]	1354-1359		
+TEVPVA	1	A0A5F9CV42	A0A5F9CV42_RABIT [tr]	G protein-coupled receptor class C group 6 member A	856	Oryctolagus cuniculus (Rabbit) [9986]	104-109		
+TEVPVA	2	G1SYT0	G1SYT0_RABIT [tr]	G protein-coupled receptor class C group 6 member A	927	Oryctolagus cuniculus (Rabbit) [9986]	104-109		
+FKNLRE	1	A0A5F9C787	A0A5F9C787_RABIT [tr]	Ras protein specific guanine nucleotide releasing factor 2	1181	Oryctolagus cuniculus (Rabbit) [9986]	1080-1085		
+FKNLRE	2	A0A5F9CB78	A0A5F9CB78_RABIT [tr]	Ras protein specific guanine nucleotide releasing factor 1	1051	Oryctolagus cuniculus (Rabbit) [9986]	970-975		
+FKNLRE	3	A0A5F9CU65	A0A5F9CU65_RABIT [tr]	Ras protein specific guanine nucleotide releasing factor 1	1085	Oryctolagus cuniculus (Rabbit) [9986]	978-983		
+FKNLRE	4	A0A5F9CX78	A0A5F9CX78_RABIT [tr]	Ras protein specific guanine nucleotide releasing factor 1	1128	Oryctolagus cuniculus (Rabbit) [9986]	1021-1026		
+FKNLRE	5	A0A5F9DK79	A0A5F9DK79_RABIT [tr]	Ras protein specific guanine nucleotide releasing factor 2	1166	Oryctolagus cuniculus (Rabbit) [9986]	1065-1070		
+FKNLRE	6	A0A5F9DL58	A0A5F9DL58_RABIT [tr]	DNA helicase B	1140	Oryctolagus cuniculus (Rabbit) [9986]	170-175		
+FKNLRE	7	G1SJX4	G1SJX4_RABIT [tr]	Ras protein specific guanine nucleotide releasing factor 2	1123	Oryctolagus cuniculus (Rabbit) [9986]	1022-1027		
+FKNLRE	8	G1SPX9	G1SPX9_RABIT [tr]	DNA helicase B	1092	Oryctolagus cuniculus (Rabbit) [9986]	170-175		
+FKNLRE	9	G1SW97	G1SW97_RABIT [tr]	Butyryl-CoA dehydrogenase	425	Oryctolagus cuniculus (Rabbit) [9986]	76-81		
+FKNLRE	10	G1U874	G1U874_RABIT [tr]	Ras protein specific guanine nucleotide releasing factor 1	1139	Oryctolagus cuniculus (Rabbit) [9986]	1032-1037		
+PQSAPH	1	A0A5F9CPV0	A0A5F9CPV0_RABIT [tr]	Integrin subunit alpha D	1118	Oryctolagus cuniculus (Rabbit) [9986]	10-15		
+QQLIRA	1	A0A5F9CAC3	A0A5F9CAC3_RABIT [tr]	Sorting nexin 13	815	Oryctolagus cuniculus (Rabbit) [9986]	660-665		
+QQLIRA	2	A0A5F9DCE6	A0A5F9DCE6_RABIT [tr]	Sorting nexin 13	788	Oryctolagus cuniculus (Rabbit) [9986]	633-638		
+QQLIRA	3	A0A5F9DDU5	A0A5F9DDU5_RABIT [tr]	Sorting nexin 13	837	Oryctolagus cuniculus (Rabbit) [9986]	682-687		
+QQLIRA	4	G1TQD1	G1TQD1_RABIT [tr]	Sorting nexin 13	957	Oryctolagus cuniculus (Rabbit) [9986]	802-807		
+ALGKLQ	1	A0A5F9DHC1	A0A5F9DHC1_RABIT [tr]	Uncharacterized protein	328	Oryctolagus cuniculus (Rabbit) [9986]	187-192		
+ALGKLQ	2	G1SKL1	G1SKL1_RABIT [tr]	Uncharacterized protein	192	Oryctolagus cuniculus (Rabbit) [9986]	129-134		
+EGVFVS	1	A0A5F9DP38	A0A5F9DP38_RABIT [tr]	NHS actin remodeling regulator	1621	Oryctolagus cuniculus (Rabbit) [9986]	1399-1404		
+EGVFVS	2	A0A5F9DRJ4	A0A5F9DRJ4_RABIT [tr]	NHS actin remodeling regulator	1468	Oryctolagus cuniculus (Rabbit) [9986]	1246-1251		
+EGVFVS	3	G1TPX1	G1TPX1_RABIT [tr]	NHS actin remodeling regulator	1532	Oryctolagus cuniculus (Rabbit) [9986]	1310-1315		
+KQLSSN	1	A0A5F9CA75	A0A5F9CA75_RABIT [tr]	Mediator complex subunit 12L	1934	Oryctolagus cuniculus (Rabbit) [9986]	1914-1919		
+KQLSSN	2	G1SPU5	G1SPU5_RABIT [tr]	Mediator complex subunit 12L	2028	Oryctolagus cuniculus (Rabbit) [9986]	2008-2013		
+FQQFGR	1	G1U826	G1U826_RABIT [tr]	V-type proton ATPase subunit G	162	Oryctolagus cuniculus (Rabbit) [9986]	88-93		
+QSIIAY	1	G1T7I4	G1T7I4_RABIT [tr]	Coatomer subunit alpha	1233	Oryctolagus cuniculus (Rabbit) [9986]	632-637		
+QSIIAY	2	Q95L00	Q95L00_RABIT [tr]	Coatomer alpha subunit (Fragment)	163	Oryctolagus cuniculus (Rabbit) [9986]	116-121		
+FDEDDS	1	G1T225	G1T225_RABIT [tr]	Serine/threonine-protein kinase RIO1	568	Oryctolagus cuniculus (Rabbit) [9986]	63-68		
+FDEDDS	2	U3KMY9	U3KMY9_RABIT [tr]	Serine/threonine-protein kinase RIO1	550	Oryctolagus cuniculus (Rabbit) [9986]	45-50		
+RALTGI	1	G1SP54	G1SP54_RABIT [tr]	Leukotriene A(4) hydrolase	611	Oryctolagus cuniculus (Rabbit) [9986]	33-38		
+EIYQAG	1	G1TRM6	G1TRM6_RABIT [tr]	Dolichyl-phosphate-mannose--protein mannosyltransferase	774	Oryctolagus cuniculus (Rabbit) [9986]	495-500		
+AISSVL	1	A0A5F9DW74	A0A5F9DW74_RABIT [tr]	Germ cell associated 1	368	Oryctolagus cuniculus (Rabbit) [9986]	211-216		
+AISSVL	2	G1SIQ9	G1SIQ9_RABIT [tr]	Ribosome biogenesis protein WDR12	423	Oryctolagus cuniculus (Rabbit) [9986]	259-264		
+AISSVL	3	G1T463	G1T463_RABIT [tr]	Germ cell associated 1	381	Oryctolagus cuniculus (Rabbit) [9986]	224-229		
+FGGVSV	1	A0A5F9CKE1	A0A5F9CKE1_RABIT [tr]	Uncharacterized protein	123	Oryctolagus cuniculus (Rabbit) [9986]	52-57		
+RSYLTP	1	A0A5F9C1I7	A0A5F9C1I7_RABIT [tr]	Protein phosphatase 1 regulatory subunit	958	Oryctolagus cuniculus (Rabbit) [9986]	595-600		
+RSYLTP	2	A0A5F9C5W6	A0A5F9C5W6_RABIT [tr]	Protein phosphatase 1 regulatory subunit	1043	Oryctolagus cuniculus (Rabbit) [9986]	680-685		
+RSYLTP	3	A0A5F9C9Z9	A0A5F9C9Z9_RABIT [tr]	Protein phosphatase 1 regulatory subunit	941	Oryctolagus cuniculus (Rabbit) [9986]	667-672		
+RSYLTP	4	A0A5F9CKM6	A0A5F9CKM6_RABIT [tr]	Protein phosphatase 1 regulatory subunit	1056	Oryctolagus cuniculus (Rabbit) [9986]	674-679		
+RSYLTP	5	A0A5F9CLU2	A0A5F9CLU2_RABIT [tr]	Protein phosphatase 1 regulatory subunit	1008	Oryctolagus cuniculus (Rabbit) [9986]	667-672		
+RSYLTP	6	A0A5F9CR81	A0A5F9CR81_RABIT [tr]	Uncharacterized protein	630	Oryctolagus cuniculus (Rabbit) [9986]	438-443		
+RSYLTP	7	A0A5F9DC02	A0A5F9DC02_RABIT [tr]	Uncharacterized protein	627	Oryctolagus cuniculus (Rabbit) [9986]	400-405		
+RSYLTP	8	A0A5F9DES7	A0A5F9DES7_RABIT [tr]	Protein phosphatase 1 regulatory subunit	995	Oryctolagus cuniculus (Rabbit) [9986]	667-672		
+RSYLTP	9	A0A5F9DHR7	A0A5F9DHR7_RABIT [tr]	Protein phosphatase 1 regulatory subunit	1040	Oryctolagus cuniculus (Rabbit) [9986]	674-679		
+RSYLTP	10	A0A5F9DP08	A0A5F9DP08_RABIT [tr]	Protein phosphatase 1 regulatory subunit	1014	Oryctolagus cuniculus (Rabbit) [9986]	667-672		
+RSYLTP	11	A0A5F9DST5	A0A5F9DST5_RABIT [tr]	Protein phosphatase 1 regulatory subunit	1013	Oryctolagus cuniculus (Rabbit) [9986]	650-655		
+RSYLTP	12	A0A5F9DT56	A0A5F9DT56_RABIT [tr]	Protein phosphatase 1 regulatory subunit	1044	Oryctolagus cuniculus (Rabbit) [9986]	706-711		
+RSYLTP	13	A0A5F9DW27	A0A5F9DW27_RABIT [tr]	Protein phosphatase 1 regulatory subunit	1085	Oryctolagus cuniculus (Rabbit) [9986]	706-711		
+RSYLTP	14	G1SJB0	G1SJB0_RABIT [tr]	Protein phosphatase 1 regulatory subunit	979	Oryctolagus cuniculus (Rabbit) [9986]	613-618		
+RSYLTP	15	G1TC70	G1TC70_RABIT [tr]	Protein phosphatase 1 regulatory subunit	1069	Oryctolagus cuniculus (Rabbit) [9986]	706-711		
+RSYLTP	16	G1TT79	G1TT79_RABIT [tr]	Uncharacterized protein	665	Oryctolagus cuniculus (Rabbit) [9986]	438-443		
+AAAYYV	1	A0A5F9C424	A0A5F9C424_RABIT [tr]	URB1 ribosome biogenesis homolog	2229	Oryctolagus cuniculus (Rabbit) [9986]	1643-1648		
+AAAYYV	2	A0A5F9DR07	A0A5F9DR07_RABIT [tr]	URB1 ribosome biogenesis homolog	2186	Oryctolagus cuniculus (Rabbit) [9986]	1600-1605		
+AAAYYV	3	G1SX43	G1SX43_RABIT [tr]	URB1 ribosome biogenesis homolog	2268	Oryctolagus cuniculus (Rabbit) [9986]	1682-1687		
+LVDLPI	1	A0A5F9DKQ7	A0A5F9DKQ7_RABIT [tr]	HECT-type E3 ubiquitin transferase	2549	Oryctolagus cuniculus (Rabbit) [9986]	2200-2205		
+LVDLPI	2	G1SKG9	G1SKG9_RABIT [tr]	HECT-type E3 ubiquitin transferase	2610	Oryctolagus cuniculus (Rabbit) [9986]	2261-2266		
+TSALLA	1	G1TUP2	G1TUP2_RABIT [tr]	IRG-type G domain-containing protein	330	Oryctolagus cuniculus (Rabbit) [9986]	32-37		
+EVQIDR	1	G1TKV1	G1TKV1_RABIT [tr]	Uncharacterized protein	262	Oryctolagus cuniculus (Rabbit) [9986]	30-35		
+DYSVLY	1	A0A5F9CVF0	A0A5F9CVF0_RABIT [tr]	Transmembrane protein with EGF like and two follistatin like domains 2	374	Oryctolagus cuniculus (Rabbit) [9986]	304-309		
+DYSVLY	2	G1TEA6	G1TEA6_RABIT [tr]	Transmembrane protein with EGF like and two follistatin like domains 2	346	Oryctolagus cuniculus (Rabbit) [9986]	304-309		
+DYSVLY	3	U3KPN6	U3KPN6_RABIT [tr]	Transmembrane protein with EGF like and two follistatin like domains 2	382	Oryctolagus cuniculus (Rabbit) [9986]	312-317		
+LPQGFS	1	A0A5F9C9Q6	A0A5F9C9Q6_RABIT [tr]	Zinc finger protein 7	659	Oryctolagus cuniculus (Rabbit) [9986]	84-89		
+LPQGFS	2	A0A5F9DIN0	A0A5F9DIN0_RABIT [tr]	Zinc finger protein 7	691	Oryctolagus cuniculus (Rabbit) [9986]	116-121		
+LPQGFS	3	A0A5F9DLH2	A0A5F9DLH2_RABIT [tr]	Zinc finger protein 7	730	Oryctolagus cuniculus (Rabbit) [9986]	155-160		
+LPQGFS	4	G1U9Q0	G1U9Q0_RABIT [tr]	Zinc finger protein 7	698	Oryctolagus cuniculus (Rabbit) [9986]	123-128		
+FRKSNL	1	U3KMG5	U3KMG5_RABIT [tr]	Zinc finger protein 41	776	Oryctolagus cuniculus (Rabbit) [9986]	362-367		
+AENSVA	1	G1TCI1	G1TCI1_RABIT [tr]	Hedgehog protein	451	Oryctolagus cuniculus (Rabbit) [9986]	190-195		
+LDKVEA	1	A0A5F9CBD5	A0A5F9CBD5_RABIT [tr]	DNA topoisomerase 2	1508	Oryctolagus cuniculus (Rabbit) [9986]	1080-1085		
+LDKVEA	2	A0A5F9CRC2	A0A5F9CRC2_RABIT [tr]	Desmoplakin	2260	Oryctolagus cuniculus (Rabbit) [9986]	785-790		
+LDKVEA	3	A0A5F9CRN7	A0A5F9CRN7_RABIT [tr]	DNA topoisomerase 2	1529	Oryctolagus cuniculus (Rabbit) [9986]	1101-1106		
+LDKVEA	4	A0A5F9DSV8	A0A5F9DSV8_RABIT [tr]	DNA topoisomerase 2	1518	Oryctolagus cuniculus (Rabbit) [9986]	1132-1137		
+LDKVEA	5	G1SDX3	G1SDX3_RABIT [tr]	DNA topoisomerase 2	1601	Oryctolagus cuniculus (Rabbit) [9986]	1173-1178		
+LDKVEA	6	G1T4V7	G1T4V7_RABIT [tr]	Desmoplakin	2814	Oryctolagus cuniculus (Rabbit) [9986]	740-745		
+LEILDI	1	A0A5F9CW11	A0A5F9CW11_RABIT [tr]	Uncharacterized protein	436	Oryctolagus cuniculus (Rabbit) [9986]	130-135		
+LEILDI	2	A0A5F9D5S4	A0A5F9D5S4_RABIT [tr]	Uncharacterized protein	631	Oryctolagus cuniculus (Rabbit) [9986]	325-330		
+LEILDI	3	A0A5F9DBX0	A0A5F9DBX0_RABIT [tr]	Uncharacterized protein	422	Oryctolagus cuniculus (Rabbit) [9986]	130-135		
+LEILDI	4	A0A5F9DND3	A0A5F9DND3_RABIT [tr]	Uncharacterized protein	214	Oryctolagus cuniculus (Rabbit) [9986]	85-90		
+LEILDI	5	G1TS93	G1TS93_RABIT [tr]	Protein phosphatase 1 regulatory subunit 22	346	Oryctolagus cuniculus (Rabbit) [9986]	130-135		
+EGKQGN	1	G1TLK7	G1TLK7_RABIT [tr]	Testis expressed 28	426	Oryctolagus cuniculus (Rabbit) [9986]	166-171		
+GAGAAL	1	A0A5F9CCJ0	A0A5F9CCJ0_RABIT [tr]	Integrin subunit alpha D	1237	Oryctolagus cuniculus (Rabbit) [9986]	445-450		
+GAGAAL	2	A0A5F9D4V8	A0A5F9D4V8_RABIT [tr]	Protein Wnt	469	Oryctolagus cuniculus (Rabbit) [9986]	90-95		
+GAGAAL	3	G1SN26	G1SN26_RABIT [tr]	Peptidylprolyl isomerase	1163	Oryctolagus cuniculus (Rabbit) [9986]	1091-1096		
+GAGAAL	4	G1SYD9	G1SYD9_RABIT [tr]	dTMP kinase	451	Oryctolagus cuniculus (Rabbit) [9986]	155-160		
+GAGAAL	5	G1SZE5	G1SZE5_RABIT [tr]	Oxidative stress induced growth inhibitor 1	304	Oryctolagus cuniculus (Rabbit) [9986]	234-239		
+CTLKSF	1	G1T466	G1T466_RABIT [tr]	E1 ubiquitin-activating enzyme	1052	Oryctolagus cuniculus (Rabbit) [9986]	625-630		
+QDSLSS	1	A0A5F9C1C1	A0A5F9C1C1_RABIT [tr]	Golgin A3	1285	Oryctolagus cuniculus (Rabbit) [9986]	252-257		
+QDSLSS	2	A0A5F9CBS3	A0A5F9CBS3_RABIT [tr]	TAR (HIV-1) RNA binding protein 1	1599	Oryctolagus cuniculus (Rabbit) [9986]	1027-1032		
+QDSLSS	3	A0A5F9CC13	A0A5F9CC13_RABIT [tr]	Golgin A3	1351	Oryctolagus cuniculus (Rabbit) [9986]	310-315		
+QDSLSS	4	A0A5F9CE86	A0A5F9CE86_RABIT [tr]	TAR (HIV-1) RNA binding protein 1	1529	Oryctolagus cuniculus (Rabbit) [9986]	957-962		
+QDSLSS	5	A0A5F9CGL6	A0A5F9CGL6_RABIT [tr]	TAR (HIV-1) RNA binding protein 1	1605	Oryctolagus cuniculus (Rabbit) [9986]	1057-1062		
+QDSLSS	6	A0A5F9CK73	A0A5F9CK73_RABIT [tr]	Squalene synthase	429	Oryctolagus cuniculus (Rabbit) [9986]	88-93		
+QDSLSS	7	A0A5F9CXQ6	A0A5F9CXQ6_RABIT [tr]	Golgin A3	1342	Oryctolagus cuniculus (Rabbit) [9986]	305-310		
+QDSLSS	8	A0A5F9DCJ7	A0A5F9DCJ7_RABIT [tr]	Golgin A3	1351	Oryctolagus cuniculus (Rabbit) [9986]	320-325		
+QDSLSS	9	A0A5F9DGX2	A0A5F9DGX2_RABIT [tr]	Squalene synthase	411	Oryctolagus cuniculus (Rabbit) [9986]	27-32		
+QDSLSS	10	A0A5F9DJB4	A0A5F9DJB4_RABIT [tr]	TAR (HIV-1) RNA binding protein 1	1575	Oryctolagus cuniculus (Rabbit) [9986]	1003-1008		
+QDSLSS	11	A0A5F9DRX7	A0A5F9DRX7_RABIT [tr]	Golgin A3	1337	Oryctolagus cuniculus (Rabbit) [9986]	293-298		
+QDSLSS	12	A0A5F9DV97	A0A5F9DV97_RABIT [tr]	TAR (HIV-1) RNA binding protein 1	1538	Oryctolagus cuniculus (Rabbit) [9986]	966-971		
+QDSLSS	13	G1SIS3	G1SIS3_RABIT [tr]	Uncharacterized protein	1234	Oryctolagus cuniculus (Rabbit) [9986]	757-762		
+QDSLSS	14	G1SNB5	G1SNB5_RABIT [tr]	Squalene synthase	417	Oryctolagus cuniculus (Rabbit) [9986]	33-38		
+QDSLSS	15	G1SV51	G1SV51_RABIT [tr]	Golgin A3	1346	Oryctolagus cuniculus (Rabbit) [9986]	291-296		
+QDSLSS	16	G1TDN7	G1TDN7_RABIT [tr]	TAR (HIV-1) RNA binding protein 1	1629	Oryctolagus cuniculus (Rabbit) [9986]	1057-1062		
+QDSLSS	17	U3KPG8	U3KPG8_RABIT [tr]	Squalene synthase	472	Oryctolagus cuniculus (Rabbit) [9986]	88-93		
+DILSRL	1	A0A5F9CP68	A0A5F9CP68_RABIT [tr]	Flotillin	379	Oryctolagus cuniculus (Rabbit) [9986]	351-356		
+DILSRL	2	G1TDF6	G1TDF6_RABIT [tr]	Flotillin	427	Oryctolagus cuniculus (Rabbit) [9986]	399-404		
+GRLQSL	1	A0A5F9CAV5	A0A5F9CAV5_RABIT [tr]	Neuron navigator 3	2338	Oryctolagus cuniculus (Rabbit) [9986]	1593-1598		
+GRLQSL	2	A0A5F9CHQ3	A0A5F9CHQ3_RABIT [tr]	Neuron navigator 3	2184	Oryctolagus cuniculus (Rabbit) [9986]	1439-1444		
+GRLQSL	3	A0A5F9CSU9	A0A5F9CSU9_RABIT [tr]	Neuron navigator 3	1842	Oryctolagus cuniculus (Rabbit) [9986]	1097-1102		
+GRLQSL	4	A0A5F9CX68	A0A5F9CX68_RABIT [tr]	Neuron navigator 3	2368	Oryctolagus cuniculus (Rabbit) [9986]	1616-1621		
+GRLQSL	5	A0A5F9CZU4	A0A5F9CZU4_RABIT [tr]	Neuron navigator 3	2183	Oryctolagus cuniculus (Rabbit) [9986]	1431-1436		
+GRLQSL	6	A0A5F9D0H7	A0A5F9D0H7_RABIT [tr]	Neuron navigator 3	2390	Oryctolagus cuniculus (Rabbit) [9986]	1616-1621		
+GRLQSL	7	A0A5F9D306	A0A5F9D306_RABIT [tr]	Neuron navigator 3	2347	Oryctolagus cuniculus (Rabbit) [9986]	1602-1607		
+GRLQSL	8	A0A5F9DFQ1	A0A5F9DFQ1_RABIT [tr]	Neuron navigator 3	2205	Oryctolagus cuniculus (Rabbit) [9986]	1453-1458		
+GRLQSL	9	G1SMV6	G1SMV6_RABIT [tr]	Neuron navigator 3	2361	Oryctolagus cuniculus (Rabbit) [9986]	1616-1621		
+GRLQSL	10	G1SRH2	G1SRH2_RABIT [tr]	Alpha-1,4-N-acetylglucosaminyltransferase	348	Oryctolagus cuniculus (Rabbit) [9986]	50-55		
+GRLQSL	11	G1SRL8	G1SRL8_RABIT [tr]	ACB domain-containing protein	304	Oryctolagus cuniculus (Rabbit) [9986]	249-254		
+LREFVF	1	A0A5F9CVU6	A0A5F9CVU6_RABIT [tr]	Olfactory receptor	263	Oryctolagus cuniculus (Rabbit) [9986]	9-14		
+LREFVF	2	A0A5F9CZE9	A0A5F9CZE9_RABIT [tr]	39S ribosomal protein L35, mitochondrial	177	Oryctolagus cuniculus (Rabbit) [9986]	144-149		
+LREFVF	3	A0A5F9DP17	A0A5F9DP17_RABIT [tr]	39S ribosomal protein L35, mitochondrial	170	Oryctolagus cuniculus (Rabbit) [9986]	144-149		
+LREFVF	4	G1SYS9	G1SYS9_RABIT [tr]	39S ribosomal protein L35, mitochondrial	188	Oryctolagus cuniculus (Rabbit) [9986]	144-149		
+DDSEPV	1	A0A5F9CSB3	A0A5F9CSB3_RABIT [tr]	Uncharacterized protein	364	Oryctolagus cuniculus (Rabbit) [9986]	359-364		
+DDSEPV	2	A0A5F9D6I6	A0A5F9D6I6_RABIT [tr]	G3BP stress granule assembly factor 2	449	Oryctolagus cuniculus (Rabbit) [9986]	347-352		
+DDSEPV	3	A0A5F9DJ71	A0A5F9DJ71_RABIT [tr]	Uncharacterized protein	424	Oryctolagus cuniculus (Rabbit) [9986]	374-379		
+DDSEPV	4	A0A5F9DTZ5	A0A5F9DTZ5_RABIT [tr]	Uncharacterized protein	465	Oryctolagus cuniculus (Rabbit) [9986]	385-390		
+DDSEPV	5	G1SJC7	G1SJC7_RABIT [tr]	G3BP stress granule assembly factor 2	482	Oryctolagus cuniculus (Rabbit) [9986]	380-385		
+DDSEPV	6	G1T815	G1T815_RABIT [tr]	Uncharacterized protein	1883	Oryctolagus cuniculus (Rabbit) [9986]	341-346		
+DDSEPV	7	G1TEW3	G1TEW3_RABIT [tr]	Uncharacterized protein	478	Oryctolagus cuniculus (Rabbit) [9986]	398-403		
+DDSEPV	8	G1U118	G1U118_RABIT [tr]	Uncharacterized protein	434	Oryctolagus cuniculus (Rabbit) [9986]	354-359		
+KNFTTA	1	A0A5F9CRB8	A0A5F9CRB8_RABIT [tr]	Cochlin	495	Oryctolagus cuniculus (Rabbit) [9986]	221-226		
+KNFTTA	2	G1T2H9	G1T2H9_RABIT [tr]	Cochlin	551	Oryctolagus cuniculus (Rabbit) [9986]	221-226		
+SFELLH	1	G1SFV7	G1SFV7_RABIT [tr]	DNA damage-binding protein 1	1140	Oryctolagus cuniculus (Rabbit) [9986]	573-578		
+GNYNYL	1	U3KPP3	U3KPP3_RABIT [tr]	Chromosome 6 open reading frame 15	312	Oryctolagus cuniculus (Rabbit) [9986]	296-301		
+GDSSSG	1	A0A5F9CFT9	A0A5F9CFT9_RABIT [tr]	Signal induced proliferation associated 1 like 3	1738	Oryctolagus cuniculus (Rabbit) [9986]	1195-1200		
+GDSSSG	2	A0A5F9CJB5	A0A5F9CJB5_RABIT [tr]	RALY heterogeneous nuclear ribonucleoprotein	370	Oryctolagus cuniculus (Rabbit) [9986]	277-282		
+GDSSSG	3	A0A5F9CLK3	A0A5F9CLK3_RABIT [tr]	ASXL transcriptional regulator 2	1435	Oryctolagus cuniculus (Rabbit) [9986]	1170-1175		
+GDSSSG	4	A0A5F9CMD6	A0A5F9CMD6_RABIT [tr]	Sphingolipid transporter 1 (putative)	471	Oryctolagus cuniculus (Rabbit) [9986]	93-98		
+GDSSSG	5	A0A5F9CTL2	A0A5F9CTL2_RABIT [tr]	Signal induced proliferation associated 1 like 3	1647	Oryctolagus cuniculus (Rabbit) [9986]	1065-1070		
+GDSSSG	6	A0A5F9CVH1	A0A5F9CVH1_RABIT [tr]	ASXL transcriptional regulator 2	1428	Oryctolagus cuniculus (Rabbit) [9986]	1170-1175		
+GDSSSG	7	A0A5F9D0R9	A0A5F9D0R9_RABIT [tr]	ASXL transcriptional regulator 2	1429	Oryctolagus cuniculus (Rabbit) [9986]	1171-1176		
+GDSSSG	8	A0A5F9DAA4	A0A5F9DAA4_RABIT [tr]	ASXL transcriptional regulator 2	909	Oryctolagus cuniculus (Rabbit) [9986]	651-656		
+GDSSSG	9	A0A5F9DUU9	A0A5F9DUU9_RABIT [tr]	RALY heterogeneous nuclear ribonucleoprotein	344	Oryctolagus cuniculus (Rabbit) [9986]	251-256		
+GDSSSG	10	G1SX59	G1SX59_RABIT [tr]	Signal induced proliferation associated 1 like 3	1777	Oryctolagus cuniculus (Rabbit) [9986]	1195-1200		
+GDSSSG	11	G1TD15	G1TD15_RABIT [tr]	ASXL transcriptional regulator 2	1404	Oryctolagus cuniculus (Rabbit) [9986]	1139-1144		
+GDSSSG	12	G1TQD4	G1TQD4_RABIT [tr]	RALY heterogeneous nuclear ribonucleoprotein	354	Oryctolagus cuniculus (Rabbit) [9986]	261-266		
+GDSSSG	13	G1U5V1	G1U5V1_RABIT [tr]	Sphingolipid transporter 1 (putative)	523	Oryctolagus cuniculus (Rabbit) [9986]	93-98		
+VFQTRA	1	A0A5F9C270	A0A5F9C270_RABIT [tr]	Eukaryotic translation initiation factor 4E nuclear import factor 1	968	Oryctolagus cuniculus (Rabbit) [9986]	551-556		
+VFQTRA	2	A0A5F9CP82	A0A5F9CP82_RABIT [tr]	Integrin subunit alpha 10	1163	Oryctolagus cuniculus (Rabbit) [9986]	877-882		
+VFQTRA	3	A0A5F9DB56	A0A5F9DB56_RABIT [tr]	Eukaryotic translation initiation factor 4E nuclear import factor 1	1084	Oryctolagus cuniculus (Rabbit) [9986]	667-672		
+VFQTRA	4	A0A5F9DG33	A0A5F9DG33_RABIT [tr]	Integrin subunit alpha 10	1121	Oryctolagus cuniculus (Rabbit) [9986]	835-840		
+VFQTRA	5	B7NZM5	B7NZM5_RABIT [tr]	Eukaryotic translation initiation factor 4E nuclear import factor 1 (Predicted)	987	Oryctolagus cuniculus (Rabbit) [9986]	570-575		
+VFQTRA	6	G1SIX0	G1SIX0_RABIT [tr]	Integrin subunit alpha 10	1169	Oryctolagus cuniculus (Rabbit) [9986]	883-888		
+VFQTRA	7	G1SKW0	G1SKW0_RABIT [tr]	Eukaryotic translation initiation factor 4E nuclear import factor 1	975	Oryctolagus cuniculus (Rabbit) [9986]	558-563		
+TQLPPA	1	A0A5F9C8N2	A0A5F9C8N2_RABIT [tr]	NIMA related kinase 10	454	Oryctolagus cuniculus (Rabbit) [9986]	328-333		
+TQLPPA	2	A0A5F9CRC8	A0A5F9CRC8_RABIT [tr]	NIMA related kinase 10	501	Oryctolagus cuniculus (Rabbit) [9986]	375-380		
+TQLPPA	3	G1TKT7	G1TKT7_RABIT [tr]	NIMA related kinase 10	1173	Oryctolagus cuniculus (Rabbit) [9986]	1047-1052		
+NTFVSG	1	A0A5F9C909	A0A5F9C909_RABIT [tr]	Guanine nucleotide-binding protein subunit beta-5	350	Oryctolagus cuniculus (Rabbit) [9986]	200-205		
+NTFVSG	2	A0A5F9CDL1	A0A5F9CDL1_RABIT [tr]	Guanine nucleotide-binding protein subunit beta-5	260	Oryctolagus cuniculus (Rabbit) [9986]	117-122		
+NTFVSG	3	G1T267	G1T267_RABIT [tr]	Guanine nucleotide-binding protein subunit beta-5	372	Oryctolagus cuniculus (Rabbit) [9986]	229-234		
+NTFVSG	4	Q6PNB6	GNB5_RABIT [sp]	Guanine nucleotide-binding protein subunit beta-5	353	Oryctolagus cuniculus (Rabbit) [9986]	210-215	Pride	
+FVIRGD	1	G1TET7	G1TET7_RABIT [tr]	Sister chromatid cohesion protein DCC1	390	Oryctolagus cuniculus (Rabbit) [9986]	59-64		
+LSFELL	1	A0A5F9C915	A0A5F9C915_RABIT [tr]	Protocadherin beta 4	790	Oryctolagus cuniculus (Rabbit) [9986]	620-625		
+LSFELL	2	A0A5F9CGU5	A0A5F9CGU5_RABIT [tr]	NBR1 autophagy cargo receptor	820	Oryctolagus cuniculus (Rabbit) [9986]	531-536		
+LSFELL	3	A0A5F9CH50	A0A5F9CH50_RABIT [tr]	Protocadherin beta 5	756	Oryctolagus cuniculus (Rabbit) [9986]	562-567		
+LSFELL	4	A0A5F9CLX5	A0A5F9CLX5_RABIT [tr]	Protocadherin beta 5	781	Oryctolagus cuniculus (Rabbit) [9986]	588-593		
+LSFELL	5	A0A5F9CPD8	A0A5F9CPD8_RABIT [tr]	Protocadherin beta 5	798	Oryctolagus cuniculus (Rabbit) [9986]	603-608		
+LSFELL	6	A0A5F9CQG5	A0A5F9CQG5_RABIT [tr]	Protocadherin beta 5	804	Oryctolagus cuniculus (Rabbit) [9986]	589-594		
+LSFELL	7	A0A5F9CYD2	A0A5F9CYD2_RABIT [tr]	Protocadherin beta 5	771	Oryctolagus cuniculus (Rabbit) [9986]	588-593		
+LSFELL	8	A0A5F9CYG5	A0A5F9CYG5_RABIT [tr]	Uncharacterized protein	834	Oryctolagus cuniculus (Rabbit) [9986]	633-638		
+LSFELL	9	A0A5F9D0P3	A0A5F9D0P3_RABIT [tr]	Protocadherin beta 5	784	Oryctolagus cuniculus (Rabbit) [9986]	590-595		
+LSFELL	10	A0A5F9DBG8	A0A5F9DBG8_RABIT [tr]	Protocadherin beta 16	845	Oryctolagus cuniculus (Rabbit) [9986]	646-651		
+LSFELL	11	A0A5F9DID4	A0A5F9DID4_RABIT [tr]	MIF4G domain-containing protein	435	Oryctolagus cuniculus (Rabbit) [9986]	98-103		
+LSFELL	12	A0A5F9DS15	A0A5F9DS15_RABIT [tr]	Protocadherin beta 5	919	Oryctolagus cuniculus (Rabbit) [9986]	754-759		
+LSFELL	13	A0A5F9DU37	A0A5F9DU37_RABIT [tr]	Uncharacterized protein	333	Oryctolagus cuniculus (Rabbit) [9986]	98-103		
+LSFELL	14	G1SM11	G1SM11_RABIT [tr]	Protocadherin beta 4	792	Oryctolagus cuniculus (Rabbit) [9986]	619-624		
+LSFELL	15	G1SM13	G1SM13_RABIT [tr]	Protocadherin beta 5	788	Oryctolagus cuniculus (Rabbit) [9986]	596-601		
+LSFELL	16	G1SRB5	G1SRB5_RABIT [tr]	Uncharacterized protein	318	Oryctolagus cuniculus (Rabbit) [9986]	98-103		
+LSFELL	17	G1SRG5	G1SRG5_RABIT [tr]	MIF4G domain-containing protein	490	Oryctolagus cuniculus (Rabbit) [9986]	98-103		
+LSFELL	18	G1T0A0	G1T0A0_RABIT [tr]	Uncharacterized protein	804	Oryctolagus cuniculus (Rabbit) [9986]	613-618		
+LSFELL	19	G1TSN4	G1TSN4_RABIT [tr]	NBR1 autophagy cargo receptor	912	Oryctolagus cuniculus (Rabbit) [9986]	552-557		
+LSFELL	20	G1TYC7	G1TYC7_RABIT [tr]	NBR1 autophagy cargo receptor	949	Oryctolagus cuniculus (Rabbit) [9986]	552-557		
+KEELDK	1	A0A5F9CNL8	A0A5F9CNL8_RABIT [tr]	Calpain 8	643	Oryctolagus cuniculus (Rabbit) [9986]	279-284		
+KEELDK	2	G1SUQ2	G1SUQ2_RABIT [tr]	Calpain 8	731	Oryctolagus cuniculus (Rabbit) [9986]	307-312		
+KEELDK	3	G1TV42	G1TV42_RABIT [tr]	N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D	394	Oryctolagus cuniculus (Rabbit) [9986]	97-102		
+RKRISN	1	G1TE51	G1TE51_RABIT [tr]	Katanin regulatory subunit B1 like 1	304	Oryctolagus cuniculus (Rabbit) [9986]	26-31		
+NFKNLR	1	A0A5F9DL58	A0A5F9DL58_RABIT [tr]	DNA helicase B	1140	Oryctolagus cuniculus (Rabbit) [9986]	169-174		
+NFKNLR	2	G1SPX9	G1SPX9_RABIT [tr]	DNA helicase B	1092	Oryctolagus cuniculus (Rabbit) [9986]	169-174		
+NFKNLR	3	G1SYI9	G1SYI9_RABIT [tr]	Leucine rich repeat containing 36	755	Oryctolagus cuniculus (Rabbit) [9986]	48-53		
+KTQSLL	1	A0A5F9CU29	A0A5F9CU29_RABIT [tr]	Vacuolar protein sorting 13 homolog B	3979	Oryctolagus cuniculus (Rabbit) [9986]	3445-3450		
+KTQSLL	2	G1SVS9	G1SVS9_RABIT [tr]	Vacuolar protein sorting 13 homolog B	3954	Oryctolagus cuniculus (Rabbit) [9986]	3420-3425		
+SVLYNS	1	A0A5F9C548	A0A5F9C548_RABIT [tr]	RNA-splicing ligase RtcB homolog	936	Oryctolagus cuniculus (Rabbit) [9986]	177-182		
+SVLYNS	2	A0A5F9DAA8	A0A5F9DAA8_RABIT [tr]	Uncharacterized protein	509	Oryctolagus cuniculus (Rabbit) [9986]	177-182		
+SVLYNS	3	B7NZN3	B7NZN3_RABIT [tr]	Bactericidal/permeability-increasing protein-like 2 (Predicted)	507	Oryctolagus cuniculus (Rabbit) [9986]	177-182		
+SVLYNS	4	G1SUV3	G1SUV3_RABIT [tr]	Uncharacterized protein	507	Oryctolagus cuniculus (Rabbit) [9986]	177-182		
+LKSFTV	1	A0A5F9CNR7	A0A5F9CNR7_RABIT [tr]	Filamin A interacting protein 1	1224	Oryctolagus cuniculus (Rabbit) [9986]	548-553		
+LKSFTV	2	A0A5F9D861	A0A5F9D861_RABIT [tr]	Filamin A interacting protein 1	1270	Oryctolagus cuniculus (Rabbit) [9986]	594-599		
+LKSFTV	3	A0A5F9DHD5	A0A5F9DHD5_RABIT [tr]	Filamin A interacting protein 1	1212	Oryctolagus cuniculus (Rabbit) [9986]	536-541		
+LKSFTV	4	A0A5F9DKS0	A0A5F9DKS0_RABIT [tr]	Filamin A interacting protein 1	1180	Oryctolagus cuniculus (Rabbit) [9986]	504-509		
+LKSFTV	5	G1T477	G1T477_RABIT [tr]	Filamin A interacting protein 1	1192	Oryctolagus cuniculus (Rabbit) [9986]	516-521		
+PAQEKN	1	A0A5F9C1J1	A0A5F9C1J1_RABIT [tr]	Leiomodin 1	915	Oryctolagus cuniculus (Rabbit) [9986]	598-603		
+PAQEKN	2	G1ST64	G1ST64_RABIT [tr]	Leiomodin 1	630	Oryctolagus cuniculus (Rabbit) [9986]	598-603		
+IAQYTS	1	A0A5F9DDY8	A0A5F9DDY8_RABIT [tr]	Kinesin-like protein	920	Oryctolagus cuniculus (Rabbit) [9986]	368-373		
+IAQYTS	2	G1SX52	G1SX52_RABIT [tr]	Kinesin-like protein	993	Oryctolagus cuniculus (Rabbit) [9986]	368-373		
+TGSNVF	1	A0A5F9C344	A0A5F9C344_RABIT [tr]	OTU deubiquitinase with linear linkage specificity like	326	Oryctolagus cuniculus (Rabbit) [9986]	193-198		
+TGSNVF	2	G1TDZ8	G1TDZ8_RABIT [tr]	OTU deubiquitinase with linear linkage specificity like	364	Oryctolagus cuniculus (Rabbit) [9986]	193-198		
+NIQKEI	1	A0A5F9DD57	A0A5F9DD57_RABIT [tr]	Glucocorticoid modulatory element binding protein 1	522	Oryctolagus cuniculus (Rabbit) [9986]	265-270		
+NIQKEI	2	G1T073	G1T073_RABIT [tr]	Glucocorticoid modulatory element binding protein 1	573	Oryctolagus cuniculus (Rabbit) [9986]	275-280		
+FLVLLP	1	G1SKZ0	G1SKZ0_RABIT [tr]	Peroxisome assembly protein 12	359	Oryctolagus cuniculus (Rabbit) [9986]	119-124		
+FLVLLP	2	G1SRQ6	G1SRQ6_RABIT [tr]	Olfactory receptor	316	Oryctolagus cuniculus (Rabbit) [9986]	154-159		
+FLVLLP	3	G1TDA3	G1TDA3_RABIT [tr]	Olfactory receptor	320	Oryctolagus cuniculus (Rabbit) [9986]	32-37		
+TLLALH	1	A0A5F9C1A2	A0A5F9C1A2_RABIT [tr]	Patatin like phospholipase domain containing 7	1307	Oryctolagus cuniculus (Rabbit) [9986]	274-279		
+TLLALH	2	A0A5F9CI16	A0A5F9CI16_RABIT [tr]	Patatin like phospholipase domain containing 7	1296	Oryctolagus cuniculus (Rabbit) [9986]	301-306		
+TLLALH	3	A0A5F9D1V1	A0A5F9D1V1_RABIT [tr]	Patatin like phospholipase domain containing 7	1283	Oryctolagus cuniculus (Rabbit) [9986]	301-306		
+TLLALH	4	A0A5F9D5U5	A0A5F9D5U5_RABIT [tr]	Patatin like phospholipase domain containing 7	1400	Oryctolagus cuniculus (Rabbit) [9986]	301-306		
+TLLALH	5	A0A5F9DBQ0	A0A5F9DBQ0_RABIT [tr]	Patatin like phospholipase domain containing 7	1420	Oryctolagus cuniculus (Rabbit) [9986]	301-306		
+TLLALH	6	G1TDX8	G1TDX8_RABIT [tr]	Patatin like phospholipase domain containing 7	1388	Oryctolagus cuniculus (Rabbit) [9986]	301-306		
+TFVSGN	1	A0A5F9CHI8	A0A5F9CHI8_RABIT [tr]	Desmoglein 2	1043	Oryctolagus cuniculus (Rabbit) [9986]	310-315		
+TFVSGN	2	G1SSW0	G1SSW0_RABIT [tr]	Desmoglein 2	1119	Oryctolagus cuniculus (Rabbit) [9986]	310-315		
+IVMVTI	1	G1TGM3	G1TGM3_RABIT [tr]	Killer cell lectin-like receptor subfamily K member 1	213	Oryctolagus cuniculus (Rabbit) [9986]	54-59		
+STGSNV	1	G1SV33	G1SV33_RABIT [tr]	Activating transcription factor 7 interacting protein 2	685	Oryctolagus cuniculus (Rabbit) [9986]	42-47		
+QTLLAL	1	A0A5F9CIS3	A0A5F9CIS3_RABIT [tr]	SPG11 vesicle trafficking associated, spatacsin	2298	Oryctolagus cuniculus (Rabbit) [9986]	1048-1053		
+QTLLAL	2	A0A5F9CWD6	A0A5F9CWD6_RABIT [tr]	SPG11 vesicle trafficking associated, spatacsin	2233	Oryctolagus cuniculus (Rabbit) [9986]	1048-1053		
+QTLLAL	3	A0A5F9CX33	A0A5F9CX33_RABIT [tr]	SPG11 vesicle trafficking associated, spatacsin	2046	Oryctolagus cuniculus (Rabbit) [9986]	1048-1053		
+QTLLAL	4	A0A5F9DKI3	A0A5F9DKI3_RABIT [tr]	BUB1 mitotic checkpoint serine/threonine kinase B	1063	Oryctolagus cuniculus (Rabbit) [9986]	216-221		
+QTLLAL	5	A0A5F9DU56	A0A5F9DU56_RABIT [tr]	IQ motif containing GTPase activating protein 2	1533	Oryctolagus cuniculus (Rabbit) [9986]	1381-1386		
+QTLLAL	6	G1SQS2	G1SQS2_RABIT [tr]	SPG11 vesicle trafficking associated, spatacsin	2411	Oryctolagus cuniculus (Rabbit) [9986]	1048-1053		
+QTLLAL	7	G1SR68	G1SR68_RABIT [tr]	BUB1 mitotic checkpoint serine/threonine kinase B	1051	Oryctolagus cuniculus (Rabbit) [9986]	204-209		
+QTLLAL	8	G1TKE7	G1TKE7_RABIT [tr]	IQ motif containing GTPase activating protein 2	1538	Oryctolagus cuniculus (Rabbit) [9986]	1386-1391		
+QTLLAL	9	Q5YJI2	Q5YJI2_RABIT [tr]	Ras GTPase-activating-like protein IQGAP2	1572	Oryctolagus cuniculus (Rabbit) [9986]	1420-1425	Pride	
+SALGKL	1	A0A5S8HZJ9	A0A5S8HZJ9_RABIT [tr]	Connexin-43	356	Oryctolagus cuniculus (Rabbit) [9986]	5-10		
+SALGKL	2	A0A654ICI6	A0A654ICI6_RABIT [tr]	Connexin-43	382	Oryctolagus cuniculus (Rabbit) [9986]	5-10		
+SALGKL	3	G1SZZ3	G1SZZ3_RABIT [tr]	DOP1 leucine zipper like protein A	2367	Oryctolagus cuniculus (Rabbit) [9986]	39-44		
+SALGKL	4	Q6TYA7	CXA1_RABIT [sp]	Gap junction alpha-1 protein	382	Oryctolagus cuniculus (Rabbit) [9986]	5-10		
+QTGKIA	1	A0A5F9CW97	A0A5F9CW97_RABIT [tr]	CAAT box DNA-binding protein subunit B	207	Oryctolagus cuniculus (Rabbit) [9986]	74-79		
+QTGKIA	2	G1SLR5	G1SLR5_RABIT [tr]	CAAT box DNA-binding protein subunit B	210	Oryctolagus cuniculus (Rabbit) [9986]	77-82		
+LLHAPA	1	G1SZK6	G1SZK6_RABIT [tr]	Uncharacterized protein	1771	Oryctolagus cuniculus (Rabbit) [9986]	612-617		
+ANLAAT	1	A0A5F9C6M0	A0A5F9C6M0_RABIT [tr]	Anillin actin binding protein	1133	Oryctolagus cuniculus (Rabbit) [9986]	202-207		
+ANLAAT	2	A0A5F9C972	A0A5F9C972_RABIT [tr]	Anillin actin binding protein	1170	Oryctolagus cuniculus (Rabbit) [9986]	202-207		
+ANLAAT	3	A0A5F9CHC5	A0A5F9CHC5_RABIT [tr]	Anillin actin binding protein	1038	Oryctolagus cuniculus (Rabbit) [9986]	98-103		
+ANLAAT	4	A0A5F9CNG5	A0A5F9CNG5_RABIT [tr]	Anillin actin binding protein	1081	Oryctolagus cuniculus (Rabbit) [9986]	202-207		
+ANLAAT	5	A0A5F9D8Z2	A0A5F9D8Z2_RABIT [tr]	Anillin actin binding protein	1152	Oryctolagus cuniculus (Rabbit) [9986]	202-207		
+ANLAAT	6	G1SNB8	G1SNB8_RABIT [tr]	Anillin actin binding protein	1159	Oryctolagus cuniculus (Rabbit) [9986]	202-207		
+IVRFPN	1	A0A5F9C6U0	A0A5F9C6U0_RABIT [tr]	Ubiquitin specific peptidase 9 X-linked	2453	Oryctolagus cuniculus (Rabbit) [9986]	808-813		
+IVRFPN	2	A0A5F9CFU6	A0A5F9CFU6_RABIT [tr]	Ubiquitinyl hydrolase 1	2326	Oryctolagus cuniculus (Rabbit) [9986]	889-894		
+IVRFPN	3	A0A5F9D4B8	A0A5F9D4B8_RABIT [tr]	Ubiquitinyl hydrolase 1	2488	Oryctolagus cuniculus (Rabbit) [9986]	843-848		
+IVRFPN	4	A0A5F9DBQ8	A0A5F9DBQ8_RABIT [tr]	Myeloperoxidase	725	Oryctolagus cuniculus (Rabbit) [9986]	226-231		
+IVRFPN	5	A0A5F9DKA9	A0A5F9DKA9_RABIT [tr]	Ubiquitinyl hydrolase 1	2482	Oryctolagus cuniculus (Rabbit) [9986]	894-899		
+IVRFPN	6	G1SR65	G1SR65_RABIT [tr]	Myeloperoxidase	691	Oryctolagus cuniculus (Rabbit) [9986]	180-185		
+IVRFPN	7	G1TEW4	G1TEW4_RABIT [tr]	Ubiquitinyl hydrolase 1	2575	Oryctolagus cuniculus (Rabbit) [9986]	894-899		
+NITRFQ	1	G1T881	G1T881_RABIT [tr]	Structural maintenance of chromosomes protein	1228	Oryctolagus cuniculus (Rabbit) [9986]	1103-1108		
+EVPVAI	1	A0A5F9CVW1	A0A5F9CVW1_RABIT [tr]	Receptor protein-tyrosine kinase	995	Oryctolagus cuniculus (Rabbit) [9986]	659-664		
+EVPVAI	2	G1THA5	G1THA5_RABIT [tr]	Receptor protein-tyrosine kinase	1031	Oryctolagus cuniculus (Rabbit) [9986]	695-700		
+LVKQLS	1	A0A5F9CBA1	A0A5F9CBA1_RABIT [tr]	Cell division cycle associated 3	183	Oryctolagus cuniculus (Rabbit) [9986]	89-94		
+LVKQLS	2	A0A5F9CFP3	A0A5F9CFP3_RABIT [tr]	Protein inhibitor of activated STAT 1	916	Oryctolagus cuniculus (Rabbit) [9986]	549-554		
+LVKQLS	3	A0A5F9CSY7	A0A5F9CSY7_RABIT [tr]	Protein inhibitor of activated STAT 1	653	Oryctolagus cuniculus (Rabbit) [9986]	286-291		
+LVKQLS	4	A0A5F9CVU4	A0A5F9CVU4_RABIT [tr]	Protein inhibitor of activated STAT 1	625	Oryctolagus cuniculus (Rabbit) [9986]	286-291		
+LVKQLS	5	A0A5F9D654	A0A5F9D654_RABIT [tr]	Cell division cycle associated 3	219	Oryctolagus cuniculus (Rabbit) [9986]	89-94		
+LVKQLS	6	G1SDP8	G1SDP8_RABIT [tr]	Protein inhibitor of activated STAT 1	623	Oryctolagus cuniculus (Rabbit) [9986]	284-289		
+LVKQLS	7	G1SGW6	G1SGW6_RABIT [tr]	Protein phosphatase 1 regulatory subunit 10	820	Oryctolagus cuniculus (Rabbit) [9986]	116-121		
+LVKQLS	8	G1U680	G1U680_RABIT [tr]	Cell division cycle associated 3	267	Oryctolagus cuniculus (Rabbit) [9986]	89-94		
+QLTPTW	1	A0A5F9CMD0	A0A5F9CMD0_RABIT [tr]	Phospholipase A2	897	Oryctolagus cuniculus (Rabbit) [9986]	670-675		
+QLTPTW	2	G1T0Q4	G1T0Q4_RABIT [tr]	Phospholipase A2	864	Oryctolagus cuniculus (Rabbit) [9986]	670-675		
+EPQIIT	1	G1T0W1	G1T0W1_RABIT [tr]	Pleiotropic regulator 1	515	Oryctolagus cuniculus (Rabbit) [9986]	343-348		
+LLKYNE	1	A0A5F9DPC0	A0A5F9DPC0_RABIT [tr]	RING-type domain-containing protein	474	Oryctolagus cuniculus (Rabbit) [9986]	265-270		
+LHSTQD	1	A0A5F9CBL9	A0A5F9CBL9_RABIT [tr]	Peroxisomal biogenesis factor 6	880	Oryctolagus cuniculus (Rabbit) [9986]	736-741		
+LHSTQD	2	G1SKK5	G1SKK5_RABIT [tr]	Peroxisomal biogenesis factor 6	890	Oryctolagus cuniculus (Rabbit) [9986]	746-751		
+LHSTQD	3	G1SL27	G1SL27_RABIT [tr]	Peroxisomal biogenesis factor 6	912	Oryctolagus cuniculus (Rabbit) [9986]	768-773		
+VITPGT	1	A0A5F9C728	A0A5F9C728_RABIT [tr]	Apolipoprotein B	4087	Oryctolagus cuniculus (Rabbit) [9986]	850-855		
+VITPGT	2	A0A5F9CN52	A0A5F9CN52_RABIT [tr]	Apolipoprotein B	4036	Oryctolagus cuniculus (Rabbit) [9986]	850-855		
+VITPGT	3	A0A5F9CV30	A0A5F9CV30_RABIT [tr]	Apolipoprotein B	4451	Oryctolagus cuniculus (Rabbit) [9986]	728-733		
+VITPGT	4	A0A5F9DG36	A0A5F9DG36_RABIT [tr]	Apolipoprotein B	4121	Oryctolagus cuniculus (Rabbit) [9986]	850-855		
+VITPGT	5	G1U9R4	G1U9R4_RABIT [tr]	Apolipoprotein B	4573	Oryctolagus cuniculus (Rabbit) [9986]	850-855		
+LLAGTI	1	A0A5F9CR48	A0A5F9CR48_RABIT [tr]	Kinesin family member 1B	1770	Oryctolagus cuniculus (Rabbit) [9986]	1751-1756		
+LLAGTI	2	G1SIA1	G1SIA1_RABIT [tr]	Kinesin family member 1B	1816	Oryctolagus cuniculus (Rabbit) [9986]	1797-1802		
+NLVRDL	1	A0A5F9CDG5	A0A5F9CDG5_RABIT [tr]	Rho GTPase activating protein 22	663	Oryctolagus cuniculus (Rabbit) [9986]	162-167		
+NLVRDL	2	A0A5F9D8S7	A0A5F9D8S7_RABIT [tr]	Rho GTPase activating protein 22	702	Oryctolagus cuniculus (Rabbit) [9986]	201-206		
+NLVRDL	3	G1SXG1	G1SXG1_RABIT [tr]	Rho GTPase activating protein 22	708	Oryctolagus cuniculus (Rabbit) [9986]	207-212		
+YLQPRT	1	A0A5F9CJ11	A0A5F9CJ11_RABIT [tr]	Olfactory receptor	315	Oryctolagus cuniculus (Rabbit) [9986]	259-264		
+YLQPRT	2	A0A5F9DL20	A0A5F9DL20_RABIT [tr]	Tetratricopeptide repeat domain 39A	581	Oryctolagus cuniculus (Rabbit) [9986]	49-54		
+YLQPRT	3	G1STD2	G1STD2_RABIT [tr]	Tetratricopeptide repeat domain 39A	578	Oryctolagus cuniculus (Rabbit) [9986]	46-51		
+YLQPRT	4	G1SW20	G1SW20_RABIT [tr]	Olfactory receptor	315	Oryctolagus cuniculus (Rabbit) [9986]	259-264		
+DEVRQI	1	A0A5F9C577	A0A5F9C577_RABIT [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4911	Oryctolagus cuniculus (Rabbit) [9986]	4534-4539		
+DEVRQI	2	A0A5F9CLX9	A0A5F9CLX9_RABIT [tr]	Syntaxin 18	358	Oryctolagus cuniculus (Rabbit) [9986]	251-256		
+DEVRQI	3	A0A5F9D711	A0A5F9D711_RABIT [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4895	Oryctolagus cuniculus (Rabbit) [9986]	4518-4523		
+DEVRQI	4	A0A5F9D7E4	A0A5F9D7E4_RABIT [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4875	Oryctolagus cuniculus (Rabbit) [9986]	4498-4503		
+DEVRQI	5	A0A5F9DB43	A0A5F9DB43_RABIT [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4876	Oryctolagus cuniculus (Rabbit) [9986]	4495-4500		
+DEVRQI	6	A0A5F9DLE5	A0A5F9DLE5_RABIT [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4820	Oryctolagus cuniculus (Rabbit) [9986]	4439-4444		
+DEVRQI	7	A0A5F9DPE2	A0A5F9DPE2_RABIT [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4855	Oryctolagus cuniculus (Rabbit) [9986]	4478-4483		
+DEVRQI	8	A0A5F9DSN5	A0A5F9DSN5_RABIT [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4860	Oryctolagus cuniculus (Rabbit) [9986]	4483-4488		
+DEVRQI	9	G1SUE6	G1SUE6_RABIT [tr]	Syntaxin 18	308	Oryctolagus cuniculus (Rabbit) [9986]	251-256		
+DEVRQI	10	G1T152	G1T152_RABIT [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4795	Oryctolagus cuniculus (Rabbit) [9986]	4414-4419		
+TKLNDL	1	A0A5F9D9N8	A0A5F9D9N8_RABIT [tr]	Transient receptor potential cation channel subfamily M member 8	754	Oryctolagus cuniculus (Rabbit) [9986]	737-742		
+TKLNDL	2	B7NZA4	B7NZA4_RABIT [tr]	Transient receptor potential cation channel, subfamily M, member 8 (Predicted), 3 prime (Fragment)	320	Oryctolagus cuniculus (Rabbit) [9986]	303-308		
+TKLNDL	3	G1SGP9	G1SGP9_RABIT [tr]	Transient receptor potential cation channel subfamily M member 8	1105	Oryctolagus cuniculus (Rabbit) [9986]	1088-1093		
+TKLNDL	4	G1T8M9	G1T8M9_RABIT [tr]	Leucine rich pentatricopeptide repeat containing	1457	Oryctolagus cuniculus (Rabbit) [9986]	1412-1417		
+SSNFGA	1	G1T802	G1T802_RABIT [tr]	Zinc finger with KRAB and SCAN domains 2	969	Oryctolagus cuniculus (Rabbit) [9986]	817-822		
+EPLVDL	1	A0A5F9CJI2	A0A5F9CJI2_RABIT [tr]	Unc-80 homolog, NALCN channel complex subunit	3231	Oryctolagus cuniculus (Rabbit) [9986]	1361-1366		
+EPLVDL	2	G1SYM7	G1SYM7_RABIT [tr]	LIM and cysteine rich domains 1	365	Oryctolagus cuniculus (Rabbit) [9986]	280-285		
+EPLVDL	3	G1U426	G1U426_RABIT [tr]	Unc-80 homolog, NALCN channel complex subunit	3255	Oryctolagus cuniculus (Rabbit) [9986]	1366-1371		
+GVTQNV	1	A0A5F9C4H7	A0A5F9C4H7_RABIT [tr]	Retroelement silencing factor 1	1854	Oryctolagus cuniculus (Rabbit) [9986]	113-118		
+GVTQNV	2	G1SRB0	G1SRB0_RABIT [tr]	Retroelement silencing factor 1	1882	Oryctolagus cuniculus (Rabbit) [9986]	113-118		
+VKQLSS	1	A0A5F9C5Q1	A0A5F9C5Q1_RABIT [tr]	Uncharacterized protein	474	Oryctolagus cuniculus (Rabbit) [9986]	454-459		
+VKQLSS	2	A0A5F9CFH6	A0A5F9CFH6_RABIT [tr]	Uncharacterized protein	361	Oryctolagus cuniculus (Rabbit) [9986]	341-346		
+VKQLSS	3	A0A5F9CFP3	A0A5F9CFP3_RABIT [tr]	Protein inhibitor of activated STAT 1	916	Oryctolagus cuniculus (Rabbit) [9986]	550-555		
+VKQLSS	4	A0A5F9CSY7	A0A5F9CSY7_RABIT [tr]	Protein inhibitor of activated STAT 1	653	Oryctolagus cuniculus (Rabbit) [9986]	287-292		
+VKQLSS	5	A0A5F9CVU4	A0A5F9CVU4_RABIT [tr]	Protein inhibitor of activated STAT 1	625	Oryctolagus cuniculus (Rabbit) [9986]	287-292		
+VKQLSS	6	G1SDP8	G1SDP8_RABIT [tr]	Protein inhibitor of activated STAT 1	623	Oryctolagus cuniculus (Rabbit) [9986]	285-290		
+VKQLSS	7	G1T9P4	G1T9P4_RABIT [tr]	Uncharacterized protein	386	Oryctolagus cuniculus (Rabbit) [9986]	366-371		
+LVLLPL	1	A0A5F9C4V7	A0A5F9C4V7_RABIT [tr]	Corticotropin releasing hormone receptor 2	384	Oryctolagus cuniculus (Rabbit) [9986]	313-318		
+LVLLPL	2	A0A5F9CA78	A0A5F9CA78_RABIT [tr]	Out at first protein homolog	185	Oryctolagus cuniculus (Rabbit) [9986]	19-24		
+LVLLPL	3	A0A5F9CMC4	A0A5F9CMC4_RABIT [tr]	Corticotropin-releasing factor receptor 1	429	Oryctolagus cuniculus (Rabbit) [9986]	331-336		
+LVLLPL	4	A0A5F9CT06	A0A5F9CT06_RABIT [tr]	Na(+)-dependent phosphate cotransporter 2A	342	Oryctolagus cuniculus (Rabbit) [9986]	235-240		
+LVLLPL	5	A0A5F9CT81	A0A5F9CT81_RABIT [tr]	Glucagon like peptide 2 receptor	514	Oryctolagus cuniculus (Rabbit) [9986]	351-356		
+LVLLPL	6	A0A5F9CWN7	A0A5F9CWN7_RABIT [tr]	RAB11 family interacting protein 5	1311	Oryctolagus cuniculus (Rabbit) [9986]	1047-1052		
+LVLLPL	7	A0A5F9D0P0	A0A5F9D0P0_RABIT [tr]	Corticotropin releasing hormone receptor 2	431	Oryctolagus cuniculus (Rabbit) [9986]	333-338		
+LVLLPL	8	A0A5F9D1I8	A0A5F9D1I8_RABIT [tr]	G_PROTEIN_RECEP_F2_4 domain-containing protein	375	Oryctolagus cuniculus (Rabbit) [9986]	277-282		
+LVLLPL	9	A0A5F9D1X7	A0A5F9D1X7_RABIT [tr]	Glucagon like peptide 2 receptor	535	Oryctolagus cuniculus (Rabbit) [9986]	372-377		
+LVLLPL	10	A0A5F9D2U7	A0A5F9D2U7_RABIT [tr]	RAB11 family interacting protein 5	1299	Oryctolagus cuniculus (Rabbit) [9986]	1151-1156		
+LVLLPL	11	A0A5F9D6T6	A0A5F9D6T6_RABIT [tr]	Glucagon like peptide 2 receptor	505	Oryctolagus cuniculus (Rabbit) [9986]	342-347		
+LVLLPL	12	A0A5F9D7V8	A0A5F9D7V8_RABIT [tr]	Na(+)-dependent phosphate cotransporter 2A	671	Oryctolagus cuniculus (Rabbit) [9986]	264-269		
+LVLLPL	13	A0A5F9DBP2	A0A5F9DBP2_RABIT [tr]	Glucagon like peptide 2 receptor	513	Oryctolagus cuniculus (Rabbit) [9986]	350-355		
+LVLLPL	14	A0A5F9DD72	A0A5F9DD72_RABIT [tr]	G_PROTEIN_RECEP_F2_4 domain-containing protein	314	Oryctolagus cuniculus (Rabbit) [9986]	216-221		
+LVLLPL	15	A0A5F9DIC6	A0A5F9DIC6_RABIT [tr]	Corticotropin-releasing factor receptor 1	415	Oryctolagus cuniculus (Rabbit) [9986]	317-322		
+LVLLPL	16	A0A5F9DKR1	A0A5F9DKR1_RABIT [tr]	Corticotropin releasing hormone receptor 2	408	Oryctolagus cuniculus (Rabbit) [9986]	333-338		
+LVLLPL	17	A0A5F9DL89	A0A5F9DL89_RABIT [tr]	RNA polymerase II associated protein 1	1337	Oryctolagus cuniculus (Rabbit) [9986]	1175-1180		
+LVLLPL	18	A0A5F9DM94	A0A5F9DM94_RABIT [tr]	Na(+)-dependent phosphate cotransporter 2A	635	Oryctolagus cuniculus (Rabbit) [9986]	235-240		
+LVLLPL	19	B1Q0C9	B1Q0C9_RABIT [tr]	Corticotropin-releasing factor receptor 1	415	Oryctolagus cuniculus (Rabbit) [9986]	317-322		
+LVLLPL	20	G1ST00	G1ST00_RABIT [tr]	RNA polymerase II associated protein 1	1393	Oryctolagus cuniculus (Rabbit) [9986]	1231-1236		
+LVLLPL	21	G1SZ55	G1SZ55_RABIT [tr]	Cerberus 1, DAN family BMP antagonist	267	Oryctolagus cuniculus (Rabbit) [9986]	9-14		
+LVLLPL	22	G1T9K1	G1T9K1_RABIT [tr]	Glucagon like peptide 2 receptor	526	Oryctolagus cuniculus (Rabbit) [9986]	363-368		
+LVLLPL	23	G1TR43	G1TR43_RABIT [tr]	Out at first protein homolog	214	Oryctolagus cuniculus (Rabbit) [9986]	19-24		
+LVLLPL	24	G1TW55	G1TW55_RABIT [tr]	Corticotropin-releasing factor receptor 1	401	Oryctolagus cuniculus (Rabbit) [9986]	317-322		
+LVLLPL	25	G1U8A0	G1U8A0_RABIT [tr]	Corticotropin releasing hormone receptor 2	411	Oryctolagus cuniculus (Rabbit) [9986]	313-318		
+LVLLPL	26	Q28620	NPT2A_RABIT [sp]	Sodium-dependent phosphate transport protein 2A	642	Oryctolagus cuniculus (Rabbit) [9986]	235-240	Pride	
+LVLLPL	27	U3KMX0	U3KMX0_RABIT [tr]	Corticotropin-releasing factor receptor 1	415	Oryctolagus cuniculus (Rabbit) [9986]	317-322		
+DEDDSE	1	A0A5F9CUP7	A0A5F9CUP7_RABIT [tr]	Clusterin associated protein 1	250	Oryctolagus cuniculus (Rabbit) [9986]	200-205		
+DEDDSE	2	A0A5F9DIJ3	A0A5F9DIJ3_RABIT [tr]	Clusterin associated protein 1	381	Oryctolagus cuniculus (Rabbit) [9986]	331-336		
+DEDDSE	3	G1SIP7	G1SIP7_RABIT [tr]	Cyclin G associated kinase	1250	Oryctolagus cuniculus (Rabbit) [9986]	800-805		
+DEDDSE	4	G1SML0	G1SML0_RABIT [tr]	Large 60S subunit nuclear export GTPase 1	659	Oryctolagus cuniculus (Rabbit) [9986]	301-306		
+DEDDSE	5	G1SRY2	G1SRY2_RABIT [tr]	Glutamate metabotropic receptor 1	1203	Oryctolagus cuniculus (Rabbit) [9986]	1103-1108		
+SNQVAV	1	G1T9I6	G1T9I6_RABIT [tr]	N(alpha)-acetyltransferase 20, NatB catalytic subunit	178	Oryctolagus cuniculus (Rabbit) [9986]	115-120		
+SVASQS	1	A0A5F9C2V7	A0A5F9C2V7_RABIT [tr]	Eyes absent homolog	617	Oryctolagus cuniculus (Rabbit) [9986]	229-234		
+SVASQS	2	A0A5F9CIC8	A0A5F9CIC8_RABIT [tr]	Eyes absent homolog	576	Oryctolagus cuniculus (Rabbit) [9986]	229-234		
+SVASQS	3	A0A5F9CQY0	A0A5F9CQY0_RABIT [tr]	Rho guanine nucleotide exchange factor 26	937	Oryctolagus cuniculus (Rabbit) [9986]	897-902		
+SVASQS	4	A0A5F9D9L2	A0A5F9D9L2_RABIT [tr]	Rho guanine nucleotide exchange factor 26	912	Oryctolagus cuniculus (Rabbit) [9986]	872-877		
+SVASQS	5	A0A5F9DD19	A0A5F9DD19_RABIT [tr]	Eyes absent homolog	557	Oryctolagus cuniculus (Rabbit) [9986]	229-234		
+SVASQS	6	A0A5F9DDD5	A0A5F9DDD5_RABIT [tr]	Eyes absent homolog	645	Oryctolagus cuniculus (Rabbit) [9986]	229-234		
+SVASQS	7	A0A5F9DNX7	A0A5F9DNX7_RABIT [tr]	Rho guanine nucleotide exchange factor 26	875	Oryctolagus cuniculus (Rabbit) [9986]	835-840		
+SVASQS	8	A0A5F9DUC7	A0A5F9DUC7_RABIT [tr]	Rho guanine nucleotide exchange factor 26	886	Oryctolagus cuniculus (Rabbit) [9986]	846-851		
+SVASQS	9	G1SI12	G1SI12_RABIT [tr]	Eyes absent homolog	555	Oryctolagus cuniculus (Rabbit) [9986]	227-232		
+TMSLGA	1	G1T141	G1T141_RABIT [tr]	Aurora kinase	292	Oryctolagus cuniculus (Rabbit) [9986]	244-249		
+QGFSAL	1	A0A5F9C5F6	A0A5F9C5F6_RABIT [tr]	Netrin 4	602	Oryctolagus cuniculus (Rabbit) [9986]	492-497		
+QGFSAL	2	A0A5F9DFL9	A0A5F9DFL9_RABIT [tr]	Netrin 4	697	Oryctolagus cuniculus (Rabbit) [9986]	564-569		
+QGFSAL	3	G1T9Y0	G1T9Y0_RABIT [tr]	Netrin 4	625	Oryctolagus cuniculus (Rabbit) [9986]	492-497		
+ISNCVA	1	G1SHF2	G1SHF2_RABIT [tr]	Lysophosphatidic acid receptor 6	353	Oryctolagus cuniculus (Rabbit) [9986]	42-47		
+LPVSMT	1	G1TDP5	G1TDP5_RABIT [tr]	Adhesion G protein-coupled receptor V1	6298	Oryctolagus cuniculus (Rabbit) [9986]	5128-5133		
+AVDCAL	1	A0A5F9CVU3	A0A5F9CVU3_RABIT [tr]	Bromodomain and PHD finger containing 1	1051	Oryctolagus cuniculus (Rabbit) [9986]	327-332		
+AVDCAL	2	G1SYK6	G1SYK6_RABIT [tr]	Bromodomain and PHD finger containing 1	1207	Oryctolagus cuniculus (Rabbit) [9986]	327-332		

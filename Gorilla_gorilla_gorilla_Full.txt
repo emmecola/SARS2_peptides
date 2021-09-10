@@ -1,0 +1,1030 @@
+#Query Peptide	Rank	Protein AC	Protein ID	Protein Name	Length	Organism	Matched Range(s)	Proteomic Databases	IEDB
+VEGFNC	1	G3S795	G3S795_GORGO [tr]	Laminin subunit gamma 1	1609	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	469-474		
+SLLIVN	1	A0A2I2YSP3	A0A2I2YSP3_GORGO [tr]	ATP binding cassette subfamily A member 10	1315	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	814-819		
+SLLIVN	2	G3QN72	G3QN72_GORGO [tr]	E3 ubiquitin protein ligase	975	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	89-94		
+SLLIVN	3	G3QNH5	G3QNH5_GORGO [tr]	ATP binding cassette subfamily A member 10	1532	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	814-819		
+VTLADA	1	A0A2I2Z9D3	A0A2I2Z9D3_GORGO [tr]	Tyrosine kinase non receptor 1	499	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	435-440		
+VTLADA	2	G3QHY9	G3QHY9_GORGO [tr]	Tyrosine kinase non receptor 1	661	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	435-440		
+TRFQTL	1	A0A2I2Y4R3	A0A2I2Y4R3_GORGO [tr]	Dishevelled associated activator of morphogenesis 1	1068	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	255-260		
+TRFQTL	2	A0A2I2YEE8	A0A2I2YEE8_GORGO [tr]	Dishevelled associated activator of morphogenesis 1	1078	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	255-260		
+TRFQTL	3	G3QKQ6	G3QKQ6_GORGO [tr]	DNA topoisomerase	1001	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	219-224		
+TRFQTL	4	G3R0P5	G3R0P5_GORGO [tr]	Dishevelled associated activator of morphogenesis 2	1077	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	251-256		
+TRFQTL	5	G3RAY6	G3RAY6_GORGO [tr]	Dishevelled associated activator of morphogenesis 1	968	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	255-260		
+TRFQTL	6	G3RQF1	G3RQF1_GORGO [tr]	Dishevelled associated activator of morphogenesis 2	1068	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	251-256		
+TRFQTL	7	G3RRL2	G3RRL2_GORGO [tr]	Dishevelled associated activator of morphogenesis 1	1054	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	237-242		
+EIDRLN	1	A0A2I2YXI5	A0A2I2YXI5_GORGO [tr]	Uncharacterized protein	268	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	32-37		
+EIDRLN	2	G3S4E1	G3S4E1_GORGO [tr]	Uncharacterized protein	290	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	54-59		
+EIDRLN	3	G3S4G2	G3S4G2_GORGO [tr]	Uncharacterized protein	339	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	54-59		
+KVEAEV	1	A0A2I2ZUH2	A0A2I2ZUH2_GORGO [tr]	Structural maintenance of chromosomes protein	1230	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	879-884		
+KVEAEV	2	G3R616	G3R616_GORGO [tr]	Periaxin	1459	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	218-223		
+KVEAEV	3	G3RD13	G3RD13_GORGO [tr]	Structural maintenance of chromosomes protein	1288	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	879-884		
+KVEAEV	4	G3RQV2	G3RQV2_GORGO [tr]	Elastin microfibril interfacer 3	766	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	625-630		
+GIAVEQ	1	A0A2I2YUJ8	A0A2I2YUJ8_GORGO [tr]	Chloride channel protein	818	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	542-547		
+GIAVEQ	2	A0A2I2ZRG0	A0A2I2ZRG0_GORGO [tr]	Chloride channel protein	791	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	515-520		
+GIAVEQ	3	A0A2I2ZTH4	A0A2I2ZTH4_GORGO [tr]	Chloride channel protein	791	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	515-520		
+GIAVEQ	4	G3REC5	G3REC5_GORGO [tr]	Chloride channel protein	866	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	542-547		
+GIAVEQ	5	G3S2I9	G3S2I9_GORGO [tr]	Chloride channel protein	811	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	535-540		
+VLTESN	1	A0A2I2ZIK8	A0A2I2ZIK8_GORGO [tr]	P-type Cu(+) transporter	1493	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1046-1051		
+VLTESN	2	G3S1J0	G3S1J0_GORGO [tr]	P-type Cu(+) transporter	1500	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1061-1066		
+VLTESN	3	G3S2F6	G3S2F6_GORGO [tr]	P-type Cu(+) transporter	1422	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	983-988		
+ALLAGT	1	A0A2I2Z8Z5	A0A2I2Z8Z5_GORGO [tr]	Ankyrin repeat domain 13C	506	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	93-98		
+ALLAGT	2	G3RJV4	G3RJV4_GORGO [tr]	Ankyrin repeat domain 13C	539	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	93-98		
+ALLAGT	3	G3RNJ2	G3RNJ2_GORGO [tr]	Nucleoporin 210	1887	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1816-1821		
+ALLAGT	4	G3S097	G3S097_GORGO [tr]	Nucleoporin 210	1881	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1810-1815		
+ALLAGT	5	G3S318	G3S318_GORGO [tr]	Ankyrin repeat domain 13C	541	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	93-98		
+LTVLPP	1	A0A2I2YBU3	A0A2I2YBU3_GORGO [tr]	Formin homology 2 domain containing 3	635	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	186-191		
+LTVLPP	2	A0A2I2YM74	A0A2I2YM74_GORGO [tr]	Glycoprotein Ib platelet subunit alpha	249	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	38-43		
+LTVLPP	3	A0A2I2ZS69	A0A2I2ZS69_GORGO [tr]	Formin homology 2 domain containing 3	1567	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1110-1115		
+LTVLPP	4	G3QDA3	G3QDA3_GORGO [tr]	Glycoprotein Ib platelet subunit alpha	631	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	38-43		
+LTVLPP	5	G3R640	G3R640_GORGO [tr]	Formin homology 2 domain containing 3	1384	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	935-940		
+LTVLPP	6	G3RQ70	G3RQ70_GORGO [tr]	Uncharacterized protein	297	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	12-17		
+LTVLPP	7	G3S0Q5	G3S0Q5_GORGO [tr]	Ras suppressor protein 1	277	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	192-197		
+LTVLPP	8	G3S9M4	G3S9M4_GORGO [tr]	Glycoprotein Ib platelet subunit alpha	330	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	38-43		
+LTVLPP	9	G3SBC9	G3SBC9_GORGO [tr]	Glycoprotein Ib platelet subunit alpha	654	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	38-43		
+LTVLPP	10	G3SGR5	G3SGR5_GORGO [tr]	Formin homology 2 domain containing 3	1367	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	918-923		
+AALQIP	1	G3QJY1	G3QJY1_GORGO [tr]	Cyclin D binding myb like transcription factor 1	761	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	459-464		
+VLLPLV	1	A0A2I2Y638	A0A2I2Y638_GORGO [tr]	Ryanodine receptor 3	4831	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2850-2855		
+VLLPLV	2	A0A2I2YDX1	A0A2I2YDX1_GORGO [tr]	Ryanodine receptor 3	4873	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2862-2867		
+VLLPLV	3	A0A2I2YL84	A0A2I2YL84_GORGO [tr]	Nudix hydrolase 7	170	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	42-47		
+VLLPLV	4	A0A2I2YLG9	A0A2I2YLG9_GORGO [tr]	Ryanodine receptor 3	4870	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2862-2867		
+VLLPLV	5	A0A2I2YRR1	A0A2I2YRR1_GORGO [tr]	Nudix hydrolase 7	223	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	42-47		
+VLLPLV	6	A0A2I2YZA4	A0A2I2YZA4_GORGO [tr]	Nudix hydrolase 7	185	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	42-47		
+VLLPLV	7	A0A2I2YZJ2	A0A2I2YZJ2_GORGO [tr]	Ryanodine receptor 3	4829	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2834-2839		
+VLLPLV	8	A0A2I2YZU6	A0A2I2YZU6_GORGO [tr]	Ryanodine receptor 3	4859	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2861-2866		
+VLLPLV	9	A0A2I2ZAR0	A0A2I2ZAR0_GORGO [tr]	Ryanodine receptor 3	4841	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2857-2862		
+VLLPLV	10	A0A2I2ZD33	A0A2I2ZD33_GORGO [tr]	Ryanodine receptor 3	4854	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2857-2862		
+VLLPLV	11	A0A2I2ZI32	A0A2I2ZI32_GORGO [tr]	Family with sequence similarity 186 member B	862	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	416-421		
+VLLPLV	12	G3QCU7	G3QCU7_GORGO [tr]	Mitogen-activated protein kinase kinase kinase	1246	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	295-300		
+VLLPLV	13	G3QGT6	G3QGT6_GORGO [tr]	Family with sequence similarity 186 member B	893	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	416-421		
+VLLPLV	14	G3QLX5	G3QLX5_GORGO [tr]	Dermatopontin	201	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	8-13		
+VLLPLV	15	G3QVS8	G3QVS8_GORGO [tr]	Transmembrane channel-like protein	726	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	131-136		
+VLLPLV	16	G3R1B9	G3R1B9_GORGO [tr]	Ryanodine receptor 3	4865	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2862-2867		
+VLLPLV	17	G3R8B3	G3R8B3_GORGO [tr]	TNF receptor superfamily member 1A	412	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	169-174		
+VLLPLV	18	G3RLI6	G3RLI6_GORGO [tr]	Nudix hydrolase 7	238	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	42-47		
+VLLPLV	19	G3SG18	G3SG18_GORGO [tr]	Tumor necrosis factor receptor 1	455	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	212-217		
+GTITDA	1	G3QST6	G3QST6_GORGO [tr]	Annexin	506	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	193-198		
+IAPGQT	1	G3S269	G3S269_GORGO [tr]	Uncharacterized protein	538	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	177-182		
+RISNCV	1	A0A2I2YYY8	A0A2I2YYY8_GORGO [tr]	Dedicator of cytokinesis 5	1866	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1524-1529		
+RISNCV	2	G3QP98	G3QP98_GORGO [tr]	Dedicator of cytokinesis 5	1870	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1528-1533		
+YNYLYR	1	A0A2I2YQW7	A0A2I2YQW7_GORGO [tr]	Chromosome 1 open reading frame 43	219	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	64-69		
+YNYLYR	2	A0A2I2Z2Q2	A0A2I2Z2Q2_GORGO [tr]	Chromosome 1 open reading frame 43	170	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	98-103		
+YNYLYR	3	G3S4N8	G3S4N8_GORGO [tr]	Chromosome 1 open reading frame 43	253	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	98-103		
+VFLVLL	1	A0A2I2Z6Y5	A0A2I2Z6Y5_GORGO [tr]	Uncharacterized protein	128	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	123-128		
+VFLVLL	2	G3QFB4	G3QFB4_GORGO [tr]	Uncharacterized protein	340	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	44-49		
+VFLVLL	3	G3QFB5	G3QFB5_GORGO [tr]	Uncharacterized protein	377	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	81-86		
+VFLVLL	4	G3QGX6	G3QGX6_GORGO [tr]	Uncharacterized protein	417	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	81-86		
+QDVVNQ	1	G3SF90	G3SF90_GORGO [tr]	Gametocyte specific factor 1	167	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	79-84		
+AGTITS	1	A0A2I2ZEV1	A0A2I2ZEV1_GORGO [tr]	TEA domain transcription factor 4	410	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	33-38		
+AGTITS	2	G3QTQ2	G3QTQ2_GORGO [tr]	Transcriptional enhancer factor TEF-3	434	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	5-10		
+AGTITS	3	G3SK49	G3SK49_GORGO [tr]	TEA domain transcription factor 4	453	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	33-38		
+LQPRTF	1	G3RX58	G3RX58_GORGO [tr]	Phospholipase A2 group III	539	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	273-278		
+ILSRLD	1	G3QGC3	G3QGC3_GORGO [tr]	Cyclin N-terminal domain containing 2	307	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	195-200		
+NLLLQY	1	A0A2I2YTQ7	A0A2I2YTQ7_GORGO [tr]	Delta like non-canonical Notch ligand 1	321	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	286-291		
+NLLLQY	2	A0A2I2ZTS5	A0A2I2ZTS5_GORGO [tr]	Delta like non-canonical Notch ligand 1	319	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	284-289		
+NLLLQY	3	G3QDU0	G3QDU0_GORGO [tr]	Delta like non-canonical Notch ligand 1	383	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	348-353		
+GTKRFD	1	A0A2I2ZMP4	A0A2I2ZMP4_GORGO [tr]	Proteasome 26S subunit, ATPase 3	400	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	253-258		
+GTKRFD	2	G3RK68	G3RK68_GORGO [tr]	Proteasome 26S subunit, ATPase 3	446	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	299-304		
+DGKAHF	1	A0A2I2Z0X2	A0A2I2Z0X2_GORGO [tr]	Bifunctional lysine-specific demethylase and histidyl-hydroxylase	465	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	116-121		
+DGKAHF	2	A8HDG5	A8HDG5_GORGO [tr]	Alpha-amylase	511	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	487-492		
+DGKAHF	3	A8HDH7	A8HDH7_GORGO [tr]	Alpha-amylase	511	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	487-492		
+DGKAHF	4	G3RJE4	G3RJE4_GORGO [tr]	Bifunctional lysine-specific demethylase and histidyl-hydroxylase	464	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	116-121		
+DGKAHF	5	G3RSP2	G3RSP2_GORGO [tr]	Aamy_C domain-containing protein	274	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	250-255		
+KSFTVE	1	A0A2I2YDR5	A0A2I2YDR5_GORGO [tr]	Ubiquitin thioesterase OTU1	304	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	12-17		
+VDFCGK	1	G3QUN2	G3QUN2_GORGO [tr]	Leucine rich repeat containing 58	371	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	316-321		
+FLGVYY	1	G3R5F3	G3R5F3_GORGO [tr]	Patatin like phospholipase domain containing 2	502	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	17-22		
+FLGVYY	2	G3RNK1	G3RNK1_GORGO [tr]	Solute carrier family 35 member G2	412	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	332-337		
+DPFLGV	1	A0A2I2YWR5	A0A2I2YWR5_GORGO [tr]	Hexosyltransferase	772	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	540-545		
+DPFLGV	2	A0A2I2ZSS6	A0A2I2ZSS6_GORGO [tr]	Hexosyltransferase	498	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	266-271		
+DPFLGV	3	G3QFJ8	G3QFJ8_GORGO [tr]	Hexosyltransferase	764	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	532-537		
+GICASY	1	A0A2I2ZXE1	A0A2I2ZXE1_GORGO [tr]	Caspase 7	336	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	25-30		
+GTNTSN	1	G3R8A1	G3R8A1_GORGO [tr]	Dual-specificity kinase	524	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	247-252		
+QTLEIL	1	A0A2I2YA77	A0A2I2YA77_GORGO [tr]	Adenosylmethionine decarboxylase 1	305	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	146-151		
+QTLEIL	2	A0A2I2YSW6	A0A2I2YSW6_GORGO [tr]	Coiled-coil domain containing 178	867	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	687-692		
+QTLEIL	3	A0A2I2ZEN1	A0A2I2ZEN1_GORGO [tr]	Coiled-coil domain containing 178	891	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	687-692		
+QTLEIL	4	A0A2I2ZH66	A0A2I2ZH66_GORGO [tr]	Adenosylmethionine decarboxylase 1	214	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	55-60		
+QTLEIL	5	A0A2I2ZJR1	A0A2I2ZJR1_GORGO [tr]	Coiled-coil domain containing 178	849	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	687-692		
+QTLEIL	6	G3QUC4	G3QUC4_GORGO [tr]	S-adenosylmethionine decarboxylase proenzyme	334	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	175-180		
+QTLEIL	7	G3RTU1	G3RTU1_GORGO [tr]	Prefoldin subunit 3	192	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	78-83		
+QTLEIL	8	G3RV14	G3RV14_GORGO [tr]	Coiled-coil domain containing 178	829	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	649-654		
+QTLEIL	9	G3SBZ2	G3SBZ2_GORGO [tr]	Prefoldin subunit 3	197	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	83-88		
+SLSSTA	1	A0A2I2YA38	A0A2I2YA38_GORGO [tr]	SRY-box transcription factor 5	128	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	88-93		
+SLSSTA	2	A0A2I2YIW3	A0A2I2YIW3_GORGO [tr]	SRY-box transcription factor 5	753	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	113-118		
+SLSSTA	3	A0A2I2YQL5	A0A2I2YQL5_GORGO [tr]	SRY-box transcription factor 5	642	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	110-115		
+SLSSTA	4	G3RE78	G3RE78_GORGO [tr]	YLP motif containing 1	2111	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	582-587		
+SLSSTA	5	G3RGA8	G3RGA8_GORGO [tr]	Laminin subunit alpha 4	1823	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	951-956		
+SLSSTA	6	G3RJI1	G3RJI1_GORGO [tr]	SRY-box transcription factor 5	763	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	123-128		
+SLSSTA	7	G3RLK4	G3RLK4_GORGO [tr]	FAT atypical cadherin 3	4439	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2753-2758		
+SLSSTA	8	G3RQ03	G3RQ03_GORGO [tr]	FAT atypical cadherin 3	4557	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2903-2908		
+SLSSTA	9	G3SDQ1	G3SDQ1_GORGO [tr]	Protocadherin gamma subfamily A, 4	944	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	655-660		
+PGDSSS	1	A0A2I2YU48	A0A2I2YU48_GORGO [tr]	PX domain-containing protein	240	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	174-179		
+PGDSSS	2	G3QLE7	G3QLE7_GORGO [tr]	Taxilin beta	684	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	18-23		
+PGDSSS	3	G3S9D4	G3S9D4_GORGO [tr]	Elongator complex protein 5	316	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	152-157		
+DSFKEE	1	G3QGA6	G3QGA6_GORGO [tr]	Thiosulfate sulfurtransferase like domain containing 2	516	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	473-478		
+LEPLVD	1	A0A2I2YCZ7	A0A2I2YCZ7_GORGO [tr]	MutS homolog 4	844	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	356-361		
+YKLPDD	1	G3RF17	G3RF17_GORGO [tr]	Chromosome 18 open reading frame 63	685	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	239-244		
+VGYLQP	1	A0A2I2YCA2	A0A2I2YCA2_GORGO [tr]	ATPase Na+/K+ transporting subunit beta 3	89	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	34-39		
+VGYLQP	2	A0A2I2YEG3	A0A2I2YEG3_GORGO [tr]	Sodium/potassium-transporting ATPase subunit beta	268	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	213-218		
+VGYLQP	3	A0A2I2YYZ8	A0A2I2YYZ8_GORGO [tr]	Sodium/potassium-transporting ATPase subunit beta	278	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	223-228		
+VGYLQP	4	A0A2I2ZHB9	A0A2I2ZHB9_GORGO [tr]	Sodium/potassium-transporting ATPase subunit beta	265	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	210-215		
+VGYLQP	5	G3RSA6	G3RSA6_GORGO [tr]	Sodium/potassium-transporting ATPase subunit beta	279	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	224-229		
+VGYLQP	6	G3S0F5	G3S0F5_GORGO [tr]	Sodium/potassium-transporting ATPase subunit beta	264	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	209-214		
+GLTVLP	1	A0A2I2YBU3	A0A2I2YBU3_GORGO [tr]	Formin homology 2 domain containing 3	635	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	185-190		
+GLTVLP	2	A0A2I2ZK17	A0A2I2ZK17_GORGO [tr]	Glucose transporter type 4, insulin-responsive	451	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	197-202		
+GLTVLP	3	A0A2I2ZS69	A0A2I2ZS69_GORGO [tr]	Formin homology 2 domain containing 3	1567	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1109-1114		
+GLTVLP	4	G3QWS0	G3QWS0_GORGO [tr]	Glucose transporter type 4, insulin-responsive	509	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	207-212		
+GLTVLP	5	G3R640	G3R640_GORGO [tr]	Formin homology 2 domain containing 3	1384	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	934-939		
+GLTVLP	6	G3RED7	G3RED7_GORGO [tr]	Nuclear pore complex protein Nup153	1506	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	468-473		
+GLTVLP	7	G3SGR5	G3SGR5_GORGO [tr]	Formin homology 2 domain containing 3	1367	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	917-922		
+DSEPVL	1	A0A2I2YCP9	A0A2I2YCP9_GORGO [tr]	Huntingtin interacting protein 1	1015	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	300-305		
+DSEPVL	2	A0A2I2YY75	A0A2I2YY75_GORGO [tr]	Huntingtin interacting protein 1	924	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	260-265		
+DSEPVL	3	G3QX79	G3QX79_GORGO [tr]	Tribbles pseudokinase 3	385	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	290-295		
+DSEPVL	4	G3RJM7	G3RJM7_GORGO [tr]	Huntingtin interacting protein 1	975	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	260-265		
+LGDIAA	1	A0A2I2ZHT8	A0A2I2ZHT8_GORGO [tr]	Armadillo repeat-containing protein 1	236	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	21-26		
+ASALGK	1	A0A2I2YDL0	A0A2I2YDL0_GORGO [tr]	Fucose-1-phosphate guanylyltransferase	607	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	137-142		
+ASALGK	2	A0A2I2YWD4	A0A2I2YWD4_GORGO [tr]	Fucose-1-phosphate guanylyltransferase	340	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	124-129		
+STNLVK	1	G3R4L7	G3R4L7_GORGO [tr]	Integrin alpha FG-GAP repeat containing 2	447	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	391-396		
+FLPFFS	1	G3QSZ7	G3QSZ7_GORGO [tr]	Ubiquitinyl hydrolase 1	288	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	185-190		
+VLYQDV	1	A0A2I2Y3P4	A0A2I2Y3P4_GORGO [tr]	ZFP57 zinc finger protein	452	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	39-44		
+VLYQDV	2	A0A2I2ZKB4	A0A2I2ZKB4_GORGO [tr]	ZFP57 zinc finger protein	536	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	67-72		
+VLYQDV	3	G3RL69	G3RL69_GORGO [tr]	ZFP57 zinc finger protein	516	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	47-52		
+TGRLQS	1	A0A2I2YK04	A0A2I2YK04_GORGO [tr]	Bromo domain-containing protein	601	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	334-339		
+TGRLQS	2	G3QUN7	G3QUN7_GORGO [tr]	Neuron navigator 3	2385	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1610-1615		
+TGRLQS	3	G3SF68	G3SF68_GORGO [tr]	Bromodomain containing 7	652	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	375-380		
+TGRLQS	4	G3SIM3	G3SIM3_GORGO [tr]	Neuron navigator 3	2363	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1610-1615		
+ASYQTQ	1	A0A2I2YKQ8	A0A2I2YKQ8_GORGO [tr]	TIA1 cytotoxic granule associated RNA binding protein like 1	392	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	387-392		
+ASYQTQ	2	A0A2I2Z9Q2	A0A2I2Z9Q2_GORGO [tr]	TIA1 cytotoxic granule associated RNA binding protein like 1	244	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	239-244		
+ASYQTQ	3	A0A2I2ZAG6	A0A2I2ZAG6_GORGO [tr]	TIA1 cytotoxic granule associated RNA binding protein like 1	252	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	247-252		
+ASYQTQ	4	A0A2I2ZHC6	A0A2I2ZHC6_GORGO [tr]	TIA1 cytotoxic granule associated RNA binding protein like 1	405	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	400-405		
+ASYQTQ	5	G3QHG3	G3QHG3_GORGO [tr]	TIA1 cytotoxic granule associated RNA binding protein like 1	337	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	332-337		
+DPLSET	1	A0A2I2Z7L6	A0A2I2Z7L6_GORGO [tr]	Polypeptide N-acetylgalactosaminyltransferase	527	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	500-505		
+DPLSET	2	A0A2I2ZFI2	A0A2I2ZFI2_GORGO [tr]	Polypeptide N-acetylgalactosaminyltransferase	411	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	384-389		
+DPLSET	3	G3QJW8	G3QJW8_GORGO [tr]	Polypeptide N-acetylgalactosaminyltransferase	510	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	483-488		
+LNESLI	1	G3QPS3	G3QPS3_GORGO [tr]	Uncharacterized protein	1184	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	492-497		
+SVAYSN	1	G3QDG8	G3QDG8_GORGO [tr]	Cbp/p300 interacting transactivator with Glu/Asp rich carboxy-terminal domain 1	219	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	54-59		
+ISVTTE	1	A0A2I2Y3R1	A0A2I2Y3R1_GORGO [tr]	Titin	34213	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	31662-31667		
+ISVTTE	2	A0A2I2YBJ5	A0A2I2YBJ5_GORGO [tr]	Titin	27051	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	24500-24505		
+ISVTTE	3	A0A2I2ZFU8	A0A2I2ZFU8_GORGO [tr]	Titin	33286	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	30735-30740		
+ISVTTE	4	A0A2I2ZPF5	A0A2I2ZPF5_GORGO [tr]	Titin	27118	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	24567-24572		
+ISVTTE	5	G3QYH8	G3QYH8_GORGO [tr]	Titin	34187	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	31636-31641		
+NDILSR	1	G3QZF9	G3QZF9_GORGO [tr]	NK6 homeobox 1	367	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	98-103		
+DPSKPS	1	G3RGP4	G3RGP4_GORGO [tr]	Uncharacterized protein	1212	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1136-1141		
+SNLLLQ	1	A0A2I2YJR5	A0A2I2YJR5_GORGO [tr]	Coiled-coil domain containing 97	335	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	217-222		
+SNLLLQ	2	A0A2I2ZB23	A0A2I2ZB23_GORGO [tr]	Coiled-coil domain containing 97	345	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	223-228		
+SNLLLQ	3	G3R5S7	G3R5S7_GORGO [tr]	SMG5 nonsense mediated mRNA decay factor	1016	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	588-593		
+SNLLLQ	4	G3S7M6	G3S7M6_GORGO [tr]	Coiled-coil domain containing 97	332	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	214-219		
+SKTQSL	1	A0A2I2YLZ9	A0A2I2YLZ9_GORGO [tr]	Family with sequence similarity 184 member A	1056	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	426-431		
+SKTQSL	2	A0A2I2ZFD0	A0A2I2ZFD0_GORGO [tr]	Family with sequence similarity 184 member A	529	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	306-311		
+SKTQSL	3	G3QH67	G3QH67_GORGO [tr]	Anillin actin binding protein	1089	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	482-487		
+SKTQSL	4	G3R5X0	G3R5X0_GORGO [tr]	Family with sequence similarity 184 member A	1140	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	426-431		
+SKTQSL	5	G3RVB0	G3RVB0_GORGO [tr]	Anillin actin binding protein	1052	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	482-487		
+SKTQSL	6	G3SDD7	G3SDD7_GORGO [tr]	Family with sequence similarity 184 member A	1098	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	383-388		
+SVTTEI	1	G3QK02	G3QK02_GORGO [tr]	Coiled-coil domain containing 73	1078	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	511-516		
+KVFRSS	1	A0A2I2Y4N0	A0A2I2Y4N0_GORGO [tr]	Solute carrier family 26 member 6	738	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	520-525		
+KVFRSS	2	A0A2I2ZCS0	A0A2I2ZCS0_GORGO [tr]	Zinc finger protein 528	626	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	274-279		
+KVFRSS	3	A0A2I2ZDL3	A0A2I2ZDL3_GORGO [tr]	Solute carrier family 26 member 6	761	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	535-540		
+KVFRSS	4	A0A2I2ZE76	A0A2I2ZE76_GORGO [tr]	Solute carrier family 26 member 6	659	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	434-439		
+KVFRSS	5	A0A2I2ZRQ7	A0A2I2ZRQ7_GORGO [tr]	Solute carrier family 26 member 6	723	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	505-510		
+KVFRSS	6	A0A2I2ZV09	A0A2I2ZV09_GORGO [tr]	Solute carrier family 26 member 6	742	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	535-540		
+KVFRSS	7	G3RGS9	G3RGS9_GORGO [tr]	Family with sequence similarity 214 member A	1023	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	514-519		
+KVFRSS	8	G3SBK4	G3SBK4_GORGO [tr]	Solute carrier family 26 member 6	759	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	541-546		
+TESNKK	1	A0A2I2Z857	A0A2I2Z857_GORGO [tr]	Kinesin-like protein	961	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	614-619		
+TESNKK	2	G3RC75	G3RC75_GORGO [tr]	Kinesin-like protein	963	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	616-621		
+LFRKSN	1	A0A2I2YKB6	A0A2I2YKB6_GORGO [tr]	Tetratricopeptide repeat domain 6	1641	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1129-1134		
+LSSTAS	1	A0A2I2YGV1	A0A2I2YGV1_GORGO [tr]	CD109 molecule	1445	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	837-842		
+LSSTAS	2	A0A2I2ZFY5	A0A2I2ZFY5_GORGO [tr]	Carnosine synthase 1	950	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	873-878		
+LSSTAS	3	A0A2I2ZQZ1	A0A2I2ZQZ1_GORGO [tr]	CD109 molecule	1429	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	838-843		
+LSSTAS	4	A0A2I2ZRR6	A0A2I2ZRR6_GORGO [tr]	CD109 molecule	1368	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	760-765		
+LSSTAS	5	G3QFC1	G3QFC1_GORGO [tr]	Upstream transcription factor family member 3	2237	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	961-966		
+LSSTAS	6	G3QNA1	G3QNA1_GORGO [tr]	CD109 molecule	1446	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	838-843		
+LSSTAS	7	G3QW26	G3QW26_GORGO [tr]	Heart development protein with EGF like domains 1	1381	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	860-865		
+LSSTAS	8	G3R3C8	G3R3C8_GORGO [tr]	Carnosine synthase 1	924	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	847-852		
+LSSTAS	9	G3S4N3	G3S4N3_GORGO [tr]	Carnosine synthase 1	827	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	750-755		
+IYSKHT	1	A0A2I2ZY22	A0A2I2ZY22_GORGO [tr]	Chromosome 1 open reading frame 105	37	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	8-13		
+SFKEEL	1	A0A2I2ZTI9	A0A2I2ZTI9_GORGO [tr]	Gamma-tubulin complex component	1014	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	362-367		
+SFKEEL	2	G3RGW3	G3RGW3_GORGO [tr]	Gamma-tubulin complex component	1004	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	352-357		
+SFKEEL	3	G3RWJ8	G3RWJ8_GORGO [tr]	Gamma-tubulin complex component	1012	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	362-367		
+GWIFGT	1	A0A2I2YD99	A0A2I2YD99_GORGO [tr]	C-X-C chemokine receptor type 1	350	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	102-107		
+GWIFGT	2	G3R144	G3R144_GORGO [tr]	C-X-C chemokine receptor type 2	360	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	111-116		
+GWIFGT	3	P55919	CXCR1_GORGO [sp]	C-X-C chemokine receptor type 1	350	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	102-107		
+GWIFGT	4	Q28422	CXCR2_GORGO [sp]	C-X-C chemokine receptor type 2 (Fragment)	353	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	108-113		
+PGQTGK	1	A0A2I2Y5I0	A0A2I2Y5I0_GORGO [tr]	PTPRF interacting protein alpha 1	1101	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	718-723		
+PGQTGK	2	A0A2I2YPX8	A0A2I2YPX8_GORGO [tr]	PTPRF interacting protein alpha 1	622	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	239-244		
+PGQTGK	3	A0A2I2YS51	A0A2I2YS51_GORGO [tr]	PTPRF interacting protein alpha 1	1191	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	819-824		
+PGQTGK	4	A0A2I2YW20	A0A2I2YW20_GORGO [tr]	PTPRF interacting protein alpha 1	1227	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	844-849		
+PGQTGK	5	A0A2I2ZKM7	A0A2I2ZKM7_GORGO [tr]	PTPRF interacting protein alpha 1	1267	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	854-859		
+PGQTGK	6	G3RBT5	G3RBT5_GORGO [tr]	PTPRF interacting protein alpha 1	1202	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	819-824		
+EELDKY	1	A0A2I2YBX7	A0A2I2YBX7_GORGO [tr]	IF rod domain-containing protein	377	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	251-256		
+EELDKY	2	A0A2I2ZWP5	A0A2I2ZWP5_GORGO [tr]	IF rod domain-containing protein	419	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	254-259		
+EELDKY	3	G3R3T2	G3R3T2_GORGO [tr]	Keratin 18	430	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	265-270		
+EELDKY	4	G3RTI9	G3RTI9_GORGO [tr]	IF rod domain-containing protein	399	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	245-250		
+EELDKY	5	G3S9X8	G3S9X8_GORGO [tr]	IF rod domain-containing protein	413	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	259-264		
+RVVVLS	1	A0A2I2YRJ2	A0A2I2YRJ2_GORGO [tr]	Helicase with zinc finger 2	2093	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	299-304		
+RVVVLS	2	A0A2I2ZFY2	A0A2I2ZFY2_GORGO [tr]	WD_REPEATS_REGION domain-containing protein	266	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	104-109		
+RVVVLS	3	G3QZY0	G3QZY0_GORGO [tr]	Helicase with zinc finger 2	2653	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	868-873		
+RVVVLS	4	G3R2N3	G3R2N3_GORGO [tr]	Cytochrome P450 family 2 subfamily F member 1	432	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	74-79		
+RVVVLS	5	Q8WNE1	CP2F5_GORGO [sp]	Cytochrome P450 2F5	491	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	74-79		
+VLPPLL	1	A0A2I2YWA1	A0A2I2YWA1_GORGO [tr]	Uncharacterized protein	54	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	42-47		
+VLPPLL	2	A0A2I2YY21	A0A2I2YY21_GORGO [tr]	Cholinergic receptor nicotinic alpha 4 subunit	629	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	10-15		
+VLPPLL	3	A0A2I2ZS25	A0A2I2ZS25_GORGO [tr]	Runt domain-containing protein	541	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	387-392		
+VLPPLL	4	G3QH04	G3QH04_GORGO [tr]	Adenosine receptor A2	332	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	191-196		
+VLPPLL	5	G3R347	G3R347_GORGO [tr]	Adenosine receptor A1	326	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	189-194		
+VLPPLL	6	G3RDX5	G3RDX5_GORGO [tr]	Apoptosis associated tyrosine kinase	1355	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1038-1043		
+VLPPLL	7	G3S7X7	G3S7X7_GORGO [tr]	Potassium two pore domain channel subfamily K member 2	426	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	395-400		
+VLPPLL	8	G3SB45	G3SB45_GORGO [tr]	Potassium two pore domain channel subfamily K member 2	422	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	391-396		
+KPSKRS	1	A0A2I2YYU8	A0A2I2YYU8_GORGO [tr]	Microtubule-associated protein	2299	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1377-1382		
+NVVIKV	1	A0A2I2ZX54	A0A2I2ZX54_GORGO [tr]	Zinc finger CCCH-type containing 3	929	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	106-111		
+NVVIKV	2	G3QK26	G3QK26_GORGO [tr]	Zinc finger CCCH-type containing 3	944	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	121-126		
+NASVVN	1	A0A2I2Z8V4	A0A2I2Z8V4_GORGO [tr]	THADA armadillo repeat containing	1056	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	725-730		
+NASVVN	2	A0A2I2ZGM4	A0A2I2ZGM4_GORGO [tr]	THADA armadillo repeat containing	1947	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1016-1021		
+NASVVN	3	G3QXY5	G3QXY5_GORGO [tr]	THADA armadillo repeat containing	1953	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1022-1027		
+AATKMS	1	A0A2I2Y9P8	A0A2I2Y9P8_GORGO [tr]	Pyruvate carboxylase	489	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	399-404		
+AATKMS	2	A0A2I2YS76	A0A2I2YS76_GORGO [tr]	Pyruvate carboxylase	1173	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	439-444		
+AATKMS	3	A0A2I2YV94	A0A2I2YV94_GORGO [tr]	Pyruvate carboxylase	1153	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	439-444		
+AATKMS	4	G3REY4	G3REY4_GORGO [tr]	Pyruvate carboxylase	1178	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	439-444		
+ICHDGK	1	G3QLI7	G3QLI7_GORGO [tr]	Serine/threonine-protein phosphatase	614	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	373-378		
+RSSVLH	1	G3SI32	G3SI32_GORGO [tr]	Zinc finger protein 214	616	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	379-384		
+EVRQIA	1	G3SIK1	G3SIK1_GORGO [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4862	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	4482-4487		
+HADQLT	1	A0A2I2YHH1	A0A2I2YHH1_GORGO [tr]	Ankyrin repeat domain 17	2482	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	718-723		
+HADQLT	2	A0A2I2YRB1	A0A2I2YRB1_GORGO [tr]	Ankyrin repeat domain 17	2326	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	718-723		
+HADQLT	3	A0A2I2YVJ3	A0A2I2YVJ3_GORGO [tr]	Ankyrin repeat domain 17	2488	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	748-753		
+HADQLT	4	A0A2I2Z810	A0A2I2Z810_GORGO [tr]	Ankyrin repeat domain 17	926	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	640-645		
+HADQLT	5	A0A2I2Z9A1	A0A2I2Z9A1_GORGO [tr]	Ankyrin repeat domain 17	2496	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	732-737		
+HADQLT	6	G3SCB1	G3SCB1_GORGO [tr]	Ankyrin repeat domain 17	2490	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	726-731		
+SSVLND	1	G3QSY3	G3QSY3_GORGO [tr]	M-phase phosphoprotein 8	860	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	266-271		
+SALLAG	1	A0A2I2YEV0	A0A2I2YEV0_GORGO [tr]	Sidekick cell adhesion molecule 1	1997	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1124-1129		
+SALLAG	2	A0A2I2YHQ9	A0A2I2YHQ9_GORGO [tr]	Sidekick cell adhesion molecule 1	2141	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1285-1290		
+SALLAG	3	A0A2I2Z2C3	A0A2I2Z2C3_GORGO [tr]	Sortilin related VPS10 domain containing receptor 1	1168	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	15-20		
+SALLAG	4	G3QIE3	G3QIE3_GORGO [tr]	N-acetyltransferase 16 (putative)	369	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	189-194		
+SALLAG	5	G3QMP1	G3QMP1_GORGO [tr]	Solute carrier family 27 member 3	811	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	802-807		
+SALLAG	6	G3RAY2	G3RAY2_GORGO [tr]	Sidekick cell adhesion molecule 1	2161	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1285-1290		
+IAARDL	1	A0A2I2ZEQ3	A0A2I2ZEQ3_GORGO [tr]	Anaphase-promoting complex subunit 1	127	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	12-17		
+IAARDL	2	G3QW31	G3QW31_GORGO [tr]	Plakophilin 3	760	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	697-702		
+EVAKNL	1	A0A2I2YU28	A0A2I2YU28_GORGO [tr]	Ectonucleoside triphosphate diphosphohydrolase 4	617	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	297-302		
+EVAKNL	2	A0A2I2YX16	A0A2I2YX16_GORGO [tr]	Ectonucleoside triphosphate diphosphohydrolase 4	608	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	288-293		
+EVAKNL	3	G3R4H2	G3R4H2_GORGO [tr]	Ectonucleoside triphosphate diphosphohydrolase 4	571	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	288-293		
+EVAKNL	4	G3SJ75	G3SJ75_GORGO [tr]	Ubiquitin like modifier activating enzyme 7	1012	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	46-51		
+STASAL	1	A0A2I2YK12	A0A2I2YK12_GORGO [tr]	HECT-type E3 ubiquitin transferase	4383	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1126-1131		
+STASAL	2	A0A2I2YZZ4	A0A2I2YZZ4_GORGO [tr]	HECT-type E3 ubiquitin transferase	4400	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1131-1136		
+STASAL	3	A0A2I2ZC49	A0A2I2ZC49_GORGO [tr]	HECT-type E3 ubiquitin transferase	4374	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1100-1105		
+STASAL	4	A0A2I2ZD41	A0A2I2ZD41_GORGO [tr]	HECT-type E3 ubiquitin transferase	4362	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1126-1131		
+STASAL	5	G3QWW5	G3QWW5_GORGO [tr]	40S ribosomal protein S13	151	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	144-149		
+STASAL	6	G3RER5	G3RER5_GORGO [tr]	HECT-type E3 ubiquitin transferase	4225	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1131-1136		
+STASAL	7	G3RIY8	G3RIY8_GORGO [tr]	Uncharacterized protein	560	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	106-111		
+STASAL	8	G3RNR7	G3RNR7_GORGO [tr]	NTF2 domain-containing protein	409	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	84-89		
+STASAL	9	G3RPH1	G3RPH1_GORGO [tr]	Nuclear RNA export factor 1	619	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	167-172		
+STASAL	10	G3SCI0	G3SCI0_GORGO [tr]	Uncharacterized protein	635	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	106-111		
+STASAL	11	G3SJ81	G3SJ81_GORGO [tr]	Uncharacterized protein	701	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	172-177		
+FTVEKG	1	A0A2I2YSP2	A0A2I2YSP2_GORGO [tr]	A-kinase anchoring protein 14	137	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	73-78		
+FTVEKG	2	G3RBY0	G3RBY0_GORGO [tr]	A-kinase anchoring protein 14	197	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	73-78		
+SSVLHS	1	A0A2I2Y251	A0A2I2Y251_GORGO [tr]	FYVE, RhoGEF and PH domain containing 6	1430	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1305-1310		
+SSVLHS	2	G3R2A4	G3R2A4_GORGO [tr]	DNA damage regulated autophagy modulator 2	266	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	177-182		
+SPRRAR	1	A0A2I2YLS0	A0A2I2YLS0_GORGO [tr]	GRB2 associated regulator of MAPK1 subtype 2	779	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	279-284		
+SPRRAR	2	A0A2I2YQU1	A0A2I2YQU1_GORGO [tr]	TBK1 binding protein 1	222	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	184-189		
+SPRRAR	3	A0A2I2Z2T5	A0A2I2Z2T5_GORGO [tr]	BUD13 homolog	589	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	151-156		
+SPRRAR	4	A0A2I2ZMM0	A0A2I2ZMM0_GORGO [tr]	Pleckstrin homology domain containing A7	1265	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	559-564		
+SPRRAR	5	A0A2I2ZV53	A0A2I2ZV53_GORGO [tr]	Coiled-coil domain containing 137	292	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	19-24		
+SPRRAR	6	A0A2I2ZVU4	A0A2I2ZVU4_GORGO [tr]	Zinc finger protein 462	2436	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	171-176		
+SPRRAR	7	G3QEF8	G3QEF8_GORGO [tr]	BUD13 homolog	601	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	151-156		
+SPRRAR	8	G3QJ89	G3QJ89_GORGO [tr]	HPS1 biogenesis of lysosomal organelles complex 3 subunit 1	613	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	171-176		
+SPRRAR	9	G3QQE8	G3QQE8_GORGO [tr]	GRB2 associated regulator of MAPK1 subtype 2	602	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	234-239		
+SPRRAR	10	G3QU96	G3QU96_GORGO [tr]	Pleckstrin homology domain containing A7	1238	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	579-584		
+SPRRAR	11	G3R0K4	G3R0K4_GORGO [tr]	Zinc finger protein 462	2402	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	171-176		
+SPRRAR	12	G3R1N7	G3R1N7_GORGO [tr]	Coiled-coil domain containing 137	305	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	35-40		
+SPRRAR	13	G3S4M6	G3S4M6_GORGO [tr]	Zinc finger protein 462	2506	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	171-176		
+KRSFIE	1	G3R219	G3R219_GORGO [tr]	Tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1	1861	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1853-1858		
+RKSNLK	1	G3QVA1	G3QVA1_GORGO [tr]	Intraflagellar transport protein 57 homolog	429	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	62-67		
+ARSVAS	1	A0A2I2YC24	A0A2I2YC24_GORGO [tr]	Sodium channel epithelial 1 subunit alpha	511	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	203-208		
+ARSVAS	2	A0A2I2YQN1	A0A2I2YQN1_GORGO [tr]	Sodium channel epithelial 1 subunit alpha	692	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	226-231		
+ARSVAS	3	G3R5I8	G3R5I8_GORGO [tr]	Sodium channel epithelial 1 subunit alpha	728	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	262-267		
+LSRLDK	1	A0A2I2Y223	A0A2I2Y223_GORGO [tr]	4'-phosphopantetheine phosphatase	743	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	672-677		
+LSRLDK	2	A0A2I2YM77	A0A2I2YM77_GORGO [tr]	4'-phosphopantetheine phosphatase	756	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	685-690		
+LSRLDK	3	G3R431	G3R431_GORGO [tr]	4'-phosphopantetheine phosphatase	731	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	660-665		
+PDDFTG	1	A0A2I2YAW1	A0A2I2YAW1_GORGO [tr]	Unc-80 homolog, NALCN channel complex subunit	3251	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	3196-3201		
+PDDFTG	2	A0A2I2ZWF8	A0A2I2ZWF8_GORGO [tr]	Unc-80 homolog, NALCN channel complex subunit	3165	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	3110-3115		
+PDDFTG	3	G3R5T1	G3R5T1_GORGO [tr]	Unc-80 homolog, NALCN channel complex subunit	3201	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	3146-3151		
+PDDFTG	4	G3SE91	G3SE91_GORGO [tr]	Unc-80 homolog, NALCN channel complex subunit	3177	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	3122-3127		
+SFPQSA	1	A0A2I2ZMT5	A0A2I2ZMT5_GORGO [tr]	Lymphocyte cytosolic protein 2	323	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	160-165		
+SFPQSA	2	G3QUP8	G3QUP8_GORGO [tr]	Lymphocyte cytosolic protein 2	533	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	370-375		
+SFPQSA	3	G3S0K8	G3S0K8_GORGO [tr]	Lymphocyte cytosolic protein 2	533	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	370-375		
+GLTGTG	1	A0A2I2YRC6	A0A2I2YRC6_GORGO [tr]	DnaJ heat shock protein family (Hsp40) member B2	324	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	72-77		
+GLTGTG	2	G3R5Q7	G3R5Q7_GORGO [tr]	DnaJ heat shock protein family (Hsp40) member B2	277	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	72-77		
+LADAGF	1	A0A2I2YVC8	A0A2I2YVC8_GORGO [tr]	Lipase	383	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	80-85		
+LADAGF	2	A0A2I2Z6P7	A0A2I2Z6P7_GORGO [tr]	Lipase A, lysosomal acid type	343	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	52-57		
+LADAGF	3	G3QN03	G3QN03_GORGO [tr]	Lipase	399	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	108-113		
+LADAGF	4	G3QWK0	G3QWK0_GORGO [tr]	Lipase	423	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	120-125		
+MTKTSV	1	A0A2I2YFR8	A0A2I2YFR8_GORGO [tr]	WASH complex subunit 4	914	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	209-214		
+MTKTSV	2	G3S475	G3S475_GORGO [tr]	WASH complex subunit 4	1173	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	468-473		
+RRARSV	1	A0A2I2YC24	A0A2I2YC24_GORGO [tr]	Sodium channel epithelial 1 subunit alpha	511	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	201-206		
+RRARSV	2	A0A2I2YQN1	A0A2I2YQN1_GORGO [tr]	Sodium channel epithelial 1 subunit alpha	692	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	224-229		
+RRARSV	3	A0A2I2Z062	A0A2I2Z062_GORGO [tr]	Teneurin transmembrane protein 3	2590	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	345-350		
+RRARSV	4	G3R5I8	G3R5I8_GORGO [tr]	Sodium channel epithelial 1 subunit alpha	728	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	260-265		
+RRARSV	5	G3R6U9	G3R6U9_GORGO [tr]	Teneurin transmembrane protein 3	2699	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	470-475		
+SGINAS	1	A0A2I2Y5E1	A0A2I2Y5E1_GORGO [tr]	Nebulin	7660	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	5496-5501		
+SGINAS	2	A0A2I2Y6X2	A0A2I2Y6X2_GORGO [tr]	Nebulin	6629	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	4660-4665		
+SGINAS	3	A0A2I2YTW6	A0A2I2YTW6_GORGO [tr]	Nebulin	7695	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	5496-5501		
+SGINAS	4	A0A2I2ZHG5	A0A2I2ZHG5_GORGO [tr]	Nebulin	7660	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	5496-5501		
+SGINAS	5	G3RKB9	G3RKB9_GORGO [tr]	Nebulin	6669	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	4660-4665		
+SGINAS	6	G3SDN1	G3SDN1_GORGO [tr]	Nebulin	6669	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	4660-4665		
+ASVVNI	1	A0A2I2Z8V4	A0A2I2Z8V4_GORGO [tr]	THADA armadillo repeat containing	1056	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	726-731		
+ASVVNI	2	A0A2I2ZGM4	A0A2I2ZGM4_GORGO [tr]	THADA armadillo repeat containing	1947	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1017-1022		
+ASVVNI	3	G3QXY5	G3QXY5_GORGO [tr]	THADA armadillo repeat containing	1953	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1023-1028		
+ASVVNI	4	G3QZG3	G3QZG3_GORGO [tr]	Angiopoietin like 5	388	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	34-39		
+DAVDCA	1	A0A2I2ZQA7	A0A2I2ZQA7_GORGO [tr]	Dynein light chain	89	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	20-25		
+DAVDCA	2	G3S2K3	G3S2K3_GORGO [tr]	Uncharacterized protein	183	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	114-119		
+DVDLGD	1	A0A2I2YVW3	A0A2I2YVW3_GORGO [tr]	Uncharacterized protein	516	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	506-511		
+DVDLGD	2	A0A2I2ZUG8	A0A2I2ZUG8_GORGO [tr]	Uncharacterized protein	519	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	509-514		
+LLIVNN	1	A0A2I2YSP3	A0A2I2YSP3_GORGO [tr]	ATP binding cassette subfamily A member 10	1315	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	815-820		
+LLIVNN	2	G3QNH5	G3QNH5_GORGO [tr]	ATP binding cassette subfamily A member 10	1532	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	815-820		
+IDRLNE	1	A0A2I2YXI5	A0A2I2YXI5_GORGO [tr]	Uncharacterized protein	268	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	33-38		
+IDRLNE	2	G3S4E1	G3S4E1_GORGO [tr]	Uncharacterized protein	290	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	55-60		
+IDRLNE	3	G3S4G2	G3S4G2_GORGO [tr]	Uncharacterized protein	339	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	55-60		
+LPPLLT	1	A0A2I2YWA1	A0A2I2YWA1_GORGO [tr]	Uncharacterized protein	54	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	43-48		
+LPPLLT	2	G3RUA6	G3RUA6_GORGO [tr]	Short chain dehydrogenase/reductase family 42E, member 2	422	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	330-335		
+LLFNKV	1	G3SH33	G3SH33_GORGO [tr]	Uncharacterized protein	74	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	42-47		
+NSASFS	1	A0A2I2YRF7	A0A2I2YRF7_GORGO [tr]	Neuron navigator 1	1831	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	866-871		
+NSASFS	2	A0A2I2YW01	A0A2I2YW01_GORGO [tr]	Neuron navigator 1	1834	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	871-876		
+NSASFS	3	A0A2I2Z906	A0A2I2Z906_GORGO [tr]	Neuron navigator 1	1483	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	461-466		
+NSASFS	4	G3QV71	G3QV71_GORGO [tr]	Neuron navigator 1	1878	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	853-858		
+SKRSFI	1	A0A2I2YWN6	A0A2I2YWN6_GORGO [tr]	Gamma-aminobutyric acid type A receptor subunit rho1	392	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	76-81		
+SKRSFI	2	G3R834	G3R834_GORGO [tr]	Gamma-aminobutyric acid type A receptor subunit rho3 (gene/pseudogene)	467	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	149-154		
+SKRSFI	3	G3RJC9	G3RJC9_GORGO [tr]	GABA(C) receptor	462	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	146-151		
+SKRSFI	4	G3RXD5	G3RXD5_GORGO [tr]	GABA(C) receptor	479	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	163-168		
+LLALHR	1	A0A2I2Z650	A0A2I2Z650_GORGO [tr]	Palmitoyltransferase	409	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	182-187		
+LLALHR	2	A0A2I2Z9B3	A0A2I2Z9B3_GORGO [tr]	Vasopressin V1a receptor	421	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	76-81		
+LLALHR	3	G3R240	G3R240_GORGO [tr]	Palmitoyltransferase	412	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	182-187		
+LLALHR	4	G3RR45	G3RR45_GORGO [tr]	Dispatched RND transporter family member 2	1401	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	669-674		
+LLALHR	5	G3S3V6	G3S3V6_GORGO [tr]	Palmitoyltransferase	406	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	182-187		
+VVLSFE	1	A0A2I2Z114	A0A2I2Z114_GORGO [tr]	Neutral ceramidase	727	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	711-716		
+VVLSFE	2	G3QTL4	G3QTL4_GORGO [tr]	Neutral ceramidase	624	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	608-613		
+VVLSFE	3	G3RW37	G3RW37_GORGO [tr]	Neutral ceramidase	781	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	765-770		
+TLADAG	1	A0A2I2Z9D3	A0A2I2Z9D3_GORGO [tr]	Tyrosine kinase non receptor 1	499	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	436-441		
+TLADAG	2	G3QHY9	G3QHY9_GORGO [tr]	Tyrosine kinase non receptor 1	661	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	436-441		
+TAGAAA	1	G3QX96	G3QX96_GORGO [tr]	Aspartylglucosaminidase	346	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	250-255		
+TAGAAA	2	G3QX99	G3QX99_GORGO [tr]	Scaffold protein involved in DNA repair	912	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	35-40		
+TAGAAA	3	G3R385	G3R385_GORGO [tr]	ZXD family zinc finger C	855	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	153-158		
+TAGAAA	4	G3R8S5	G3R8S5_GORGO [tr]	Zinc finger homeobox 3	3622	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	771-776		
+TAGAAA	5	G3S0A7	G3S0A7_GORGO [tr]	ZXD family zinc finger C	850	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	148-153		
+IHVSGT	1	G3QWT6	G3QWT6_GORGO [tr]	Checkpoint protein	278	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	17-22		
+PYRVVV	1	A0A2I2Y447	A0A2I2Y447_GORGO [tr]	Filamin A	2295	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2289-2294		
+PYRVVV	2	A0A2I2Y459	A0A2I2Y459_GORGO [tr]	Filamin A	2633	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2627-2632		
+PYRVVV	3	A0A2I2YKY1	A0A2I2YKY1_GORGO [tr]	Filamin A	2607	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2601-2606		
+PYRVVV	4	A0A2I2YQV4	A0A2I2YQV4_GORGO [tr]	Filamin A	2639	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2633-2638		
+PYRVVV	5	G3QNL9	G3QNL9_GORGO [tr]	Filamin A	2647	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2641-2646		
+ALHRSY	1	G3QD46	G3QD46_GORGO [tr]	EF-hand calcium binding domain 8	1269	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	299-304		
+IYKTPP	1	A0A2I2Z275	A0A2I2Z275_GORGO [tr]	BCL6 corepressor	1737	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	148-153		
+IYKTPP	2	G3RG00	G3RG00_GORGO [tr]	BCL6 corepressor	1755	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	148-153		
+QNAQAL	1	A0A2I2Y555	A0A2I2Y555_GORGO [tr]	Histone deacetylase	972	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	360-365		
+QNAQAL	2	G3REJ7	G3REJ7_GORGO [tr]	Histone deacetylase	1084	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	472-477		
+QNAQAL	3	G3SFB9	G3SFB9_GORGO [tr]	Histone deacetylase	1089	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	477-482		
+LNEVAK	1	G3QMS1	G3QMS1_GORGO [tr]	Tripartite motif containing 8	551	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	334-339		
+LNEVAK	2	G3QXD0	G3QXD0_GORGO [tr]	Apoptosis inducing factor mitochondria associated 1	586	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	574-579		
+LNEVAK	3	G3SIL3	G3SIL3_GORGO [tr]	Apoptosis inducing factor mitochondria associated 1	582	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	570-575		
+KNLREF	1	A0A2I2Y9E0	A0A2I2Y9E0_GORGO [tr]	Butyryl-CoA dehydrogenase	424	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	76-81		
+KNLREF	2	G3QD68	G3QD68_GORGO [tr]	Butyryl-CoA dehydrogenase	426	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	78-83		
+KNLREF	3	G3RF36	G3RF36_GORGO [tr]	Laminin subunit gamma 2	1193	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	953-958		
+IDLQEL	1	G3RV64	G3RV64_GORGO [tr]	Anaphase-promoting complex subunit 2	822	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	790-795		
+TPGDSS	1	A0A2I2YH66	A0A2I2YH66_GORGO [tr]	NIPA like domain containing 4	447	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1-6		
+TPGDSS	2	G3RE29	G3RE29_GORGO [tr]	NIPA like domain containing 4	466	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1-6		
+GFIAGL	1	A0A2I2Z3X7	A0A2I2Z3X7_GORGO [tr]	Amino_oxidase domain-containing protein	477	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	381-386		
+GFIAGL	2	G3QPX1	G3QPX1_GORGO [tr]	Amino_oxidase domain-containing protein	511	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	381-386		
+INLVRD	1	G3RJ69	G3RJ69_GORGO [tr]	RRM domain-containing protein	312	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	63-68		
+INLVRD	2	G3RXS2	G3RXS2_GORGO [tr]	RNA binding motif protein X-linked 2	322	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	65-70		
+INLVRD	3	G3SC87	G3SC87_GORGO [tr]	RRM domain-containing protein	291	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	63-68		
+TGIAVE	1	G3R3C4	G3R3C4_GORGO [tr]	Regulating synaptic membrane exocytosis 3	308	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	89-94		
+PPLLTD	1	G3QYM6	G3QYM6_GORGO [tr]	Discs large MAGUK scaffold protein 5	1877	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	92-97		
+PPLLTD	2	G3S7Z7	G3S7Z7_GORGO [tr]	Discs large MAGUK scaffold protein 5	1845	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	60-65		
+ESLIDL	1	G3SG09	G3SG09_GORGO [tr]	Zinc finger BED-type containing 5	693	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	593-598		
+LGFIAG	1	G3R0B9	G3R0B9_GORGO [tr]	V-type proton ATPase subunit a	840	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	170-175		
+SPTKLN	1	G3QTM8	G3QTM8_GORGO [tr]	Cramped chromatin regulator homolog 1	1269	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1118-1123		
+SNFRVQ	1	G3R164	G3R164_GORGO [tr]	CDK-activating kinase assembly factor MAT1	309	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	56-61		
+SNFRVQ	2	G3RN45	G3RN45_GORGO [tr]	CDK-activating kinase assembly factor MAT1	267	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	56-61		
+RLQSLQ	1	A0A2I2YGB4	A0A2I2YGB4_GORGO [tr]	Solute carrier family 25 member 22	233	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	162-167		
+RLQSLQ	2	G3R5C9	G3R5C9_GORGO [tr]	Solute carrier family 25 member 22	323	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	252-257		
+LALHRS	1	G3QHE9	G3QHE9_GORGO [tr]	Poly [ADP-ribose] polymerase	1025	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	658-663		
+KIYSKH	1	A0A2I2ZY22	A0A2I2ZY22_GORGO [tr]	Chromosome 1 open reading frame 105	37	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	7-12		
+GTTLDS	1	A0A2I2YFM7	A0A2I2YFM7_GORGO [tr]	Collagen type XIV alpha 1 chain	1796	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	710-715		
+GTTLDS	2	G3QN38	G3QN38_GORGO [tr]	Collagen type XIV alpha 1 chain	1780	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	710-715		
+SSGWTA	1	A0A2I2YUZ6	A0A2I2YUZ6_GORGO [tr]	KIAA1109	4551	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	355-360		
+SSGWTA	2	A0A2I2ZF58	A0A2I2ZF58_GORGO [tr]	Ankyrin repeat domain 24	1099	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	146-151		
+SSGWTA	3	G3R3H2	G3R3H2_GORGO [tr]	KIAA1109	5005	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	778-783		
+SSGWTA	4	G3RC69	G3RC69_GORGO [tr]	Ankyrin repeat domain 24	1121	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	168-173		
+LLLQYG	1	A0A2I2YK62	A0A2I2YK62_GORGO [tr]	Sushi repeat containing protein X-linked	379	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	371-376		
+DLGDIS	1	A0A2I2Z731	A0A2I2Z731_GORGO [tr]	Tumor protein p53 binding protein 1	1922	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1298-1303		
+DLGDIS	2	G3QJG3	G3QJG3_GORGO [tr]	Tumor protein p53 binding protein 1	1972	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1298-1303		
+DLGDIS	3	G3RAQ2	G3RAQ2_GORGO [tr]	HECT-type E3 ubiquitin transferase	4693	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2336-2341		
+DLGDIS	4	G3RKG9	G3RKG9_GORGO [tr]	Uncharacterized protein	609	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	328-333		
+DLGDIS	5	G3RPM2	G3RPM2_GORGO [tr]	HECT-type E3 ubiquitin transferase	4699	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2342-2347		
+NRALTG	1	G3QEK9	G3QEK9_GORGO [tr]	Golgi associated kinase 1A	575	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	208-213		
+KSNIIR	1	A0A2I2Z175	A0A2I2Z175_GORGO [tr]	Glutamate metabotropic receptor 5	1210	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	503-508		
+KSNIIR	2	G3R0E4	G3R0E4_GORGO [tr]	Glutamate metabotropic receptor 5	704	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	239-244		
+KSNIIR	3	G3SD23	G3SD23_GORGO [tr]	Glutamate metabotropic receptor 5	1178	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	503-508		
+TSCCSC	1	G3QQB9	G3QQB9_GORGO [tr]	G protein-coupled receptor 155	842	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	562-567		
+TSCCSC	2	G3SBT6	G3SBT6_GORGO [tr]	G protein-coupled receptor 155	870	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	590-595		
+GAISSV	1	G3RTC0	G3RTC0_GORGO [tr]	Sox C-terminal domain-containing protein	113	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	92-97		
+ECSNLL	1	A0A2I2YU17	A0A2I2YU17_GORGO [tr]	EvC ciliary complex subunit 2	1286	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	472-477		
+ECSNLL	2	A0A2I2Z090	A0A2I2Z090_GORGO [tr]	EvC ciliary complex subunit 2	1272	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	458-463		
+ECSNLL	3	G3RCY4	G3RCY4_GORGO [tr]	EvC ciliary complex subunit 2	1271	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	457-462		
+ECSNLL	4	G3SIS4	G3SIS4_GORGO [tr]	EvC ciliary complex subunit 2	1228	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	414-419		
+SCCSCL	1	G3QJQ0	G3QJQ0_GORGO [tr]	Fibroblast growth factor receptor substrate 3	492	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	3-8		
+SCCSCL	2	G3RP42	G3RP42_GORGO [tr]	ADP ribosylation factor like GTPase 13A	256	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	7-12		
+PVLPFN	1	A0A2I2Y582	A0A2I2Y582_GORGO [tr]	N-acetylated alpha-linked acidic dipeptidase like 2	795	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	645-650		
+RFQTLL	1	G3R0P5	G3R0P5_GORGO [tr]	Dishevelled associated activator of morphogenesis 2	1077	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	252-257		
+RFQTLL	2	G3RQF1	G3RQF1_GORGO [tr]	Dishevelled associated activator of morphogenesis 2	1068	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	252-257		
+QALNTL	1	A0A2I2YUD8	A0A2I2YUD8_GORGO [tr]	Taxilin gamma	219	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	54-59		
+QALNTL	2	G3QIX7	G3QIX7_GORGO [tr]	Taxilin gamma	524	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	144-149		
+QALNTL	3	G3R077	G3R077_GORGO [tr]	Mediator of RNA polymerase II transcription subunit 1	1506	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	826-831		
+QALNTL	4	G3RHL6	G3RHL6_GORGO [tr]	Armadillo repeat containing 12	340	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	129-134		
+QALNTL	5	G3S6F8	G3S6F8_GORGO [tr]	Mediator of RNA polymerase II transcription subunit 1	1514	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	834-839		
+TPPIKD	1	A0A2I2Z3A2	A0A2I2Z3A2_GORGO [tr]	Splicing factor 3b subunit 1	1268	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	974-979		
+TPPIKD	2	G3R1J1	G3R1J1_GORGO [tr]	Splicing factor 3b subunit 1	1267	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	973-978		
+IGAGIC	1	A0A2I2ZKF6	A0A2I2ZKF6_GORGO [tr]	Hepatitis A virus cellular receptor 2	262	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	177-182		
+IGAGIC	2	G3RXQ5	G3RXQ5_GORGO [tr]	Hepatitis A virus cellular receptor 2	273	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	177-182		
+IGAGIC	3	G3SHL5	G3SHL5_GORGO [tr]	Hepatitis A virus cellular receptor 2	301	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	205-210		
+TASALG	1	A0A2I2ZUZ9	A0A2I2ZUZ9_GORGO [tr]	Transcription factor-like 1	364	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	335-340		
+TASALG	2	G3R5J0	G3R5J0_GORGO [tr]	RCR-type E3 ubiquitin transferase	4640	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1666-1671		
+TASALG	3	G3R8L6	G3R8L6_GORGO [tr]	Chromosome 16 open reading frame 92	131	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	51-56		
+TASALG	4	G3RU28	G3RU28_GORGO [tr]	Zinc finger protein 503	644	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	637-642		
+VEAEVQ	1	G3RQV2	G3RQV2_GORGO [tr]	Elastin microfibril interfacer 3	766	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	626-631		
+VKQIYK	1	A0A2I2Z877	A0A2I2Z877_GORGO [tr]	Transformation/transcription domain associated protein	3265	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	158-163		
+VKQIYK	2	G3QKC1	G3QKC1_GORGO [tr]	Transformation/transcription domain associated protein	3254	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	158-163		
+LNDLCF	1	A0A2I2Y631	A0A2I2Y631_GORGO [tr]	Interleukin-7	133	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	106-111		
+LNDLCF	2	A0A2I2YQZ9	A0A2I2YQZ9_GORGO [tr]	Interleukin-7	177	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	150-155		
+LNDLCF	3	A0A2I2YTF7	A0A2I2YTF7_GORGO [tr]	Interleukin-7	115	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	88-93		
+LNDLCF	4	A0A2I2YTW1	A0A2I2YTW1_GORGO [tr]	Interleukin-7	159	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	132-137		
+LNDLCF	5	G3QDY6	G3QDY6_GORGO [tr]	Interleukin-7	179	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	152-157		
+ISSVLN	1	A0A2I2Y301	A0A2I2Y301_GORGO [tr]	UTP--glucose-1-phosphate uridylyltransferase	507	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	100-105		
+ISSVLN	2	A0A2I2YW99	A0A2I2YW99_GORGO [tr]	UTP--glucose-1-phosphate uridylyltransferase	517	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	110-115		
+ISSVLN	3	A0A2I2YY15	A0A2I2YY15_GORGO [tr]	UTP--glucose-1-phosphate uridylyltransferase	506	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	99-104		
+ISSVLN	4	A0A2I2ZBI4	A0A2I2ZBI4_GORGO [tr]	UTP--glucose-1-phosphate uridylyltransferase	508	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	101-106		
+ISSVLN	5	A0A2I2ZCX2	A0A2I2ZCX2_GORGO [tr]	UTP--glucose-1-phosphate uridylyltransferase	507	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	100-105		
+ISSVLN	6	G3QTW3	G3QTW3_GORGO [tr]	UTP--glucose-1-phosphate uridylyltransferase	497	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	90-95		
+ISSVLN	7	G3SI76	G3SI76_GORGO [tr]	UTP--glucose-1-phosphate uridylyltransferase	506	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	99-104		
+TISVTT	1	G3QUK7	G3QUK7_GORGO [tr]	Erythrocyte membrane protein band 4.2	691	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	103-108		
+LTESNK	1	G3QL66	G3QL66_GORGO [tr]	Potassium voltage-gated channel subfamily B member 2	911	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	283-288		
+LTESNK	2	G3QVG8	G3QVG8_GORGO [tr]	Potassium voltage-gated channel subfamily B member 1	858	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	279-284		
+ALDPLS	1	A0A2I2Z3E7	A0A2I2Z3E7_GORGO [tr]	Spalt like transcription factor 3	951	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	115-120		
+ALDPLS	2	G3QYK6	G3QYK6_GORGO [tr]	Spalt like transcription factor 3	1300	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	386-391		
+ALDPLS	3	G3RQ99	G3RQ99_GORGO [tr]	Spalt like transcription factor 3	1228	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	386-391		
+TLEILD	1	A0A2I2Y3R1	A0A2I2Y3R1_GORGO [tr]	Titin	34213	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	33220-33225		
+TLEILD	2	A0A2I2Y798	A0A2I2Y798_GORGO [tr]	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	679	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	443-448		
+TLEILD	3	A0A2I2YBJ5	A0A2I2YBJ5_GORGO [tr]	Titin	27051	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	26058-26063		
+TLEILD	4	A0A2I2YG90	A0A2I2YG90_GORGO [tr]	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	1133	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	897-902		
+TLEILD	5	A0A2I2YJI2	A0A2I2YJI2_GORGO [tr]	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	1393	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1146-1151		
+TLEILD	6	A0A2I2Z1P9	A0A2I2Z1P9_GORGO [tr]	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	1194	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	958-963		
+TLEILD	7	A0A2I2ZFU8	A0A2I2ZFU8_GORGO [tr]	Titin	33286	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	32293-32298		
+TLEILD	8	A0A2I2ZPF5	A0A2I2ZPF5_GORGO [tr]	Titin	27118	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	26125-26130		
+TLEILD	9	A0A2I2ZW77	A0A2I2ZW77_GORGO [tr]	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	1205	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	958-963		
+TLEILD	10	B3Y615	TLR2_GORGO [sp]	Toll-like receptor 2 precursor	784	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	458-463		
+TLEILD	11	G3QXT8	G3QXT8_GORGO [tr]	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	1441	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1194-1199		
+TLEILD	12	G3QYH8	G3QYH8_GORGO [tr]	Titin	34187	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	33194-33199		
+TLEILD	13	G3RKC2	G3RKC2_GORGO [tr]	NLR family CARD domain containing 3	1113	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1023-1028		
+TLEILD	14	G3RRC2	G3RRC2_GORGO [tr]	NLR family CARD domain containing 3	1112	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1022-1027		
+RAAEIR	1	A0A2I2ZD30	A0A2I2ZD30_GORGO [tr]	Terpene cyclase/mutase family member	710	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	530-535		
+RAAEIR	2	G3RI42	G3RI42_GORGO [tr]	Terpene cyclase/mutase family member	732	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	552-557		
+FASTEK	1	G3QE27	G3QE27_GORGO [tr]	B double prime 1, subunit of RNA polymerase III transcription initiation factor IIIB	2624	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	530-535		
+GLIAIV	1	G3S476	G3S476_GORGO [tr]	Proline rich transmembrane protein 1B	259	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	201-206		
+QLIRAA	1	A0A2I2Z239	A0A2I2Z239_GORGO [tr]	ATP synthase mitochondrial F1 complex assembly factor 2	257	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	94-99		
+QLIRAA	2	G3QE00	G3QE00_GORGO [tr]	ATP synthase mitochondrial F1 complex assembly factor 2	289	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	126-131		
+VVNIQK	1	A0A2I2Z4H6	A0A2I2Z4H6_GORGO [tr]	Ligand of numb-protein X 1	632	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	411-416		
+VVNIQK	2	G3R3I7	G3R3I7_GORGO [tr]	Ligand of numb-protein X 1	728	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	507-512		
+GCLIGA	1	A0A2I2YMW4	A0A2I2YMW4_GORGO [tr]	Junctional adhesion molecule 3	259	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	26-31		
+GCLIGA	2	A0A2I2YTS0	A0A2I2YTS0_GORGO [tr]	Junctional adhesion molecule 3	312	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	28-33		
+GCLIGA	3	A0A2I2YX25	A0A2I2YX25_GORGO [tr]	Junctional adhesion molecule 3	312	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	28-33		
+GCLIGA	4	G3QV54	G3QV54_GORGO [tr]	Junctional adhesion molecule 3	310	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	26-31		
+VSNGTH	1	A0A2I2YXW7	A0A2I2YXW7_GORGO [tr]	Oncoprotein induced transcript 3	321	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	297-302		
+VSNGTH	2	G3RAH7	G3RAH7_GORGO [tr]	Oncoprotein induced transcript 3	545	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	297-302		
+SFGGVS	1	G3R2L4	G3R2L4_GORGO [tr]	Keratin 24	525	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	92-97		
+SFGGVS	2	G3R9W3	G3R9W3_GORGO [tr]	Proline rich coiled-coil 2B	2229	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1898-1903		
+SFGGVS	3	G3RXY1	G3RXY1_GORGO [tr]	Proline rich coiled-coil 2B	2234	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1903-1908		
+LQELGK	1	A0A2I2Y3R2	A0A2I2Y3R2_GORGO [tr]	Kinetochore scaffold 1	2316	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	779-784		
+LQELGK	2	A0A2I2YFT2	A0A2I2YFT2_GORGO [tr]	Pleckstrin homology and RhoGEF domain containing G2	577	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	247-252		
+LQELGK	3	A0A2I2Z8N6	A0A2I2Z8N6_GORGO [tr]	Pleckstrin homology and RhoGEF domain containing G2	1237	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	188-193		
+LQELGK	4	A0A2I2ZML1	A0A2I2ZML1_GORGO [tr]	Pleckstrin homology and RhoGEF domain containing G2	1386	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	247-252		
+LQELGK	5	G3QVF2	G3QVF2_GORGO [tr]	Vir like m6A methyltransferase associated	1812	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	888-893		
+LQELGK	6	G3QX94	G3QX94_GORGO [tr]	Glutaminase	598	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	80-85		
+LQELGK	7	G3REQ9	G3REQ9_GORGO [tr]	Pleckstrin homology and RhoGEF domain containing G2	1378	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	248-253		
+LQELGK	8	G3RZG9	G3RZG9_GORGO [tr]	Kinetochore scaffold 1	2342	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	805-810		
+LQELGK	9	G3S2X0	G3S2X0_GORGO [tr]	Vir like m6A methyltransferase associated	1813	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	889-894		
+LQELGK	10	G3SB67	G3SB67_GORGO [tr]	Glutaminase	669	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	80-85		
+SALEPL	1	A0A2I2YBV3	A0A2I2YBV3_GORGO [tr]	SH3 domain and tetratricopeptide repeats 2	1258	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	233-238		
+SALEPL	2	G3QVN7	G3QVN7_GORGO [tr]	SH3 domain and tetratricopeptide repeats 2	1288	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	233-238		
+SALEPL	3	G3SKP9	G3SKP9_GORGO [tr]	Chromosome 1 open reading frame 167	1462	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	839-844		
+RSVASQ	1	A0A2I2Z173	A0A2I2Z173_GORGO [tr]	Symplekin	621	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	12-17		
+RSVASQ	2	A0A2I2ZSE7	A0A2I2ZSE7_GORGO [tr]	Symplekin	1022	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	12-17		
+RSVASQ	3	G3QLK1	G3QLK1_GORGO [tr]	Symplekin	1301	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	39-44		
+RSVASQ	4	G3RWF6	G3RWF6_GORGO [tr]	Symplekin	1099	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	12-17		
+AGAAAY	1	A0A2I2ZAP6	A0A2I2ZAP6_GORGO [tr]	Poly(ADP-ribose) polymerase family member 9	399	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	7-12		
+AGAAAY	2	G3RIR3	G3RIR3_GORGO [tr]	Poly(ADP-ribose) polymerase family member 9	819	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	7-12		
+DLQELG	1	A0A2I2YJ83	A0A2I2YJ83_GORGO [tr]	L1 cell adhesion molecule	1123	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	425-430		
+DLQELG	2	A0A2I2ZAM1	A0A2I2ZAM1_GORGO [tr]	L1 cell adhesion molecule	1119	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	425-430		
+TRAGCL	1	A0A2I2ZDS7	A0A2I2ZDS7_GORGO [tr]	RAD54 like 2	1452	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	801-806		
+TRAGCL	2	G3R3H8	G3R3H8_GORGO [tr]	RAD54 like 2	1467	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	816-821		
+NVLYEN	1	G3QD10	G3QD10_GORGO [tr]	Dynein cytoplasmic 1 heavy chain 1	4646	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	3838-3843		
+VLNDIL	1	G3QR60	G3QR60_GORGO [tr]	Oviductal glycoprotein 1	667	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	366-371		
+VLNDIL	2	G3SD99	G3SD99_GORGO [tr]	Oviductal glycoprotein 1	678	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	377-382		
+KIQDSL	1	A0A2I2Z1V1	A0A2I2Z1V1_GORGO [tr]	Phosphorylase b kinase regulatory subunit	1093	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	83-88		
+KIQDSL	2	A0A2I2Z262	A0A2I2Z262_GORGO [tr]	Phosphorylase b kinase regulatory subunit	1093	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	83-88		
+KIQDSL	3	A0A2I2Z4Q9	A0A2I2Z4Q9_GORGO [tr]	Acyl-CoA synthetase long chain family member 5	659	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	404-409		
+KIQDSL	4	A0A2I2ZBU2	A0A2I2ZBU2_GORGO [tr]	Acyl-CoA synthetase long chain family member 5	727	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	448-453		
+KIQDSL	5	G3QKJ2	G3QKJ2_GORGO [tr]	Phosphorylase b kinase regulatory subunit	1086	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	76-81		
+KIQDSL	6	G3QPL4	G3QPL4_GORGO [tr]	Acyl-CoA synthetase long chain family member 5	739	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	460-465		
+KIQDSL	7	G3S999	G3S999_GORGO [tr]	Phosphorylase b kinase regulatory subunit	1077	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	67-72		
+PLQPEL	1	G3QQR5	G3QQR5_GORGO [tr]	Gasdermin A	445	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	383-388		
+SECVLG	1	A0A2I2YDU8	A0A2I2YDU8_GORGO [tr]	MICOS complex subunit MIC13	140	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	3-8		
+SECVLG	2	A0A2I2YFC6	A0A2I2YFC6_GORGO [tr]	MICOS complex subunit MIC13	110	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	3-8		
+ENGTIT	1	A0A2I2YWP0	A0A2I2YWP0_GORGO [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2714	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	447-452		
+ENGTIT	2	G3QYE0	G3QYE0_GORGO [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2670	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	429-434		
+VNNTVY	1	G3QE53	G3QE53_GORGO [tr]	Eukaryotic translation initiation factor 3 subunit J	224	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	104-109		
+VNNTVY	2	G3SFR4	G3SFR4_GORGO [tr]	Eukaryotic translation initiation factor 3 30 kDa subunit	175	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	55-60		
+LPDDFT	1	A0A2I2ZFA3	A0A2I2ZFA3_GORGO [tr]	Diacylglycerol kinase beta	440	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	75-80		
+LPDDFT	2	A0A2I2ZRH6	A0A2I2ZRH6_GORGO [tr]	Diacylglycerol kinase	796	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	68-73		
+LPDDFT	3	G3RD41	G3RD41_GORGO [tr]	Diacylglycerol kinase	804	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	75-80		
+DSLSST	1	A0A2I2YUZ6	A0A2I2YUZ6_GORGO [tr]	KIAA1109	4551	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	3301-3306		
+DSLSST	2	G3R3H2	G3R3H2_GORGO [tr]	KIAA1109	5005	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	3720-3725		
+DSLSST	3	G3RTS0	G3RTS0_GORGO [tr]	KIAA0586	1585	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1268-1273		
+DSLSST	4	G3S927	G3S927_GORGO [tr]	Nuclear protein, coactivator of histone transcription	1426	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	626-631		
+LDKYFK	1	A0A2I2ZK97	A0A2I2ZK97_GORGO [tr]	Follistatin-like protein 1	304	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	145-150		
+LDKYFK	2	A0A2I2ZN83	A0A2I2ZN83_GORGO [tr]	Follistatin-like protein 1	308	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	149-154		
+LDKYFK	3	G3QIQ3	G3QIQ3_GORGO [tr]	Uncharacterized protein	273	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	128-133		
+LDKYFK	4	G3RP15	G3RP15_GORGO [tr]	Uncharacterized protein	300	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	141-146		
+SASFST	1	A0A2I2Y4Q1	A0A2I2Y4Q1_GORGO [tr]	Protein-tyrosine-phosphatase	2315	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1172-1177		
+SASFST	2	A0A2I2YYR8	A0A2I2YYR8_GORGO [tr]	Syntaxin binding protein 1	534	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	447-452		
+SASFST	3	A0A2I2YZT0	A0A2I2YZT0_GORGO [tr]	Syntaxin binding protein 1	546	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	447-452		
+SASFST	4	A0A2I2ZH94	A0A2I2ZH94_GORGO [tr]	Syntaxin binding protein 1	517	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	447-452		
+SASFST	5	G3RBW1	G3RBW1_GORGO [tr]	Syntaxin binding protein 1	543	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	447-452		
+SASFST	6	G3S698	G3S698_GORGO [tr]	Protein-tyrosine-phosphatase	2309	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1173-1178		
+SASFST	7	G3SHA3	G3SHA3_GORGO [tr]	Protein-tyrosine-phosphatase	2316	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1173-1178		
+SASFST	8	G3SHD5	G3SHD5_GORGO [tr]	Syntaxin binding protein 1	528	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	432-437		
+VVIGIV	1	A0A1V0JB30	A0A1V0JB30_GORGO [tr]	MHC class I antigen	362	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	321-326		
+VVIGIV	2	A0A1V0JB31	A0A1V0JB31_GORGO [tr]	MHC class I antigen	362	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	321-326		
+VVIGIV	3	A0A2D3HIX0	A0A2D3HIX0_GORGO [tr]	MHC class I antigen	361	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	321-326		
+VVIGIV	4	A0A2I2ZR48	A0A2I2ZR48_GORGO [tr]	Basic leucine zipper and W2 domains 1	419	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	291-296		
+VVIGIV	5	G3QYC3	G3QYC3_GORGO [tr]	Ring finger protein 175	328	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	313-318		
+VVIGIV	6	G3RJK7	G3RJK7_GORGO [tr]	Basic leucine zipper and W2 domains 1	423	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	295-300		
+VVIGIV	7	G3SA22	G3SA22_GORGO [tr]	Basic leucine zipper and W2 domains 1	451	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	323-328		
+TGCVIA	1	G3RR33	G3RR33_GORGO [tr]	Olfactory receptor	311	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	210-215		
+SSTASA	1	A0A2I2Y6N3	A0A2I2Y6N3_GORGO [tr]	Autophagy related 2A	1938	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1791-1796		
+SSTASA	2	A0A2I2YIT9	A0A2I2YIT9_GORGO [tr]	Hydroxyacyl-CoA dehydrogenase	390	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	74-79		
+SSTASA	3	A0A2I2Z8H5	A0A2I2Z8H5_GORGO [tr]	Autophagy related 2A	1930	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1783-1788		
+SSTASA	4	A0A2I2ZB01	A0A2I2ZB01_GORGO [tr]	Autophagy related 2A	1861	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1714-1719		
+SSTASA	5	A0A2I2ZBK6	A0A2I2ZBK6_GORGO [tr]	Hydroxyacyl-CoA dehydrogenase	164	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	15-20		
+SSTASA	6	A0A2I2ZG40	A0A2I2ZG40_GORGO [tr]	Hydroxyacyl-CoA dehydrogenase	317	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	15-20		
+SSTASA	7	A0A2I2ZJD6	A0A2I2ZJD6_GORGO [tr]	Hydroxyacyl-CoA dehydrogenase	176	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	15-20		
+SSTASA	8	G3QVZ3	G3QVZ3_GORGO [tr]	DENN domain containing 1C	801	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	657-662		
+SSTASA	9	G3QWW5	G3QWW5_GORGO [tr]	40S ribosomal protein S13	151	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	143-148		
+SSTASA	10	G3S3I8	G3S3I8_GORGO [tr]	Hydroxyacyl-CoA dehydrogenase	314	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	15-20		
+CPFGEV	1	A0A2I2Z6C5	A0A2I2Z6C5_GORGO [tr]	CUB domain containing protein 1	835	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	103-108		
+CPFGEV	2	G3RMD6	G3RMD6_GORGO [tr]	CUB domain containing protein 1	836	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	104-109		
+NLVKNK	1	G3R013	G3R013_GORGO [tr]	N-alpha-acetyltransferase 15, NatA auxiliary subunit	866	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	666-671		
+NLVKNK	2	G3RZ23	G3RZ23_GORGO [tr]	N-alpha-acetyltransferase 15, NatA auxiliary subunit	868	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	668-673		
+LPLVSS	1	A0A2I2ZGM7	A0A2I2ZGM7_GORGO [tr]	Perilipin 2	126	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	19-24		
+LPLVSS	2	A0A2I2ZWY2	A0A2I2ZWY2_GORGO [tr]	Perilipin	445	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	19-24		
+LPLVSS	3	G3RK26	G3RK26_GORGO [tr]	Perilipin	437	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	19-24		
+RTQLPP	1	A0A2I2YWP9	A0A2I2YWP9_GORGO [tr]	Ubiquitin carboxyl-terminal hydrolase	598	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	556-561		
+RLFRKS	1	G3S810	G3S810_GORGO [tr]	PPR_long domain-containing protein	700	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	100-105		
+DKVFRS	1	A0A2I2ZCS0	A0A2I2ZCS0_GORGO [tr]	Zinc finger protein 528	626	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	273-278		
+DKVFRS	2	G3SF79	G3SF79_GORGO [tr]	Zinc finger protein 816	655	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	435-440		
+VSMTKT	1	G3R8Y1	G3R8Y1_GORGO [tr]	Uncharacterized protein	890	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	339-344		
+VSMTKT	2	G3SG42	G3SG42_GORGO [tr]	Uncharacterized protein	1783	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1232-1237		
+KQIYKT	1	G3R5D4	G3R5D4_GORGO [tr]	Protein unc-45 homolog B	850	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	467-472		
+KQIYKT	2	G3SGT4	G3SGT4_GORGO [tr]	Protein unc-45 homolog B	929	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	467-472		
+ASANLA	1	G3RE86	G3RE86_GORGO [tr]	CASK interacting protein 1	1333	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	921-926		
+FGAGAA	1	A0A2I2Y814	A0A2I2Y814_GORGO [tr]	Insulin receptor substrate 1	1241	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1118-1123		
+SNNSIA	1	A0A2I2Y6I0	A0A2I2Y6I0_GORGO [tr]	Leucine rich repeats and immunoglobulin like domains 1	1089	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	313-318		
+SNNSIA	2	A0A2I2YRR6	A0A2I2YRR6_GORGO [tr]	Leucine rich repeats and immunoglobulin like domains 1	1068	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	291-296		
+SNNSIA	3	A0A2I2Z989	A0A2I2Z989_GORGO [tr]	Cytoplasmic FMR1-interacting protein	1263	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	367-372		
+SNNSIA	4	A0A2I2ZL31	A0A2I2ZL31_GORGO [tr]	TSC22 domain family member 1	569	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	127-132		
+SNNSIA	5	G3RAR2	G3RAR2_GORGO [tr]	TSC22 domain family member 1	1072	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	127-132		
+SNNSIA	6	G3REI2	G3REI2_GORGO [tr]	Leucine rich repeats and immunoglobulin like domains 1	1091	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	291-296		
+DKYFKN	1	A0A2I2ZK97	A0A2I2ZK97_GORGO [tr]	Follistatin-like protein 1	304	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	146-151		
+DKYFKN	2	A0A2I2ZN83	A0A2I2ZN83_GORGO [tr]	Follistatin-like protein 1	308	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	150-155		
+DKYFKN	3	G3QIQ3	G3QIQ3_GORGO [tr]	Uncharacterized protein	273	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	129-134		
+DKYFKN	4	G3RP15	G3RP15_GORGO [tr]	Uncharacterized protein	300	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	142-147		
+KLQDVV	1	A0A2I2YWP0	A0A2I2YWP0_GORGO [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2714	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1592-1597		
+KLQDVV	2	G3QUQ5	G3QUQ5_GORGO [tr]	cGMP-dependent protein kinase	762	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	81-86		
+KLQDVV	3	G3QYE0	G3QYE0_GORGO [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2670	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1574-1579		
+NCYFPL	1	G3QY02	G3QY02_GORGO [tr]	C-type lectin domain family 4 member D	215	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	94-99		
+SKVGGN	1	A0A2I2YCC6	A0A2I2YCC6_GORGO [tr]	Leucine rich repeat containing 31	496	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	125-130		
+SKVGGN	2	G3QY80	G3QY80_GORGO [tr]	Leucine rich repeat containing 31	443	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	181-186		
+QIITTD	1	A0A2I2YRN4	A0A2I2YRN4_GORGO [tr]	ADAM metallopeptidase with thrombospondin type 1 motif 9	1851	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1754-1759		
+QIITTD	2	A0A2I2ZAM7	A0A2I2ZAM7_GORGO [tr]	ADAM metallopeptidase with thrombospondin type 1 motif 9	1896	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1799-1804		
+QIITTD	3	G3RHP4	G3RHP4_GORGO [tr]	ADAM metallopeptidase with thrombospondin type 1 motif 9	1879	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1782-1787		
+EDDSEP	1	A0A2I2YH01	A0A2I2YH01_GORGO [tr]	WDFY family member 4	1988	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1127-1132		
+EDDSEP	2	A0A2I2ZY45	A0A2I2ZY45_GORGO [tr]	Myosin XVI	1887	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1432-1437		
+EDDSEP	3	G3QP03	G3QP03_GORGO [tr]	WDFY family member 4	3184	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1138-1143		
+EDDSEP	4	G3RLK0	G3RLK0_GORGO [tr]	Myosin XVI	1887	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1432-1437		
+LPFFSN	1	G3QSZ7	G3QSZ7_GORGO [tr]	Ubiquitinyl hydrolase 1	288	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	186-191		
+FEYVSQ	1	G3RKX3	G3RKX3_GORGO [tr]	Striatin interacting protein 2	834	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	593-598		
+LCCMTS	1	A0A2I2ZEH7	A0A2I2ZEH7_GORGO [tr]	Sodium channel subunit beta-1	235	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	202-207		
+LGDISG	1	G3R7X6	G3R7X6_GORGO [tr]	Proline rich coiled-coil 2C	2818	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1473-1478		
+EVFAQV	1	G3QM33	G3QM33_GORGO [tr]	Uncharacterized protein	3189	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	476-481		
+VSGNCD	1	G3RZD8	G3RZD8_GORGO [tr]	Catenin alpha 1	851	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	808-813		
+LTPTWR	1	G3QYR5	G3QYR5_GORGO [tr]	Family with sequence similarity 83 member A	425	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	411-416		
+LTGIAV	1	A0A2I2ZWK9	A0A2I2ZWK9_GORGO [tr]	Patatin like phospholipase domain containing 7	1317	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	11-16		
+LTGIAV	2	G3SKL1	G3SKL1_GORGO [tr]	Patatin like phospholipase domain containing 7	1342	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	36-41		
+NIIRGW	1	A0A2I2Y485	A0A2I2Y485_GORGO [tr]	Chromatin modification-related protein MEAF6	161	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	26-31		
+NIIRGW	2	A0A2I2Y5I4	A0A2I2Y5I4_GORGO [tr]	Chromatin modification-related protein MEAF6	171	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	26-31		
+NIIRGW	3	A0A2I2Z8Q1	A0A2I2Z8Q1_GORGO [tr]	Chromatin modification-related protein MEAF6	162	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	26-31		
+NIIRGW	4	G3RLW5	G3RLW5_GORGO [tr]	Chromatin modification-related protein MEAF6	161	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	26-31		
+NSNNLD	1	A0A2I2YXP7	A0A2I2YXP7_GORGO [tr]	Zinc finger E-box binding homeobox 2	1064	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	759-764		
+NSNNLD	2	A0A2I2Z0I7	A0A2I2Z0I7_GORGO [tr]	Zinc finger E-box binding homeobox 2	1105	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	759-764		
+NSNNLD	3	A0A2I2Z2H7	A0A2I2Z2H7_GORGO [tr]	Zinc finger E-box binding homeobox 2	1252	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	909-914		
+NSNNLD	4	A0A2I2Z563	A0A2I2Z563_GORGO [tr]	Zinc finger E-box binding homeobox 2	1213	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	870-875		
+NSNNLD	5	A0A2I2ZGH3	A0A2I2ZGH3_GORGO [tr]	Zinc finger E-box binding homeobox 2	1189	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	846-851		
+NSNNLD	6	G3QKZ4	G3QKZ4_GORGO [tr]	Zinc finger E-box binding homeobox 2	1034	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	870-875		
+LAGTIT	1	A0A2I2Y7A8	A0A2I2Y7A8_GORGO [tr]	Teneurin transmembrane protein 2	2774	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1795-1800		
+LAGTIT	2	A0A2I2YJS7	A0A2I2YJS7_GORGO [tr]	Teneurin transmembrane protein 2	2529	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1550-1555		
+LAGTIT	3	A0A2I2YWA9	A0A2I2YWA9_GORGO [tr]	Teneurin transmembrane protein 2	2535	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1556-1561		
+LAGTIT	4	A0A2I2Z5I6	A0A2I2Z5I6_GORGO [tr]	Teneurin transmembrane protein 2	2521	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1542-1547		
+LAGTIT	5	A0A2I2ZKE6	A0A2I2ZKE6_GORGO [tr]	Teneurin transmembrane protein 2	2679	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1700-1705		
+LAGTIT	6	A0A2I2ZVW9	A0A2I2ZVW9_GORGO [tr]	Teneurin transmembrane protein 2	2638	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1659-1664		
+LAGTIT	7	G3QXX9	G3QXX9_GORGO [tr]	Teneurin transmembrane protein 2	2653	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1674-1679		
+LAGTIT	8	G3SF31	G3SF31_GORGO [tr]	Teneurin transmembrane protein 2	2669	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1690-1695		
+VNQNAQ	1	G3R3F2	G3R3F2_GORGO [tr]	SIX homeobox 4	677	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	480-485		
+NLDSKV	1	A0A2I2YIZ9	A0A2I2YIZ9_GORGO [tr]	Septin	454	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	196-201		
+NLDSKV	2	A0A2I2Z1Z1	A0A2I2Z1Z1_GORGO [tr]	Septin	473	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	181-186		
+NLDSKV	3	A0A2I2Z9H9	A0A2I2Z9H9_GORGO [tr]	Septin	471	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	179-184		
+NLDSKV	4	A0A2I2ZL83	A0A2I2ZL83_GORGO [tr]	Septin	431	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	173-178		
+NLDSKV	5	G3R384	G3R384_GORGO [tr]	Septin	430	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	172-177		
+NLDSKV	6	G3RCU5	G3RCU5_GORGO [tr]	Septin 10	544	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	196-201		
+NLDSKV	7	G3RMM1	G3RMM1_GORGO [tr]	Septin	449	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	187-192		
+NLDSKV	8	G3RW87	G3RW87_GORGO [tr]	Septin	435	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	177-182		
+NLDSKV	9	G3RXM9	G3RXM9_GORGO [tr]	Septin	432	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	182-187		
+FVTQRN	1	A0A2I2Y543	A0A2I2Y543_GORGO [tr]	Glutamate receptor	892	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	744-749		
+FVTQRN	2	A0A2I2Z6L3	A0A2I2Z6L3_GORGO [tr]	Glutamate receptor	908	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	744-749		
+FVTQRN	3	G3QD09	G3QD09_GORGO [tr]	Glutamate receptor	869	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	744-749		
+FGAISS	1	A0A2I2ZC12	A0A2I2ZC12_GORGO [tr]	Solute carrier family 10 member 7	266	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	128-133		
+FGAISS	2	A0A2I2ZQC2	A0A2I2ZQC2_GORGO [tr]	Solute carrier family 10 member 7	279	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	141-146		
+FGAISS	3	G3SKN9	G3SKN9_GORGO [tr]	Solute carrier family 10 member 7	297	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	141-146		
+QPELDS	1	G3QUD8	G3QUD8_GORGO [tr]	Ubiquitin specific peptidase 53	1073	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1019-1024		
+DPQTLE	1	A0A2I2ZJ83	A0A2I2ZJ83_GORGO [tr]	Integrator complex subunit 1	2136	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1259-1264		
+DPQTLE	2	G3RH34	G3RH34_GORGO [tr]	Integrator complex subunit 1	2171	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1259-1264		
+DPQTLE	3	G3RX15	G3RX15_GORGO [tr]	Integrator complex subunit 1	2152	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1259-1264		
+PLVSSQ	1	G3RCJ8	G3RCJ8_GORGO [tr]	Zinc finger protein 335	1342	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	373-378		
+PLVSSQ	2	G3S2X3	G3S2X3_GORGO [tr]	Bardet-Biedl syndrome 10	723	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	670-675		
+IAGLIA	1	A0A2I2ZVP7	A0A2I2ZVP7_GORGO [tr]	PDCD6-AHRR readthrough (NMD candidate)	139	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	130-135		
+ALNTLV	1	A0A2I2YED4	A0A2I2YED4_GORGO [tr]	Uncharacterized protein	231	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	133-138		
+ALNTLV	2	A0A2I2YJW0	A0A2I2YJW0_GORGO [tr]	Uncharacterized protein	129	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	106-111		
+GTNGTK	1	G3QP18	G3QP18_GORGO [tr]	Anoctamin	846	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	815-820		
+AAEIRA	1	G3QDL4	G3QDL4_GORGO [tr]	Coiled-coil domain containing 17	622	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	243-248		
+AAEIRA	2	G3QLC3	G3QLC3_GORGO [tr]	HID1 domain containing	788	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	52-57		
+VLSFEL	1	G3QK61	G3QK61_GORGO [tr]	CST complex subunit CTC1	1217	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1156-1161		
+NQKLIA	1	A0A2I2ZGR5	A0A2I2ZGR5_GORGO [tr]	WD repeat domain 11	1224	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	763-768		
+NQKLIA	2	A0A2I2ZLJ3	A0A2I2ZLJ3_GORGO [tr]	WD repeat domain 11	1195	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	763-768		
+NQKLIA	3	G3QKP0	G3QKP0_GORGO [tr]	WD repeat domain 11	1207	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	763-768		
+DIADTT	1	G3RC17	G3RC17_GORGO [tr]	C-C motif chemokine receptor 4	360	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	5-10		
+FIEDLL	1	A0A2I2YXU4	A0A2I2YXU4_GORGO [tr]	BAG cochaperone 1	206	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	130-135		
+GAAAYY	1	G3R2R6	G3R2R6_GORGO [tr]	Procollagen-proline 3-dioxygenase	710	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	53-58		
+PRRARS	1	G3QJ89	G3QJ89_GORGO [tr]	HPS1 biogenesis of lysosomal organelles complex 3 subunit 1	613	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	172-177		
+PRRARS	2	G3RXB2	G3RXB2_GORGO [tr]	NTR domain-containing protein	286	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	83-88		
+LIVNNA	1	G3QUU8	G3QUU8_GORGO [tr]	Uncharacterized protein	870	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	339-344		
+LPDPSK	1	A0A2I2Z3Z8	A0A2I2Z3Z8_GORGO [tr]	Clock circadian regulator	817	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	808-813		
+LPDPSK	2	G3QSK0	G3QSK0_GORGO [tr]	Clock circadian regulator	847	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	838-843		
+LPDPSK	3	G3RHJ1	G3RHJ1_GORGO [tr]	Cilia and flagella associated protein 221	840	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	731-736		
+RASANL	1	G3RKK5	G3RKK5_GORGO [tr]	General transcription factor IIIC subunit 1	2081	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	471-476		
+REFVFK	1	A0A2I2Y7J1	A0A2I2Y7J1_GORGO [tr]	AlkB homolog 3, alpha-ketoglutaratedependent dioxygenase	278	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	52-57		
+REFVFK	2	G3QHR7	G3QHR7_GORGO [tr]	AlkB homolog 3, alpha-ketoglutaratedependent dioxygenase	286	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	52-57		
+GQTGKI	1	A0A2I2Y9H6	A0A2I2Y9H6_GORGO [tr]	KIF-binding protein	646	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	306-311		
+GQTGKI	2	A0A2I2YVF2	A0A2I2YVF2_GORGO [tr]	KIF-binding protein	297	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	281-286		
+GQTGKI	3	A0A2I2ZGV1	A0A2I2ZGV1_GORGO [tr]	Scavenger receptor class B member 1	509	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	401-406		
+GQTGKI	4	A0A2I2ZNH0	A0A2I2ZNH0_GORGO [tr]	Scavenger receptor class B member 1	499	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	347-352		
+GQTGKI	5	G3QUG5	G3QUG5_GORGO [tr]	Scavenger receptor class B member 1	506	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	401-406		
+GQTGKI	6	G3RAK3	G3RAK3_GORGO [tr]	KIF-binding protein	621	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	281-286		
+KTPPIK	1	G3QLY9	G3QLY9_GORGO [tr]	Leucine rich repeat containing 9	1453	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1395-1400		
+KTPPIK	2	G3R7Z4	G3R7Z4_GORGO [tr]	Diacylglycerol kinase	567	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	254-259		
+LQSLQT	1	G3R1N6	G3R1N6_GORGO [tr]	Tandem C2 domains, nuclear	490	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	299-304		
+LLQYGS	1	A0A2I2ZDD6	A0A2I2ZDD6_GORGO [tr]	Matrilin 2	956	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	98-103		
+LLQYGS	2	G3RI76	G3RI76_GORGO [tr]	Matrilin 2	915	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	98-103		
+LLPLVS	1	A0A2I2YAC0	A0A2I2YAC0_GORGO [tr]	Catenin alpha like 1	718	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	41-46		
+LLPLVS	2	A0A2I2YGK0	A0A2I2YGK0_GORGO [tr]	Catenin alpha like 1	731	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	41-46		
+LLPLVS	3	A0A2I2YWJ1	A0A2I2YWJ1_GORGO [tr]	Catenin alpha like 1	731	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	47-52		
+LLPLVS	4	A0A2I2YYV0	A0A2I2YYV0_GORGO [tr]	Catenin alpha like 1	183	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	41-46		
+LLPLVS	5	G3QNN9	G3QNN9_GORGO [tr]	Catenin alpha like 1	734	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	41-46		
+LLPLVS	6	G3QW83	G3QW83_GORGO [tr]	Collagen type VII alpha 1 chain	2944	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	207-212		
+LLPLVS	7	G3R8A6	G3R8A6_GORGO [tr]	Tubulin epsilon and delta complex 2	433	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	391-396		
+LLPLVS	8	G3REF5	G3REF5_GORGO [tr]	Alpha-1,4 glucan phosphorylase	762	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	441-446		
+TEKSNI	1	G3QK94	G3QK94_GORGO [tr]	Internexin neuronal intermediate filament protein alpha	499	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	484-489		
+LIRAAE	1	A0A2I2YUD7	A0A2I2YUD7_GORGO [tr]	Myosin XVIIIA	2054	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1352-1357		
+LIRAAE	2	A0A2I2Z5L0	A0A2I2Z5L0_GORGO [tr]	Myosin XVIIIA	2002	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1352-1357		
+LIRAAE	3	G3R9L4	G3R9L4_GORGO [tr]	Myosin XVIIIA	2050	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1348-1353		
+LIRAAE	4	G3S6V4	G3S6V4_GORGO [tr]	Myosin XVIIIA	2042	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1355-1360		
+GQSKRV	1	A0A2I2YF14	A0A2I2YF14_GORGO [tr]	WD_REPEATS_REGION domain-containing protein	203	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	191-196		
+DRLNEV	1	G3SII7	G3SII7_GORGO [tr]	Uncharacterized protein	1323	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1236-1241		
+TQSLLI	1	A0A2I2ZWB9	A0A2I2ZWB9_GORGO [tr]	ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 1	471	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	419-424		
+TQSLLI	2	G3QCR6	G3QCR6_GORGO [tr]	ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 1	600	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	419-424		
+SSSGWT	1	A0A2I2YUZ6	A0A2I2YUZ6_GORGO [tr]	KIAA1109	4551	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	354-359		
+SSSGWT	2	G3R3H2	G3R3H2_GORGO [tr]	KIAA1109	5005	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	777-782		
+LHRSYL	1	G3RMC6	G3RMC6_GORGO [tr]	DNA topoisomerase II binding protein 1	1527	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1334-1339		
+FKNLRE	1	A0A2I2Y9E0	A0A2I2Y9E0_GORGO [tr]	Butyryl-CoA dehydrogenase	424	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	75-80		
+FKNLRE	2	A0A2I2YZS3	A0A2I2YZS3_GORGO [tr]	Ras protein specific guanine nucleotide releasing factor 2	1237	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1136-1141		
+FKNLRE	3	A0A2I2Z3S2	A0A2I2Z3S2_GORGO [tr]	Ras protein specific guanine nucleotide releasing factor 1	1273	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1172-1177		
+FKNLRE	4	A0A2I2ZS21	A0A2I2ZS21_GORGO [tr]	Ras protein specific guanine nucleotide releasing factor 1	1257	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1156-1161		
+FKNLRE	5	G3QD68	G3QD68_GORGO [tr]	Butyryl-CoA dehydrogenase	426	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	77-82		
+FKNLRE	6	G3QVQ2	G3QVQ2_GORGO [tr]	Ras protein specific guanine nucleotide releasing factor 2	1176	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1075-1080		
+FKNLRE	7	G3R3A2	G3R3A2_GORGO [tr]	Ras protein specific guanine nucleotide releasing factor 1	1242	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1141-1146		
+FKNLRE	8	G3SCE4	G3SCE4_GORGO [tr]	Ras protein specific guanine nucleotide releasing factor 1	1252	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1151-1156		
+PLLTDE	1	G3R8W1	G3R8W1_GORGO [tr]	Mono-ADP ribosylhydrolase 1	325	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	193-198		
+QQLIRA	1	A0A2I2YC30	A0A2I2YC30_GORGO [tr]	Sorting nexin 13	957	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	802-807		
+QQLIRA	2	G3R466	G3R466_GORGO [tr]	Sorting nexin 13	880	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	725-730		
+YLTPGD	1	G3R0Z6	G3R0Z6_GORGO [tr]	Nuclear export mediator factor	1077	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	557-562		
+HVSGTN	1	A0A2I2Z7V8	A0A2I2Z7V8_GORGO [tr]	Collagen type XI alpha 1 chain	1797	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	336-341		
+HVSGTN	2	A0A2I2ZF26	A0A2I2ZF26_GORGO [tr]	Collagen type XI alpha 1 chain	1746	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	285-290		
+HVSGTN	3	G3QG18	G3QG18_GORGO [tr]	Collagen type XI alpha 1 chain	1785	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	324-329		
+EGVFVS	1	A0A2I2ZF08	A0A2I2ZF08_GORGO [tr]	NHS actin remodeling regulator	1474	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1252-1257		
+EGVFVS	2	G3QEJ6	G3QEJ6_GORGO [tr]	NHS actin remodeling regulator	1447	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1225-1230		
+EGVFVS	3	G3SA46	G3SA46_GORGO [tr]	NHS actin remodeling regulator	1473	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1251-1256		
+KQLSSN	1	A0A2I2Y9X5	A0A2I2Y9X5_GORGO [tr]	Mediator complex subunit 12L	1809	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1789-1794		
+KQLSSN	2	G3QEG6	G3QEG6_GORGO [tr]	Adenylate cyclase 9	1353	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	35-40		
+KQLSSN	3	G3RHT2	G3RHT2_GORGO [tr]	Mediator complex subunit 12L	2145	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2125-2130		
+QSIIAY	1	G3QLT7	G3QLT7_GORGO [tr]	Coatomer subunit alpha	1233	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	632-637		
+QSIIAY	2	G3RWA4	G3RWA4_GORGO [tr]	COPI coat complex subunit alpha	912	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	319-324		
+FDEDDS	1	G3R8Y1	G3R8Y1_GORGO [tr]	Uncharacterized protein	890	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	233-238		
+FDEDDS	2	G3SG42	G3SG42_GORGO [tr]	Uncharacterized protein	1783	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1126-1131		
+DSKTQS	1	A0A2I2ZIP4	A0A2I2ZIP4_GORGO [tr]	Non-specific serine/threonine protein kinase	1800	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1571-1576		
+DSKTQS	2	G3R7G3	G3R7G3_GORGO [tr]	Non-specific serine/threonine protein kinase	1743	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1524-1529		
+TLKSFT	1	G3QUW4	G3QUW4_GORGO [tr]	Mannosyltransferase	579	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	498-503		
+RSYLTP	1	A0A2I2ZDT7	A0A2I2ZDT7_GORGO [tr]	Protein phosphatase 1 regulatory subunit	1042	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	678-683		
+RSYLTP	2	G3QPB2	G3QPB2_GORGO [tr]	Protein phosphatase 1 regulatory subunit	982	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	617-622		
+RSYLTP	3	G3RF65	G3RF65_GORGO [tr]	Protein phosphatase 1 regulatory subunit	989	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	630-635		
+RSYLTP	4	G3RY94	G3RY94_GORGO [tr]	Protein phosphatase 1 regulatory subunit	933	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	574-579		
+RSYLTP	5	G3S5C3	G3S5C3_GORGO [tr]	Protein phosphatase 1 regulatory subunit	1043	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	678-683		
+RSYLTP	6	G3S5H4	G3S5H4_GORGO [tr]	Protein phosphatase 1 regulatory subunit	907	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	544-549		
+LVDLPI	1	G3RYC9	G3RYC9_GORGO [tr]	HECT-type E3 ubiquitin transferase	2598	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2249-2254		
+LVDLPI	2	G3SHR7	G3SHR7_GORGO [tr]	HECT-type E3 ubiquitin transferase	2595	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2246-2251		
+TSALLA	1	A0A2I2Z284	A0A2I2Z284_GORGO [tr]	Solute carrier family 9 member B2	417	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	161-166		
+TSALLA	2	G3RED2	G3RED2_GORGO [tr]	Solute carrier family 9 member B2	480	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	161-166		
+TSALLA	3	G3S0T5	G3S0T5_GORGO [tr]	Solute carrier family 9 member B2	537	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	218-223		
+AKNLNE	1	G3R4X1	G3R4X1_GORGO [tr]	Beta-1 metal-binding globulin	698	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	570-575		
+AKNLNE	2	G3RI71	G3RI71_GORGO [tr]	NACHT domain-containing protein	1127	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	352-357		
+YSTGSN	1	A0A2I2YIM2	A0A2I2YIM2_GORGO [tr]	Cell adhesion molecule L1 like	1171	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	358-363		
+YSTGSN	2	A0A2I2YRE6	A0A2I2YRE6_GORGO [tr]	Zinc finger protein 573	578	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	392-397		
+YSTGSN	3	A0A2I2Z414	A0A2I2Z414_GORGO [tr]	Zinc finger protein 573	665	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	479-484		
+YSTGSN	4	G3R020	G3R020_GORGO [tr]	Cell adhesion molecule L1 like	1225	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	358-363		
+YSTGSN	5	G3RRD7	G3RRD7_GORGO [tr]	Cell adhesion molecule L1 like	1209	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	342-347		
+RARSVA	1	A0A2I2YC24	A0A2I2YC24_GORGO [tr]	Sodium channel epithelial 1 subunit alpha	511	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	202-207		
+RARSVA	2	A0A2I2YQN1	A0A2I2YQN1_GORGO [tr]	Sodium channel epithelial 1 subunit alpha	692	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	225-230		
+RARSVA	3	A0A2I2Z238	A0A2I2Z238_GORGO [tr]	Rhotekin	550	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	518-523		
+RARSVA	4	G3R5I8	G3R5I8_GORGO [tr]	Sodium channel epithelial 1 subunit alpha	728	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	261-266		
+RARSVA	5	G3RF85	G3RF85_GORGO [tr]	Rhotekin	563	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	531-536		
+QPTESI	1	G3RJE5	G3RJE5_GORGO [tr]	Ankyrin repeat domain 61	418	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	72-77		
+AENSVA	1	G3RDQ9	G3RDQ9_GORGO [tr]	Hedgehog protein	462	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	187-192		
+LDKVEA	1	A0A2I2ZCV6	A0A2I2ZCV6_GORGO [tr]	Desmoplakin	2868	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	798-803		
+LDKVEA	2	G3RBN0	G3RBN0_GORGO [tr]	Desmoplakin	2867	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	797-802		
+LEILDI	1	A0A2I2YQP4	A0A2I2YQP4_GORGO [tr]	Protein phosphatase 1 regulatory subunit 7	317	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	101-106		
+LEILDI	2	A0A2I2Z1R2	A0A2I2Z1R2_GORGO [tr]	Protein phosphatase 1 regulatory subunit 7	292	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	76-81		
+LEILDI	3	A0A2I2Z2R3	A0A2I2Z2R3_GORGO [tr]	Protein phosphatase 1 regulatory subunit 7	376	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	160-165		
+LEILDI	4	A0A2I2ZXK5	A0A2I2ZXK5_GORGO [tr]	Protein phosphatase 1 regulatory subunit 7	280	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	144-149		
+LEILDI	5	G3RAM0	G3RAM0_GORGO [tr]	Protein phosphatase 1 regulatory subunit 7	360	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	144-149		
+KLNDLC	1	A0A2I2Y631	A0A2I2Y631_GORGO [tr]	Interleukin-7	133	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	105-110		
+KLNDLC	2	A0A2I2YQZ9	A0A2I2YQZ9_GORGO [tr]	Interleukin-7	177	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	149-154		
+KLNDLC	3	A0A2I2YTF7	A0A2I2YTF7_GORGO [tr]	Interleukin-7	115	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	87-92		
+KLNDLC	4	A0A2I2YTW1	A0A2I2YTW1_GORGO [tr]	Interleukin-7	159	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	131-136		
+KLNDLC	5	G3QDY6	G3QDY6_GORGO [tr]	Interleukin-7	179	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	151-156		
+GAGAAL	1	A0A2I2ZM66	A0A2I2ZM66_GORGO [tr]	Slingshot protein phosphatase 1	1062	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	742-747		
+GAGAAL	2	G3QF98	G3QF98_GORGO [tr]	Slingshot protein phosphatase 1	1027	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	707-712		
+GAGAAL	3	G3R0U4	G3R0U4_GORGO [tr]	Cell division cycle 14B	461	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	5-10		
+GAGAAL	4	G3R3N2	G3R3N2_GORGO [tr]	Propionate--CoA ligase	686	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	29-34		
+CTLKSF	1	G3RFM5	G3RFM5_GORGO [tr]	Ubiquitin like modifier activating enzyme 6	1052	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	625-630		
+QDSLSS	1	A0A2I2Y4R6	A0A2I2Y4R6_GORGO [tr]	Golgin A3	1492	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	472-477		
+QDSLSS	2	A0A2I2YI48	A0A2I2YI48_GORGO [tr]	Squalene synthase	468	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	84-89		
+QDSLSS	3	A0A2I2YQ69	A0A2I2YQ69_GORGO [tr]	Golgin A3	1487	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	463-468		
+QDSLSS	4	A0A2I2Z3Y9	A0A2I2Z3Y9_GORGO [tr]	Squalene synthase	432	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	33-38		
+QDSLSS	5	A0A2I2ZIA2	A0A2I2ZIA2_GORGO [tr]	Squalene synthase	389	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	33-38		
+QDSLSS	6	A0A2I2ZWZ8	A0A2I2ZWZ8_GORGO [tr]	Squalene synthase	415	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	33-38		
+QDSLSS	7	G3QEF7	G3QEF7_GORGO [tr]	Spalt like transcription factor 1	1324	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	848-853		
+QDSLSS	8	G3QFR9	G3QFR9_GORGO [tr]	Squalene synthase	417	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	33-38		
+QDSLSS	9	G3SA61	G3SA61_GORGO [tr]	C3-beta-c	1663	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	177-182		
+QDSLSS	10	G3SKJ4	G3SKJ4_GORGO [tr]	Golgin A3	1371	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	463-468		
+QDSLSS	11	G3SKS1	G3SKS1_GORGO [tr]	Pecanex-like protein	2137	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	305-310		
+TVLPPL	1	G3R576	G3R576_GORGO [tr]	Family with sequence similarity 166 member C	201	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	152-157		
+TVLPPL	2	G3RQ70	G3RQ70_GORGO [tr]	Uncharacterized protein	297	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	13-18		
+GRLQSL	1	A0A2I2YAK9	A0A2I2YAK9_GORGO [tr]	ERCC excision repair 1, endonuclease non-catalytic subunit	273	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	155-160		
+GRLQSL	2	A0A2I2YPF0	A0A2I2YPF0_GORGO [tr]	ERCC excision repair 1, endonuclease non-catalytic subunit	297	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	155-160		
+GRLQSL	3	A0A2I2YV73	A0A2I2YV73_GORGO [tr]	ERCC excision repair 1, endonuclease non-catalytic subunit	225	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	83-88		
+GRLQSL	4	A0A2I2ZK18	A0A2I2ZK18_GORGO [tr]	ERCC excision repair 1, endonuclease non-catalytic subunit	213	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	155-160		
+GRLQSL	5	G3QUN7	G3QUN7_GORGO [tr]	Neuron navigator 3	2385	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1611-1616		
+GRLQSL	6	G3REJ0	G3REJ0_GORGO [tr]	ERCC excision repair 1, endonuclease non-catalytic subunit	296	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	155-160		
+GRLQSL	7	G3SIM3	G3SIM3_GORGO [tr]	Neuron navigator 3	2363	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1611-1616		
+LREFVF	1	A0A2I2YGG9	A0A2I2YGG9_GORGO [tr]	39S ribosomal protein L35, mitochondrial	153	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	125-130		
+LREFVF	2	A0A2I2Z7K3	A0A2I2Z7K3_GORGO [tr]	G_PROTEIN_RECEP_F1_2 domain-containing protein	287	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	9-14		
+LREFVF	3	A0A2I2ZHR3	A0A2I2ZHR3_GORGO [tr]	39S ribosomal protein L35, mitochondrial	177	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	144-149		
+LREFVF	4	A0A2I2ZHU8	A0A2I2ZHU8_GORGO [tr]	39S ribosomal protein L35, mitochondrial	181	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	137-142		
+LREFVF	5	G3QRB7	G3QRB7_GORGO [tr]	39S ribosomal protein L35, mitochondrial	170	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	144-149		
+LREFVF	6	G3SB05	G3SB05_GORGO [tr]	39S ribosomal protein L35, mitochondrial	188	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	144-149		
+DDSEPV	1	A0A2I2YGD8	A0A2I2YGD8_GORGO [tr]	G3BP stress granule assembly factor 2	449	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	347-352		
+DDSEPV	2	A0A2I2YHC2	A0A2I2YHC2_GORGO [tr]	G3BP stress granule assembly factor 2	424	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	322-327		
+DDSEPV	3	A0A2I2Z0G0	A0A2I2Z0G0_GORGO [tr]	NTF2 domain-containing protein	390	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	328-333		
+DDSEPV	4	A0A2I2ZE49	A0A2I2ZE49_GORGO [tr]	NTF2 domain-containing protein	376	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	314-319		
+DDSEPV	5	A0A2I2ZY45	A0A2I2ZY45_GORGO [tr]	Myosin XVI	1887	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1433-1438		
+DDSEPV	6	G3RG46	G3RG46_GORGO [tr]	G3BP stress granule assembly factor 2	482	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	380-385		
+DDSEPV	7	G3RLK0	G3RLK0_GORGO [tr]	Myosin XVI	1887	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1433-1438		
+DDSEPV	8	G3S9M3	G3S9M3_GORGO [tr]	G3BP stress granule assembly factor 1	466	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	386-391		
+SFELLH	1	A0A2I2ZMD2	A0A2I2ZMD2_GORGO [tr]	DNA damage-binding protein 1	1147	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	585-590		
+SFELLH	2	G3QN74	G3QN74_GORGO [tr]	DNA damage-binding protein 1	1140	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	573-578		
+YSNNSI	1	A0A2I2Z989	A0A2I2Z989_GORGO [tr]	Cytoplasmic FMR1-interacting protein	1263	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	366-371		
+GFNFSQ	1	G3RKD2	G3RKD2_GORGO [tr]	Glutamate decarboxylase 1	425	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	374-379		
+LPFQQF	1	A0A2I2Z1P5	A0A2I2Z1P5_GORGO [tr]	Ectonucleoside triphosphate diphosphohydrolase 1	522	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	321-326		
+LPFQQF	2	A0A2I2ZQ76	A0A2I2ZQ76_GORGO [tr]	Ectonucleoside triphosphate diphosphohydrolase 1	510	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	309-314		
+LPFQQF	3	G3QRI2	G3QRI2_GORGO [tr]	Ectonucleoside triphosphate diphosphohydrolase 1	517	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	316-321		
+LPFQQF	4	G3RML4	G3RML4_GORGO [tr]	Ectonucleoside triphosphate diphosphohydrolase 1	508	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	307-312		
+GDSSSG	1	A0A2I2Y1P2	A0A2I2Y1P2_GORGO [tr]	Transmembrane protein 199	89	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	45-50		
+GDSSSG	2	A0A2I2YI69	A0A2I2YI69_GORGO [tr]	Sphingolipid transporter 1 (putative)	476	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	93-98		
+GDSSSG	3	A0A2I2YMD3	A0A2I2YMD3_GORGO [tr]	Sphingolipid transporter 1 (putative)	573	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	138-143		
+GDSSSG	4	G3QHU9	G3QHU9_GORGO [tr]	Sphingolipid transporter 1 (putative)	528	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	93-98		
+GDSSSG	5	G3QP13	G3QP13_GORGO [tr]	Nuclear receptor subfamily 2 group E member 3	410	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	51-56		
+GDSSSG	6	G3QPJ7	G3QPJ7_GORGO [tr]	Transmembrane protein 199	208	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	45-50		
+GDSSSG	7	G3QPN7	G3QPN7_GORGO [tr]	Tight junction protein 3	928	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	141-146		
+GDSSSG	8	G3QUG7	G3QUG7_GORGO [tr]	Signal induced proliferation associated 1 like 3	1779	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1199-1204		
+GDSSSG	9	G3S0I2	G3S0I2_GORGO [tr]	Tight junction protein 3	938	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	151-156		
+VFQTRA	1	A0A2I2YV45	A0A2I2YV45_GORGO [tr]	Eukaryotic translation initiation factor 4E nuclear import factor 1	939	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	524-529		
+VFQTRA	2	G3QLT5	G3QLT5_GORGO [tr]	Eukaryotic translation initiation factor 4E nuclear import factor 1	963	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	548-553		
+TQLPPA	1	A0A2I2YUA4	A0A2I2YUA4_GORGO [tr]	Protein kinase domain-containing protein	416	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	290-295		
+TQLPPA	2	A0A2I2ZAZ7	A0A2I2ZAZ7_GORGO [tr]	Protein kinase domain-containing protein	482	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	356-361		
+TQLPPA	3	A0A2I2ZKX2	A0A2I2ZKX2_GORGO [tr]	Protein kinase domain-containing protein	472	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	346-351		
+TQLPPA	4	G3QK16	G3QK16_GORGO [tr]	Protein kinase domain-containing protein	1170	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1044-1049		
+GAENSV	1	A0A2I2YHB7	A0A2I2YHB7_GORGO [tr]	Uncharacterized protein	155	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	147-152		
+NTFVSG	1	A0A2I2YII5	A0A2I2YII5_GORGO [tr]	G protein subunit beta 5	267	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	124-129		
+NTFVSG	2	A0A2I2Z9G7	A0A2I2Z9G7_GORGO [tr]	G protein subunit beta 5	247	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	90-95		
+NTFVSG	3	G3QFE2	G3QFE2_GORGO [tr]	G protein subunit beta 5	394	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	237-242		
+NTFVSG	4	G3RXZ2	G3RXZ2_GORGO [tr]	G protein subunit beta 5	362	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	205-210		
+LTGTGV	1	A0A2I2Y7B8	A0A2I2Y7B8_GORGO [tr]	Zinc finger protein 446	423	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	256-261		
+LTGTGV	2	A0A2I2ZEU4	A0A2I2ZEU4_GORGO [tr]	Zinc finger protein 446	450	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	256-261		
+LTGTGV	3	G3QNW0	G3QNW0_GORGO [tr]	Zinc finger protein 446	423	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	229-234		
+LSFELL	1	A0A2I2YAA1	A0A2I2YAA1_GORGO [tr]	NBR1 autophagy cargo receptor	963	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	561-566		
+LSFELL	2	A0A2I2YMR2	A0A2I2YMR2_GORGO [tr]	NBR1 autophagy cargo receptor	887	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	485-490		
+LSFELL	3	A0A2I2Z1H2	A0A2I2Z1H2_GORGO [tr]	NBR1 autophagy cargo receptor	984	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	582-587		
+LSFELL	4	G3S3D2	G3S3D2_GORGO [tr]	NBR1 autophagy cargo receptor	834	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	540-545		
+KEELDK	1	A0A2I2Y5G1	A0A2I2Y5G1_GORGO [tr]	Calpain 8	632	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	312-317		
+KEELDK	2	A0A2I2YWF2	A0A2I2YWF2_GORGO [tr]	MICOS complex subunit MIC60	640	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	284-289		
+KEELDK	3	A0A2I2Z781	A0A2I2Z781_GORGO [tr]	Calpain 8	395	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	312-317		
+KEELDK	4	A0A2I2Z843	A0A2I2Z843_GORGO [tr]	MICOS complex subunit MIC60	655	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	291-296		
+KEELDK	5	A0A2I2ZHC5	A0A2I2ZHC5_GORGO [tr]	MICOS complex subunit MIC60	649	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	290-295		
+KEELDK	6	G3QX08	G3QX08_GORGO [tr]	Transcription initiation factor TFIID 150 kDa subunit	1199	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	396-401		
+KEELDK	7	G3S3Q9	G3S3Q9_GORGO [tr]	N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D	393	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	97-102		
+KEELDK	8	G3SKW9	G3SKW9_GORGO [tr]	Calpain 8	381	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	312-317		
+AVLYQD	1	A0A2I2YD20	A0A2I2YD20_GORGO [tr]	Otopetrin 3	596	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	149-154		
+AVLYQD	2	G3QLB5	G3QLB5_GORGO [tr]	Otopetrin 3	598	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	151-156		
+NFKNLR	1	G3QZH1	G3QZH1_GORGO [tr]	Leucine rich repeat containing 36	753	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	48-53		
+NSVAYS	1	A0A2I2ZV30	A0A2I2ZV30_GORGO [tr]	Calcium-transporting ATPase	1112	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	7-12		
+NSVAYS	2	G3RE73	G3RE73_GORGO [tr]	Calcium-transporting ATPase	1249	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	7-12		
+NSVAYS	3	G3S1A1	G3S1A1_GORGO [tr]	Calcium-transporting ATPase	1220	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	7-12		
+SVLYNS	1	G3QFI1	G3QFI1_GORGO [tr]	Androglobin	1606	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1259-1264		
+SVLYNS	2	G3SJS6	G3SJS6_GORGO [tr]	BPI fold containing family C	466	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	136-141		
+LKSFTV	1	G3RLU5	G3RLU5_GORGO [tr]	Filamin A interacting protein 1	1177	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	501-506		
+SANLAA	1	A0A2I2Y3H8	A0A2I2Y3H8_GORGO [tr]	Neurotrophic receptor tyrosine kinase 2	482	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	127-132		
+SANLAA	2	A0A2I2YF87	A0A2I2YF87_GORGO [tr]	Tyrosine-protein kinase receptor	751	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	127-132		
+SANLAA	3	A0A2I2YPQ3	A0A2I2YPQ3_GORGO [tr]	Neurotrophic receptor tyrosine kinase 2	406	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	127-132		
+SANLAA	4	G3REH2	G3REH2_GORGO [tr]	Tyrosine-protein kinase receptor	767	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	127-132		
+PAQEKN	1	A0A2I2ZJJ1	A0A2I2ZJJ1_GORGO [tr]	Leiomodin 1	299	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	239-244		
+PAQEKN	2	G3S046	G3S046_GORGO [tr]	Leiomodin 1	600	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	568-573		
+IAQYTS	1	G3RLI9	G3RLI9_GORGO [tr]	Kinesin-like protein	998	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	361-366		
+TGSNVF	1	G3RDP9	G3RDP9_GORGO [tr]	OTU deubiquitinase with linear linkage specificity like	356	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	191-196		
+NIQKEI	1	G3R1F0	G3R1F0_GORGO [tr]	Glucocorticoid modulatory element binding protein 1	573	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	275-280		
+FLVLLP	1	G3QLC4	G3QLC4_GORGO [tr]	Peroxisome assembly protein 12	359	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	119-124		
+FLVLLP	2	G3QN16	G3QN16_GORGO [tr]	Calcitonin gene-related peptide type 1 receptor	461	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	9-14		
+FLVLLP	3	G3RHW9	G3RHW9_GORGO [tr]	Olfactory receptor	331	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	169-174		
+TLDSKT	1	G3RCC7	G3RCC7_GORGO [tr]	Transglutaminase 4	676	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	534-539		
+TLLALH	1	A0A2I2ZHS4	A0A2I2ZHS4_GORGO [tr]	Transmembrane protein 80	168	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	147-152		
+TLLALH	2	A0A2I2ZN68	A0A2I2ZN68_GORGO [tr]	Uncharacterized protein	359	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	80-85		
+TLLALH	3	G3R695	G3R695_GORGO [tr]	Sidekick cell adhesion molecule 2	2172	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	8-13		
+TLLALH	4	G3RDS3	G3RDS3_GORGO [tr]	Transmembrane protein 80	216	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	195-200		
+LQDVVN	1	G3RC59	G3RC59_GORGO [tr]	Protein phosphatase 2 regulatory subunit B''beta	575	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	238-243		
+LQDVVN	2	G3S2Z4	G3S2Z4_GORGO [tr]	Protein phosphatase 2 regulatory subunit B''beta	575	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	238-243		
+QLPPAY	1	G3RT39	G3RT39_GORGO [tr]	Ankyrin and armadillo repeat containing	1434	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	133-138		
+QTLLAL	1	G3QIN9	G3QIN9_GORGO [tr]	BUB1 mitotic checkpoint serine/threonine kinase B	1068	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	203-208		
+QTLLAL	2	G3QNU4	G3QNU4_GORGO [tr]	Small integral membrane protein 23	151	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	35-40		
+QTLLAL	3	G3RWS1	G3RWS1_GORGO [tr]	BUB1 mitotic checkpoint serine/threonine kinase B	1050	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	203-208		
+QTLLAL	4	G3S5P2	G3S5P2_GORGO [tr]	Small integral membrane protein 23	167	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	35-40		
+SALGKL	1	A0A2I2YHV4	A0A2I2YHV4_GORGO [tr]	DOP1 leucine zipper like protein A	2455	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	39-44		
+SALGKL	2	A0A2I2YJ22	A0A2I2YJ22_GORGO [tr]	Uncharacterized protein	289	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	31-36		
+SALGKL	3	A0A2I2YRA0	A0A2I2YRA0_GORGO [tr]	Uncharacterized protein	191	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	31-36		
+SALGKL	4	G3QDW5	G3QDW5_GORGO [tr]	DOP1 leucine zipper like protein A	2476	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	39-44		
+SALGKL	5	G3R3X0	G3R3X0_GORGO [tr]	Uncharacterized protein	347	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	31-36		
+SALGKL	6	G3S5F3	G3S5F3_GORGO [tr]	DOP1 leucine zipper like protein A	2465	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	39-44		
+QTGKIA	1	A0A2I2YGY5	A0A2I2YGY5_GORGO [tr]	CAAT box DNA-binding protein subunit B	207	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	74-79		
+QTGKIA	2	G3R0I0	G3R0I0_GORGO [tr]	CAAT box DNA-binding protein subunit B	169	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	36-41		
+IVRFPN	1	G3QKU8	G3QKU8_GORGO [tr]	Eosinophil peroxidase	715	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	206-211		
+ALQIPF	1	G3RAB8	G3RAB8_GORGO [tr]	G protein-coupled receptor 146	333	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	104-109		
+DLFLPF	1	A0A2I2YPP8	A0A2I2YPP8_GORGO [tr]	AP-5 complex subunit beta-1	878	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	765-770		
+EVPVAI	1	G3QY65	G3QY65_GORGO [tr]	Receptor protein-tyrosine kinase	876	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	540-545		
+LVKQLS	1	A0A2I2Y228	A0A2I2Y228_GORGO [tr]	Protein inhibitor of activated STAT 1	653	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	286-291		
+LVKQLS	2	A0A2I2Y5L2	A0A2I2Y5L2_GORGO [tr]	Cell division cycle associated 3	182	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	89-94		
+LVKQLS	3	A0A2I2YGW3	A0A2I2YGW3_GORGO [tr]	Protein inhibitor of activated STAT 1	651	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	284-289		
+LVKQLS	4	A0A2I2YM29	A0A2I2YM29_GORGO [tr]	Cell division cycle associated 3	219	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	89-94		
+LVKQLS	5	A0A2I2YUI6	A0A2I2YUI6_GORGO [tr]	Protein inhibitor of activated STAT 1	554	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	284-289		
+LVKQLS	6	A0A2I2YWP0	A0A2I2YWP0_GORGO [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2714	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2672-2677		
+LVKQLS	7	A0A2I2ZIF8	A0A2I2ZIF8_GORGO [tr]	Tetratricopeptide repeat domain 7B	851	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	29-34		
+LVKQLS	8	G3QJH6	G3QJH6_GORGO [tr]	Cell division cycle associated 3	268	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	89-94		
+LVKQLS	9	G3QYE0	G3QYE0_GORGO [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2670	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2628-2633		
+LVKQLS	10	G3R557	G3R557_GORGO [tr]	Tetratricopeptide repeat domain 7B	843	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	29-34		
+LVKQLS	11	G3R6Q9	G3R6Q9_GORGO [tr]	MHC class I region proline-rich protein CAT53	939	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	116-121		
+LVKQLS	12	G3RL14	G3RL14_GORGO [tr]	Protein inhibitor of activated STAT 1	644	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	277-282		
+LVKQLS	13	G3SEZ4	G3SEZ4_GORGO [tr]	Protein inhibitor of activated STAT 1	642	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	275-280		
+EILPVS	1	A0A2I2ZK19	A0A2I2ZK19_GORGO [tr]	Uncharacterized protein	3170	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2531-2536		
+EILPVS	2	A0A2I2ZPB1	A0A2I2ZPB1_GORGO [tr]	Uncharacterized protein	2924	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2285-2290		
+EILPVS	3	G3QYM2	G3QYM2_GORGO [tr]	DNA polymerase zeta catalytic subunit	2894	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	601-606		
+EILPVS	4	G3RKM1	G3RKM1_GORGO [tr]	Uncharacterized protein	3121	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2482-2487		
+EILPVS	5	G3S927	G3S927_GORGO [tr]	Nuclear protein, coactivator of histone transcription	1426	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	603-608		
+IRAAEI	1	A0A2I2YUD7	A0A2I2YUD7_GORGO [tr]	Myosin XVIIIA	2054	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1353-1358		
+IRAAEI	2	A0A2I2Z5L0	A0A2I2Z5L0_GORGO [tr]	Myosin XVIIIA	2002	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1353-1358		
+IRAAEI	3	G3R9L4	G3R9L4_GORGO [tr]	Myosin XVIIIA	2050	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1349-1354		
+IRAAEI	4	G3S6V4	G3S6V4_GORGO [tr]	Myosin XVIIIA	2042	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1356-1361		
+EPQIIT	1	A0A2I2ZEL3	A0A2I2ZEL3_GORGO [tr]	Pleiotropic regulator 1	385	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	342-347		
+EPQIIT	2	G3REX1	G3REX1_GORGO [tr]	Pleiotropic regulator 1	504	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	332-337		
+EPQIIT	3	G3RZI1	G3RZI1_GORGO [tr]	Pleiotropic regulator 1	514	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	342-347		
+KEIDRL	1	A0A2I2ZH36	A0A2I2ZH36_GORGO [tr]	Protein ZIP4 homolog	940	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	601-606		
+KEIDRL	2	G3SKD2	G3SKD2_GORGO [tr]	Protein ZIP4 homolog	925	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	586-591		
+GAGICA	1	A0A2I2ZKF6	A0A2I2ZKF6_GORGO [tr]	Hepatitis A virus cellular receptor 2	262	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	178-183		
+GAGICA	2	G3RXQ5	G3RXQ5_GORGO [tr]	Hepatitis A virus cellular receptor 2	273	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	178-183		
+GAGICA	3	G3SHL5	G3SHL5_GORGO [tr]	Hepatitis A virus cellular receptor 2	301	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	206-211		
+LLKYNE	1	A0A2I2Z3W0	A0A2I2Z3W0_GORGO [tr]	LON peptidase N-terminal domain and ring finger 3	718	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	263-268		
+LLKYNE	2	G3RCU8	G3RCU8_GORGO [tr]	LON peptidase N-terminal domain and ring finger 3	759	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	263-268		
+LHSTQD	1	G3RCL6	G3RCL6_GORGO [tr]	Uncharacterized protein	600	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	456-461		
+LHSTQD	2	G3RME6	G3RME6_GORGO [tr]	Uncharacterized protein	571	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	427-432		
+NLVRDL	1	A0A2I2YN24	A0A2I2YN24_GORGO [tr]	Rho GTPase activating protein 22	251	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	197-202		
+NLVRDL	2	A0A2I2YPY3	A0A2I2YPY3_GORGO [tr]	Rho GTPase activating protein 22	704	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	207-212		
+NLVRDL	3	A0A2I2Z139	A0A2I2Z139_GORGO [tr]	Rho GTPase activating protein 22	537	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	109-114		
+NLVRDL	4	A0A2I2ZFL4	A0A2I2ZFL4_GORGO [tr]	Rho GTPase activating protein 22	608	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	111-116		
+NLVRDL	5	A0A2I2ZJC1	A0A2I2ZJC1_GORGO [tr]	Rho GTPase activating protein 22	710	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	213-218		
+NLVRDL	6	G3QG80	G3QG80_GORGO [tr]	Rho GTPase activating protein 22	714	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	217-222		
+VYSTGS	1	A0A2I2YIM2	A0A2I2YIM2_GORGO [tr]	Cell adhesion molecule L1 like	1171	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	357-362		
+VYSTGS	2	G3R020	G3R020_GORGO [tr]	Cell adhesion molecule L1 like	1225	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	357-362		
+VYSTGS	3	G3RRD7	G3RRD7_GORGO [tr]	Cell adhesion molecule L1 like	1209	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	341-346		
+DEVRQI	1	A0A2I2YZG0	A0A2I2YZG0_GORGO [tr]	Syntaxin-18	307	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	223-228		
+DEVRQI	2	A0A2I2ZMZ6	A0A2I2ZMZ6_GORGO [tr]	Syntaxin-18	336	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	252-257		
+DEVRQI	3	G3R6A0	G3R6A0_GORGO [tr]	Syntaxin-18	335	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	251-256		
+DEVRQI	4	G3SBV0	G3SBV0_GORGO [tr]	Syntaxin-18	313	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	229-234		
+DEVRQI	5	G3SIK1	G3SIK1_GORGO [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4862	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	4481-4486		
+DEVRQI	6	G3SK54	G3SK54_GORGO [tr]	Syntaxin-18	309	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	252-257		
+IQDSLS	1	G3SIK1	G3SIK1_GORGO [tr]	[Histone H3]-lysine(4) N-trimethyltransferase	4862	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1815-1820		
+LQIPFA	1	G3RSF8	G3RSF8_GORGO [tr]	Olfactory receptor	343	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	189-194		
+TKLNDL	1	A0A2I2ZFH0	A0A2I2ZFH0_GORGO [tr]	Transient receptor potential cation channel subfamily M member 8	1104	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1087-1092		
+SSNFGA	1	G3SJK0	G3SJK0_GORGO [tr]	Zinc finger with KRAB and SCAN domains 2	967	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	815-820		
+EPLVDL	1	A0A2I2YAW1	A0A2I2YAW1_GORGO [tr]	Unc-80 homolog, NALCN channel complex subunit	3251	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1295-1300		
+EPLVDL	2	A0A2I2ZWF8	A0A2I2ZWF8_GORGO [tr]	Unc-80 homolog, NALCN channel complex subunit	3165	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1295-1300		
+EPLVDL	3	G3R5T1	G3R5T1_GORGO [tr]	Unc-80 homolog, NALCN channel complex subunit	3201	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1312-1317		
+EPLVDL	4	G3RDG7	G3RDG7_GORGO [tr]	LIM and cysteine rich domains 1	253	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	168-173		
+EPLVDL	5	G3SDR1	G3SDR1_GORGO [tr]	LIM and cysteine rich domains 1	365	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	280-285		
+EPLVDL	6	G3SE91	G3SE91_GORGO [tr]	Unc-80 homolog, NALCN channel complex subunit	3177	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1307-1312		
+GVTQNV	1	G3SAT8	G3SAT8_GORGO [tr]	Retroelement silencing factor 1	1747	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	113-118		
+VKQLSS	1	A0A2I2Y228	A0A2I2Y228_GORGO [tr]	Protein inhibitor of activated STAT 1	653	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	287-292		
+VKQLSS	2	A0A2I2YGW3	A0A2I2YGW3_GORGO [tr]	Protein inhibitor of activated STAT 1	651	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	285-290		
+VKQLSS	3	A0A2I2YUI6	A0A2I2YUI6_GORGO [tr]	Protein inhibitor of activated STAT 1	554	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	285-290		
+VKQLSS	4	G3QCR2	G3QCR2_GORGO [tr]	Selenoprotein I	386	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	366-371		
+VKQLSS	5	G3RL14	G3RL14_GORGO [tr]	Protein inhibitor of activated STAT 1	644	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	278-283		
+VKQLSS	6	G3SEZ4	G3SEZ4_GORGO [tr]	Protein inhibitor of activated STAT 1	642	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	276-281		
+LVLLPL	1	A0A2I2Y4K0	A0A2I2Y4K0_GORGO [tr]	Uncharacterized protein	387	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	313-318		
+LVLLPL	2	A0A2I2Y680	A0A2I2Y680_GORGO [tr]	Na(+)-dependent phosphate cotransporter 2A	340	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	232-237		
+LVLLPL	3	A0A2I2YCD2	A0A2I2YCD2_GORGO [tr]	G_PROTEIN_RECEP_F2_4 domain-containing protein	370	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	272-277		
+LVLLPL	4	A0A2I2YKR9	A0A2I2YKR9_GORGO [tr]	Corticotropin-releasing factor receptor 1	444	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	346-351		
+LVLLPL	5	A0A2I2YXL3	A0A2I2YXL3_GORGO [tr]	Uncharacterized protein	397	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	299-304		
+LVLLPL	6	A0A2I2YZY7	A0A2I2YZY7_GORGO [tr]	G_PROTEIN_RECEP_F2_4 domain-containing protein	314	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	216-221		
+LVLLPL	7	A0A2I2Z4S9	A0A2I2Z4S9_GORGO [tr]	Corticotropin-releasing factor receptor 1	430	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	346-351		
+LVLLPL	8	A0A2I2Z937	A0A2I2Z937_GORGO [tr]	G_PROTEIN_RECEP_F2_4 domain-containing protein	416	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	318-323		
+LVLLPL	9	A0A2I2ZCI3	A0A2I2ZCI3_GORGO [tr]	G_PROTEIN_RECEP_F2_4 domain-containing protein	375	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	277-282		
+LVLLPL	10	A0A2I2ZNV5	A0A2I2ZNV5_GORGO [tr]	Uncharacterized protein	411	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	313-318		
+LVLLPL	11	A0A2I2ZS10	A0A2I2ZS10_GORGO [tr]	G_PROTEIN_RECEP_F2_4 domain-containing protein	314	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	216-221		
+LVLLPL	12	G3QGR9	G3QGR9_GORGO [tr]	Cerberus 1, DAN family BMP antagonist	267	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	9-14		
+LVLLPL	13	G3QQF7	G3QQF7_GORGO [tr]	G_PROTEIN_RECEP_F2_4 domain-containing protein	370	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	272-277		
+LVLLPL	14	G3QU34	G3QU34_GORGO [tr]	Solute carrier family 13 member 1	595	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	21-26		
+LVLLPL	15	G3QVU2	G3QVU2_GORGO [tr]	RNA polymerase II associated protein 1	1393	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1231-1236		
+LVLLPL	16	G3R2G3	G3R2G3_GORGO [tr]	Na(+)-dependent phosphate cotransporter 2A	639	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	232-237		
+LVLLPL	17	G3R757	G3R757_GORGO [tr]	G_PROTEIN_RECEP_F2_4 domain-containing protein	210	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	112-117		
+LVLLPL	18	G3RM95	G3RM95_GORGO [tr]	Uncharacterized protein	1320	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1172-1177		
+LVLLPL	19	G3RP44	G3RP44_GORGO [tr]	Na(+)-dependent phosphate cotransporter 2A	641	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	232-237		
+LVLLPL	20	G3RR87	G3RR87_GORGO [tr]	Corticotropin-releasing factor receptor 1	415	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	317-322		
+LVLLPL	21	G3RYX3	G3RYX3_GORGO [tr]	Uncharacterized protein	411	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	313-318		
+LVLLPL	22	G3SA64	G3SA64_GORGO [tr]	Uncharacterized protein	438	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	340-345		
+LVLLPL	23	Q8SQ13	RNAS1_GORGO [sp]	Ribonuclease pancreatic precursor	156	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	7-12		
+DEDDSE	1	A0A2I2YGU8	A0A2I2YGU8_GORGO [tr]	Uncharacterized protein	545	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	113-118		
+DEDDSE	2	A0A2I2YS22	A0A2I2YS22_GORGO [tr]	RNA helicase	620	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	156-161		
+DEDDSE	3	A0A2I2Z887	A0A2I2Z887_GORGO [tr]	Euchromatic histone lysine methyltransferase 1	1290	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	344-349		
+DEDDSE	4	A0A2I2ZC55	A0A2I2ZC55_GORGO [tr]	Large 60S subunit nuclear export GTPase 1	657	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	295-300		
+DEDDSE	5	A0A2I2ZFG8	A0A2I2ZFG8_GORGO [tr]	Euchromatic histone lysine methyltransferase 1	523	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	311-316		
+DEDDSE	6	A0A2I2ZKE3	A0A2I2ZKE3_GORGO [tr]	Euchromatic histone lysine methyltransferase 1	126	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	57-62		
+DEDDSE	7	A0A2I2ZY45	A0A2I2ZY45_GORGO [tr]	Myosin XVI	1887	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1431-1436		
+DEDDSE	8	A0A2I2ZYH5	A0A2I2ZYH5_GORGO [tr]	Euchromatic histone lysine methyltransferase 1	801	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	342-347		
+DEDDSE	9	G3QE26	G3QE26_GORGO [tr]	Large 60S subunit nuclear export GTPase 1	658	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	301-306		
+DEDDSE	10	G3QPN1	G3QPN1_GORGO [tr]	Euchromatic histone lysine methyltransferase 1	1291	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	342-347		
+DEDDSE	11	G3RLK0	G3RLK0_GORGO [tr]	Myosin XVI	1887	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1431-1436		
+SNQVAV	1	A0A2I2YJB1	A0A2I2YJB1_GORGO [tr]	N-alpha-acetyltransferase 20, NatB catalytic subunit	166	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	103-108		
+SNQVAV	2	G3QNP5	G3QNP5_GORGO [tr]	N-alpha-acetyltransferase 20, NatB catalytic subunit	178	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	115-120		
+SVASQS	1	A0A2I2Z586	A0A2I2Z586_GORGO [tr]	Coiled-coil domain containing 27	630	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	216-221		
+SVASQS	2	A0A2I2ZDX5	A0A2I2ZDX5_GORGO [tr]	Protein phosphatase 1 regulatory subunit 32	405	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	85-90		
+SVASQS	3	G3QTQ0	G3QTQ0_GORGO [tr]	Pecanex-like protein	2199	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1980-1985		
+SVASQS	4	G3RHR0	G3RHR0_GORGO [tr]	Coiled-coil domain containing 27	656	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	216-221		
+SVASQS	5	G3RLC6	G3RLC6_GORGO [tr]	Protein phosphatase 1 regulatory subunit 32	425	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	85-90		
+SVASQS	6	G3RSB2	G3RSB2_GORGO [tr]	Pecanex-like protein	2320	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	2101-2106		
+SVASQS	7	G3SF35	G3SF35_GORGO [tr]	Coiled-coil domain containing 27	626	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	216-221		
+QGFSAL	1	A0A2I2Z326	A0A2I2Z326_GORGO [tr]	Netrin 4	591	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	458-463		
+QGFSAL	2	A0A2I2ZGY1	A0A2I2ZGY1_GORGO [tr]	Netrin 4	605	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	495-500		
+QGFSAL	3	G3RCW3	G3RCW3_GORGO [tr]	Netrin 4	628	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	495-500		
+ISNCVA	1	G3RRG1	G3RRG1_GORGO [tr]	Lysophosphatidic acid receptor 6	344	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	33-38		
+SLGAEN	1	A0A2I2YM23	A0A2I2YM23_GORGO [tr]	Fructose-bisphosphate aldolase	314	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	46-51		
+SVLNDI	1	G3QIV7	G3QIV7_GORGO [tr]	Zinc finger BED-type containing 9	1325	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	1017-1022		
+LPVSMT	1	A0A2I2ZT62	A0A2I2ZT62_GORGO [tr]	von Willebrand factor D and EGF domains	1558	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	610-615		
+LPVSMT	2	G3QU97	G3QU97_GORGO [tr]	von Willebrand factor D and EGF domains	1302	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	610-615		
+AVDCAL	1	A0A2I2YB72	A0A2I2YB72_GORGO [tr]	Bromodomain and PHD finger containing 1	467	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	327-332		
+AVDCAL	2	A0A2I2YLE8	A0A2I2YLE8_GORGO [tr]	Bromodomain and PHD finger containing 1	1253	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	327-332		
+AVDCAL	3	A0A2I2ZS35	A0A2I2ZS35_GORGO [tr]	Bromodomain and PHD finger containing 1	1119	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	327-332		
+AVDCAL	4	G3REC3	G3REC3_GORGO [tr]	Bromodomain and PHD finger containing 1	1220	Gorilla gorilla gorilla (Western lowland gorilla) [9595]	327-332		

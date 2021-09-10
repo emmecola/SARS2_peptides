@@ -1,0 +1,873 @@
+#Query Peptide	Rank	Protein AC	Protein ID	Protein Name	Length	Organism	Matched Range(s)	Proteomic Databases	IEDB
+SLLIVN	1	D3ZYQ9	D3ZYQ9_RAT [tr]	E3 ubiquitin protein ligase	973	Rattus norvegicus (Rat) [10116]	89-94	PeptideAtlas, Pride	666542
+VTLADA	1	F7ESQ6	F7ESQ6_RAT [tr]	LRRGT00073	223	Rattus norvegicus (Rat) [10116]	50-55	Pride	
+VTLADA	2	Q6TUH1	Q6TUH1_RAT [tr]	LRRGT00073	223	Rattus norvegicus (Rat) [10116]	50-55		
+TRFQTL	1	A0A0G2K348	A0A0G2K348_RAT [tr]	DNA topoisomerase	690	Rattus norvegicus (Rat) [10116]	219-224		
+TRFQTL	2	A0A0G2K988	A0A0G2K988_RAT [tr]	Dishevelled-associated activator of morphogenesis 2	1117	Rattus norvegicus (Rat) [10116]	251-256		
+TRFQTL	3	D4A6J4	D4A6J4_RAT [tr]	DNA topoisomerase	1002	Rattus norvegicus (Rat) [10116]	219-224	PeptideAtlas, Pride	658341, 676661, 676662
+TRFQTL	4	D4ABM3	D4ABM3_RAT [tr]	Dishevelled associated activator of morphogenesis 1 (Predicted)	968	Rattus norvegicus (Rat) [10116]	255-260	PeptideAtlas, Pride	670985
+EIDRLN	1	A0A0G2JSU3	A0A0G2JSU3_RAT [tr]	Protein SET	289	Rattus norvegicus (Rat) [10116]	53-58		666481, 681034
+EIDRLN	2	A0A0G2K548	A0A0G2K548_RAT [tr]	A-kinase-anchoring protein 9	3847	Rattus norvegicus (Rat) [10116]	2258-2263		
+EIDRLN	3	A0A0G2K5L9	A0A0G2K5L9_RAT [tr]	DUF1725 domain-containing protein	521	Rattus norvegicus (Rat) [10116]	51-56		688243
+EIDRLN	4	B0BMV1	B0BMV1_RAT [tr]	Set protein	289	Rattus norvegicus (Rat) [10116]	53-58		
+EIDRLN	5	D3ZC07	D3ZC07_RAT [tr]	Protein SET	958	Rattus norvegicus (Rat) [10116]	184-189	PeptideAtlas, Pride	585372, 670836, 677546, 678070, 678071, 678072
+EIDRLN	6	D4A466	D4A466_RAT [tr]	Similar to Set beta isoform	273	Rattus norvegicus (Rat) [10116]	41-46	PeptideAtlas, Pride	
+EIDRLN	7	F1LPB4	F1LPB4_RAT [tr]	A-kinase-anchoring protein 9	3771	Rattus norvegicus (Rat) [10116]	2227-2232	PeptideAtlas, Pride	658447, 660802, 668090, 671095, 672261, 676468, 679762, 681802, 686342, 687263, 687501
+EIDRLN	8	P80349	FUC3_RAT [sp]	Fuctinin-3 (Fragment)	39	Rattus norvegicus (Rat) [10116]	31-36	Pride	
+EIDRLN	9	Q63945	SET_RAT [sp]	Protein SET	289	Rattus norvegicus (Rat) [10116]	53-58	Pride	804335
+EIDRLN	10	Q63945-2	SET_RAT [sp]	Protein SET	277	Rattus norvegicus (Rat) [10116]	41-46		
+EIDRLN	11	Q6QI56	Q6QI56_RAT [tr]	LRRGT00152	521	Rattus norvegicus (Rat) [10116]	51-56		
+KVEAEV	1	A0A096MJZ8	A0A096MJZ8_RAT [tr]	[Histone H3]-trimethyl-L-lysine(4) demethylase	1635	Rattus norvegicus (Rat) [10116]	191-196		673749, 681148
+KVEAEV	2	A0A0G2JTU9	A0A0G2JTU9_RAT [tr]	[Histone H3]-trimethyl-L-lysine(4) demethylase	1690	Rattus norvegicus (Rat) [10116]	191-196		
+KVEAEV	3	B5DFF8	B5DFF8_RAT [tr]	[Histone H3]-trimethyl-L-lysine(4) demethylase	579	Rattus norvegicus (Rat) [10116]	191-196		
+KVEAEV	4	E9PSW7	E9PSW7_RAT [tr]	[Histone H3]-trimethyl-L-lysine(4) demethylase	579	Rattus norvegicus (Rat) [10116]	191-196	Pride	
+KVEAEV	5	Q499M6	Q499M6_RAT [tr]	[Histone H3]-trimethyl-L-lysine(4) demethylase (Fragment)	1099	Rattus norvegicus (Rat) [10116]	191-196		
+GIAVEQ	1	A0A0G2K2K6	A0A0G2K2K6_RAT [tr]	Chloride channel protein	866	Rattus norvegicus (Rat) [10116]	542-547		
+GIAVEQ	2	P51792	CLCN3_RAT [sp]	H(+)/Cl(-) exchange transporter 3	818	Rattus norvegicus (Rat) [10116]	542-547	Pride	491710, 675203, 675678
+GIAVEQ	3	P51792-2	CLCN3_RAT [sp]	H(+)/Cl(-) exchange transporter 3	760	Rattus norvegicus (Rat) [10116]	484-489		
+ALLAGT	1	P11654	PO210_RAT [sp]	Nuclear pore membrane glycoprotein 210 precursor	1886	Rattus norvegicus (Rat) [10116]	1816-1821	Pride	122732, 123930, 654688, 655038, 655039, 655040, 655041, 655626, 656068, 658893, 661097, 664619, 664620, 665920, 684461, 684462, 684463, 684464, 684465, 687316, 687317
+ALLAGT	2	Q52KK3	S2551_RAT [sp]	Mitochondrial nicotinamide adenine dinucleotide transporter SLC25A51	298	Rattus norvegicus (Rat) [10116]	126-131	Pride	655630
+LTVLPP	1	A0A1W2Q659	A0A1W2Q659_RAT [tr]	Formin homology 2 domain-containing 3 (Fragment)	1293	Rattus norvegicus (Rat) [10116]	844-849		667322
+LTVLPP	2	A0A1W2Q6D5	A0A1W2Q6D5_RAT [tr]	Formin homology 2 domain-containing 3	1547	Rattus norvegicus (Rat) [10116]	1098-1103		
+LTVLPP	3	D4A8F2	D4A8F2_RAT [tr]	Ras suppressor protein 1	277	Rattus norvegicus (Rat) [10116]	192-197	PeptideAtlas, Pride	665993
+LTVLPP	4	F1LQJ2	F1LQJ2_RAT [tr]	Formin homology 2 domain-containing 3	1578	Rattus norvegicus (Rat) [10116]	1129-1134	Pride	
+LTVLPP	5	F1LRX2	F1LRX2_RAT [tr]	Formin homology 2 domain-containing 3	1511	Rattus norvegicus (Rat) [10116]	1054-1059	Pride	
+LTVLPP	6	Q5D003	Q5D003_RAT [tr]	Uncharacterized protein (Fragment)	480	Rattus norvegicus (Rat) [10116]	31-36	Pride	
+AALQIP	1	D4ACX8	PCD16_RAT [sp]	Protocadherin-16 precursor	3291	Rattus norvegicus (Rat) [10116]	142-147	PeptideAtlas, Pride	655450, 658936, 664717, 686583
+AALQIP	2	Q66HG1	DMTF1_RAT [sp]	Cyclin-D-binding Myb-like transcription factor 1	760	Rattus norvegicus (Rat) [10116]	459-464	Pride	
+AALQIP	3	Q99MC9	Q99MC9_RAT [tr]	Cyclin D-interacting myb-like protein (Fragment)	69	Rattus norvegicus (Rat) [10116]	34-39		
+VLLPLV	1	A0A0G2JSU9	A0A0G2JSU9_RAT [tr]	Tumor necrosis factor receptor 1	461	Rattus norvegicus (Rat) [10116]	212-217		
+VLLPLV	2	B2RZ77	B2RZ77_RAT [tr]	Dermatopontin	202	Rattus norvegicus (Rat) [10116]	8-13		
+VLLPLV	3	D3ZFL3	D3ZFL3_RAT [tr]	Mitogen-activated protein kinase kinase kinase	1292	Rattus norvegicus (Rat) [10116]	338-343		
+VLLPLV	4	D4A9H2	D4A9H2_RAT [tr]	Dermatopontin	166	Rattus norvegicus (Rat) [10116]	8-13	PeptideAtlas, Pride	
+VLLPLV	5	F1LPJ2	F1LPJ2_RAT [tr]	Ryanodine receptor 3	4848	Rattus norvegicus (Rat) [10116]	2845-2850		657908, 684010
+VLLPLV	6	F1M7A1	F1M7A1_RAT [tr]	Ryanodine receptor 3	4888	Rattus norvegicus (Rat) [10116]	2880-2885	Pride	
+VLLPLV	7	P22934	TNR1A_RAT [sp]	Tumor necrosis factor receptor superfamily member 1A precursor	461	Rattus norvegicus (Rat) [10116]	212-217	Pride	
+GTITDA	1	Q5XI77	Q5XI77_RAT [tr]	Annexin	503	Rattus norvegicus (Rat) [10116]	190-195		668234, 669809, 681758, 683674
+PGTNTS	1	D3ZVX5	D3ZVX5_RAT [tr]	U1-type domain-containing protein	107	Rattus norvegicus (Rat) [10116]	92-97	Pride	
+VAVLYQ	1	D4A757	D4A757_RAT [tr]	Major facilitator superfamily domain-containing 6-like	596	Rattus norvegicus (Rat) [10116]	527-532	Pride	
+YNYLYR	1	Q4KMA3	Q4KMA3_RAT [tr]	LOC361985 protein	253	Rattus norvegicus (Rat) [10116]	98-103		605637, 655583
+YNYLYR	2	Q6QN15	Q6QN15_RAT [tr]	NS5ATP4	251	Rattus norvegicus (Rat) [10116]	98-103		
+VFLVLL	1	A0A088DKH8	A0A088DKH8_RAT [tr]	Receptor protein serine/threonine kinase	429	Rattus norvegicus (Rat) [10116]	154-159		
+VFLVLL	2	A0A0G2K9W9	A0A0G2K9W9_RAT [tr]	Solute carrier organic anion transporter family, member 6c1	703	Rattus norvegicus (Rat) [10116]	313-318		
+VFLVLL	3	F1LNH7	F1LNH7_RAT [tr]	Sodium/nucleoside cotransporter	648	Rattus norvegicus (Rat) [10116]	187-192	Pride	
+VFLVLL	4	F1LPZ0	F1LPZ0_RAT [tr]	Vomeronasal type-2 receptor 26-like	851	Rattus norvegicus (Rat) [10116]	77-82	Pride	665622
+VFLVLL	5	F1LZP8	F1LZP8_RAT [tr]	Vomeronasal 2 receptor, 71	850	Rattus norvegicus (Rat) [10116]	77-82	Pride	
+VFLVLL	6	G3V7R7	G3V7R7_RAT [tr]	Solute carrier organic anion transporter family, member 6c1	701	Rattus norvegicus (Rat) [10116]	311-316		
+VFLVLL	7	O88820	O88820_RAT [tr]	Thyroliberin receptor	352	Rattus norvegicus (Rat) [10116]	26-31		
+VFLVLL	8	Q62674	S28A1_RAT [sp]	Sodium/nucleoside cotransporter 1	648	Rattus norvegicus (Rat) [10116]	187-192		
+VFLVLL	9	Q62893	AMHR2_RAT [sp]	Anti-Muellerian hormone type-2 receptor precursor	557	Rattus norvegicus (Rat) [10116]	154-159	Pride	
+VFLVLL	10	Q8K4K9	Q8K4K9_RAT [tr]	Testis-specific transporter TST-2	701	Rattus norvegicus (Rat) [10116]	311-316		
+VFLVLL	11	Q9QWW3	Q9QWW3_RAT [tr]	Thyroliberin receptor	352	Rattus norvegicus (Rat) [10116]	26-31		
+VFLVLL	12	Q9R297	Q9R297_RAT [tr]	Thyroliberin receptor	352	Rattus norvegicus (Rat) [10116]	26-31		
+GGFNFS	1	M0R9X3	M0R9X3_RAT [tr]	RNA-binding motif 31, Y-linked	565	Rattus norvegicus (Rat) [10116]	499-504	Pride	
+ITRFQT	1	A0A0G2JSI0	A0A0G2JSI0_RAT [tr]	Dimethylaniline monooxygenase [N-oxide-forming]	531	Rattus norvegicus (Rat) [10116]	236-241		
+ITRFQT	2	Q9EQ76	FMO3_RAT [sp]	Dimethylaniline monooxygenase [N-oxide-forming] 3	531	Rattus norvegicus (Rat) [10116]	236-241	Pride	
+QDVVNQ	1	A1A5S0	A1A5S0_RAT [tr]	Gametocyte specific factor 1	167	Rattus norvegicus (Rat) [10116]	79-84		
+QDVVNQ	2	F7FF05	F7FF05_RAT [tr]	Gametocyte-specific factor 1	189	Rattus norvegicus (Rat) [10116]	101-106	Pride	
+AGTITS	1	F1LXQ7	F1LXQ7_RAT [tr]	Rho GTPase-activating protein 21	1955	Rattus norvegicus (Rat) [10116]	1576-1581	Pride	662753, 664495, 672988, 782719
+FRSSVL	1	A0A0G2JWG1	A0A0G2JWG1_RAT [tr]	Alpha-mannosidase	1181	Rattus norvegicus (Rat) [10116]	414-419		
+FRSSVL	2	D4A4J3	D4A4J3_RAT [tr]	Alpha-mannosidase	1164	Rattus norvegicus (Rat) [10116]	414-419	PeptideAtlas, Pride	677214, 684420, 684505
+LQPRTF	1	F1LTX4	F1LTX4_RAT [tr]	Leucine-rich repeat neuronal 4	735	Rattus norvegicus (Rat) [10116]	168-173	PeptideAtlas, Pride	673367
+LQPRTF	2	Q9JLD8	Q9JLD8_RAT [tr]	p53 tumor suppressor (Fragment)	39	Rattus norvegicus (Rat) [10116]	23-28		
+ILSRLD	1	D4A8E9	D4A8E9_RAT [tr]	Olfactory receptor	311	Rattus norvegicus (Rat) [10116]	47-52	Pride	
+NLLLQY	1	D3ZU90	D3ZU90_RAT [tr]	Fer-1-like family member 5	2042	Rattus norvegicus (Rat) [10116]	737-742	Pride	669241, 670207
+NLLLQY	2	O70534	DLK1_RAT [sp]	Protein delta homolog 1 precursor	383	Rattus norvegicus (Rat) [10116]	348-353	Pride	
+IQKEID	1	A0A0G2JSR8	A0A0G2JSR8_RAT [tr]	Cytochrome P450, family 17, subfamily a, polypeptide 1	507	Rattus norvegicus (Rat) [10116]	327-332		
+IQKEID	2	P11715	CP17A_RAT [sp]	Steroid 17-alpha-hydroxylase/17,20 lyase	507	Rattus norvegicus (Rat) [10116]	327-332		
+IQKEID	3	Q6LCX9	Q6LCX9_RAT [tr]	17 alpha-hydroxylase-17,20-desmolase (Fragment)	56	Rattus norvegicus (Rat) [10116]	5-10		
+GTKRFD	1	Q63569	PRS6A_RAT [sp]	26S proteasome regulatory subunit 6A	439	Rattus norvegicus (Rat) [10116]	292-297	PeptideAtlas, Pride	
+GTKRFD	2	Q6P6U2	Q6P6U2_RAT [tr]	26S proteasome regulatory subunit 6A	442	Rattus norvegicus (Rat) [10116]	295-300	Pride	667551
+TQTNSP	1	A0A0G2JVS3	A0A0G2JVS3_RAT [tr]	Zinc finger and BTB domain-containing protein 44	453	Rattus norvegicus (Rat) [10116]	200-205		
+TQTNSP	2	Q3SWU4	ZBT44_RAT [sp]	Zinc finger and BTB domain-containing protein 44	453	Rattus norvegicus (Rat) [10116]	200-205		
+ATRFAS	1	M0R854	M0R854_RAT [tr]	Keratin-associated protein 24-1	248	Rattus norvegicus (Rat) [10116]	128-133	Pride	
+DGKAHF	1	A0A0G2K6T1	A0A0G2K6T1_RAT [tr]	Alpha-amylase	508	Rattus norvegicus (Rat) [10116]	484-489		
+DGKAHF	2	E9PSI7	E9PSI7_RAT [tr]	Alpha-amylase	508	Rattus norvegicus (Rat) [10116]	484-489	PeptideAtlas	
+DGKAHF	3	G3V844	G3V844_RAT [tr]	Alpha-amylase	508	Rattus norvegicus (Rat) [10116]	484-489	Pride	686775, 802370
+DGKAHF	4	P00689	AMYP_RAT [sp]	Pancreatic alpha-amylase precursor	508	Rattus norvegicus (Rat) [10116]	484-489		
+PAICHD	1	G3V943	G3V943_RAT [tr]	Dynein, axonemal, assembly factor 5	851	Rattus norvegicus (Rat) [10116]	358-363	Pride	
+VDFCGK	1	D3ZWP8	D3ZWP8_RAT [tr]	Leucine-rich repeat-containing 58	366	Rattus norvegicus (Rat) [10116]	311-316	PeptideAtlas	815171
+FLGVYY	1	Q5GH54	Q5GH54_RAT [tr]	XK-related protein	373	Rattus norvegicus (Rat) [10116]	335-340	Pride	
+FLGVYY	2	Q5M7A3	S35G2_RAT [sp]	Solute carrier family 35 member G2	412	Rattus norvegicus (Rat) [10116]	332-337	Pride	
+EAEVQI	1	A0A1B0GWP7	A0A1B0GWP7_RAT [tr]	Uncharacterized protein (Fragment)	891	Rattus norvegicus (Rat) [10116]	25-30		
+EAEVQI	2	D3ZN05	D3ZN05_RAT [tr]	Uncharacterized protein	1725	Rattus norvegicus (Rat) [10116]	859-864	Pride	658809, 666502
+EAEVQI	3	P70570	P70570_RAT [tr]	Laminin-5 alpha 3 chain	1725	Rattus norvegicus (Rat) [10116]	859-864	Pride	
+DIAARD	1	D3ZDI4	D3ZDI4_RAT [tr]	B double prime 1, subunit of RNA polymerase III transcription initiation factor IIIB	2486	Rattus norvegicus (Rat) [10116]	1805-1810	Pride	
+DPFLGV	1	D4ADR5	D4ADR5_RAT [tr]	Hexosyltransferase	770	Rattus norvegicus (Rat) [10116]	539-544		666092, 670167
+GTNTSN	1	Q63470	DYR1A_RAT [sp]	Dual specificity tyrosine-phosphorylation-regulated kinase 1A	763	Rattus norvegicus (Rat) [10116]	486-491	Pride	663514, 685946
+GTNTSN	2	Q63470-2	DYR1A_RAT [sp]	Dual specificity tyrosine-phosphorylation-regulated kinase 1A	754	Rattus norvegicus (Rat) [10116]	477-482		
+QTLEIL	1	M0R919	M0R919_RAT [tr]	Prefoldin subunit 3	186	Rattus norvegicus (Rat) [10116]	80-85	Pride	653839, 654970, 811395
+QTLEIL	2	P17708	DCAM_RAT [sp]	S-adenosylmethionine decarboxylase proenzyme precursor	333	Rattus norvegicus (Rat) [10116]	175-180	Pride	
+SLSSTA	1	A0A0G2K7Z8	A0A0G2K7Z8_RAT [tr]	Cadherin 26	761	Rattus norvegicus (Rat) [10116]	229-234		
+SLSSTA	2	B0BMT2	B0BMT2_RAT [tr]	MPN domain-containing	487	Rattus norvegicus (Rat) [10116]	6-11		661360, 796136, 813626
+SLSSTA	3	C6JUM5	C6JUM5_RAT [tr]	Protocadherin gamma C5	944	Rattus norvegicus (Rat) [10116]	655-660	Pride	
+SLSSTA	4	F1LTF8	F1LTF8_RAT [tr]	Laminin subunit alpha 4	1773	Rattus norvegicus (Rat) [10116]	946-951	PeptideAtlas, Pride	
+SLSSTA	5	P17955	NUP62_RAT [sp]	Nuclear pore glycoprotein p62	525	Rattus norvegicus (Rat) [10116]	99-104	Pride	668020, 670557, 676251, 684727, 684744, 685712, 685817
+SLSSTA	6	P55281	CAD17_RAT [sp]	Cadherin-17 precursor	827	Rattus norvegicus (Rat) [10116]	645-650	Pride	659399
+SLSSTA	7	Q5PR00	DJC22_RAT [sp]	DnaJ homolog subfamily C member 22	341	Rattus norvegicus (Rat) [10116]	98-103	Pride	
+PGDSSS	1	B2GV31	B2GV31_RAT [tr]	Muc1 protein	655	Rattus norvegicus (Rat) [10116]	92-97, 172-177, 272-277		
+PGDSSS	2	D4A3P4	D4A3P4_RAT [tr]	Nucleolar protein 4	574	Rattus norvegicus (Rat) [10116]	286-291		
+PGDSSS	3	Q9ESS9	Q9ESS9_RAT [tr]	Homocysteine-inducible ER protein with ubiquitin-like domain 1	391	Rattus norvegicus (Rat) [10116]	117-122		
+DSFKEE	1	D3ZXP4	D3ZXP4_RAT [tr]	Sperm-associated antigen 17	2296	Rattus norvegicus (Rat) [10116]	1183-1188	PeptideAtlas, Pride	658648
+DSFKEE	2	D4ADA5	D4ADA5_RAT [tr]	RCG55136	493	Rattus norvegicus (Rat) [10116]	472-477	Pride	
+DSFKEE	3	M0R8D9	M0R8D9_RAT [tr]	Sperm-associated antigen 17	2149	Rattus norvegicus (Rat) [10116]	1036-1041	Pride	
+VNIQKE	1	D3ZXR6	D3ZXR6_RAT [tr]	RGD1565641 (Predicted)	97	Rattus norvegicus (Rat) [10116]	55-60	PeptideAtlas, Pride	672386
+LEPLVD	1	F1M9U4	F1M9U4_RAT [tr]	DNA mismatch repair protein	911	Rattus norvegicus (Rat) [10116]	331-336	Pride	
+GTITSG	1	F1M091	F1M091_RAT [tr]	Kallikrein m	250	Rattus norvegicus (Rat) [10116]	180-185	Pride	
+GLTVLP	1	A0A1W2Q659	A0A1W2Q659_RAT [tr]	Formin homology 2 domain-containing 3 (Fragment)	1293	Rattus norvegicus (Rat) [10116]	843-848		667322
+GLTVLP	2	A0A1W2Q6D5	A0A1W2Q6D5_RAT [tr]	Formin homology 2 domain-containing 3	1547	Rattus norvegicus (Rat) [10116]	1097-1102		
+GLTVLP	3	F1LQJ2	F1LQJ2_RAT [tr]	Formin homology 2 domain-containing 3	1578	Rattus norvegicus (Rat) [10116]	1128-1133	Pride	
+GLTVLP	4	F1LRX2	F1LRX2_RAT [tr]	Formin homology 2 domain-containing 3	1511	Rattus norvegicus (Rat) [10116]	1053-1058	Pride	
+GLTVLP	5	Q5D003	Q5D003_RAT [tr]	Uncharacterized protein (Fragment)	480	Rattus norvegicus (Rat) [10116]	30-35	Pride	
+DSEPVL	1	B5DEJ5	B5DEJ5_RAT [tr]	Eefsec protein	583	Rattus norvegicus (Rat) [10116]	345-350		666299
+DSEPVL	2	G3V8Y8	G3V8Y8_RAT [tr]	Huntingtin interacting protein 1, isoform CRA_a	1030	Rattus norvegicus (Rat) [10116]	322-327	Pride	663668, 676142, 685249
+DSEPVL	3	Q641X6	MORN1_RAT [sp]	MORN repeat-containing protein 1	483	Rattus norvegicus (Rat) [10116]	326-331	Pride	
+ASALGK	1	A0A0G2K0C0	A0A0G2K0C0_RAT [tr]	Fucose-1-phosphate guanylyltransferase	590	Rattus norvegicus (Rat) [10116]	116-121		671793
+ASALGK	2	A0A0G2K1A9	A0A0G2K1A9_RAT [tr]	Nucleolar protein 11	717	Rattus norvegicus (Rat) [10116]	339-344		656138, 656580, 656581, 670744, 673803, 673936, 796075, 803302
+ASALGK	3	B4F7E4	B4F7E4_RAT [tr]	Fpgt protein	590	Rattus norvegicus (Rat) [10116]	116-121		
+ASALGK	4	E9PSM4	E9PSM4_RAT [tr]	Fucose-1-phosphate guanylyltransferase	588	Rattus norvegicus (Rat) [10116]	116-121	PeptideAtlas	
+ASALGK	5	Q712G8	Q712G8_RAT [tr]	Putative GDP-L-fucose pyrophosphorylase	591	Rattus norvegicus (Rat) [10116]	116-121		
+KVTLAD	1	A0A096MJ54	A0A096MJ54_RAT [tr]	Inositol 1,4,5-trisphosphate receptor-interacting protein	557	Rattus norvegicus (Rat) [10116]	245-250		
+TGRLQS	1	A0A0G2JTM7	A0A0G2JTM7_RAT [tr]	Bromodomain-containing 7	652	Rattus norvegicus (Rat) [10116]	375-380		
+TGRLQS	2	A0A0G2JZB7	A0A0G2JZB7_RAT [tr]	Neuron navigator 3	2254	Rattus norvegicus (Rat) [10116]	1501-1506		
+TGRLQS	3	D3ZXX7	D3ZXX7_RAT [tr]	Bromodomain containing 7 (Predicted)	406	Rattus norvegicus (Rat) [10116]	129-134	PeptideAtlas	661674
+PVLKGV	1	P23977	SC6A3_RAT [sp]	Sodium-dependent dopamine transporter	619	Rattus norvegicus (Rat) [10116]	136-141	Pride	
+DPLSET	1	D3ZTT8	D3ZTT8_RAT [tr]	Polypeptide N-acetylgalactosaminyltransferase	436	Rattus norvegicus (Rat) [10116]	409-414	Pride	678081
+LNESLI	1	A0A0G2JZL4	A0A0G2JZL4_RAT [tr]	NHS-like 1	1575	Rattus norvegicus (Rat) [10116]	678-683		678495, 678496
+ISVTTE	1	A0A0G2JWP9	A0A0G2JWP9_RAT [tr]	Olfactory receptor	309	Rattus norvegicus (Rat) [10116]	106-111		669550
+ISVTTE	2	D4AAF4	D4AAF4_RAT [tr]	Olfactory receptor	309	Rattus norvegicus (Rat) [10116]	106-111	Pride	
+ISVTTE	3	D4AC48	D4AC48_RAT [tr]	Olfactory receptor	309	Rattus norvegicus (Rat) [10116]	106-111	Pride	
+NDILSR	1	O35762	NKX61_RAT [sp]	Homeobox protein Nkx-6.1	365	Rattus norvegicus (Rat) [10116]	99-104	Pride	
+DPSKPS	1	M0R7T8	M0R7T8_RAT [tr]	Similar to Vomeromodulin	555	Rattus norvegicus (Rat) [10116]	154-159	Pride	
+DPSKPS	2	Q63751	VOME_RAT [sp]	Vomeromodulin precursor	589	Rattus norvegicus (Rat) [10116]	154-159	Pride	
+ESIVRF	1	Q5G5J2	Q5G5J2_RAT [tr]	Uncharacterized protein	358	Rattus norvegicus (Rat) [10116]	58-63		
+ESIVRF	2	Q5G5J3	Q5G5J3_RAT [tr]	Uncharacterized protein	191	Rattus norvegicus (Rat) [10116]	58-63		
+ESIVRF	3	Q5XI24	Q5XI24_RAT [tr]	Matrilin 1	498	Rattus norvegicus (Rat) [10116]	463-468	Pride	
+SNLLLQ	1	A0A0G2K8H2	A0A0G2K8H2_RAT [tr]	Similar to BC067074 protein	2236	Rattus norvegicus (Rat) [10116]	1573-1578		
+SNLLLQ	2	B5DFE5	B5DFE5_RAT [tr]	Smg5 protein (Fragment)	877	Rattus norvegicus (Rat) [10116]	589-594		
+SNLLLQ	3	E9PU03	E9PU03_RAT [tr]	SMG5 nonsense mediated mRNA decay factor	1017	Rattus norvegicus (Rat) [10116]	589-594	PeptideAtlas, Pride	660907, 660908, 661331, 795743, 815802
+ASTEKS	1	D3ZQ77	D3ZQ77_RAT [tr]	Similar to HTGN29 protein keratinocytes associated transmembrane protein 2, isoform CRA_a	257	Rattus norvegicus (Rat) [10116]	81-86		661849
+KVFRSS	1	A0A0G2JXE4	A0A0G2JXE4_RAT [tr]	Family with sequence similarity 214, member A	1073	Rattus norvegicus (Rat) [10116]	517-522		673297, 680632, 803866
+KVFRSS	2	D3Z9I5	D3Z9I5_RAT [tr]	RCG25530, isoform CRA_c	758	Rattus norvegicus (Rat) [10116]	542-547	PeptideAtlas, Pride	682660, 806195
+TESNKK	1	Q2PQA9	KINH_RAT [sp]	Kinesin-1 heavy chain	963	Rattus norvegicus (Rat) [10116]	616-621	Pride	668635
+IEDLLF	1	F1LTP5	F1LTP5_RAT [tr]	Coiled-coil domain-containing protein 63	552	Rattus norvegicus (Rat) [10116]	178-183	Pride	
+IEDLLF	2	Q4V8F7	CCD63_RAT [sp]	Coiled-coil domain-containing protein 63	559	Rattus norvegicus (Rat) [10116]	179-184	Pride	
+LSSTAS	1	A0A0G2JT65	A0A0G2JT65_RAT [tr]	Zinc finger protein 106	1881	Rattus norvegicus (Rat) [10116]	988-993		665420, 677418, 821787
+LSSTAS	2	A0A0G2JTT7	A0A0G2JTT7_RAT [tr]	Rho GTPase-activating protein 22	700	Rattus norvegicus (Rat) [10116]	506-511		
+LSSTAS	3	A0A0G2K2F8	A0A0G2K2F8_RAT [tr]	Zinc finger protein 106	1880	Rattus norvegicus (Rat) [10116]	988-993		
+LSSTAS	4	A0A1W2Q6E5	A0A1W2Q6E5_RAT [tr]	Pleckstrin homology-like domain, family B, member 2 (Fragment)	441	Rattus norvegicus (Rat) [10116]	111-116		
+LSSTAS	5	D3ZTL3	D3ZTL3_RAT [tr]	Pleckstrin homology-like domain, family B, member 2	1251	Rattus norvegicus (Rat) [10116]	111-116	PeptideAtlas, Pride	679829
+LSSTAS	6	D4A779	D4A779_RAT [tr]	Pleckstrin homology-like domain, family B, member 2	1304	Rattus norvegicus (Rat) [10116]	111-116		
+LSSTAS	7	D4ABZ7	D4ABZ7_RAT [tr]	Rho GTPase activating protein 22 (Predicted)	541	Rattus norvegicus (Rat) [10116]	347-352		659270, 674241
+SFKEEL	1	G3V769	G3V769_RAT [tr]	E3 ubiquitin-protein ligase TRIM35	515	Rattus norvegicus (Rat) [10116]	28-33		661271, 677255, 677256
+SFKEEL	2	Q5RKG6	TRI35_RAT [sp]	E3 ubiquitin-protein ligase TRIM35	501	Rattus norvegicus (Rat) [10116]	14-19	Pride	
+GWIFGT	1	P70612	CXCR1_RAT [sp]	C-X-C chemokine receptor type 1	349	Rattus norvegicus (Rat) [10116]	107-112		
+SQILPD	1	Q5NUI4	Q5NUI4_RAT [tr]	Interferon regulatory factor 8	424	Rattus norvegicus (Rat) [10116]	171-176	Pride	662068, 673894, 681214, 808912
+EELDKY	1	Q5BJY9	K1C18_RAT [sp]	Keratin, type I cytoskeletal 18	423	Rattus norvegicus (Rat) [10116]	258-263	Pride	
+RVVVLS	1	D4ADC2	D4ADC2_RAT [tr]	Helicase with zinc finger 2	2683	Rattus norvegicus (Rat) [10116]	1113-1118	PeptideAtlas, Pride	661989, 662391, 675174, 675547, 675548, 676766, 677008, 680951, 681600, 681601, 687444, 687449, 805081, 811035
+SVLHST	1	P34987	OL867_RAT [sp]	Olfactory receptor 867	312	Rattus norvegicus (Rat) [10116]	244-249		
+MSLGAE	1	D4A701	D4A701_RAT [tr]	Methyltransferase-like 14	436	Rattus norvegicus (Rat) [10116]	1-6		673295
+VLPPLL	1	B1WBR3	B1WBR3_RAT [tr]	Adenosine receptor A2	332	Rattus norvegicus (Rat) [10116]	191-196	Pride	
+VLPPLL	2	O08766	O08766_RAT [tr]	Adenosine receptor A1	326	Rattus norvegicus (Rat) [10116]	189-194		
+VLPPLL	3	P25099	AA1R_RAT [sp]	Adenosine receptor A1	326	Rattus norvegicus (Rat) [10116]	189-194	Pride	670926
+VLPPLL	4	P29276	AA2BR_RAT [sp]	Adenosine receptor A2b	332	Rattus norvegicus (Rat) [10116]	191-196		
+VLPPLL	5	Q920B6	KCNK2_RAT [sp]	Potassium channel subfamily K member 2	426	Rattus norvegicus (Rat) [10116]	395-400	Pride	
+VLPPLL	6	Q920B6-2	KCNK2_RAT [sp]	Potassium channel subfamily K member 2	411	Rattus norvegicus (Rat) [10116]	380-385		
+VLPPLL	7	Q920B6-3	KCNK2_RAT [sp]	Potassium channel subfamily K member 2	422	Rattus norvegicus (Rat) [10116]	391-396		
+VLPPLL	8	Q920B6-4	KCNK2_RAT [sp]	Potassium channel subfamily K member 2	414	Rattus norvegicus (Rat) [10116]	383-388		
+NASVVN	1	D3ZMQ3	D3ZMQ3_RAT [tr]	Integrin subunit alpha 4	1036	Rattus norvegicus (Rat) [10116]	83-88	PeptideAtlas, Pride	662310, 666323, 667270, 672560, 675202, 680847, 687724, 800825
+AATKMS	1	A0A0G2JTL5	A0A0G2JTL5_RAT [tr]	Pyruvate carboxylase	1277	Rattus norvegicus (Rat) [10116]	538-543		665144
+AATKMS	2	P52873	PYC_RAT [sp]	Pyruvate carboxylase, mitochondrial precursor	1178	Rattus norvegicus (Rat) [10116]	439-444	Pride	
+GFSALE	1	Q9ERC1	MYO16_RAT [sp]	Unconventional myosin-XVI	1912	Rattus norvegicus (Rat) [10116]	653-658	Pride	
+GFSALE	2	Q9ERC1-2	MYO16_RAT [sp]	Unconventional myosin-XVI	1322	Rattus norvegicus (Rat) [10116]	653-658		
+GVSVIT	1	Q5J3K8	Q5J3K8_RAT [tr]	Vomeronasal type-1 receptor	306	Rattus norvegicus (Rat) [10116]	269-274	Pride	672874
+ICHDGK	1	F1LNH9	F1LNH9_RAT [tr]	Serine/threonine-protein phosphatase	625	Rattus norvegicus (Rat) [10116]	387-392	Pride	
+ICHDGK	2	Q3SWT6	PPE1_RAT [sp]	Serine/threonine-protein phosphatase with EF-hands 1	640	Rattus norvegicus (Rat) [10116]	402-407	Pride	804984
+DLPQGF	1	A0A0G2JUE3	A0A0G2JUE3_RAT [tr]	Sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1	3681	Rattus norvegicus (Rat) [10116]	3089-3094		
+DLPQGF	2	F1LPU2	F1LPU2_RAT [tr]	Sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1	3565	Rattus norvegicus (Rat) [10116]	2948-2953	Pride	
+DLPQGF	3	P0C6B8	SVEP1_RAT [sp]	Sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1 precursor	3564	Rattus norvegicus (Rat) [10116]	2948-2953	Pride	
+HADQLT	1	A0A0G2JVW3	A0A0G2JVW3_RAT [tr]	Ankyrin repeat domain 17	2524	Rattus norvegicus (Rat) [10116]	726-731		
+HADQLT	2	D4A0B4	D4A0B4_RAT [tr]	Ankyrin repeat domain 17	2358	Rattus norvegicus (Rat) [10116]	726-731		604885, 663813, 664827, 664828, 801069, 801070
+SSVLND	1	A0A0G2K8V3	A0A0G2K8V3_RAT [tr]	THO complex subunit 2	1613	Rattus norvegicus (Rat) [10116]	67-72		667446
+SSVLND	2	F1LZ00	F1LZ00_RAT [tr]	THO complex subunit 2	1587	Rattus norvegicus (Rat) [10116]	67-72	Pride	
+SSVLND	3	F1M0V4	F1M0V4_RAT [tr]	THO complex subunit 2	1594	Rattus norvegicus (Rat) [10116]	67-72	Pride	
+VSGTNG	1	D3ZDG0	D3ZDG0_RAT [tr]	Hypothetical protein LOC681282	222	Rattus norvegicus (Rat) [10116]	74-79	PeptideAtlas	
+VSGTNG	2	Q5M7W6	F234A_RAT [sp]	Protein FAM234A	552	Rattus norvegicus (Rat) [10116]	140-145	Pride	
+SALLAG	1	A0A0G2JYQ8	A0A0G2JYQ8_RAT [tr]	Transcription factor-like 5	489	Rattus norvegicus (Rat) [10116]	78-83		
+IAARDL	1	D3ZJ50	D3ZJ50_RAT [tr]	Plakophilin 3	822	Rattus norvegicus (Rat) [10116]	759-764		
+EVAKNL	1	A0A0G2JX61	A0A0G2JX61_RAT [tr]	Ectonucleoside triphosphate diphosphohydrolase 4	613	Rattus norvegicus (Rat) [10116]	296-301		
+EVAKNL	2	A0A0G2K735	A0A0G2K735_RAT [tr]	E1 ubiquitin-activating enzyme	989	Rattus norvegicus (Rat) [10116]	37-42		
+EVAKNL	3	D3ZEU5	D3ZEU5_RAT [tr]	Ubiquitin-activating enzyme E1-like (Predicted)	676	Rattus norvegicus (Rat) [10116]	37-42	PeptideAtlas, Pride	
+STASAL	1	A0A0G2JTH9	A0A0G2JTH9_RAT [tr]	LRRGT00097	901	Rattus norvegicus (Rat) [10116]	497-502		
+STASAL	2	A0A0G2JVW5	A0A0G2JVW5_RAT [tr]	HECT-type E3 ubiquitin transferase	4062	Rattus norvegicus (Rat) [10116]	1100-1105		574431, 657175, 659392, 661311, 664783, 664960, 664961, 664962, 673797, 679087, 680953, 683427, 683428, 683429, 686034
+STASAL	3	F1M1X0	F1M1X0_RAT [tr]	Polycystin 1-like 1, transient receptor potential channel-interacting	2605	Rattus norvegicus (Rat) [10116]	365-370	PeptideAtlas, Pride	
+STASAL	4	M0RCY2	M0RCY2_RAT [tr]	40S ribosomal protein S13	155	Rattus norvegicus (Rat) [10116]	148-153	Pride	
+STASAL	5	P62278	RS13_RAT [sp]	40S ribosomal protein S13	151	Rattus norvegicus (Rat) [10116]	144-149	Pride	471983, 482770, 492918, 495812, 552416, 631926, 658474, 661811, 661812, 663068, 663069, 663071, 663072, 667003, 677149, 686172
+STASAL	6	Q6AY28	PRS54_RAT [sp]	Inactive serine protease 54 precursor	382	Rattus norvegicus (Rat) [10116]	70-75	Pride	
+STASAL	7	Q6TUE7	Q6TUE7_RAT [tr]	LRRGT00097	900	Rattus norvegicus (Rat) [10116]	496-501		
+STASAL	8	Q71LX6	XIRP2_RAT [sp]	Xin actin-binding repeat-containing protein 2	3302	Rattus norvegicus (Rat) [10116]	2389-2394	Pride	657690, 658563, 666802, 687283
+GVLTES	1	A0A0G2JW88	A0A0G2JW88_RAT [tr]	Microtubule-associated protein	2201	Rattus norvegicus (Rat) [10116]	1506-1511		
+SSVLHS	1	A0A0G2JZ84	A0A0G2JZ84_RAT [tr]	Ectopic P-granules autophagy protein 5 homolog	2575	Rattus norvegicus (Rat) [10116]	1870-1875		681264, 829104
+SSVLHS	2	A0A0G2K7L6	A0A0G2K7L6_RAT [tr]	FYVE, RhoGEF and PH domain-containing 6	1406	Rattus norvegicus (Rat) [10116]	1281-1286		672721, 687340, 804776
+SSVLHS	3	P34987	OL867_RAT [sp]	Olfactory receptor 867	312	Rattus norvegicus (Rat) [10116]	243-248		
+SPRRAR	1	D3ZFG7	D3ZFG7_RAT [tr]	Zinc finger protein 462	2504	Rattus norvegicus (Rat) [10116]	171-176	Pride	680037
+SPRRAR	2	D4A1F8	D4A1F8_RAT [tr]	Nanos C2HC-type zinc finger 1	263	Rattus norvegicus (Rat) [10116]	10-15	Pride	
+SPRRAR	3	M0RB26	M0RB26_RAT [tr]	GRB2-associated regulator of MAPK1 subtype 2	879	Rattus norvegicus (Rat) [10116]	371-376	Pride	
+KRSFIE	1	G3V917	G3V917_RAT [tr]	Protein TANC1	1849	Rattus norvegicus (Rat) [10116]	1841-1846	Pride	
+KRSFIE	2	Q6F6B3	TANC1_RAT [sp]	Protein TANC1	1849	Rattus norvegicus (Rat) [10116]	1841-1846	PeptideAtlas, Pride	
+VRDPQT	1	D3ZA78	D3ZA78_RAT [tr]	TPX2, microtubule nucleation factor	744	Rattus norvegicus (Rat) [10116]	362-367		
+RKSNLK	1	D4A1V1	D4A1V1_RAT [tr]	Intraflagellar transport protein 57 homolog	429	Rattus norvegicus (Rat) [10116]	62-67	Pride	
+ARSVAS	1	Q5U1X7	S39A3_RAT [sp]	Zinc transporter ZIP3	317	Rattus norvegicus (Rat) [10116]	256-261	Pride	
+YFKNHT	1	P20814	CP2CD_RAT [sp]	Cytochrome P450 2C13, male-specific	490	Rattus norvegicus (Rat) [10116]	233-238	Pride	
+LSRLDK	1	G3V7T3	G3V7T3_RAT [tr]	4'-phosphopantetheine phosphatase	773	Rattus norvegicus (Rat) [10116]	702-707	Pride	667537
+LSRLDK	2	Q923S8	PANK4_RAT [sp]	4'-phosphopantetheine phosphatase	773	Rattus norvegicus (Rat) [10116]	702-707	Pride	
+PDDFTG	1	D3ZXX3	D3ZXX3_RAT [tr]	Unc-80 homolog, NALCN channel complex subunit (Fragment)	2577	Rattus norvegicus (Rat) [10116]	2522-2527	Pride	505187, 654530, 659650
+TTAPAI	1	A0A0G2JV49	A0A0G2JV49_RAT [tr]	Protein phosphatase 6, regulatory subunit 2	896	Rattus norvegicus (Rat) [10116]	865-870		
+TTAPAI	2	F1M6T6	F1M6T6_RAT [tr]	Protein phosphatase 6, regulatory subunit 2	901	Rattus norvegicus (Rat) [10116]	870-875	Pride	684191
+GLTGTG	1	D3ZWN3	D3ZWN3_RAT [tr]	Ellis van Creveld syndrome 2 homolog (Human) (Predicted)	1217	Rattus norvegicus (Rat) [10116]	5-10	PeptideAtlas, Pride	
+LADAGF	1	D4AA61	D4AA61_RAT [tr]	Lipase	422	Rattus norvegicus (Rat) [10116]	120-125	Pride	687653
+LADAGF	2	F1M1A6	F1M1A6_RAT [tr]	Similar to potassium channel tetramerisation domain-containing 12b	292	Rattus norvegicus (Rat) [10116]	253-258	PeptideAtlas, Pride	679235, 680472, 688380
+LADAGF	3	M0R7L1	M0R7L1_RAT [tr]	Lipase	398	Rattus norvegicus (Rat) [10116]	107-112		
+LADAGF	4	Q64194	LICH_RAT [sp]	Lysosomal acid lipase/cholesteryl ester hydrolase precursor	397	Rattus norvegicus (Rat) [10116]	106-111	Pride	
+LADAGF	5	Q6IMY6	Q6IMY6_RAT [tr]	Lipase	397	Rattus norvegicus (Rat) [10116]	106-111	Pride	802006
+LGQSKR	1	P29598	UROK_RAT [sp]	Urokinase-type plasminogen activator precursor	432	Rattus norvegicus (Rat) [10116]	240-245	Pride	654596, 671970, 679115
+LGQSKR	2	Q3KR76	Q3KR76_RAT [tr]	Urokinase-type plasminogen activator	432	Rattus norvegicus (Rat) [10116]	240-245		
+SGINAS	1	A0A096MK15	A0A096MK15_RAT [tr]	Nebulin	6666	Rattus norvegicus (Rat) [10116]	4655-4660		
+SGINAS	2	F1M1J2	F1M1J2_RAT [tr]	Nebulin	5375	Rattus norvegicus (Rat) [10116]	3364-3369	PeptideAtlas, Pride	671615, 680032, 828424
+SGINAS	3	Q5U2T8	CIR1_RAT [sp]	Corepressor interacting with RBPJ 1	451	Rattus norvegicus (Rat) [10116]	149-154	Pride	668297
+LPPAYT	1	D4A8Z4	D4A8Z4_RAT [tr]	Hypothetical protein LOC690617	206	Rattus norvegicus (Rat) [10116]	105-110	Pride	
+DAVDCA	1	Q78P75	DYL2_RAT [sp]	Dynein light chain 2, cytoplasmic	89	Rattus norvegicus (Rat) [10116]	20-25	Pride	
+FSALEP	1	A0A096MJ89	A0A096MJ89_RAT [tr]	Arrestin-C	381	Rattus norvegicus (Rat) [10116]	170-175		
+FSALEP	2	F1LMR6	F1LMR6_RAT [tr]	Arrestin-C	380	Rattus norvegicus (Rat) [10116]	169-174	Pride	
+IDRLNE	1	A0A0G2JSU3	A0A0G2JSU3_RAT [tr]	Protein SET	289	Rattus norvegicus (Rat) [10116]	54-59		666481, 681034
+IDRLNE	2	A0A0G2K548	A0A0G2K548_RAT [tr]	A-kinase-anchoring protein 9	3847	Rattus norvegicus (Rat) [10116]	2259-2264		
+IDRLNE	3	A0A0G2K5L9	A0A0G2K5L9_RAT [tr]	DUF1725 domain-containing protein	521	Rattus norvegicus (Rat) [10116]	52-57		688243
+IDRLNE	4	B0BMV1	B0BMV1_RAT [tr]	Set protein	289	Rattus norvegicus (Rat) [10116]	54-59		
+IDRLNE	5	D3ZC07	D3ZC07_RAT [tr]	Protein SET	958	Rattus norvegicus (Rat) [10116]	185-190	PeptideAtlas, Pride	585372, 670836, 677546, 678070, 678071, 678072
+IDRLNE	6	D4A466	D4A466_RAT [tr]	Similar to Set beta isoform	273	Rattus norvegicus (Rat) [10116]	42-47	PeptideAtlas, Pride	
+IDRLNE	7	F1LPB4	F1LPB4_RAT [tr]	A-kinase-anchoring protein 9	3771	Rattus norvegicus (Rat) [10116]	2228-2233	PeptideAtlas, Pride	658447, 660802, 668090, 671095, 672261, 676468, 679762, 681802, 686342, 687263, 687501
+IDRLNE	8	P80349	FUC3_RAT [sp]	Fuctinin-3 (Fragment)	39	Rattus norvegicus (Rat) [10116]	32-37	Pride	
+IDRLNE	9	Q63945	SET_RAT [sp]	Protein SET	289	Rattus norvegicus (Rat) [10116]	54-59	Pride	804335
+IDRLNE	10	Q63945-2	SET_RAT [sp]	Protein SET	277	Rattus norvegicus (Rat) [10116]	42-47		
+IDRLNE	11	Q6QI56	Q6QI56_RAT [tr]	LRRGT00152	521	Rattus norvegicus (Rat) [10116]	52-57		
+LPPLLT	1	D4ACX8	PCD16_RAT [sp]	Protocadherin-16 precursor	3291	Rattus norvegicus (Rat) [10116]	1721-1726	PeptideAtlas, Pride	655450, 658936, 664717, 686583
+LPPLLT	2	F1LQ66	F1LQ66_RAT [tr]	PR domain zinc finger protein 2	1706	Rattus norvegicus (Rat) [10116]	953-958		667588, 679678, 804149, 815406
+LPPLLT	3	F1LTR3	F1LTR3_RAT [tr]	Tudor domain-containing 12	1308	Rattus norvegicus (Rat) [10116]	470-475	Pride	665358, 681428
+LPPLLT	4	Q63755	PRDM2_RAT [sp]	PR domain zinc finger protein 2	1706	Rattus norvegicus (Rat) [10116]	953-958	Pride	
+GAALQI	1	A0A0G2K1H9	A0A0G2K1H9_RAT [tr]	MYCBP-associated protein	964	Rattus norvegicus (Rat) [10116]	544-549		
+GAALQI	2	F1LPD4	F1LPD4_RAT [tr]	MYCBP-associated protein	928	Rattus norvegicus (Rat) [10116]	508-513		657826, 658832, 673464
+GAALQI	3	M0RBQ9	M0RBQ9_RAT [tr]	MYCBP-associated protein	931	Rattus norvegicus (Rat) [10116]	511-516	Pride	
+GAALQI	4	Q69CM7	MYBPP_RAT [sp]	MYCBP-associated protein	928	Rattus norvegicus (Rat) [10116]	508-513	Pride	
+GAALQI	5	Q69CM7-2	MYBPP_RAT [sp]	MYCBP-associated protein	931	Rattus norvegicus (Rat) [10116]	511-516		
+NSASFS	1	D4A5I4	D4A5I4_RAT [tr]	Neuron navigator 1	2149	Rattus norvegicus (Rat) [10116]	1130-1135	Pride	
+NSASFS	2	F1LYK3	F1LYK3_RAT [tr]	Neuron navigator 1	1875	Rattus norvegicus (Rat) [10116]	853-858	PeptideAtlas, Pride	
+NSASFS	3	F1M031	F1M031_RAT [tr]	Neuron navigator 1	1815	Rattus norvegicus (Rat) [10116]	853-858	Pride	
+NSASFS	4	F1M8G8	F1M8G8_RAT [tr]	Signal-induced proliferation-associated 1-like protein 2	1722	Rattus norvegicus (Rat) [10116]	431-436	Pride	
+NSASFS	5	Q5JCS6	SI1L2_RAT [sp]	Signal-induced proliferation-associated 1-like protein 2	1722	Rattus norvegicus (Rat) [10116]	431-436	Pride	
+FLMDLE	1	F1LN43	F1LN43_RAT [tr]	Cystatin SC	135	Rattus norvegicus (Rat) [10116]	78-83	Pride	
+FLMDLE	2	F7FGY2	F7FGY2_RAT [tr]	Interferon regulatory factor 7	456	Rattus norvegicus (Rat) [10116]	447-452	Pride	662499, 662531
+FLMDLE	3	Q8VIH8	CST14_RAT [sp]	Cystatin-14 precursor	130	Rattus norvegicus (Rat) [10116]	73-78	Pride	
+FGGFNF	1	D3ZDR8	D3ZDR8_RAT [tr]	A kinase (PRKA) anchor protein 17B	942	Rattus norvegicus (Rat) [10116]	202-207	Pride	667317, 668613, 676783, 677273, 807817
+SKRSFI	1	F1LPA8	F1LPA8_RAT [tr]	GABA(C) receptor	480	Rattus norvegicus (Rat) [10116]	164-169		
+SKRSFI	2	P50572	GBRR1_RAT [sp]	Gamma-aminobutyric acid receptor subunit rho-1 precursor	480	Rattus norvegicus (Rat) [10116]	164-169	Pride	
+SKRSFI	3	P50573	GBRR3_RAT [sp]	Gamma-aminobutyric acid receptor subunit rho-3 precursor	464	Rattus norvegicus (Rat) [10116]	146-151	Pride	
+LLALHR	1	A0A0G2JVF9	A0A0G2JVF9_RAT [tr]	Vasopressin V1a receptor	394	Rattus norvegicus (Rat) [10116]	73-78		
+LLALHR	2	A0A0G2K999	A0A0G2K999_RAT [tr]	Sidekick cell adhesion molecule 2	2175	Rattus norvegicus (Rat) [10116]	12-17		
+LLALHR	3	D3ZBZ6	D3ZBZ6_RAT [tr]	Dispatched RND transporter family member 2	1346	Rattus norvegicus (Rat) [10116]	624-629	Pride	672031
+LLALHR	4	G3V7V4	G3V7V4_RAT [tr]	Ectonucleotide pyrophosphatase/phosphodiesterase family member 1	872	Rattus norvegicus (Rat) [10116]	828-833	Pride	662529, 671715, 831943
+LLALHR	5	P30560	V1AR_RAT [sp]	Vasopressin V1a receptor	424	Rattus norvegicus (Rat) [10116]	73-78	Pride	658954
+LLALHR	6	Q924C3	ENPP1_RAT [sp]	Ectonucleotide pyrophosphatase/phosphodiesterase family member 1	906	Rattus norvegicus (Rat) [10116]	862-867	Pride	
+LLALHR	7	Q924C3-2	ENPP1_RAT [sp]	Ectonucleotide pyrophosphatase/phosphodiesterase family member 1	905	Rattus norvegicus (Rat) [10116]	861-866		
+LTTRTQ	1	A0A0G2K8I6	A0A0G2K8I6_RAT [tr]	DENN domain-containing 6B	488	Rattus norvegicus (Rat) [10116]	222-227		
+LTTRTQ	2	D3ZAE3	D3ZAE3_RAT [tr]	DENN domain-containing 6B	585	Rattus norvegicus (Rat) [10116]	319-324	PeptideAtlas, Pride	
+CGKGYH	1	F1MA70	F1MA70_RAT [tr]	Cation-transporting ATPase	1216	Rattus norvegicus (Rat) [10116]	787-792	Pride	
+TAGAAA	1	A0A0G2JYF3	A0A0G2JYF3_RAT [tr]	HECT domain E3 ubiquitin protein ligase 2	750	Rattus norvegicus (Rat) [10116]	15-20		
+TAGAAA	2	D4A3K5	H11_RAT [sp]	Histone H1.1	214	Rattus norvegicus (Rat) [10116]	138-143	PeptideAtlas, Pride	678479, 813817
+TAGAAA	3	Q5XI31	PIGS_RAT [sp]	GPI transamidase component PIG-S	555	Rattus norvegicus (Rat) [10116]	3-8	Pride	
+IYKTPP	1	D4A2J9	D4A2J9_RAT [tr]	BCL6 co-repressor	1757	Rattus norvegicus (Rat) [10116]	148-153	PeptideAtlas, Pride	656717, 657209, 661297, 661298, 662237, 670077, 673176, 674943, 814936
+QNAQAL	1	Q99P99	HDAC4_RAT [sp]	Histone deacetylase 4	1077	Rattus norvegicus (Rat) [10116]	471-476	Pride	679134, 688238
+LNEVAK	1	A0A0G2K7K2	A0A0G2K7K2_RAT [tr]	Apoptosis-inducing factor 1, mitochondrial	608	Rattus norvegicus (Rat) [10116]	596-601		663160, 668934, 681885, 683827
+LNEVAK	2	D3ZQE3	D3ZQE3_RAT [tr]	Tripartite motif-containing 8	551	Rattus norvegicus (Rat) [10116]	334-339	Pride	657902, 675977, 676738
+LNEVAK	3	Q924M6	Q924M6_RAT [tr]	Apoptosis-inducing factor	608	Rattus norvegicus (Rat) [10116]	596-601	Pride	
+LNEVAK	4	Q9JM53	AIFM1_RAT [sp]	Apoptosis-inducing factor 1, mitochondrial precursor	612	Rattus norvegicus (Rat) [10116]	600-605	Pride	
+KNLREF	1	D4A2G1	D4A2G1_RAT [tr]	Leucine-rich repeat and Ig domain-containing 4	618	Rattus norvegicus (Rat) [10116]	419-424	Pride	676632
+KNLREF	2	F1LRH4	F1LRH4_RAT [tr]	Laminin subunit gamma 2	1192	Rattus norvegicus (Rat) [10116]	952-957	Pride	682570
+KNLREF	3	P12007	IVD_RAT [sp]	Isovaleryl-CoA dehydrogenase, mitochondrial precursor	424	Rattus norvegicus (Rat) [10116]	76-81	Pride	680401
+IDLQEL	1	B2RYJ1	B2RYJ1_RAT [tr]	Anaphase-promoting complex subunit 2	836	Rattus norvegicus (Rat) [10116]	804-809		
+IDLQEL	2	Q3B7T7	Q3B7T7_RAT [tr]	Anaphase-promoting complex subunit 2 (Fragment)	539	Rattus norvegicus (Rat) [10116]	507-512		
+SPDVDL	1	M0R4F8	DNMBP_RAT [sp]	Dynamin-binding protein	1577	Rattus norvegicus (Rat) [10116]	384-389	Pride	655625
+AGAALQ	1	E9PT23	S38AA_RAT [sp]	Putative sodium-coupled neutral amino acid transporter 10	1099	Rattus norvegicus (Rat) [10116]	1077-1082	PeptideAtlas, Pride	656063, 666029
+AGAALQ	2	Q4G035	Q4G035_RAT [tr]	Slc38a10 protein (Fragment)	212	Rattus norvegicus (Rat) [10116]	190-195		
+AGAALQ	3	Q5U2X9	Q5U2X9_RAT [tr]	RCG32340, isoform CRA_a	678	Rattus norvegicus (Rat) [10116]	577-582	Pride	680205
+FLHVTY	1	D3ZIW4	D3ZIW4_RAT [tr]	Transmembrane protein 62	643	Rattus norvegicus (Rat) [10116]	592-597	PeptideAtlas, Pride	
+TPGDSS	1	F1M785	F1M785_RAT [tr]	PDZ domain-containing protein 2	2762	Rattus norvegicus (Rat) [10116]	1121-1126		
+TPGDSS	2	Q4KMA2	RD23B_RAT [sp]	UV excision repair protein RAD23 homolog B	415	Rattus norvegicus (Rat) [10116]	167-172	Pride	
+TPGDSS	3	Q9QZR8	PDZD2_RAT [sp]	PDZ domain-containing protein 2	2766	Rattus norvegicus (Rat) [10116]	1125-1130	Pride	654989, 667194, 673719, 815107
+KNLNES	1	D3Z924	D3Z924_RAT [tr]	DNA cross-link repair 1A	1026	Rattus norvegicus (Rat) [10116]	601-606		670109
+INLVRD	1	B0BN49	RBMX2_RAT [sp]	RNA-binding motif protein, X-linked 2	328	Rattus norvegicus (Rat) [10116]	65-70	Pride	664548
+TGIAVE	1	G3V7H4	G3V7H4_RAT [tr]	Regulating synaptic membrane exocytosis 3, isoform CRA_a	307	Rattus norvegicus (Rat) [10116]	89-94		
+TGIAVE	2	Q9JIR3	RIMS3_RAT [sp]	Regulating synaptic membrane exocytosis protein 3	307	Rattus norvegicus (Rat) [10116]	89-94	Pride	
+ESLIDL	1	D3ZTE2	D3ZTE2_RAT [tr]	Coiled-coil domain-containing protein 132-like	343	Rattus norvegicus (Rat) [10116]	60-65	PeptideAtlas, Pride	
+ESLIDL	2	F1LSG8	VPS50_RAT [sp]	Syndetin	964	Rattus norvegicus (Rat) [10116]	681-686	Pride	491287, 668112, 673560, 681282
+ESLIDL	3	Q5BJX6	Q5BJX6_RAT [tr]	Ccdc132 protein (Fragment)	524	Rattus norvegicus (Rat) [10116]	241-246		
+SNFRVQ	1	Q8CIR5	Q8CIR5_RAT [tr]	CDK-activating kinase assembly factor MAT1	309	Rattus norvegicus (Rat) [10116]	56-61	Pride	542491
+RLQSLQ	1	A0A5P8DHK4	A0A5P8DHK4_RAT [tr]	Nesprin 1 short isoform	8697	Rattus norvegicus (Rat) [10116]	5598-5603		
+RLQSLQ	2	A0A5P8DHN0	A0A5P8DHN0_RAT [tr]	Nesprin 1 long isoform	8815	Rattus norvegicus (Rat) [10116]	5621-5626		
+RLQSLQ	3	Q66HA5	C2D1A_RAT [sp]	Coiled-coil and C2 domain-containing protein 1A	941	Rattus norvegicus (Rat) [10116]	251-256	Pride	656091, 656427, 671526, 675517, 815722
+RLQSLQ	4	Q66HA5-2	C2D1A_RAT [sp]	Coiled-coil and C2 domain-containing protein 1A	896	Rattus norvegicus (Rat) [10116]	206-211		
+GCCSCG	1	P23606	TGM1_RAT [sp]	Protein-glutamine gamma-glutamyltransferase K	824	Rattus norvegicus (Rat) [10116]	51-56	Pride	654787
+SGTNGT	1	Q5M7W6	F234A_RAT [sp]	Protein FAM234A	552	Rattus norvegicus (Rat) [10116]	141-146	Pride	
+GTTLDS	1	A0A0G2K656	A0A0G2K656_RAT [tr]	Ribonuclease P 21 subunit (Human), isoform CRA_d	69	Rattus norvegicus (Rat) [10116]	50-55		
+SSGWTA	1	A0A096MJT6	A0A096MJT6_RAT [tr]	Similar to RIKEN cDNA D630029K19	5006	Rattus norvegicus (Rat) [10116]	778-783		661445, 664990
+SSGWTA	2	A0A0G2K1D4	A0A0G2K1D4_RAT [tr]	Similar to RIKEN cDNA D630029K19 (Fragment)	130	Rattus norvegicus (Rat) [10116]	64-69		
+SSGWTA	3	D3ZCC5	D3ZCC5_RAT [tr]	Ankyrin repeat domain 24	903	Rattus norvegicus (Rat) [10116]	117-122		660819, 662944
+SSGWTA	4	F1LVK0	F1LVK0_RAT [tr]	Similar to RIKEN cDNA D630029K19	4552	Rattus norvegicus (Rat) [10116]	355-360	PeptideAtlas, Pride	605301
+DLGDIS	1	F1M842	F1M842_RAT [tr]	Tumor protein p53-binding protein 1	1972	Rattus norvegicus (Rat) [10116]	1298-1303	PeptideAtlas, Pride	654619
+VVFLHV	1	Q6IE41	WFDC9_RAT [sp]	Protein WFDC9 precursor	74	Rattus norvegicus (Rat) [10116]	16-21		
+GAISSV	1	D3ZJT1	D3ZJT1_RAT [tr]	WD repeat domain 76	622	Rattus norvegicus (Rat) [10116]	313-318	Pride	
+GAISSV	2	G3V923	G3V923_RAT [tr]	SRY-box containing gene 17 (Predicted), isoform CRA_a	423	Rattus norvegicus (Rat) [10116]	402-407		
+PSKPSK	1	A0A0G2JZA5	A0A0G2JZA5_RAT [tr]	RCG32483, isoform CRA_a	634	Rattus norvegicus (Rat) [10116]	159-164		664207
+PSKPSK	2	F1M7E8	F1M7E8_RAT [tr]	Hypothetical LOC304654	616	Rattus norvegicus (Rat) [10116]	15-20		
+SCCSCL	1	G3V7U7	G3V7U7_RAT [tr]	Fibroblast growth factor receptor substrate 3	493	Rattus norvegicus (Rat) [10116]	3-8		677454
+SCCSCL	2	Q52RG8	FRS3_RAT [sp]	Fibroblast growth factor receptor substrate 3	492	Rattus norvegicus (Rat) [10116]	3-8		
+FQTLLA	1	A0A0G2K7H6	A0A0G2K7H6_RAT [tr]	Serpin family B member 8	347	Rattus norvegicus (Rat) [10116]	70-75		
+FQTLLA	2	D3ZHB5	D3ZHB5_RAT [tr]	Serine (Or cysteine) peptdiase inhibitor, clade B, member 8 (Predicted)	375	Rattus norvegicus (Rat) [10116]	70-75	PeptideAtlas, Pride	
+RFQTLL	1	A0A0G2K988	A0A0G2K988_RAT [tr]	Dishevelled-associated activator of morphogenesis 2	1117	Rattus norvegicus (Rat) [10116]	252-257		
+QALNTL	1	A0A0G2QC39	A0A0G2QC39_RAT [tr]	Taxilin gamma	530	Rattus norvegicus (Rat) [10116]	147-152		
+QALNTL	2	D3ZRN2	D3ZRN2_RAT [tr]	Mediator of RNA polymerase II transcription subunit 1	1567	Rattus norvegicus (Rat) [10116]	886-891		664217, 679287
+QALNTL	3	E9PT23	S38AA_RAT [sp]	Putative sodium-coupled neutral amino acid transporter 10	1099	Rattus norvegicus (Rat) [10116]	294-299	PeptideAtlas, Pride	656063, 666029
+QALNTL	4	M0R6E6	M0R6E6_RAT [tr]	Uncharacterized protein	790	Rattus norvegicus (Rat) [10116]	175-180	PeptideAtlas, Pride	661896, 801717, 815046
+QALNTL	5	Q4FZU5	Q4FZU5_RAT [tr]	Similar to CXORF15	315	Rattus norvegicus (Rat) [10116]	147-152	PeptideAtlas, Pride	
+CSNLLL	1	D3ZKX9	LOXE3_RAT [sp]	Hydroperoxide isomerase ALOXE3	711	Rattus norvegicus (Rat) [10116]	636-641	Pride	
+NRKRIS	1	D4ABM3	D4ABM3_RAT [tr]	Dishevelled associated activator of morphogenesis 1 (Predicted)	968	Rattus norvegicus (Rat) [10116]	946-951	PeptideAtlas, Pride	670985
+PTESIV	1	D3ZJA7	D3ZJA7_RAT [tr]	Similar to TREM-3 (Predicted)	185	Rattus norvegicus (Rat) [10116]	88-93		
+TPPIKD	1	G3V7T6	G3V7T6_RAT [tr]	Splicing factor 3b, subunit 1	1304	Rattus norvegicus (Rat) [10116]	1010-1015		495366, 656594, 659993, 659994, 665037, 677386, 677387, 677388, 677389, 678291, 678292, 683473, 687426
+TASALG	1	A0A1W2Q679	A0A1W2Q679_RAT [tr]	MYC-binding protein 2 (Fragment)	1982	Rattus norvegicus (Rat) [10116]	1503-1508		
+TASALG	2	B1WC45	B1WC45_RAT [tr]	Transcription factor-like 1	364	Rattus norvegicus (Rat) [10116]	335-340		
+TASALG	3	D4A2D3	D4A2D3_RAT [tr]	RCR-type E3 ubiquitin transferase	4538	Rattus norvegicus (Rat) [10116]	1511-1516	PeptideAtlas, Pride	655145, 655146, 655147, 658808, 664293, 672410, 681742
+TASALG	4	G3V7W0	G3V7W0_RAT [tr]	Zinc finger protein 503	645	Rattus norvegicus (Rat) [10116]	638-643		672923
+TASALG	5	O88278	CELR3_RAT [sp]	Cadherin EGF LAG seven-pass G-type receptor 3 precursor	3313	Rattus norvegicus (Rat) [10116]	3280-3285	Pride	656856
+VEAEVQ	1	A0A0G2JY25	A0A0G2JY25_RAT [tr]	Uncharacterized protein	2070	Rattus norvegicus (Rat) [10116]	752-757		658644, 665696, 669640, 673243, 674875
+LNDLCF	1	D4ABA2	D4ABA2_RAT [tr]	Olfactory receptor	310	Rattus norvegicus (Rat) [10116]	68-73	Pride	
+TGTGVL	1	A0A0G2K489	A0A0G2K489_RAT [tr]	Protein sel-1 homolog 2	613	Rattus norvegicus (Rat) [10116]	380-385		
+TGTGVL	2	A0A0G2K4F8	A0A0G2K4F8_RAT [tr]	Protein sel-1 homolog 2	600	Rattus norvegicus (Rat) [10116]	367-372		
+TGTGVL	3	F1LPE2	F1LPE2_RAT [tr]	Protein sel-1 homolog 2	608	Rattus norvegicus (Rat) [10116]	375-380		
+TGTGVL	4	Q5XI05	SE1L2_RAT [sp]	Protein sel-1 homolog 2 precursor	688	Rattus norvegicus (Rat) [10116]	455-460	Pride	665403
+TGTGVL	5	Q6AXW2	Q6AXW2_RAT [tr]	RCG25684, isoform CRA_a	352	Rattus norvegicus (Rat) [10116]	268-273	Pride	654498, 665051, 665205, 684156, 782708
+SAIGKI	1	D4A634	D4A634_RAT [tr]	RAN-binding protein 6	1105	Rattus norvegicus (Rat) [10116]	982-987	PeptideAtlas, Pride	681298
+ISSVLN	1	A0A0G2K542	A0A0G2K542_RAT [tr]	UTP--glucose-1-phosphate uridylyltransferase	507	Rattus norvegicus (Rat) [10116]	100-105		
+ISSVLN	2	Q4V8I9	Q4V8I9_RAT [tr]	UTP--glucose-1-phosphate uridylyltransferase	508	Rattus norvegicus (Rat) [10116]	101-106	Pride	685118
+TISVTT	1	B5DF57	B5DF57_RAT [tr]	Protein-glutamine gamma-glutamyltransferase	689	Rattus norvegicus (Rat) [10116]	103-108	PeptideAtlas, Pride	666190, 806329
+LTESNK	1	A0A0H2UI34	A0A0H2UI34_RAT [tr]	Potassium voltage-gated channel subfamily B member 1	853	Rattus norvegicus (Rat) [10116]	275-280		
+LTESNK	2	F1LVV2	F1LVV2_RAT [tr]	Ion_trans domain-containing protein	720	Rattus norvegicus (Rat) [10116]	96-101	Pride	665543
+LTESNK	3	P15387	KCNB1_RAT [sp]	Potassium voltage-gated channel subfamily B member 1	857	Rattus norvegicus (Rat) [10116]	279-284	Pride	
+LTESNK	4	Q63099	KCNB2_RAT [sp]	Potassium voltage-gated channel subfamily B member 2	907	Rattus norvegicus (Rat) [10116]	283-288	Pride	
+ALDPLS	1	D4A024	D4A024_RAT [tr]	Sal-like 3 (Drosophila) (Predicted)	1190	Rattus norvegicus (Rat) [10116]	263-268		684218
+TLEILD	1	D3ZYP9	D3ZYP9_RAT [tr]	NLR family, CARD domain-containing 3	1100	Rattus norvegicus (Rat) [10116]	1010-1015	Pride	655458, 660610, 683993, 824409
+TLEILD	2	F1LM60	F1LM60_RAT [tr]	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	1443	Rattus norvegicus (Rat) [10116]	1207-1212	Pride	653840, 661639, 675607, 677455, 681926, 681927, 797913
+TLEILD	3	Q5I0H0	Q5I0H0_RAT [tr]	Centd2 protein (Fragment)	383	Rattus norvegicus (Rat) [10116]	147-152		
+QLIRAA	1	D3ZTW7	D3ZTW7_RAT [tr]	ATP synthase mitochondrial F1 complex assembly factor 2	298	Rattus norvegicus (Rat) [10116]	135-140	PeptideAtlas, Pride	
+KSNLKP	1	D4A1V1	D4A1V1_RAT [tr]	Intraflagellar transport protein 57 homolog	429	Rattus norvegicus (Rat) [10116]	63-68	Pride	
+GKQGNF	1	A0A0G2JVT4	A0A0G2JVT4_RAT [tr]	SPATS2-like protein	591	Rattus norvegicus (Rat) [10116]	415-420		
+GKQGNF	2	Q5U2T3	SPS2L_RAT [sp]	SPATS2-like protein	558	Rattus norvegicus (Rat) [10116]	382-387	Pride	
+VSNGTH	1	M0R8R4	M0R8R4_RAT [tr]	Oncoprotein-induced transcript 3 protein	545	Rattus norvegicus (Rat) [10116]	297-302		
+VSNGTH	2	Q6V0K7	OIT3_RAT [sp]	Oncoprotein-induced transcript 3 protein precursor	546	Rattus norvegicus (Rat) [10116]	297-302	Pride	
+SFGGVS	1	A0A0G2KAU9	A0A0G2KAU9_RAT [tr]	Proline-rich coiled-coil 2B	1476	Rattus norvegicus (Rat) [10116]	1214-1219		655773, 668517, 680909
+SFGGVS	2	D3ZY45	D3ZY45_RAT [tr]	Proline-rich coiled-coil 2B	1330	Rattus norvegicus (Rat) [10116]	1058-1063	PeptideAtlas, Pride	
+SFGGVS	3	D3ZZ51	D3ZZ51_RAT [tr]	Proline-rich coiled-coil 2B	2232	Rattus norvegicus (Rat) [10116]	1902-1907	PeptideAtlas, Pride	655683, 663539, 664154, 664155, 668140, 668141, 668142, 678831, 683692, 685069, 686227, 815441
+LQELGK	1	A0A0G2K1T0	A0A0G2K1T0_RAT [tr]	Glutaminase	673	Rattus norvegicus (Rat) [10116]	80-85		195231
+LQELGK	2	A0A0G2KAN7	A0A0G2KAN7_RAT [tr]	Glutaminase	602	Rattus norvegicus (Rat) [10116]	80-85		
+LQELGK	3	B5DFD0	B5DFD0_RAT [tr]	Plekhg2 protein	492	Rattus norvegicus (Rat) [10116]	244-249		
+LQELGK	4	D3ZKC9	D3ZKC9_RAT [tr]	Vir-like m6A methyltransferase-associated	1811	Rattus norvegicus (Rat) [10116]	887-892	PeptideAtlas, Pride	657843, 659286, 686288, 687436, 804263
+LQELGK	5	G3V9A0	G3V9A0_RAT [tr]	Pleckstrin homology and RhoGEF domain-containing G2	1344	Rattus norvegicus (Rat) [10116]	243-248		667959, 675991
+LQELGK	6	P13264	GLSK_RAT [sp]	Glutaminase kidney isoform, mitochondrial precursor	674	Rattus norvegicus (Rat) [10116]	80-85	Pride	676267
+LQELGK	7	P13264-2	GLSK_RAT [sp]	Glutaminase kidney isoform, mitochondrial precursor	603	Rattus norvegicus (Rat) [10116]	80-85		
+SALEPL	1	A0A0G2JVZ7	A0A0G2JVZ7_RAT [tr]	Crystallin beta-gamma domain-containing 2	1834	Rattus norvegicus (Rat) [10116]	1095-1100		687146
+SALEPL	2	F1M9P6	F1M9P6_RAT [tr]	SH3 domain and tetratricopeptide repeats 2	1311	Rattus norvegicus (Rat) [10116]	255-260	Pride	
+VPAQEK	1	A0A0G2JTF6	A0A0G2JTF6_RAT [tr]	Thiamine-triphosphatase	227	Rattus norvegicus (Rat) [10116]	184-189		
+VPAQEK	2	A0A0G2K0C8	A0A0G2K0C8_RAT [tr]	AF4/FMR2 family, member 1	1223	Rattus norvegicus (Rat) [10116]	1049-1054		
+VPAQEK	3	D3ZBU5	D3ZBU5_RAT [tr]	AF4/FMR2 family, member 1	1170	Rattus norvegicus (Rat) [10116]	1054-1059		660400, 664188, 675465
+VPAQEK	4	D4A8X8	D4A8X8_RAT [tr]	CTTNBP2 N-terminal like (Predicted), isoform CRA_a	638	Rattus norvegicus (Rat) [10116]	380-385		656214, 660807, 672623, 686120
+VPAQEK	5	Q8CGV7	THTPA_RAT [sp]	Thiamine-triphosphatase	224	Rattus norvegicus (Rat) [10116]	184-189	Pride	
+RSVASQ	1	A0A0G2K1E5	A0A0G2K1E5_RAT [tr]	Symplekin	1280	Rattus norvegicus (Rat) [10116]	12-17		668342, 670631, 687311, 687464
+RSVASQ	2	F1LSH0	F1LSH0_RAT [tr]	Symplekin	1280	Rattus norvegicus (Rat) [10116]	12-17	Pride	
+FSQILP	1	A0A0G2K8C8	A0A0G2K8C8_RAT [tr]	Similar to hypothetical protein FLJ10706	867	Rattus norvegicus (Rat) [10116]	36-41		
+FSQILP	2	Q5XI94	CA112_RAT [sp]	Uncharacterized protein C1orf112 homolog	905	Rattus norvegicus (Rat) [10116]	74-79	Pride	
+FSQILP	3	Q6AYC7	Q6AYC7_RAT [tr]	Ubiquitin-specific peptidase 18	362	Rattus norvegicus (Rat) [10116]	278-283	Pride	674445, 681625, 687424
+DLQELG	1	A0A0G2JSX8	A0A0G2JSX8_RAT [tr]	Ankyrin repeat and SAM domain-containing protein 6	779	Rattus norvegicus (Rat) [10116]	705-710		
+DLQELG	2	P0C0T2	ANKS6_RAT [sp]	Ankyrin repeat and SAM domain-containing protein 6	885	Rattus norvegicus (Rat) [10116]	811-816	Pride	
+TRAGCL	1	D3ZV87	D3ZV87_RAT [tr]	RAD54-like 2	1466	Rattus norvegicus (Rat) [10116]	815-820	PeptideAtlas, Pride	
+TRAGCL	2	M0RBE0	M0RBE0_RAT [tr]	Helicase ARIP4-like	1079	Rattus norvegicus (Rat) [10116]	815-820	Pride	666636
+NVLYEN	1	F1LRT9	F1LRT9_RAT [tr]	Cytoplasmic dynein 1 heavy chain 1	4643	Rattus norvegicus (Rat) [10116]	3835-3840	PeptideAtlas	
+NVLYEN	2	M0R9X8	M0R9X8_RAT [tr]	Cytoplasmic dynein 1 heavy chain 1	4644	Rattus norvegicus (Rat) [10116]	3836-3841		522537, 614231, 655601, 658400, 659314, 662089, 662128, 662129, 665953, 667307, 667615, 668532, 670708, 673796, 677194, 678017, 683738, 683791, 687416, 687874
+NVLYEN	3	P38650	DYHC1_RAT [sp]	Cytoplasmic dynein 1 heavy chain 1	4644	Rattus norvegicus (Rat) [10116]	3836-3841	Pride	
+KGCCSC	1	Q924C9	S26A3_RAT [sp]	Chloride anion exchanger	757	Rattus norvegicus (Rat) [10116]	40-45	Pride	
+PLQPEL	1	A0A0G2JZ53	A0A0G2JZ53_RAT [tr]	Baculoviral IAP repeat-containing 6	3993	Rattus norvegicus (Rat) [10116]	2157-2162		
+PLQPEL	2	F1LY70	F1LY70_RAT [tr]	Baculoviral IAP repeat-containing 6	3984	Rattus norvegicus (Rat) [10116]	2157-2162	PeptideAtlas, Pride	511843, 654956, 662552, 676268, 681672
+SECVLG	1	P0C7N0	RWDD3_RAT [sp]	RWD domain-containing protein 3	267	Rattus norvegicus (Rat) [10116]	259-264	Pride	
+ENGTIT	1	D3ZBT9	D3ZBT9_RAT [tr]	Protein phosphatase 6, regulatory subunit 3	873	Rattus norvegicus (Rat) [10116]	408-413	PeptideAtlas, Pride	666731, 678363, 681020, 682326, 683961, 684612
+ENGTIT	2	F1MAH5	F1MAH5_RAT [tr]	Protein phosphatase 6, regulatory subunit 3	879	Rattus norvegicus (Rat) [10116]	408-413	PeptideAtlas, Pride	
+SFVIRG	1	D4ACA3	D4ACA3_RAT [tr]	Sister chromatid cohesion protein DCC1	408	Rattus norvegicus (Rat) [10116]	76-81	Pride	
+VNNTVY	1	A0JPM9	EIF3J_RAT [sp]	Eukaryotic translation initiation factor 3 subunit J	259	Rattus norvegicus (Rat) [10116]	139-144	PeptideAtlas, Pride	653820, 668319, 679814, 679815, 684586, 684587
+LPDDFT	1	F1LP01	F1LP01_RAT [tr]	Diacylglycerol kinase	802	Rattus norvegicus (Rat) [10116]	75-80		
+LPDDFT	2	P49621	DGKB_RAT [sp]	Diacylglycerol kinase beta	801	Rattus norvegicus (Rat) [10116]	75-80	Pride	
+NSFTRG	1	F1LXB5	F1LXB5_RAT [tr]	RCG21419-like	804	Rattus norvegicus (Rat) [10116]	238-243	Pride	
+NSFTRG	2	P70505	ADAM1_RAT [sp]	Disintegrin and metalloproteinase domain-containing protein 1 precursor	789	Rattus norvegicus (Rat) [10116]	273-278	Pride	805360
+NSFTRG	3	Q66HK9	Q66HK9_RAT [tr]	A disintegrin and metallopeptidase domain 1a	789	Rattus norvegicus (Rat) [10116]	273-278		
+DSLSST	1	A0A096MJT6	A0A096MJT6_RAT [tr]	Similar to RIKEN cDNA D630029K19	5006	Rattus norvegicus (Rat) [10116]	3720-3725		661445, 664990
+DSLSST	2	A0A0G2JTX5	A0A0G2JTX5_RAT [tr]	Dipeptidyl peptidase 4	767	Rattus norvegicus (Rat) [10116]	272-277		660972, 661897
+DSLSST	3	A0A0G2K238	A0A0G2K238_RAT [tr]	Dipeptidyl peptidase 4	789	Rattus norvegicus (Rat) [10116]	272-277		
+DSLSST	4	D4A1I0	D4A1I0_RAT [tr]	Similar to RIKEN cDNA D630029K19 (Fragment)	218	Rattus norvegicus (Rat) [10116]	75-80	Pride	
+DSLSST	5	F1LVK0	F1LVK0_RAT [tr]	Similar to RIKEN cDNA D630029K19	4552	Rattus norvegicus (Rat) [10116]	3301-3306	PeptideAtlas, Pride	605301
+DSLSST	6	F1M7X5	F1M7X5_RAT [tr]	Dipeptidyl peptidase 4	767	Rattus norvegicus (Rat) [10116]	272-277	Pride	
+DSLSST	7	P14740	DPP4_RAT [sp]	Dipeptidyl peptidase 4	767	Rattus norvegicus (Rat) [10116]	272-277	Pride	604293, 614756, 768054
+TNLVKN	1	P07631	SUH2_RAT [sp]	Probable alcohol sulfotransferase	285	Rattus norvegicus (Rat) [10116]	137-142	Pride	
+LDKYFK	1	F8WG88	F8WG88_RAT [tr]	Follistatin-related protein 1	535	Rattus norvegicus (Rat) [10116]	196-201	Pride	665760
+LDKYFK	2	Q62632	FSTL1_RAT [sp]	Follistatin-related protein 1 precursor	306	Rattus norvegicus (Rat) [10116]	147-152	Pride	
+LDKYFK	3	Q7TP46	Q7TP46_RAT [tr]	Ab2-379	535	Rattus norvegicus (Rat) [10116]	196-201	Pride	
+SASFST	1	P61765	STXB1_RAT [sp]	Syntaxin-binding protein 1	594	Rattus norvegicus (Rat) [10116]	507-512	Pride	
+SASFST	2	P61765-2	STXB1_RAT [sp]	Syntaxin-binding protein 1	603	Rattus norvegicus (Rat) [10116]	507-512		
+VVIGIV	1	F1LY16	F1LY16_RAT [tr]	Otogelin-like	2131	Rattus norvegicus (Rat) [10116]	1697-1702	Pride	
+VVIGIV	2	Q6P7P5	BZW1_RAT [sp]	Basic leucine zipper and W2 domain-containing protein 1	419	Rattus norvegicus (Rat) [10116]	291-296	Pride	677424, 687421
+SSTASA	1	D3ZHL8	D3ZHL8_RAT [tr]	G protein-coupled receptor 150	427	Rattus norvegicus (Rat) [10116]	198-203	Pride	
+SSTASA	2	D3ZT64	D3ZT64_RAT [tr]	Autophagy-related 2A	1916	Rattus norvegicus (Rat) [10116]	1769-1774		657439, 669673
+SSTASA	3	D4A816	D4A816_RAT [tr]	Olfactory receptor	312	Rattus norvegicus (Rat) [10116]	262-267		
+SSTASA	4	G3V662	G3V662_RAT [tr]	Nuclear pore complex protein Nup153	1468	Rattus norvegicus (Rat) [10116]	1257-1262		611557, 656801, 659719, 661940, 682263, 682799, 684795, 814815
+SSTASA	5	G3V7V7	G3V7V7_RAT [tr]	Insulin receptor substrate 1	1235	Rattus norvegicus (Rat) [10116]	1035-1040		664688, 681517
+SSTASA	6	M0RCY2	M0RCY2_RAT [tr]	40S ribosomal protein S13	155	Rattus norvegicus (Rat) [10116]	147-152	Pride	
+SSTASA	7	P35570	IRS1_RAT [sp]	Insulin receptor substrate 1	1235	Rattus norvegicus (Rat) [10116]	1035-1040	Pride	
+SSTASA	8	P49791	NU153_RAT [sp]	Nuclear pore complex protein Nup153	1468	Rattus norvegicus (Rat) [10116]	1257-1262	Pride	
+SSTASA	9	P62278	RS13_RAT [sp]	40S ribosomal protein S13	151	Rattus norvegicus (Rat) [10116]	143-148	Pride	471983, 482770, 492918, 495812, 552416, 631926, 658474, 661811, 661812, 663068, 663069, 663071, 663072, 667003, 677149, 686172
+SSTASA	10	Q5XFX2	Q5XFX2_RAT [tr]	Nup153 protein (Fragment)	575	Rattus norvegicus (Rat) [10116]	364-369		
+LKGCCS	1	Q5U201	AMN1_RAT [sp]	Protein AMN1 homolog	258	Rattus norvegicus (Rat) [10116]	122-127	Pride	
+LKGCCS	2	Q924C9	S26A3_RAT [sp]	Chloride anion exchanger	757	Rattus norvegicus (Rat) [10116]	39-44	Pride	
+CPFGEV	1	D3ZVA1	D3ZVA1_RAT [tr]	CUB domain containing protein 1 (Predicted)	833	Rattus norvegicus (Rat) [10116]	104-109	Pride	
+NLVKNK	1	D3ZD89	D3ZD89_RAT [tr]	N(alpha)-acetyltransferase 15, NatA auxiliary subunit	865	Rattus norvegicus (Rat) [10116]	666-671	PeptideAtlas, Pride	675598, 682126, 688055
+LPLVSS	1	A0A0G2JT20	A0A0G2JT20_RAT [tr]	MIER family member 2	509	Rattus norvegicus (Rat) [10116]	444-449		
+LPLVSS	2	A0A0G2JY25	A0A0G2JY25_RAT [tr]	Uncharacterized protein	2070	Rattus norvegicus (Rat) [10116]	727-732		658644, 665696, 669640, 673243, 674875
+LPLVSS	3	A0A0G2K6R9	A0A0G2K6R9_RAT [tr]	Ankyrin 2	3931	Rattus norvegicus (Rat) [10116]	2349-2354		
+LPLVSS	4	A0A0G2KBB9	A0A0G2KBB9_RAT [tr]	Ankyrin 2	3963	Rattus norvegicus (Rat) [10116]	2316-2321		
+LPLVSS	5	D3ZVJ3	D3ZVJ3_RAT [tr]	Kinetochore associated 1 (Predicted)	2050	Rattus norvegicus (Rat) [10116]	1124-1129	PeptideAtlas, Pride	657658, 657896, 665383
+LPLVSS	6	D4A435	D4A435_RAT [tr]	Intercellular adhesion molecule 5	917	Rattus norvegicus (Rat) [10116]	619-624	Pride	667332
+LPLVSS	7	D4A853	D4A853_RAT [tr]	Capicua transcriptional repressor	1605	Rattus norvegicus (Rat) [10116]	939-944	PeptideAtlas, Pride	654639
+LPLVSS	8	D4ABH1	D4ABH1_RAT [tr]	SR-related CTD-associated factor 11	1439	Rattus norvegicus (Rat) [10116]	257-262	PeptideAtlas, Pride	661406, 664050, 664189, 664190, 664191, 664192, 664193, 664194, 670441, 678494, 682134, 795947, 823921, 826929
+LPLVSS	9	F1LM42	F1LM42_RAT [tr]	Ankyrin 2	3937	Rattus norvegicus (Rat) [10116]	2290-2295	Pride	
+LPLVSS	10	F1LSR8	F1LSR8_RAT [tr]	Voltage-dependent calcium channel subunit alpha-2/delta-3	1085	Rattus norvegicus (Rat) [10116]	1076-1081	Pride	
+LPLVSS	11	F1M5N3	F1M5N3_RAT [tr]	Ankyrin 2	3908	Rattus norvegicus (Rat) [10116]	2261-2266	Pride	
+LPLVSS	12	F1M9N9	F1M9N9_RAT [tr]	Ankyrin 2	3908	Rattus norvegicus (Rat) [10116]	2322-2327	Pride	671287
+LPLVSS	13	F6QBA3	F6QBA3_RAT [tr]	Perilipin	421	Rattus norvegicus (Rat) [10116]	19-24	Pride	655756, 656168, 661195, 677963, 687481, 790124, 813814
+LPLVSS	14	Q5U2U5	Q5U2U5_RAT [tr]	Perilipin	422	Rattus norvegicus (Rat) [10116]	19-24	Pride	
+LPLVSS	15	Q8CFG5	CA2D3_RAT [sp]	Voltage-dependent calcium channel subunit alpha-2/delta-3 precursor	1085	Rattus norvegicus (Rat) [10116]	1076-1081	Pride	
+LPLVSS	16	Q8VI66	Q8VI66_RAT [tr]	Apoptotic protease-activating factor 1	1249	Rattus norvegicus (Rat) [10116]	91-96		
+LPLVSS	17	Q9EPV5	APAF_RAT [sp]	Apoptotic protease-activating factor 1	1249	Rattus norvegicus (Rat) [10116]	91-96	Pride	659375, 661784, 673595, 814738
+NTSNQV	1	A0A0G2JXC2	A0A0G2JXC2_RAT [tr]	Formin-like 3	934	Rattus norvegicus (Rat) [10116]	351-356		655737, 655738, 657549, 665866, 675551, 676500
+QKEIDR	1	F1M614	F1M614_RAT [tr]	Laminin subunit alpha 2	3121	Rattus norvegicus (Rat) [10116]	1717-1722	PeptideAtlas, Pride	661268, 669592, 677595
+KQIYKT	1	A0A096MJB5	A0A096MJB5_RAT [tr]	Protein unc-45 homolog B	929	Rattus norvegicus (Rat) [10116]	467-472		
+KQIYKT	2	D4A8U9	D4A8U9_RAT [tr]	Unc-45 homolog B (C. elegans) (Predicted)	735	Rattus norvegicus (Rat) [10116]	270-275		674574
+ASANLA	1	D3ZE17	D3ZE17_RAT [tr]	Caskin-1	1430	Rattus norvegicus (Rat) [10116]	959-964		
+ASANLA	2	Q8VHK2	CSKI1_RAT [sp]	Caskin-1	1430	Rattus norvegicus (Rat) [10116]	959-964	Pride	
+FGAGAA	1	G3V7V7	G3V7V7_RAT [tr]	Insulin receptor substrate 1	1235	Rattus norvegicus (Rat) [10116]	1115-1120		664688, 681517
+FGAGAA	2	M0R697	M0R697_RAT [tr]	Transmembrane protein 121B	572	Rattus norvegicus (Rat) [10116]	132-137	Pride	
+FGAGAA	3	P35570	IRS1_RAT [sp]	Insulin receptor substrate 1	1235	Rattus norvegicus (Rat) [10116]	1115-1120	Pride	
+SNNSIA	1	D3Z8M8	D3Z8M8_RAT [tr]	TSC22 domain family protein 1	1050	Rattus norvegicus (Rat) [10116]	128-133	PeptideAtlas, Pride	673555
+KLQDVV	1	B5DFF4	B5DFF4_RAT [tr]	VPS37C subunit of ESCRT-I	353	Rattus norvegicus (Rat) [10116]	152-157		669206
+KLQDVV	2	F1LQR8	F1LQR8_RAT [tr]	Inositol 1,4,5-trisphosphate receptor type 2	2058	Rattus norvegicus (Rat) [10116]	1549-1554	PeptideAtlas, Pride	
+KLQDVV	3	P29995	ITPR2_RAT [sp]	Inositol 1,4,5-trisphosphate receptor type 2	2701	Rattus norvegicus (Rat) [10116]	1605-1610	Pride	654159, 655507, 656077, 665140, 668126, 669722, 681404, 688321
+KLQDVV	4	Q6W3E4	Q6W3E4_RAT [tr]	Inositol trisphosphate receptor type 2	2701	Rattus norvegicus (Rat) [10116]	1605-1610		
+NCYFPL	1	G3V7B1	G3V7B1_RAT [tr]	C-type lectin domain family 4 member D	218	Rattus norvegicus (Rat) [10116]	92-97	Pride	
+AGLIAI	1	D4A4H1	D4A4H1_RAT [tr]	Cd300 molecule-like family member G	372	Rattus norvegicus (Rat) [10116]	259-264		
+AGLIAI	2	M0R459	M0R459_RAT [tr]	Cd300 molecule-like family member G	416	Rattus norvegicus (Rat) [10116]	303-308	Pride	672877
+RLDKVE	1	A0SZW2	A0SZW2_RAT [tr]	CD40 ligand	260	Rattus norvegicus (Rat) [10116]	49-54	Pride	
+RLDKVE	2	Q9Z2V2	CD40L_RAT [sp]	CD40 ligand	260	Rattus norvegicus (Rat) [10116]	49-54	Pride	
+AEVQID	1	A0A1B0GWP7	A0A1B0GWP7_RAT [tr]	Uncharacterized protein (Fragment)	891	Rattus norvegicus (Rat) [10116]	26-31		
+AEVQID	2	D3ZN05	D3ZN05_RAT [tr]	Uncharacterized protein	1725	Rattus norvegicus (Rat) [10116]	860-865	Pride	658809, 666502
+AEVQID	3	P70570	P70570_RAT [tr]	Laminin-5 alpha 3 chain	1725	Rattus norvegicus (Rat) [10116]	860-865	Pride	
+ALTGIA	1	D4AAI6	D4AAI6_RAT [tr]	Transmembrane protein 45A	273	Rattus norvegicus (Rat) [10116]	61-66	Pride	
+QIITTD	1	A0A1B0GWV0	A0A1B0GWV0_RAT [tr]	Contactin-associated protein-like 5-3 (Fragment)	930	Rattus norvegicus (Rat) [10116]	736-741		663940
+QIITTD	2	D3ZMB0	D3ZMB0_RAT [tr]	A disintegrin-like and metalloprotease (Reprolysin type) with thrombospondin type 1 motif, 9 (Predicted)	1880	Rattus norvegicus (Rat) [10116]	1800-1805		682480
+QIITTD	3	F1LMS4	F1LMS4_RAT [tr]	Contactin-associated protein-like 5-3	1279	Rattus norvegicus (Rat) [10116]	735-740	Pride	
+QIITTD	4	Q0V8T3	CTP5D_RAT [sp]	Contactin-associated protein like 5-4 precursor	1305	Rattus norvegicus (Rat) [10116]	761-766	Pride	
+EDDSEP	1	A0A0G2K8V2	A0A0G2K8V2_RAT [tr]	Metavinculin	1134	Rattus norvegicus (Rat) [10116]	946-951		
+LNTLVK	1	M0R4J5	M0R4J5_RAT [tr]	Interferon-induced protein 44-like	443	Rattus norvegicus (Rat) [10116]	98-103	Pride	674071
+LEGKQG	1	Q5U311	SLN13_RAT [sp]	Schlafen family member 13	907	Rattus norvegicus (Rat) [10116]	456-461	Pride	664152, 669396, 685295
+ELDSFK	1	A0A0G2JXS3	A0A0G2JXS3_RAT [tr]	Nucleolar and spindle-associated protein 1	384	Rattus norvegicus (Rat) [10116]	8-13		
+ELDSFK	2	B1WBZ5	B1WBZ5_RAT [tr]	Nusap1 protein	416	Rattus norvegicus (Rat) [10116]	8-13		
+ELDSFK	3	D4AAK2	D4AAK2_RAT [tr]	Nucleolar and spindle associated protein 1 (Predicted), isoform CRA_a	376	Rattus norvegicus (Rat) [10116]	8-13		
+LKGVKL	1	A0A0G2JZ69	A0A0G2JZ69_RAT [tr]	Spectrin alpha chain, non-erythrocytic 1	2489	Rattus norvegicus (Rat) [10116]	681-686		
+LKGVKL	2	A0A0G2K1E7	A0A0G2K1E7_RAT [tr]	Spectrin alpha chain, non-erythrocytic 1	2473	Rattus norvegicus (Rat) [10116]	669-674		
+LKGVKL	3	A0A0G2K1Y8	A0A0G2K1Y8_RAT [tr]	Spectrin alpha chain, non-erythrocytic 1	2498	Rattus norvegicus (Rat) [10116]	669-674		
+LKGVKL	4	C9EH87	C9EH87_RAT [tr]	Alpha II spectrin	2498	Rattus norvegicus (Rat) [10116]	669-674	Pride	
+LKGVKL	5	P16086	SPTN1_RAT [sp]	Spectrin alpha chain, non-erythrocytic 1	2472	Rattus norvegicus (Rat) [10116]	669-674	Pride	442836, 588961, 654796, 655840, 655841, 660738, 660739, 667410, 667505, 673667, 675066, 675529, 675530, 676887, 680844, 681163, 688428
+LKGVKL	6	Q6IRK8	Q6IRK8_RAT [tr]	Spectrin alpha chain, non-erythrocytic 1	2452	Rattus norvegicus (Rat) [10116]	669-674	Pride	
+LQYGSF	1	A0A0G2K1X6	A0A0G2K1X6_RAT [tr]	Protein bassoon	2994	Rattus norvegicus (Rat) [10116]	1090-1095		
+LQYGSF	2	G3V984	G3V984_RAT [tr]	Protein bassoon	3933	Rattus norvegicus (Rat) [10116]	2029-2034		657893, 671028, 674846
+LQYGSF	3	O88778	BSN_RAT [sp]	Protein bassoon	3938	Rattus norvegicus (Rat) [10116]	2030-2035	Pride	
+NESLID	1	D3ZN76	D3ZN76_RAT [tr]	Protein transport protein sec16	2346	Rattus norvegicus (Rat) [10116]	1528-1533	PeptideAtlas, Pride	490879, 655298, 655299, 656655, 663073, 663074, 663536, 663554, 663555, 664045, 664046, 664047, 664061, 664075, 664610, 664879, 664880, 664881, 664882, 664883, 664971, 679111, 679523, 680082, 800843
+VVVLSF	1	F1LW67	F1LW67_RAT [tr]	Olfactory receptor	312	Rattus norvegicus (Rat) [10116]	29-34		671995
+VVVLSF	2	M0R508	M0R508_RAT [tr]	Olfactory receptor	312	Rattus norvegicus (Rat) [10116]	246-251	Pride	
+NIIRGW	1	B0BNB4	B0BNB4_RAT [tr]	Chromatin modification-related protein MEAF6	191	Rattus norvegicus (Rat) [10116]	56-61		
+NSNNLD	1	A0A0G2K8T6	A0A0G2K8T6_RAT [tr]	Zinc finger E-box-binding homeobox 2	1035	Rattus norvegicus (Rat) [10116]	871-876		657868, 667643, 680140, 682888
+NSNNLD	2	E9PTC3	E9PTC3_RAT [tr]	Zinc finger E-box-binding homeobox 2	1215	Rattus norvegicus (Rat) [10116]	871-876		
+NSNNLD	3	Q3T921	Q3T921_RAT [tr]	Zfhx1b zinc finger homeobox 1b	1215	Rattus norvegicus (Rat) [10116]	871-876		
+TEIYQA	1	Q63132	ROS1_RAT [sp]	Proto-oncogene tyrosine-protein kinase ROS precursor	2338	Rattus norvegicus (Rat) [10116]	1398-1403	Pride	669133
+TEIYQA	2	Q63132-2	ROS1_RAT [sp]	Proto-oncogene tyrosine-protein kinase ROS precursor	2317	Rattus norvegicus (Rat) [10116]	1377-1382		
+LAGTIT	1	A0A096P6L6	A0A096P6L6_RAT [tr]	Teneurin-2	2603	Rattus norvegicus (Rat) [10116]	1624-1629		
+NLDSKV	1	F1LV88	F1LV88_RAT [tr]	Zinc finger protein 7-like	676	Rattus norvegicus (Rat) [10116]	116-121	Pride	
+FVTQRN	1	F1M855	F1M855_RAT [tr]	Glutamate receptor	844	Rattus norvegicus (Rat) [10116]	695-700	Pride	
+FVTQRN	2	P42260	GRIK2_RAT [sp]	Glutamate receptor ionotropic, kainate 2 precursor	908	Rattus norvegicus (Rat) [10116]	744-749	Pride	
+DPQTLE	1	G3V7N1	G3V7N1_RAT [tr]	Beta,beta-carotene 15,15'-dioxygenase	566	Rattus norvegicus (Rat) [10116]	148-153		
+DPQTLE	2	Q91XT5	BCDO1_RAT [sp]	Beta,beta-carotene 15,15'-dioxygenase	566	Rattus norvegicus (Rat) [10116]	148-153	Pride	
+LGKLQD	1	A0A0H2UI13	A0A0H2UI13_RAT [tr]	E3 ubiquitin-protein ligase TRIM17	500	Rattus norvegicus (Rat) [10116]	238-243		
+LGKLQD	2	Q9WV59	TRI17_RAT [sp]	E3 ubiquitin-protein ligase TRIM17	477	Rattus norvegicus (Rat) [10116]	215-220		669029
+PLVSSQ	1	A0A140TAC9	A0A140TAC9_RAT [tr]	Zinc finger protein 335	1337	Rattus norvegicus (Rat) [10116]	377-382		
+PLVSSQ	2	G3V893	ZN335_RAT [sp]	Zinc finger protein 335	1336	Rattus norvegicus (Rat) [10116]	376-381	Pride	823971
+FNGIGV	1	A0A0G2JWS6	A0A0G2JWS6_RAT [tr]	Discoidin, CUB and LCCL domain-containing protein 2	771	Rattus norvegicus (Rat) [10116]	132-137		
+FNGIGV	2	Q91ZV2	DCBD2_RAT [sp]	Discoidin, CUB and LCCL domain-containing protein 2 precursor	769	Rattus norvegicus (Rat) [10116]	131-136	Pride	686717
+PQGFSA	1	D3ZXJ5	D3ZXJ5_RAT [tr]	Elongation factor-like GTPase 1	1127	Rattus norvegicus (Rat) [10116]	539-544		672015, 686327
+ALNTLV	1	Q5I0E1	Q5I0E1_RAT [tr]	Leucine-rich alpha-2-glycoprotein 1	332	Rattus norvegicus (Rat) [10116]	124-129	Pride	672501, 673528
+ALNTLV	2	Q5U1W4	LAP4B_RAT [sp]	Lysosomal-associated transmembrane protein 4B	227	Rattus norvegicus (Rat) [10116]	113-118	Pride	671572
+AAEIRA	1	D4A0C3	D4A0C3_RAT [tr]	HID1 domain-containing	767	Rattus norvegicus (Rat) [10116]	52-57	PeptideAtlas, Pride	657674
+LDPLSE	1	G3V747	G3V747_RAT [tr]	Gap junction protein	416	Rattus norvegicus (Rat) [10116]	256-261		
+LDPLSE	2	P29414	CXA3_RAT [sp]	Gap junction alpha-3 protein	416	Rattus norvegicus (Rat) [10116]	256-261		
+PKKSTN	1	Q5HZF2	WBP4_RAT [sp]	WW domain-binding protein 4	374	Rattus norvegicus (Rat) [10116]	286-291	Pride	
+NQKLIA	1	D3Z9L5	D3Z9L5_RAT [tr]	WD repeat domain 11	1224	Rattus norvegicus (Rat) [10116]	763-768	PeptideAtlas, Pride	656423, 669410, 682492
+MTSCCS	1	D3ZQ01	D3ZQ01_RAT [tr]	Uncharacterized protein	154	Rattus norvegicus (Rat) [10116]	1-6	Pride	
+PRRARS	1	Q66H86	OLFL1_RAT [sp]	Olfactomedin-like protein 1 precursor	402	Rattus norvegicus (Rat) [10116]	362-367	Pride	
+VFRSSV	1	A0A0G2K1I9	A0A0G2K1I9_RAT [tr]	Sperm-tail PG-rich repeat-containing 4	221	Rattus norvegicus (Rat) [10116]	133-138		
+VFRSSV	2	F1LXX1	F1LXX1_RAT [tr]	RCG61839	247	Rattus norvegicus (Rat) [10116]	159-164	Pride	
+RASANL	1	P31421	GRM2_RAT [sp]	Metabotropic glutamate receptor 2 precursor	872	Rattus norvegicus (Rat) [10116]	841-846	Pride	673189
+VIGIVN	1	A0A0U1RRU0	A0A0U1RRU0_RAT [tr]	SRSF protein kinase 1	655	Rattus norvegicus (Rat) [10116]	359-364		
+VIGIVN	2	D3ZKF3	D3ZKF3_RAT [tr]	MORC family CW-type zinc finger 1	957	Rattus norvegicus (Rat) [10116]	396-401	Pride	685040
+VIGIVN	3	E9PTN4	E9PTN4_RAT [tr]	SRSF protein kinase 1	655	Rattus norvegicus (Rat) [10116]	359-364	PeptideAtlas, Pride	679783, 684541, 685035, 685092
+VIGIVN	4	Q4KLN3	Q4KLN3_RAT [tr]	SFRS protein kinase 1	655	Rattus norvegicus (Rat) [10116]	359-364		
+GQTGKI	1	F8WFG6	F8WFG6_RAT [tr]	Scavenger receptor class B member 1	479	Rattus norvegicus (Rat) [10116]	371-376	Pride	
+GQTGKI	2	G3V614	G3V614_RAT [tr]	KIF-binding protein	617	Rattus norvegicus (Rat) [10116]	277-282	Pride	
+GQTGKI	3	G3V636	G3V636_RAT [tr]	Scavenger receptor class B member 1	506	Rattus norvegicus (Rat) [10116]	401-406		
+GQTGKI	4	O88548	O88548_RAT [tr]	Type II pneumocyte CD36-related class B scavenger receptor	509	Rattus norvegicus (Rat) [10116]	401-406		
+GQTGKI	5	P13803	ETFA_RAT [sp]	Electron transfer flavoprotein subunit alpha, mitochondrial precursor	333	Rattus norvegicus (Rat) [10116]	264-269	Pride	
+GQTGKI	6	P97943	SCRB1_RAT [sp]	Scavenger receptor class B member 1	509	Rattus norvegicus (Rat) [10116]	401-406		659285
+GQTGKI	7	Q4G074	KBP_RAT [sp]	KIF-binding protein	617	Rattus norvegicus (Rat) [10116]	277-282	Pride	
+GQTGKI	8	Q6B4I7	Q6B4I7_RAT [tr]	Scavenger receptor class B type 2	506	Rattus norvegicus (Rat) [10116]	401-406		
+GQTGKI	9	Q6SR89	Q6SR89_RAT [tr]	Scavenger receptor class B type 1	509	Rattus norvegicus (Rat) [10116]	401-406		
+KTPPIK	1	A0A096UWG9	A0A096UWG9_RAT [tr]	Diacylglycerol kinase	567	Rattus norvegicus (Rat) [10116]	252-257		
+KTPPIK	2	Q2YDU7	Q2YDU7_RAT [tr]	Diacylglycerol kinase (ATP)	407	Rattus norvegicus (Rat) [10116]	252-257		
+ILPDPS	1	A0A140TAE5	A0A140TAE5_RAT [tr]	DDB1- and CUL4-associated factor 17	519	Rattus norvegicus (Rat) [10116]	110-115		
+ILPDPS	2	B1H299	DCA17_RAT [sp]	DDB1- and CUL4-associated factor 17	505	Rattus norvegicus (Rat) [10116]	110-115		659311, 675546, 685148
+ILPDPS	3	D3ZQK5	D3ZQK5_RAT [tr]	Similar to mKIAA1522 protein	1016	Rattus norvegicus (Rat) [10116]	702-707		677698
+LNDILS	1	A0A0A0MXV8	A0A0A0MXV8_RAT [tr]	Gamma-aminobutyric acid type B receptor subunit 2	940	Rattus norvegicus (Rat) [10116]	833-838		
+LNDILS	2	D3ZAD9	D3ZAD9_RAT [tr]	NLR family, pyrin domain-containing 9	1003	Rattus norvegicus (Rat) [10116]	210-215	Pride	
+LNDILS	3	O88871	GABR2_RAT [sp]	Gamma-aminobutyric acid type B receptor subunit 2 precursor	940	Rattus norvegicus (Rat) [10116]	833-838	Pride	
+LQSLQT	1	D3ZGU3	D3ZGU3_RAT [tr]	C-type lectin domain family 1 member A	269	Rattus norvegicus (Rat) [10116]	99-104		684991
+LQSLQT	2	Q6TMA8	ANGL4_RAT [sp]	Angiopoietin-related protein 4 precursor	405	Rattus norvegicus (Rat) [10116]	101-106	Pride	
+GVEGFN	1	F1M644	F1M644_RAT [tr]	Adhesion G protein-coupled receptor G5	523	Rattus norvegicus (Rat) [10116]	328-333	Pride	662454, 668057, 681987
+LLQYGS	1	F1LNH3	F1LNH3_RAT [tr]	Collagen type VI alpha 2 chain	1027	Rattus norvegicus (Rat) [10116]	887-892		
+LLQYGS	2	F1LXS3	F1LXS3_RAT [tr]	Matrilin 2	941	Rattus norvegicus (Rat) [10116]	97-102	Pride	656208, 667972, 667973
+LLQYGS	3	Q5EB88	Q5EB88_RAT [tr]	Col6a2 protein (Fragment)	225	Rattus norvegicus (Rat) [10116]	85-90		
+LLPLVS	1	B2RZ77	B2RZ77_RAT [tr]	Dermatopontin	202	Rattus norvegicus (Rat) [10116]	9-14		
+LLPLVS	2	D4A739	D4A739_RAT [tr]	Catenin (Cadherin associated protein), alpha-like 1 (Predicted)	731	Rattus norvegicus (Rat) [10116]	40-45	Pride	
+LLPLVS	3	D4A9H2	D4A9H2_RAT [tr]	Dermatopontin	166	Rattus norvegicus (Rat) [10116]	9-14	PeptideAtlas, Pride	
+LLPLVS	4	F1LSR8	F1LSR8_RAT [tr]	Voltage-dependent calcium channel subunit alpha-2/delta-3	1085	Rattus norvegicus (Rat) [10116]	1075-1080	Pride	
+LLPLVS	5	G3V6I8	G3V6I8_RAT [tr]	Cationic amino acid transporter 3	619	Rattus norvegicus (Rat) [10116]	546-551		675813
+LLPLVS	6	O08812	CTR3_RAT [sp]	Cationic amino acid transporter 3	619	Rattus norvegicus (Rat) [10116]	546-551	Pride	
+LLPLVS	7	Q8CFG5	CA2D3_RAT [sp]	Voltage-dependent calcium channel subunit alpha-2/delta-3 precursor	1085	Rattus norvegicus (Rat) [10116]	1075-1080	Pride	
+TSPDVD	1	D4A022	D4A022_RAT [tr]	GTPase-activating protein and VPS9 domains 1	1484	Rattus norvegicus (Rat) [10116]	827-832	Pride	654656, 655344, 663197, 681271, 681893, 682553, 682612, 682854, 684881, 821972
+LIRAAE	1	A0A0G2JY08	A0A0G2JY08_RAT [tr]	Unconventional myosin-XVIIIa	2054	Rattus norvegicus (Rat) [10116]	1352-1357		133683, 654718, 655477, 655675, 668058, 671590
+LIRAAE	2	D3ZFD0	MY18A_RAT [sp]	Unconventional myosin-XVIIIa	2044	Rattus norvegicus (Rat) [10116]	1342-1347	PeptideAtlas, Pride	
+SSSGWT	1	A0A096MJT6	A0A096MJT6_RAT [tr]	Similar to RIKEN cDNA D630029K19	5006	Rattus norvegicus (Rat) [10116]	777-782		661445, 664990
+SSSGWT	2	A0A0G2K1D4	A0A0G2K1D4_RAT [tr]	Similar to RIKEN cDNA D630029K19 (Fragment)	130	Rattus norvegicus (Rat) [10116]	63-68		
+SSSGWT	3	F1LVK0	F1LVK0_RAT [tr]	Similar to RIKEN cDNA D630029K19	4552	Rattus norvegicus (Rat) [10116]	354-359	PeptideAtlas, Pride	605301
+HLMSFP	1	P43429	GATA1_RAT [sp]	Erythroid transcription factor	413	Rattus norvegicus (Rat) [10116]	378-383	Pride	
+TEVPVA	1	D3ZIF4	D3ZIF4_RAT [tr]	Spalt-like transcription factor 1	1315	Rattus norvegicus (Rat) [10116]	128-133	PeptideAtlas, Pride	
+TEVPVA	2	M0R7A6	M0R7A6_RAT [tr]	Intersectin 2	1716	Rattus norvegicus (Rat) [10116]	1670-1675	PeptideAtlas, Pride	658482, 661663, 661664, 661665, 665880, 668052, 668053, 673219, 676456, 679315, 679893, 679894, 681187, 819190
+FKNLRE	1	A0A0G2JZ23	A0A0G2JZ23_RAT [tr]	Ras-specific guanine nucleotide-releasing factor 1	1244	Rattus norvegicus (Rat) [10116]	1143-1148		
+FKNLRE	2	F1LM43	F1LM43_RAT [tr]	Ras-specific guanine nucleotide-releasing factor 1	1172	Rattus norvegicus (Rat) [10116]	1071-1076	Pride	
+FKNLRE	3	P12007	IVD_RAT [sp]	Isovaleryl-CoA dehydrogenase, mitochondrial precursor	424	Rattus norvegicus (Rat) [10116]	75-80	Pride	680401
+FKNLRE	4	P28818	RGRF1_RAT [sp]	Ras-specific guanine nucleotide-releasing factor 1	1244	Rattus norvegicus (Rat) [10116]	1143-1148	Pride	
+FKNLRE	5	Q5BJV1	Q5BJV1_RAT [tr]	Rasgrf1 protein (Fragment)	837	Rattus norvegicus (Rat) [10116]	736-741		
+FKNLRE	6	Q99JE4	RGRF2_RAT [sp]	Ras-specific guanine nucleotide-releasing factor 2	1190	Rattus norvegicus (Rat) [10116]	1089-1094	Pride	677697
+PLLTDE	1	D4AAL4	D4AAL4_RAT [tr]	Adhesion G protein-coupled receptor L3	1550	Rattus norvegicus (Rat) [10116]	1441-1446	PeptideAtlas	
+PLLTDE	2	Q811Q1	SMUG1_RAT [sp]	Single-strand selective monofunctional uracil-DNA glycosylase	278	Rattus norvegicus (Rat) [10116]	266-271	Pride	
+PLLTDE	3	Q9Z173	AGRL3_RAT [sp]	Adhesion G protein-coupled receptor L3 precursor	1550	Rattus norvegicus (Rat) [10116]	1441-1446	Pride	
+PLLTDE	4	Q9Z173-2	AGRL3_RAT [sp]	Adhesion G protein-coupled receptor L3 precursor	1459	Rattus norvegicus (Rat) [10116]	1350-1355		
+PLLTDE	5	Q9Z173-3	AGRL3_RAT [sp]	Adhesion G protein-coupled receptor L3 precursor	1527	Rattus norvegicus (Rat) [10116]	1418-1423		
+DSFVIR	1	A0A0G2K1L0	A0A0G2K1L0_RAT [tr]	Tenascin C	2019	Rattus norvegicus (Rat) [10116]	1466-1471		
+DSFVIR	2	B2LYI9	B2LYI9_RAT [tr]	Tenascin C	2019	Rattus norvegicus (Rat) [10116]	1466-1471	Pride	
+DSFVIR	3	D4ACA3	D4ACA3_RAT [tr]	Sister chromatid cohesion protein DCC1	408	Rattus norvegicus (Rat) [10116]	75-80	Pride	
+DSFVIR	4	F7FNG0	F7FNG0_RAT [tr]	Proteinase 3	256	Rattus norvegicus (Rat) [10116]	221-226		
+DSFVIR	5	Q62657	Q62657_RAT [tr]	Tenascin (Fragment)	575	Rattus norvegicus (Rat) [10116]	410-415		
+DSFVIR	6	Q62660	Q62660_RAT [tr]	Tenascin (Fragment)	211	Rattus norvegicus (Rat) [10116]	46-51	Pride	
+DSFVIR	7	Q62701	Q62701_RAT [tr]	Tenascin (Fragment)	619	Rattus norvegicus (Rat) [10116]	214-219		
+DSFVIR	8	Q8K597	Q8K597_RAT [tr]	Proteinase 3	254	Rattus norvegicus (Rat) [10116]	219-224		
+QQLIRA	1	A0A0G2JUH8	A0A0G2JUH8_RAT [tr]	Sorting nexin 13	958	Rattus norvegicus (Rat) [10116]	803-808		
+QQLIRA	2	D3ZCH3	D3ZCH3_RAT [tr]	Sorting nexin 13	884	Rattus norvegicus (Rat) [10116]	729-734	PeptideAtlas, Pride	
+YLTPGD	1	A0A0G2K9F2	A0A0G2K9F2_RAT [tr]	NFACT-R_1 domain-containing protein	781	Rattus norvegicus (Rat) [10116]	555-560		685219
+ALGKLQ	1	Q5PQP9	ARMC5_RAT [sp]	Armadillo repeat-containing protein 5	926	Rattus norvegicus (Rat) [10116]	399-404	Pride	655421, 659957, 674722, 676107, 687301
+EGVFVS	1	A0A0G2JXJ0	A0A0G2JXJ0_RAT [tr]	NHS actin-remodeling regulator	1352	Rattus norvegicus (Rat) [10116]	1130-1135		679381
+EGVFVS	2	F1LU76	F1LU76_RAT [tr]	NHS actin-remodeling regulator	1442	Rattus norvegicus (Rat) [10116]	1220-1225		
+KQLSSN	1	A0A0G2JTN9	A0A0G2JTN9_RAT [tr]	Mediator complex subunit 12L (Fragment)	64	Rattus norvegicus (Rat) [10116]	44-49		
+KQLSSN	2	A0A0G2JWF0	A0A0G2JWF0_RAT [tr]	Lysine methyltransferase 2E	1613	Rattus norvegicus (Rat) [10116]	1155-1160		
+KQLSSN	3	B5DEL4	B5DEL4_RAT [tr]	Pcdh18 protein	1135	Rattus norvegicus (Rat) [10116]	554-559	PeptideAtlas	
+KQLSSN	4	F7EKI5	F7EKI5_RAT [tr]	Protocadherin 18	1134	Rattus norvegicus (Rat) [10116]	554-559		
+KQLSSN	5	M0R5U4	M0R5U4_RAT [tr]	Adenylate cyclase 9	1354	Rattus norvegicus (Rat) [10116]	35-40		
+KQLSSN	6	M0R7B6	M0R7B6_RAT [tr]	Mediator complex subunit 12L (Fragment)	261	Rattus norvegicus (Rat) [10116]	241-246		
+QSIIAY	1	B5DFK1	B5DFK1_RAT [tr]	Coatomer subunit alpha	1224	Rattus norvegicus (Rat) [10116]	623-628	Pride	
+QSIIAY	2	G3V6T1	G3V6T1_RAT [tr]	Coatomer subunit alpha	1224	Rattus norvegicus (Rat) [10116]	623-628	Pride	449418, 656196, 673941, 683064, 684364, 687504, 827527, 827528
+PFLMDL	1	B5DEG2	B5DEG2_RAT [tr]	RCG44674, isoform CRA_a	592	Rattus norvegicus (Rat) [10116]	330-335		
+PFLMDL	2	F1LRQ3	F1LRQ3_RAT [tr]	Ring finger protein 180	593	Rattus norvegicus (Rat) [10116]	331-336	Pride	
+NFGAIS	1	G3V8P1	G3V8P1_RAT [tr]	Protocadherin beta 3	784	Rattus norvegicus (Rat) [10116]	273-278	Pride	
+AISSVL	1	M0R5A8	M0R5A8_RAT [tr]	G_PROTEIN_RECEP_F3_4 domain-containing protein	793	Rattus norvegicus (Rat) [10116]	586-591		
+AISSVL	2	P61480	WDR12_RAT [sp]	Ribosome biogenesis protein WDR12	423	Rattus norvegicus (Rat) [10116]	259-264	Pride	784351
+AISSVL	3	Q3SYQ0	Q3SYQ0_RAT [tr]	Bmp2k protein (Fragment)	425	Rattus norvegicus (Rat) [10116]	160-165		
+FGGVSV	1	A0A0G2K4S4	A0A0G2K4S4_RAT [tr]	DEAD-box helicase 51	635	Rattus norvegicus (Rat) [10116]	496-501		
+FGGVSV	2	D3ZIE3	D3ZIE3_RAT [tr]	DEAD (Asp-Glu-Ala-Asp) box polypeptide 51 (Predicted), isoform CRA_b	601	Rattus norvegicus (Rat) [10116]	496-501		654926, 682068
+FGGVSV	3	Q9WVK1	Q9WVK1_RAT [tr]	N-acetylglucosamine galactosyltransferase (Fragment)	160	Rattus norvegicus (Rat) [10116]	49-54		
+RSYLTP	1	A0A0G2JWJ0	A0A0G2JWJ0_RAT [tr]	Protein phosphatase 1 regulatory subunit	1032	Rattus norvegicus (Rat) [10116]	668-673		
+RSYLTP	2	D3ZIC4	D3ZIC4_RAT [tr]	Protein phosphatase 1 regulatory subunit	993	Rattus norvegicus (Rat) [10116]	615-620		656310
+RSYLTP	3	D3ZR53	D3ZR53_RAT [tr]	Protein phosphatase 1 regulatory subunit	1032	Rattus norvegicus (Rat) [10116]	668-673	PeptideAtlas, Pride	
+RSYLTP	4	D4A1S6	D4A1S6_RAT [tr]	Protein phosphatase 1 regulatory subunit	976	Rattus norvegicus (Rat) [10116]	612-617		
+RSYLTP	5	D4ACS0	D4ACS0_RAT [tr]	Protein phosphatase 1 regulatory subunit	972	Rattus norvegicus (Rat) [10116]	608-613	PeptideAtlas	655697, 667136, 674926, 679974, 680739, 682336, 682367, 682952, 683381, 684523, 686184, 686185, 686186, 686187, 825850
+RSYLTP	6	Q10728	MYPT1_RAT [sp]	Protein phosphatase 1 regulatory subunit 12A	1032	Rattus norvegicus (Rat) [10116]	668-673	Pride	
+RSYLTP	7	Q10728-2	MYPT1_RAT [sp]	Protein phosphatase 1 regulatory subunit 12A	972	Rattus norvegicus (Rat) [10116]	608-613		
+RSYLTP	8	Q10728-3	MYPT1_RAT [sp]	Protein phosphatase 1 regulatory subunit 12A	976	Rattus norvegicus (Rat) [10116]	612-617		
+AAAYYV	1	D4A7S4	D4A7S4_RAT [tr]	URB1 ribosome biogenesis homolog	2278	Rattus norvegicus (Rat) [10116]	1686-1691	PeptideAtlas, Pride	670424, 671169
+LVDLPI	1	D3ZLS5	D3ZLS5_RAT [tr]	HECT-type E3 ubiquitin transferase	2610	Rattus norvegicus (Rat) [10116]	2261-2266	PeptideAtlas, Pride	188743, 655907, 655908, 656535, 661235, 661894, 662053, 673935, 676206
+TSALLA	1	Q66HG9	MAVS_RAT [sp]	Mitochondrial antiviral-signaling protein	507	Rattus norvegicus (Rat) [10116]	487-492	Pride	663429, 682810, 682883, 684570, 794976
+FVFLVL	1	A0A0G2K5B5	A0A0G2K5B5_RAT [tr]	G_PROTEIN_RECEP_F3_4 domain-containing protein	839	Rattus norvegicus (Rat) [10116]	5-10		
+LYRLFR	1	F1M8G0	PHTF1_RAT [sp]	Protein PHTF1	762	Rattus norvegicus (Rat) [10116]	493-498	Pride	
+AKNLNE	1	D3Z924	D3Z924_RAT [tr]	DNA cross-link repair 1A	1026	Rattus norvegicus (Rat) [10116]	600-605		670109
+AKNLNE	2	D3ZTJ3	D3ZTJ3_RAT [tr]	ADAM metallopeptidase with thrombospondin type 1 motif, 12	1599	Rattus norvegicus (Rat) [10116]	976-981	PeptideAtlas, Pride	
+DYSVLY	1	A0A0G2JZU6	A0A0G2JZU6_RAT [tr]	Transmembrane protein with EGF-like and two follistatin-like domains 2	374	Rattus norvegicus (Rat) [10116]	304-309		
+DYSVLY	2	P04073	PEPC_RAT [sp]	Gastricsin precursor	392	Rattus norvegicus (Rat) [10116]	61-66		
+YSTGSN	1	M0RC17	M0RC17_RAT [tr]	Cell adhesion molecule L1-like	1210	Rattus norvegicus (Rat) [10116]	342-347	Pride	
+YSTGSN	2	O88524	O88524_RAT [tr]	L1-like cell adhension molecule (Fragment)	144	Rattus norvegicus (Rat) [10116]	36-41		
+SWMESE	1	E9PT25	E9PT25_RAT [tr]	C-type lectin domain family 4, member A3	237	Rattus norvegicus (Rat) [10116]	128-133	Pride	
+SWMESE	2	Q5YIS0	Q5YIS0_RAT [tr]	Dendritic cell inhibitory receptor 3	237	Rattus norvegicus (Rat) [10116]	128-133		
+QEKNFT	1	A0A6B9RUI8	A0A6B9RUI8_RAT [tr]	RCG55293	111	Rattus norvegicus (Rat) [10116]	65-70		
+AENSVA	1	G3V6T0	G3V6T0_RAT [tr]	Hedgehog protein	437	Rattus norvegicus (Rat) [10116]	188-193	Pride	
+AENSVA	2	Q63673	SHH_RAT [sp]	Sonic hedgehog protein precursor	437	Rattus norvegicus (Rat) [10116]	188-193		
+AENSVA	3	Q9R179	Q9R179_RAT [tr]	Sonic hedgehog protein (Fragment)	161	Rattus norvegicus (Rat) [10116]	104-109		
+TQNVLY	1	F1LWD0	F1LWD0_RAT [tr]	Ig-like domain-containing protein	106	Rattus norvegicus (Rat) [10116]	77-82	Pride	
+LDKVEA	1	F1LMV6	F1LMV6_RAT [tr]	Desmoplakin	2877	Rattus norvegicus (Rat) [10116]	808-813	Pride	438086, 438209, 438370, 439255, 440436, 479697, 482542, 506236, 507537, 509052, 509053, 509195, 654191, 655438, 657356, 658066, 658067, 658201, 658325, 659943, 660149, 666315, 666317, 666615, 667696, 669175, 669178, 670969, 671522, 672925, 673168, 673196, 674263, 674264, 674265, 678387, 678388, 679739, 683793, 683794, 683795, 683796, 684126, 686387, 688586
+LDKVEA	2	Q14TE9	Q14TE9_RAT [tr]	DNA topoisomerase 2	1614	Rattus norvegicus (Rat) [10116]	1184-1189	Pride	
+LEILDI	1	C0LP03	C0LP03_RAT [tr]	Toll-like receptor 5	859	Rattus norvegicus (Rat) [10116]	551-556		
+LEILDI	2	D4A254	D4A254_RAT [tr]	PH domain and leucine-rich repeat protein phosphatase 2	1190	Rattus norvegicus (Rat) [10116]	394-399	Pride	674746
+LEILDI	3	G3V6F8	G3V6F8_RAT [tr]	RCG20122	871	Rattus norvegicus (Rat) [10116]	563-568	Pride	
+CTLKSF	1	D4A8H3	D4A8H3_RAT [tr]	E1 ubiquitin-activating enzyme	1053	Rattus norvegicus (Rat) [10116]	625-630	PeptideAtlas, Pride	655937
+QDSLSS	1	A0A096MJX4	A0A096MJX4_RAT [tr]	Fibrous sheath-interacting protein 2	6942	Rattus norvegicus (Rat) [10116]	3824-3829		
+QDSLSS	2	A0A0G2K296	A0A0G2K296_RAT [tr]	Fibrous sheath-interacting protein 2	5100	Rattus norvegicus (Rat) [10116]	1983-1988		
+QDSLSS	3	A0A0G2K5A4	A0A0G2K5A4_RAT [tr]	Uncharacterized protein	1446	Rattus norvegicus (Rat) [10116]	419-424		
+QDSLSS	4	D3ZIF4	D3ZIF4_RAT [tr]	Spalt-like transcription factor 1	1315	Rattus norvegicus (Rat) [10116]	839-844	PeptideAtlas, Pride	
+QDSLSS	5	D3ZLD5	D3ZLD5_RAT [tr]	Golgin A3	1447	Rattus norvegicus (Rat) [10116]	419-424		655782, 655783, 656544, 657955, 665045, 668037, 679482, 685332, 784552, 815182
+NTQEVF	1	A0A0G2K3X7	A0A0G2K3X7_RAT [tr]	Lactosylceramide alpha-2,3-sialyltransferase	359	Rattus norvegicus (Rat) [10116]	55-60		
+NTQEVF	2	Q68G12	SIAT9_RAT [sp]	Lactosylceramide alpha-2,3-sialyltransferase	387	Rattus norvegicus (Rat) [10116]	83-88	Pride	
+DILSRL	1	Q6P2A7	Q6P2A7_RAT [tr]	Flotillin	428	Rattus norvegicus (Rat) [10116]	399-404	Pride	
+DILSRL	2	Q9Z1E1	FLOT1_RAT [sp]	Flotillin-1	428	Rattus norvegicus (Rat) [10116]	399-404	Pride	654895
+TVLPPL	1	G3V7H8	G3V7H8_RAT [tr]	Human immunodeficiency virus type I enhancer-binding protein 2 homolog	2437	Rattus norvegicus (Rat) [10116]	1118-1123		654809, 680250
+TVLPPL	2	Q00900	ZEP2_RAT [sp]	Human immunodeficiency virus type I enhancer-binding protein 2 homolog	2437	Rattus norvegicus (Rat) [10116]	1118-1123	Pride	
+GRLQSL	1	A0A0G2JZB7	A0A0G2JZB7_RAT [tr]	Neuron navigator 3	2254	Rattus norvegicus (Rat) [10116]	1502-1507		
+GRLQSL	2	D4A4U3	D4A4U3_RAT [tr]	Magnesium-dependent phosphatase 1	164	Rattus norvegicus (Rat) [10116]	56-61	PeptideAtlas, Pride	
+LREFVF	1	D3ZE10	D3ZE10_RAT [tr]	39S ribosomal protein L35, mitochondrial	188	Rattus norvegicus (Rat) [10116]	144-149	PeptideAtlas, Pride	
+QMAYRF	1	A0A0G2K9N5	A0A0G2K9N5_RAT [tr]	Steroid 11-beta-monooxygenase	498	Rattus norvegicus (Rat) [10116]	477-482		
+QMAYRF	2	A0A0G2QC14	A0A0G2QC14_RAT [tr]	Steroid 11-beta-monooxygenase	499	Rattus norvegicus (Rat) [10116]	478-483		
+QMAYRF	3	D3ZCW0	D3ZCW0_RAT [tr]	Steroid 11-beta-monooxygenase	498	Rattus norvegicus (Rat) [10116]	477-482	Pride	
+QMAYRF	4	F1LPS4	F1LPS4_RAT [tr]	Steroid 11-beta-monooxygenase	500	Rattus norvegicus (Rat) [10116]	479-484		
+QMAYRF	5	P30099	C11B2_RAT [sp]	Cytochrome P450 11B2, mitochondrial precursor	510	Rattus norvegicus (Rat) [10116]	489-494		
+QMAYRF	6	P30100	C11B3_RAT [sp]	Cytochrome P450 11B3, mitochondrial precursor	500	Rattus norvegicus (Rat) [10116]	479-484		
+QMAYRF	7	Q64539	Q64539_RAT [tr]	Steroid 11-beta-monooxygenase	498	Rattus norvegicus (Rat) [10116]	477-482		
+QMAYRF	8	Q64546	Q64546_RAT [tr]	Steroid 11-beta-monooxygenase	498	Rattus norvegicus (Rat) [10116]	477-482		
+QMAYRF	9	Q64586	Q64586_RAT [tr]	Steroid 11-beta-monooxygenase	498	Rattus norvegicus (Rat) [10116]	477-482		
+DDSEPV	1	D3ZYS7	D3ZYS7_RAT [tr]	G3BP stress granule assembly factor 1	465	Rattus norvegicus (Rat) [10116]	384-389	PeptideAtlas, Pride	655200, 663762, 684848, 687371
+DDSEPV	2	F1M2M6	F1M2M6_RAT [tr]	NTF2 domain-containing protein	437	Rattus norvegicus (Rat) [10116]	360-365	PeptideAtlas, Pride	
+DDSEPV	3	Q6AY21	Q6AY21_RAT [tr]	G3BP stress granule assembly factor 2	449	Rattus norvegicus (Rat) [10116]	347-352		658267, 682253, 683489, 688001
+SFELLH	1	G3V8T4	G3V8T4_RAT [tr]	DNA damage-binding protein 1	1140	Rattus norvegicus (Rat) [10116]	573-578	Pride	490334, 670036, 672551, 680858, 680859
+SFELLH	2	Q9ESW0	DDB1_RAT [sp]	DNA damage-binding protein 1	1140	Rattus norvegicus (Rat) [10116]	573-578	Pride	
+GFNFSQ	1	M0R9X3	M0R9X3_RAT [tr]	RNA-binding motif 31, Y-linked	565	Rattus norvegicus (Rat) [10116]	500-505	Pride	
+GDSSSG	1	A0A0G2JWX4	A0A0G2JWX4_RAT [tr]	Keratin, type II cytoskeletal 2 epidermal	684	Rattus norvegicus (Rat) [10116]	620-625		
+GDSSSG	2	A0A0G2K8M3	A0A0G2K8M3_RAT [tr]	Tight junction protein 3	902	Rattus norvegicus (Rat) [10116]	124-129		
+GDSSSG	3	D3Z8G7	D3Z8G7_RAT [tr]	Tight junction protein 3	907	Rattus norvegicus (Rat) [10116]	129-134		671675, 676660
+GDSSSG	4	E9PTI6	E9PTI6_RAT [tr]	RALY heterogeneous nuclear ribonucleoprotein	311	Rattus norvegicus (Rat) [10116]	225-230	PeptideAtlas, Pride	
+GDSSSG	5	F1LYG2	F1LYG2_RAT [tr]	RCG54282	1776	Rattus norvegicus (Rat) [10116]	1195-1200		
+GDSSSG	6	M0R4U8	M0R4U8_RAT [tr]	Nuclear receptor subfamily 2, group E, member 3	350	Rattus norvegicus (Rat) [10116]	44-49	Pride	
+GDSSSG	7	Q5BJW2	Q5BJW2_RAT [tr]	Signal-induced proliferation-associated 1 like 3	584	Rattus norvegicus (Rat) [10116]	4-9		
+GDSSSG	8	Q5PQR0	Q5PQR0_RAT [tr]	RALY heterogeneous nuclear ribonucleoprotein	295	Rattus norvegicus (Rat) [10116]	209-214		667405, 667406
+GDSSSG	9	Q6IG02	K22E_RAT [sp]	Keratin, type II cytoskeletal 2 epidermal	685	Rattus norvegicus (Rat) [10116]	621-626	Pride	659688, 659689, 659775, 659876, 659935, 659985, 660882, 678671, 682237, 792514
+TQLPPA	1	D3ZFA2	D3ZFA2_RAT [tr]	NIMA-related kinase 10	1116	Rattus norvegicus (Rat) [10116]	990-995	Pride	672269
+TQLPPA	2	D4A5Z9	D4A5Z9_RAT [tr]	NIMA-related kinase 10	1111	Rattus norvegicus (Rat) [10116]	1000-1005	Pride	
+NTFVSG	1	P62882	GNB5_RAT [sp]	Guanine nucleotide-binding protein subunit beta-5	353	Rattus norvegicus (Rat) [10116]	210-215	Pride	686485
+NTFVSG	2	Q45QL0	Q45QL0_RAT [tr]	Guanine nucleotide binding protein beta 5 (Fragment)	344	Rattus norvegicus (Rat) [10116]	210-215		
+FVIRGD	1	D4ACA3	D4ACA3_RAT [tr]	Sister chromatid cohesion protein DCC1	408	Rattus norvegicus (Rat) [10116]	77-82	Pride	
+FPLQSY	1	D3ZRN8	D3ZRN8_RAT [tr]	Dynein heavy chain 1, axonemal	4250	Rattus norvegicus (Rat) [10116]	151-156	Pride	665767, 669834
+FPLQSY	2	Q63164	DYH1_RAT [sp]	Dynein axonemal heavy chain 1	4516	Rattus norvegicus (Rat) [10116]	247-252	Pride	686465
+FPLQSY	3	Q63164-2	DYH1_RAT [sp]	Dynein axonemal heavy chain 1	4530	Rattus norvegicus (Rat) [10116]	247-252		
+LTGTGV	1	D4AC99	D4AC99_RAT [tr]	Chromosome transmission fidelity factor 18	969	Rattus norvegicus (Rat) [10116]	191-196	Pride	
+LDSFKE	1	A0A0G2QC39	A0A0G2QC39_RAT [tr]	Taxilin gamma	530	Rattus norvegicus (Rat) [10116]	482-487		
+LSFELL	1	A0A0G2K0K7	A0A0G2K0K7_RAT [tr]	Next to BRCA1 gene 1 protein	875	Rattus norvegicus (Rat) [10116]	563-568		
+LSFELL	2	F1LSE5	F1LSE5_RAT [tr]	Neighbor of Brca1 gene 1, isoform CRA_a	983	Rattus norvegicus (Rat) [10116]	563-568		
+LSFELL	3	Q501R9	NBR1_RAT [sp]	Next to BRCA1 gene 1 protein	983	Rattus norvegicus (Rat) [10116]	563-568	Pride	
+KEELDK	1	A0A0G2K5Y7	A0A0G2K5Y7_RAT [tr]	N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D	356	Rattus norvegicus (Rat) [10116]	97-102		682659
+KEELDK	2	F1LNY6	F1LNY6_RAT [tr]	Transcription initiation factor TFIID 150 kDa subunit	1200	Rattus norvegicus (Rat) [10116]	396-401	Pride	
+KEELDK	3	Q3KRD7	Q3KRD7_RAT [tr]	Transcription initiation factor TFIID subunit 2 (Fragment)	600	Rattus norvegicus (Rat) [10116]	396-401		
+KEELDK	4	Q769K2	NAPEP_RAT [sp]	N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D	396	Rattus norvegicus (Rat) [10116]	97-102	Pride	
+KEELDK	5	Q78EJ9	CAN8_RAT [sp]	Calpain-8	703	Rattus norvegicus (Rat) [10116]	312-317		
+KEELDK	6	Q78EJ9-2	CAN8_RAT [sp]	Calpain-8	381	Rattus norvegicus (Rat) [10116]	312-317		
+RKRISN	1	B1WBZ9	B1WBZ9_RAT [tr]	Katanin regulatory subunit B1-like 1	299	Rattus norvegicus (Rat) [10116]	21-26	PeptideAtlas, Pride	800694
+RKRISN	2	D4ABM3	D4ABM3_RAT [tr]	Dishevelled associated activator of morphogenesis 1 (Predicted)	968	Rattus norvegicus (Rat) [10116]	947-952	PeptideAtlas, Pride	670985
+KKSTNL	1	D3ZMD6	D3ZMD6_RAT [tr]	Glutamine and serine rich 1 (Predicted)	1694	Rattus norvegicus (Rat) [10116]	624-629		669139, 685631
+NSVAYS	1	P11505	AT2B1_RAT [sp]	Plasma membrane calcium-transporting ATPase 1	1220	Rattus norvegicus (Rat) [10116]	7-12	Pride	572931, 661927, 661928, 680063
+NSVAYS	2	P11505-1	AT2B1_RAT [sp]	Plasma membrane calcium-transporting ATPase 1	1258	Rattus norvegicus (Rat) [10116]	7-12		
+NSVAYS	3	P11505-2	AT2B1_RAT [sp]	Plasma membrane calcium-transporting ATPase 1	1176	Rattus norvegicus (Rat) [10116]	7-12		
+NSVAYS	4	P11505-4	AT2B1_RAT [sp]	Plasma membrane calcium-transporting ATPase 1	1249	Rattus norvegicus (Rat) [10116]	7-12		
+NSVAYS	5	P11505-5	AT2B1_RAT [sp]	Plasma membrane calcium-transporting ATPase 1	1171	Rattus norvegicus (Rat) [10116]	7-12		
+NSVAYS	6	P11505-6	AT2B1_RAT [sp]	Plasma membrane calcium-transporting ATPase 1	1184	Rattus norvegicus (Rat) [10116]	7-12		
+YQAGST	1	F1M5N2	F1M5N2_RAT [tr]	V-set and immunoglobulin domain-containing 10-like	769	Rattus norvegicus (Rat) [10116]	656-661	Pride	656031, 661392, 682257, 815120
+SVLYNS	1	D3ZUH1	D3ZUH1_RAT [tr]	NLR family, pyrin domain-containing 4A	982	Rattus norvegicus (Rat) [10116]	653-658	Pride	657055, 666286, 667381
+SVLYNS	2	D4AD20	D4AD20_RAT [tr]	BPI fold-containing family C	509	Rattus norvegicus (Rat) [10116]	177-182		
+LKSFTV	1	A0A0G2JZ26	A0A0G2JZ26_RAT [tr]	Filamin-A-interacting protein 1	965	Rattus norvegicus (Rat) [10116]	253-258		
+LKSFTV	2	A0A0G2K6B7	A0A0G2K6B7_RAT [tr]	Filamin-A-interacting protein 1	1076	Rattus norvegicus (Rat) [10116]	402-407		667041, 686376, 789516
+LKSFTV	3	F1LM79	F1LM79_RAT [tr]	Filamin-A-interacting protein 1	1212	Rattus norvegicus (Rat) [10116]	500-505		
+LKSFTV	4	Q8K4T4	FLIP1_RAT [sp]	Filamin-A-interacting protein 1	1212	Rattus norvegicus (Rat) [10116]	500-505	Pride	
+LKSFTV	5	Q8K4T4-2	FLIP1_RAT [sp]	Filamin-A-interacting protein 1	965	Rattus norvegicus (Rat) [10116]	253-258		
+PAQEKN	1	A0A0G2K0D3	LMOD1_RAT [sp]	Leiomodin-1	595	Rattus norvegicus (Rat) [10116]	563-568		
+FNGLTV	1	A0A0H2UHV9	A0A0H2UHV9_RAT [tr]	Coatomer subunit gamma	870	Rattus norvegicus (Rat) [10116]	547-552		
+FNGLTV	2	D4ABY2	COPG2_RAT [sp]	Coatomer subunit gamma-2	715	Rattus norvegicus (Rat) [10116]	547-552	PeptideAtlas, Pride	655563, 675367, 684339
+IAQYTS	1	D4A976	D4A976_RAT [tr]	Kinesin-like protein	995	Rattus norvegicus (Rat) [10116]	361-366	Pride	
+TGSNVF	1	F1LN65	F1LN65_RAT [tr]	Inactive ubiquitin thioesterase OTULINL	351	Rattus norvegicus (Rat) [10116]	188-193	Pride	655049
+TGSNVF	2	Q3B7D8	OTULL_RAT [sp]	Inactive ubiquitin thioesterase OTULINL	353	Rattus norvegicus (Rat) [10116]	188-193		683565, 824016
+NIQKEI	1	Q9QUZ8	GMEB1_RAT [sp]	Glucocorticoid modulatory element-binding protein 1	562	Rattus norvegicus (Rat) [10116]	265-270	Pride	
+TVEKGI	1	A0A096MKF0	A0A096MKF0_RAT [tr]	Testis-expressed 11 (Fragment)	231	Rattus norvegicus (Rat) [10116]	161-166		
+TVEKGI	2	A0A6M3WAI1	A0A6M3WAI1_RAT [tr]	Protein ZIP4 homolog	946	Rattus norvegicus (Rat) [10116]	161-166		
+TVEKGI	3	D3Z868	D3Z868_RAT [tr]	Protein ZIP4 homolog	911	Rattus norvegicus (Rat) [10116]	158-163	Pride	
+FLVLLP	1	D3ZKE4	D3ZKE4_RAT [tr]	Ig-like domain-containing protein	130	Rattus norvegicus (Rat) [10116]	2-7		
+FLVLLP	2	D3ZSH2	D3ZSH2_RAT [tr]	Olfactory receptor	315	Rattus norvegicus (Rat) [10116]	153-158		
+FLVLLP	3	M0R455	M0R455_RAT [tr]	Leukocyte elastase inhibitor A-like	373	Rattus norvegicus (Rat) [10116]	232-237	PeptideAtlas, Pride	685347
+FLVLLP	4	M0R6R3	M0R6R3_RAT [tr]	Ig-like domain-containing protein	113	Rattus norvegicus (Rat) [10116]	2-7		
+FLVLLP	5	M0R9K2	M0R9K2_RAT [tr]	Ig-like domain-containing protein	113	Rattus norvegicus (Rat) [10116]	2-7		
+FLVLLP	6	M0RAM4	M0RAM4_RAT [tr]	Ig-like domain-containing protein	113	Rattus norvegicus (Rat) [10116]	2-7		
+FLVLLP	7	M0RBV8	M0RBV8_RAT [tr]	Ig-like domain-containing protein	113	Rattus norvegicus (Rat) [10116]	2-7		
+FLVLLP	8	O88177	PEX12_RAT [sp]	Peroxisome assembly protein 12	359	Rattus norvegicus (Rat) [10116]	119-124	Pride	
+FLVLLP	9	Q569A9	Q569A9_RAT [tr]	RGD1359684 protein	270	Rattus norvegicus (Rat) [10116]	2-7		
+TLLALH	1	A0A0G2K999	A0A0G2K999_RAT [tr]	Sidekick cell adhesion molecule 2	2175	Rattus norvegicus (Rat) [10116]	11-16		
+TLLALH	2	M0R9Z5	M0R9Z5_RAT [tr]	Interferon regulatory factor 2-binding protein 2	571	Rattus norvegicus (Rat) [10116]	290-295	PeptideAtlas, Pride	655012, 663093, 676488, 687072
+QLPPAY	1	F1LUI7	F1LUI7_RAT [tr]	Ankyrin and armadillo repeat-containing	1440	Rattus norvegicus (Rat) [10116]	133-138	PeptideAtlas, Pride	666440
+TITDAV	1	A0A0G2K0T8	A0A0G2K0T8_RAT [tr]	Family with sequence similarity 25, member A	89	Rattus norvegicus (Rat) [10116]	72-77		
+STGSNV	1	A0A0G2K2T4	A0A0G2K2T4_RAT [tr]	Low-density lipoprotein receptor-related protein 4	1809	Rattus norvegicus (Rat) [10116]	1281-1286		
+STGSNV	2	Q76LU2	Q76LU2_RAT [tr]	LDL receptor-related protein 4	1905	Rattus norvegicus (Rat) [10116]	1281-1286		
+STGSNV	3	Q9QYP1	LRP4_RAT [sp]	Low-density lipoprotein receptor-related protein 4 precursor	1905	Rattus norvegicus (Rat) [10116]	1281-1286	Pride	
+QTLLAL	1	D4A0X0	D4A0X0_RAT [tr]	LOC360508 (Predicted), isoform CRA_b	154	Rattus norvegicus (Rat) [10116]	31-36	Pride	
+SALGKL	1	A0A0G2K1A9	A0A0G2K1A9_RAT [tr]	Nucleolar protein 11	717	Rattus norvegicus (Rat) [10116]	340-345		656138, 656580, 656581, 670744, 673803, 673936, 796075, 803302
+SALGKL	2	A0A654ICE6	A0A654ICE6_RAT [tr]	Connexin-43	382	Rattus norvegicus (Rat) [10116]	5-10		
+SALGKL	3	D4A0Y2	D4A0Y2_RAT [tr]	DOP1 leucine zipper-like protein A	2452	Rattus norvegicus (Rat) [10116]	39-44	Pride	686043
+SALGKL	4	F1M7N1	F1M7N1_RAT [tr]	DUF1968 domain-containing protein	159	Rattus norvegicus (Rat) [10116]	6-11	Pride	
+SALGKL	5	P08050	CXA1_RAT [sp]	Gap junction alpha-1 protein	382	Rattus norvegicus (Rat) [10116]	5-10	Pride	663086, 677946, 682350, 682351, 683188, 683189
+SALGKL	6	Q5BK55	Q5BK55_RAT [tr]	RGD1359684 protein	162	Rattus norvegicus (Rat) [10116]	9-14		
+SALGKL	7	Q6Q6S2	Q6Q6S2_RAT [tr]	Connexin 43 (Fragment)	29	Rattus norvegicus (Rat) [10116]	5-10		
+QTGKIA	1	A0A0G2K1E6	A0A0G2K1E6_RAT [tr]	CAAT box DNA-binding protein subunit B	207	Rattus norvegicus (Rat) [10116]	74-79		
+QTGKIA	2	P63140	NFYB_RAT [sp]	Nuclear transcription factor Y subunit beta	207	Rattus norvegicus (Rat) [10116]	74-79	Pride	683302, 684668, 685851, 685852
+QTGKIA	3	Q63091	Q63091_RAT [tr]	CAAT box DNA-binding protein subunit B	148	Rattus norvegicus (Rat) [10116]	36-41		
+ANLAAT	1	A0A0G2JSL6	A0A0G2JSL6_RAT [tr]	KiSS-1 receptor	394	Rattus norvegicus (Rat) [10116]	82-87		
+ANLAAT	2	A0A0G2KAL2	A0A0G2KAL2_RAT [tr]	KiSS-1 receptor	395	Rattus norvegicus (Rat) [10116]	82-87		
+ANLAAT	3	A0A1W2Q6L7	A0A1W2Q6L7_RAT [tr]	KISS1 receptor	396	Rattus norvegicus (Rat) [10116]	82-87		
+ANLAAT	4	D4A0V6	D4A0V6_RAT [tr]	Anillin, actin-binding protein	1122	Rattus norvegicus (Rat) [10116]	196-201		
+ANLAAT	5	M0R9N8	M0R9N8_RAT [tr]	PH domain-containing protein	972	Rattus norvegicus (Rat) [10116]	50-55	Pride	
+ANLAAT	6	M0RDG0	M0RDG0_RAT [tr]	Anillin, actin-binding protein	1080	Rattus norvegicus (Rat) [10116]	196-201	Pride	
+ANLAAT	7	Q924U1	KISSR_RAT [sp]	KiSS-1 receptor	396	Rattus norvegicus (Rat) [10116]	82-87	Pride	
+IVRFPN	1	A0A0G2K1A2	A0A0G2K1A2_RAT [tr]	Myeloperoxidase	718	Rattus norvegicus (Rat) [10116]	208-213		
+IVRFPN	2	A0A0G2K2C7	A0A0G2K2C7_RAT [tr]	Ubiquitinyl hydrolase 1	2554	Rattus norvegicus (Rat) [10116]	889-894		
+IVRFPN	3	D3ZC84	D3ZC84_RAT [tr]	Ubiquitinyl hydrolase 1	2547	Rattus norvegicus (Rat) [10116]	889-894		590097, 607599, 653934, 653946, 655328, 658035, 679955, 681265, 683902, 684093, 687345
+IVRFPN	4	D3ZYH8	D3ZYH8_RAT [tr]	Myeloperoxidase	523	Rattus norvegicus (Rat) [10116]	70-75	PeptideAtlas	
+DLFLPF	1	D3ZVB0	AP5B1_RAT [sp]	AP-5 complex subunit beta-1	876	Rattus norvegicus (Rat) [10116]	764-769	PeptideAtlas	673021, 680567
+EVPVAI	1	F1M785	F1M785_RAT [tr]	PDZ domain-containing protein 2	2762	Rattus norvegicus (Rat) [10116]	1809-1814		
+EVPVAI	2	Q9QZR8	PDZD2_RAT [sp]	PDZ domain-containing protein 2	2766	Rattus norvegicus (Rat) [10116]	1813-1818	Pride	654989, 667194, 673719, 815107
+LVKQLS	1	A0A0G2K260	A0A0G2K260_RAT [tr]	Ion_trans domain-containing protein	495	Rattus norvegicus (Rat) [10116]	453-458		
+LVKQLS	2	A0A0G2K3G9	A0A0G2K3G9_RAT [tr]	MHC class I region proline-rich protein CAT53	867	Rattus norvegicus (Rat) [10116]	116-121		
+LVKQLS	3	A4QN30	A4QN30_RAT [tr]	MHC class I region proline-rich protein CAT53	872	Rattus norvegicus (Rat) [10116]	116-121		
+LVKQLS	4	A9UK05	A9UK05_RAT [tr]	Protein inhibitor of activated STAT-1	651	Rattus norvegicus (Rat) [10116]	284-289		
+LVKQLS	5	G3V9T0	G3V9T0_RAT [tr]	Protein inhibitor of activated STAT 1 (Predicted)	651	Rattus norvegicus (Rat) [10116]	284-289		687094
+LVKQLS	6	O55000	PP1RA_RAT [sp]	Serine/threonine-protein phosphatase 1 regulatory subunit 10	872	Rattus norvegicus (Rat) [10116]	116-121	Pride	
+LVKQLS	7	P29995	ITPR2_RAT [sp]	Inositol 1,4,5-trisphosphate receptor type 2	2701	Rattus norvegicus (Rat) [10116]	2659-2664	Pride	654159, 655507, 656077, 665140, 668126, 669722, 681404, 688321
+LVKQLS	8	Q5XIB8	Q5XIB8_RAT [tr]	TERF1 (TRF1)-interacting nuclear factor 2	397	Rattus norvegicus (Rat) [10116]	109-114		804999
+LVKQLS	9	Q6W3E4	Q6W3E4_RAT [tr]	Inositol trisphosphate receptor type 2	2701	Rattus norvegicus (Rat) [10116]	2659-2664		
+VQPTES	1	D3ZAA3	D3ZAA3_RAT [tr]	Latent-transforming growth factor beta-binding protein 1	1712	Rattus norvegicus (Rat) [10116]	1498-1503	PeptideAtlas, Pride	671172, 806364
+VQPTES	2	Q00918	LTBP1_RAT [sp]	Latent-transforming growth factor beta-binding protein 1 precursor	1712	Rattus norvegicus (Rat) [10116]	1498-1503		
+IRAAEI	1	A0A0G2JY08	A0A0G2JY08_RAT [tr]	Unconventional myosin-XVIIIa	2054	Rattus norvegicus (Rat) [10116]	1353-1358		133683, 654718, 655477, 655675, 668058, 671590
+IRAAEI	2	D3ZFD0	MY18A_RAT [sp]	Unconventional myosin-XVIIIa	2044	Rattus norvegicus (Rat) [10116]	1343-1348	PeptideAtlas, Pride	
+IRAAEI	3	P09139	SPYA_RAT [sp]	Serine--pyruvate aminotransferase, mitochondrial precursor	414	Rattus norvegicus (Rat) [10116]	132-137	Pride	
+IRAAEI	4	P09139-2	SPYA_RAT [sp]	Serine--pyruvate aminotransferase, mitochondrial precursor	392	Rattus norvegicus (Rat) [10116]	110-115		
+IRAAEI	5	Q5I0N5	Q5I0N5_RAT [tr]	Alanine--glyoxylate aminotransferase (Fragment)	394	Rattus norvegicus (Rat) [10116]	112-117		
+EPQIIT	1	Q9WUC8	PLRG1_RAT [sp]	Pleiotropic regulator 1	514	Rattus norvegicus (Rat) [10116]	342-347	Pride	683010, 683174, 683175, 683176, 684007
+LLKYNE	1	A0A0G2K884	A0A0G2K884_RAT [tr]	LON peptidase N-terminal domain and ring finger 3	809	Rattus norvegicus (Rat) [10116]	268-273		
+LLKYNE	2	D3ZER0	D3ZER0_RAT [tr]	LON peptidase N-terminal domain and ring finger 3	757	Rattus norvegicus (Rat) [10116]	268-273	Pride	
+LHSTQD	1	P54777	PEX6_RAT [sp]	Peroxisome assembly factor 2	978	Rattus norvegicus (Rat) [10116]	834-839	Pride	659647, 673832
+NYLYRL	1	A0A0G2K395	A0A0G2K395_RAT [tr]	Leucine-rich repeat-containing 20	164	Rattus norvegicus (Rat) [10116]	84-89		
+NYLYRL	2	F1LUD9	F1LUD9_RAT [tr]	Leucine-rich repeat-containing 20	184	Rattus norvegicus (Rat) [10116]	84-89	PeptideAtlas, Pride	
+LLAGTI	1	A0A0G2K7Q8	A0A0G2K7Q8_RAT [tr]	6-phosphogluconate dehydrogenase, decarboxylating	1089	Rattus norvegicus (Rat) [10116]	152-157		
+LLAGTI	2	A0A0G2KA12	A0A0G2KA12_RAT [tr]	Kinesin-like protein KIF1B	1799	Rattus norvegicus (Rat) [10116]	1780-1785		
+LLAGTI	3	D3ZJF8	D3ZJF8_RAT [tr]	Fc fragment of IgG-binding protein	2584	Rattus norvegicus (Rat) [10116]	1279-1284	PeptideAtlas, Pride	
+LLAGTI	4	F1M4A4	KIF1A_RAT [sp]	Kinesin-like protein KIF1A	1707	Rattus norvegicus (Rat) [10116]	1688-1693	Pride	665508, 669251
+LLAGTI	5	O88658	KIF1B_RAT [sp]	Kinesin-like protein KIF1B	1816	Rattus norvegicus (Rat) [10116]	1797-1802	Pride	675809, 676990, 680436, 795697, 815039
+LLAGTI	6	O88658-2	KIF1B_RAT [sp]	Kinesin-like protein KIF1B	1687	Rattus norvegicus (Rat) [10116]	1668-1673		
+LLAGTI	7	Q7TP11	Q7TP11_RAT [tr]	6-phosphogluconate dehydrogenase, decarboxylating	1089	Rattus norvegicus (Rat) [10116]	152-157		
+NLVRDL	1	A0A0G2JTT7	A0A0G2JTT7_RAT [tr]	Rho GTPase-activating protein 22	700	Rattus norvegicus (Rat) [10116]	201-206		
+NLVRDL	2	D4ABZ7	D4ABZ7_RAT [tr]	Rho GTPase activating protein 22 (Predicted)	541	Rattus norvegicus (Rat) [10116]	111-116		659270, 674241
+NLVRDL	3	Q5U2T7	TFB2M_RAT [sp]	Dimethyladenosine transferase 2, mitochondrial precursor	397	Rattus norvegicus (Rat) [10116]	83-88	Pride	
+YLQPRT	1	A0A0G2K3I7	A0A0G2K3I7_RAT [tr]	Olfactory receptor	315	Rattus norvegicus (Rat) [10116]	259-264		
+TLVKQL	1	D3ZS35	D3ZS35_RAT [tr]	Mitochondrial elongation factor 2	494	Rattus norvegicus (Rat) [10116]	187-192	PeptideAtlas, Pride	
+VYSTGS	1	M0RC17	M0RC17_RAT [tr]	Cell adhesion molecule L1-like	1210	Rattus norvegicus (Rat) [10116]	341-346	Pride	
+VYSTGS	2	O88524	O88524_RAT [tr]	L1-like cell adhension molecule (Fragment)	144	Rattus norvegicus (Rat) [10116]	35-40		
+DEVRQI	1	P46844	BIEA_RAT [sp]	Biliverdin reductase A precursor	295	Rattus norvegicus (Rat) [10116]	51-56	Pride	
+DEVRQI	2	Q68FW4	STX18_RAT [sp]	Syntaxin-18	334	Rattus norvegicus (Rat) [10116]	250-255	Pride	605835, 664367, 683513
+DEVRQI	3	Q6AZ33	Q6AZ33_RAT [tr]	Biliverdin reductase A	295	Rattus norvegicus (Rat) [10116]	51-56	Pride	660598, 662883, 806823
+ELLHAP	1	F1LTS8	F1LTS8_RAT [tr]	Epoxide hydrolase	453	Rattus norvegicus (Rat) [10116]	402-407	Pride	
+ELLHAP	2	P07687	HYEP_RAT [sp]	Epoxide hydrolase 1	455	Rattus norvegicus (Rat) [10116]	404-409	Pride	673659
+TKLNDL	1	Q8R455	TRPM8_RAT [sp]	Transient receptor potential cation channel subfamily M member 8	1104	Rattus norvegicus (Rat) [10116]	1087-1092	Pride	
+SSNFGA	1	D3ZXU0	D3ZXU0_RAT [tr]	Zinc finger with KRAB and SCAN domains 2	960	Rattus norvegicus (Rat) [10116]	808-813	Pride	
+SSNFGA	2	Q5RK20	Q5RK20_RAT [tr]	Zkscan2 protein (Fragment)	369	Rattus norvegicus (Rat) [10116]	217-222		
+EPLVDL	1	D3ZXX3	D3ZXX3_RAT [tr]	Unc-80 homolog, NALCN channel complex subunit (Fragment)	2577	Rattus norvegicus (Rat) [10116]	620-625	Pride	505187, 654530, 659650
+EPLVDL	2	Q6AYF2	Q6AYF2_RAT [tr]	LIM and cysteine-rich domains 1	365	Rattus norvegicus (Rat) [10116]	280-285		656636, 684653
+VKQLSS	1	A0A0G2KBC1	A0A0G2KBC1_RAT [tr]	Centrosomal protein POC5	566	Rattus norvegicus (Rat) [10116]	195-200		814953
+VKQLSS	2	A9UK05	A9UK05_RAT [tr]	Protein inhibitor of activated STAT-1	651	Rattus norvegicus (Rat) [10116]	285-290		
+VKQLSS	3	E9PT53	E9PT53_RAT [tr]	Wolfram syndrome 1 homolog (Human)	890	Rattus norvegicus (Rat) [10116]	164-169		654059, 655978
+VKQLSS	4	G3V9T0	G3V9T0_RAT [tr]	Protein inhibitor of activated STAT 1 (Predicted)	651	Rattus norvegicus (Rat) [10116]	285-290		687094
+VKQLSS	5	Q4V891	POC5_RAT [sp]	Centrosomal protein POC5	558	Rattus norvegicus (Rat) [10116]	187-192	Pride	
+VKQLSS	6	Q9JLT5	Q9JLT5_RAT [tr]	WFS1	890	Rattus norvegicus (Rat) [10116]	164-169		
+CVLGQS	1	H9N9H4	H9N9H4_RAT [tr]	L-lactate dehydrogenase C chain	274	Rattus norvegicus (Rat) [10116]	235-240		
+CVLGQS	2	I1VWM9	I1VWM9_RAT [tr]	L-lactate dehydrogenase C chain	115	Rattus norvegicus (Rat) [10116]	76-81		
+CVLGQS	3	P19629	LDHC_RAT [sp]	L-lactate dehydrogenase C chain	332	Rattus norvegicus (Rat) [10116]	293-298	Pride	
+CVLGQS	4	Q6AYX2	Q6AYX2_RAT [tr]	L-lactate dehydrogenase	332	Rattus norvegicus (Rat) [10116]	293-298		
+QILPDP	1	D3ZF86	D3ZF86_RAT [tr]	ARFGEF family member 3	1925	Rattus norvegicus (Rat) [10116]	1876-1881	PeptideAtlas, Pride	
+LVLLPL	1	A0A0G2K1W1	A0A0G2K1W1_RAT [tr]	RAB11 family-interacting protein 5	1173	Rattus norvegicus (Rat) [10116]	1025-1030		
+LVLLPL	2	A0A0G2K7V6	A0A0G2K7V6_RAT [tr]	Sodium-dependent phosphate transport protein 2C	609	Rattus norvegicus (Rat) [10116]	211-216		
+LVLLPL	3	A0A0H2UHZ0	A0A0H2UHZ0_RAT [tr]	Na(+)-dependent phosphate cotransporter 2B	735	Rattus norvegicus (Rat) [10116]	269-274		665706
+LVLLPL	4	B3SXS3	B3SXS3_RAT [tr]	Corticotropin-releasing factor receptor 1	414	Rattus norvegicus (Rat) [10116]	316-321		
+LVLLPL	5	D4A188	D4A188_RAT [tr]	RGM domain family, member A (Predicted), isoform CRA_a	449	Rattus norvegicus (Rat) [10116]	442-447	Pride	654594
+LVLLPL	6	D4A5C4	D4A5C4_RAT [tr]	Corticotropin releasing hormone receptor 2, isoform CRA_a	431	Rattus norvegicus (Rat) [10116]	333-338	Pride	
+LVLLPL	7	G3V7E1	G3V7E1_RAT [tr]	Sodium-dependent phosphate transport protein 2C	601	Rattus norvegicus (Rat) [10116]	203-208		672994
+LVLLPL	8	P35353	CRFR1_RAT [sp]	Corticotropin-releasing factor receptor 1 precursor	415	Rattus norvegicus (Rat) [10116]	317-322		
+LVLLPL	9	P47866	CRFR2_RAT [sp]	Corticotropin-releasing factor receptor 2	411	Rattus norvegicus (Rat) [10116]	313-318		
+LVLLPL	10	P47866-2	CRFR2_RAT [sp]	Corticotropin-releasing factor receptor 2	431	Rattus norvegicus (Rat) [10116]	333-338		
+LVLLPL	11	Q06496	NPT2A_RAT [sp]	Sodium-dependent phosphate transport protein 2A	637	Rattus norvegicus (Rat) [10116]	232-237	Pride	
+LVLLPL	12	Q07782	S13A1_RAT [sp]	Solute carrier family 13 member 1	595	Rattus norvegicus (Rat) [10116]	21-26	Pride	665338
+LVLLPL	13	Q3T1I9	RPAP1_RAT [sp]	RNA polymerase II-associated protein 1	1400	Rattus norvegicus (Rat) [10116]	1238-1243	Pride	517440, 655526, 671635
+LVLLPL	14	Q8K4R8	NPT2C_RAT [sp]	Sodium-dependent phosphate transport protein 2C	601	Rattus norvegicus (Rat) [10116]	203-208	Pride	
+LVLLPL	15	Q9JJ09	NPT2B_RAT [sp]	Sodium-dependent phosphate transport protein 2B	695	Rattus norvegicus (Rat) [10116]	229-234		
+LVLLPL	16	Q9Z323	Q9Z323_RAT [tr]	Na(+)-dependent phosphate cotransporter 2A	337	Rattus norvegicus (Rat) [10116]	232-237		
+NGTITD	1	D3ZBT9	D3ZBT9_RAT [tr]	Protein phosphatase 6, regulatory subunit 3	873	Rattus norvegicus (Rat) [10116]	409-414	PeptideAtlas, Pride	666731, 678363, 681020, 682326, 683961, 684612
+NGTITD	2	F1MAH5	F1MAH5_RAT [tr]	Protein phosphatase 6, regulatory subunit 3	879	Rattus norvegicus (Rat) [10116]	409-414	PeptideAtlas, Pride	
+ITDAVD	1	P28564	5HT1B_RAT [sp]	5-hydroxytryptamine receptor 1B	386	Rattus norvegicus (Rat) [10116]	147-152		
+DEDDSE	1	D3ZNU4	D3ZNU4_RAT [tr]	RCG60547	532	Rattus norvegicus (Rat) [10116]	28-33	Pride	
+DEDDSE	2	D4A3D8	D4A3D8_RAT [tr]	XPC complex subunit, DNA damage recognition and repair factor	933	Rattus norvegicus (Rat) [10116]	123-128		667787, 670409
+DEDDSE	3	M0RCV5	M0RCV5_RAT [tr]	RUN and SH3 domain-containing 2	1321	Rattus norvegicus (Rat) [10116]	1240-1245	PeptideAtlas, Pride	688512
+DEDDSE	4	Q9QZX1	Q9QZX1_RAT [tr]	Nucleolin	715	Rattus norvegicus (Rat) [10116]	204-209	Pride	
+SNQVAV	1	B2RZ44	B2RZ44_RAT [tr]	N(alpha)-acetyltransferase 20, NatB catalytic subunit	188	Rattus norvegicus (Rat) [10116]	125-130	PeptideAtlas, Pride	
+SVASQS	1	Q66HR9	PPR32_RAT [sp]	Protein phosphatase 1 regulatory subunit 32	425	Rattus norvegicus (Rat) [10116]	85-90	Pride	674376
+SVASQS	2	Q66HR9-2	PPR32_RAT [sp]	Protein phosphatase 1 regulatory subunit 32	381	Rattus norvegicus (Rat) [10116]	41-46		
+QGFSAL	1	A0A0G2JTN7	A0A0G2JTN7_RAT [tr]	Netrin 4	631	Rattus norvegicus (Rat) [10116]	495-500		
+QGFSAL	2	F1M4Q9	F1M4Q9_RAT [tr]	Netrin 4	630	Rattus norvegicus (Rat) [10116]	495-500		666256
+KYFKNH	1	D3ZZJ5	D3ZZJ5_RAT [tr]	Lysozyme g-like protein	197	Rattus norvegicus (Rat) [10116]	190-195		819283
+ISNCVA	1	Q4G072	LPAR6_RAT [sp]	Lysophosphatidic acid receptor 6	344	Rattus norvegicus (Rat) [10116]	33-38	Pride	667115
+SLGAEN	1	D4A416	D4A416_RAT [tr]	CLPTM1-like	539	Rattus norvegicus (Rat) [10116]	64-69	PeptideAtlas, Pride	666443, 681963
+SVLNDI	1	A0A0G2K8V3	A0A0G2K8V3_RAT [tr]	THO complex subunit 2	1613	Rattus norvegicus (Rat) [10116]	68-73		667446
+SVLNDI	2	F1LZ00	F1LZ00_RAT [tr]	THO complex subunit 2	1587	Rattus norvegicus (Rat) [10116]	68-73	Pride	
+SVLNDI	3	F1M0V4	F1M0V4_RAT [tr]	THO complex subunit 2	1594	Rattus norvegicus (Rat) [10116]	68-73	Pride	
+SVLNDI	4	P23897	GUC2C_RAT [sp]	Heat-stable enterotoxin receptor precursor	1072	Rattus norvegicus (Rat) [10116]	591-596	Pride	
+AVDCAL	1	D4A411	D4A411_RAT [tr]	Bromodomain and PHD finger-containing, 1	1212	Rattus norvegicus (Rat) [10116]	326-331		506928, 681434, 687379, 687555
